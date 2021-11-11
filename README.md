@@ -1,6 +1,6 @@
 ## Workshop Instructional Materials
 
-Welcome to the workshop-o-matic, built by Cloud Advocates in partnership with Microsoft Student Ambassadors. In this repo, you'll find grab-and-go resources to help you host your own workshop.
+Welcome to the [workshop-o-matic](presentation.pptx), built by Cloud Advocates in partnership with Microsoft Student Ambassadors. In this repo, you'll find grab-and-go resources to help you host your own workshop.
 
 > Use the enclosed [Cheat Sheet](./cheat-sheet.md) to organize your workshop delivery
 
