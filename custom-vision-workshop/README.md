@@ -15,6 +15,10 @@ Over the course of this workshop you will build a model to detect dog breeds. Yo
 | **Slides** | [Powerpoint](https://microsoft-my.sharepoint.com/:p:/p/chrhar/EVWxM2va_G9NuQ4-F23VmlwBZKWxckUWBToScPFcMBjU_g?e=rjktes)
 | **Author** | [Christopher Harrison](https://aka.ms/geektrainer)
 
+## What you'll build with CustomVision.ai
+
+![demo image](./images/demo.png)
+
 ## Prerequisites
 
 ### Python 3.8 or greater, including pip
