@@ -51,6 +51,7 @@ To create the endpoint value, remove everything after **azure.com**. Your endpoi
 
 Whenever you're writing code it's a best practice to never hard-code sensitive values, such as passwords, or any value which may change. This can lead to security breaches or code that's difficult to maintain. To create our application we're going to follow generally accepted best practices. To do this we'll use a library named [python_dotenv](https://github.com/theskumar/python-dotenv), which allows you to set environment variables with a text file.
 
+1. Return to Visual Studio Code
 1. In this project's root folder, create a new file named **.env**
 1. Add the following values, replacing the placeholders
 

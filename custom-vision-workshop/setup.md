@@ -6,6 +6,33 @@ As with any project, a few tools are going to be needed. In particular you'll ne
 
 Visual Studio Code is an open source code editor which can be used to create nearly any project type with any programming language. If you don't already have Visual Studio Code installed, you can install it by visiting [code.visualstudio.com](https://code.visualstudio.com). You will also need the [Pylance extension](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance), which will provide additional functionality when writing Python.
 
+## Obtaining the starter project
+
+A starter project has been provided which includes the images for the workshop and the solution code. To obtain the project:
+
+1. Navigate to [https://github.com/microsoft/workshop-library/](https://github.com/microsoft/workshop-library/)
+1. Select **Use this template** to create a copy of the repository in your GitHub account
+1. Name the new repository **workshop-library**
+1. Select **Create repository from template**
+1. When the new repository opens, select **Code**
+1. Select the **Local** tab and then the **Copy** button
+
+    ![Copy icon](./images/copy.png)
+
+1. Open a terminal or command window and execute the following, replacing \<URL\> with the URL you copied in the prior step
+
+    ```bash
+    # Windows
+    git clone <URL>
+    cd workshop-library\custom-vision-workshop
+    code .
+
+    # Linux, WSL or macOS
+    git clone <URL>
+    cd workshop-library\custom-vision-workshop
+    code .
+    ```
+
 ## Enrolling with Azure for Students
 
 Azure for Students offers $100 US in free credit to be used across 12 months and a host of free services - including Custom Vision! If you don't already have an Azure subscription, you can enroll with [Azure for Students](https://azure.microsoft.com/free/students) by using your school email address. If your email address doesn't work, please ask your instructor for a code.
