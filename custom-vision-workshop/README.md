@@ -9,7 +9,7 @@ Over the course of this workshop you will build a model to detect dog breeds. Yo
 | **Project Goal**              | Learn about Custom Vision AI and how to use it to train and test images                                    |
 | ----------------------------- | --------------------------------------------------------------------- |
 | **What will you learn**       | Use images to train a model to be able to perform inference to classify images                                        |
-| **What you'll need**          | Python 3.8+, Visual Studio Code |
+| **What you'll need**          | Python 3.8+, Visual Studio Code, Git |
 | **Duration**                  | 1 hour                                                                |
 | **Just want to try the app or see the solution?** | [Solution](./solution)                         |
 | **Slides** | [Powerpoint](slides.pptx)
@@ -21,9 +21,13 @@ Over the course of this workshop you will build a model to detect dog breeds. Yo
 
 ## Prerequisites
 
+### Git
+
+This workshop assumes core knowledge of Git, specifically the ability to clone a repository. During the workshop you will download the code from GitHub. You will need either [Git](https://git-scm.com/) to clone the repository.
+
 ### Python 3.8 or greater, including pip
 
-To test if you have Python and pip installed, open a command or terminal window and run the following commands.
+You will build a project using Python. Basic knowledge of Python is assumed, specifically the ability to import packages and use `open` and `with`. You will also need Python installed locally. To test if you have Python and pip installed, open a command or terminal window and run the following commands.
 
 ```bash
 python3 --version
