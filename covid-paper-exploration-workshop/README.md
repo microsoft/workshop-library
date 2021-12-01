@@ -28,13 +28,13 @@ In this project, you will automatically process texts of COVID-related scientifi
 
 For this workshop:
 
-1. You need to have your [Azure Account](https://azure-for-academics.github.io/getting-azure/). You may have one from your university, otherwise get [Azure for Students](https://azure.microsoft.com/free/students/?WT.mc_id=academic-49822-dmitryso), [GitHub Student Developer Pack](https://education.github.com/pack) or [Azure Free Trial](https://azure.microsoft.com/free/?WT.mc_id=academic-49822-dmitryso).
-> Learn more about creating Azure Account at [Microsoft Learn](https://docs.microsoft.com/learn/modules/create-an-azure-account/?WT.mc_id=academic-49822-dmitryso)
+1. You need to have an [Azure Account](https://azure-for-academics.github.io/getting-azure/). You may have one from your university, otherwise get [Azure for Students](https://azure.microsoft.com/free/students/?WT.mc_id=academic-49822-dmitryso), [GitHub Student Developer Pack](https://education.github.com/pack) or an [Azure Free Trial](https://azure.microsoft.com/free/?WT.mc_id=academic-49822-dmitryso).
+> Learn more about creating an Azure Account at [Microsoft Learn](https://docs.microsoft.com/learn/modules/create-an-azure-account/?WT.mc_id=academic-49822-dmitryso)
 1. You need to be able to run [Jupyter Notebooks](https://jupyter.org/). Read more on different options [in this blog post](https://soshnikov.com/education/how-to-execute-notebooks-from-github/):
     - Install Python locally and use Visual Studio Code with Python extension
     - Use [GitHub Codespaces](https://github.com/features/codespaces)
 
-> Jupyter Notebook is a great way to combine Python code together with text and visualizations, creating **executable documents**. You can work with Jupyter Notebook either through the browser, or via tools such as Visual Studio Code. To be able to run code, you need to have Python environment installed, either on your local computer, or in the cloud.
+> Jupyter Notebooks offer a great way to combine Python code together with text and visualizations, creating **executable documents**. You can work with Jupyter Notebook either through the browser, or via tools such as Visual Studio Code. To be able to run code, you need to have a Python environment installed, either on your local computer, or in the cloud.
 
 ## Milestone 1: Getting the Dataset
 
@@ -50,11 +50,11 @@ After you get the data, you need to open [COVIDPaperExploration.ipynb](COVIDPape
 * [COVIDPaperExploration.ipynb](COVIDPaperExploration.ipynb) contains only brief descriptions of milestones, and you have the freedom to write most of the code yourself
 * [COVIDPaperExplorationDetailed.ipynb](COVIDPaperExplorationDetailed.ipynb) contains more detailed instructions, and you need to fill in the most important parts of the code, but the overall flow is created for you.
 
-There is also a [notebook with the solution](solution/COVIDPaperExploration.ipynb), which you can consult should you experience a problem you are not able to solve. However, we suggest you to try and solve all the problems yourself, using [Stackoverflow](http://stackoverflow.com/) as your problem solver. 
+There is also a [notebook with the solution](solution/COVIDPaperExploration.ipynb), which you can consult should you experience a problem you are not able to solve. However, we suggest you to try and solve all the problems yourself, using [stack overflow](http://stackoverflow.com/) as a reference to find solutions. 
 
-Different options to run Jupyter Notebooks are described [in this blog post](https://soshnikov.com/education/how-to-execute-notebooks-from-github/).
+> Different options to run Jupyter Notebooks are described [in this blog post](https://soshnikov.com/education/how-to-execute-notebooks-from-github/).
 
-As a result of this step, you should get all paper data loaded into *Pandas DataFrame*, and filter out only those papers that were published after January 2020. You may plot a histogram of publication frequencies:
+As a result of this step, you should get all the paper data loaded into a *Pandas DataFrame*, and filter out only those papers that were published after January 2020. You may plot a histogram of publication frequencies:
 
 <img src="images/pubfreq.png" width="300"/>
 
@@ -64,13 +64,13 @@ As a result of this step, you should get all paper data loaded into *Pandas Data
 
 ## Milestone 3: Creating and Using Text Analytics Endpoint
 
-At this point, you should have your Azure subscription ready. Start by logging into [Azure Portal](http://portal.azure.com/?WT.mc_id=academic-49822-dmitryso).
+At this point, you should have your Azure subscription ready. Start by logging into the [Azure Portal](http://portal.azure.com/?WT.mc_id=academic-49822-dmitryso).
 
-Then, create [Azure Cognitive Service for Language](https://docs.microsoft.com/azure/cognitive-services/language-service/overview/?WT.mc_id=academic-49822-dmitryso) cloud resource. You can start creating the resource by clicking [**HERE**](https://ms.portal.azure.com/#create/Microsoft.CognitiveServicesTextAnalytics) - it will take you to the corresponding page on the Azure Portal.
+Then, create an [Azure Cognitive Service for Language](https://docs.microsoft.com/azure/cognitive-services/language-service/overview/?WT.mc_id=academic-49822-dmitryso) cloud resource. You can start creating the resource by clicking [**HERE**](https://ms.portal.azure.com/#create/Microsoft.CognitiveServicesTextAnalytics) - it will take you to the corresponding page on the Azure Portal.
 
 > Make sure to select **S - Standard** pricing tier, because Health Analytics is not available under the Free Tier.
 
-Once you have create the resource, you should go to the portal and copy **Endpoint URL** and **Access key** into the notebook:
+Once you have created the resource, you should go to the portal and copy **Endpoint URL** and **Access key** into the notebook:
 
 ```python
 endpoint = 'https://myservice.cognitiveservices.azure.com/' 
@@ -131,7 +131,7 @@ with bz2.BZ2File('data\processed.pkl.bz2','r') as f:
 
 ## Milestone 5: Get Top Symptoms, Medications and Diagnoses
 
-Now it is time to process our raw data and get some insights! Let's start by grouping entities together by their ontology ID, and seeing which are the top mentions in different categories. As a result, you should build a table similar to the following:
+Now it is time to process our raw data and get some insights! Let's start by grouping entities together by their ontology ID (UMLS ID) and seeing which are the top mentions in different categories. As a result, you should build a table similar to the following:
 
 | UMLS ID | Name | Category | Count |
 |---------|------|----------|-------|
@@ -142,17 +142,17 @@ Now it is time to process our raw data and get some insights! Let's start by gro
 
 You can also build a word cloud of diagnoses, symptoms or medications:
 
-![](images/wordcloud.png)
+![word cloud of diagnoses](images/wordcloud.png)
 
 ## Milestone 6: Visualize Change in Treatment Strategies
 
-In addition to calculating total count of mentions, you can see how they are distributed by month, and this detect changes in treatment strategies. Select top medications/strategies and compute the distribution of their mentions by months (or weeks). First, get the list of top-5 UMLS IDs for medications and medication classes (AKA treatment strategies), and then use only those classes to plot graphs similar to the following:
+In addition to calculating the total count of mentions, you can see how they are distributed by month, and thus detect changes in treatment strategies. Select top medications/strategies and compute the distribution of their mentions by months (or weeks). First, get the list of top-5 UMLS IDs for medications and medication classes (AKA treatment strategies), and then use only those classes to plot graphs similar to the following:
 
-![](images/strat_1.png)
+![visualization](images/strat_1.png)
 
-![](images/strat_2.png)
+![visualization](images/strat_2.png)
 
-## Milestone 7: Visualize Co-occurence of Terms
+## Milestone 7: Visualize Co-occurrence of Terms
 
 It is interesting to see which terms occur together within one paper, because it can give us an idea about relationships between, for example, diagnoses and medications, or symptoms and treatments. You should also be able to see which medications are often used together, and which symptoms occur together.
 
@@ -161,11 +161,11 @@ You can use two types of diagrams for that:
 * **Sankey diagram** allows us to investigate relations between two types of terms, eg. diagnosis and treatment
 * **Chord diagram** helps to visualize co-occurrence of terms of the same type (eg. which medications are mentioned together)
 
-To plot both diagrams, we need to compute co-occurrence matrix, which in the row i and column j contains number of co-occurrences of terms i and j in the same abstract (one can notice that this matrix is symmetric).
+To plot both diagrams, we need to compute the co-occurrence matrix, which in the row i and column j contains the number of co-occurrences of terms i and j in the same abstract (one can notice that this matrix is symmetric).
 
-To actually plot the diagrams, we can use [Plotly](https://plotly.com/python/) graphics library. This process is well described [here](https://plotly.com/python/sankey-diagram/). For Chord diagram, you can use [Holoviews](https://holoviews.org/)
+To actually plot the diagrams, we can use the [Plotly](https://plotly.com/python/) graphics library. This process is well described [here](https://plotly.com/python/sankey-diagram/). For the Chord diagram, you can use [Holoviews](https://holoviews.org/)
 
-![](images/sankey.png) | ![](images/chord.png)
+![](images/sankey.png) | ![sankey diagram](images/chord.png)
 ----|----
 
 ## Next steps
@@ -176,15 +176,15 @@ If you want to learn more:
 * Read more about full-scale project on analyzing COVID dataset using CosmosDB/PowerBI/AzureML in [this blog post](https://soshnikov.com/science/analyzing-medical-papers-with-azure-and-text-analytics-for-health/)
 * If you are planning to use this approach in your research, cite this paper [arXiv:2110.15453](https://arxiv.org/abs/2110.15453)
 
-## Optional Transfer knowledge activity
+## Optional transfer knowledge activity
 
-Knowledge extraction that we have performed in this workshop was possible thanks for Text Analytics for Health service, which did most of the job for us. For different knowledge domains, you would need to train your own NER neural network model, and for that you will also need a dataset. [Custom Named Entity Recognition](https://docs.microsoft.com/azure/cognitive-services/language-service/custom-named-entity-recognition/overview/?WT.mc_id=academic-49822-dmitryso) service can help you do that. 
+Knowledge extraction that we have performed in this workshop was possible thanks for Text Analytics for Health service, which did most of the job for us. For different knowledge domains, you would need to train your own NER neural network model, and for that you will also need a dataset. The [Custom Named Entity Recognition](https://docs.microsoft.com/azure/cognitive-services/language-service/custom-named-entity-recognition/overview/?WT.mc_id=academic-49822-dmitryso) service can help you do that. 
 
-However, [Text Analytics Service](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/?WT.mc_id=academic-49822-dmitryso) that has some pre-built [entity extraction mechanism](https://docs.microsoft.com/azure/cognitive-services/language-service/named-entity-recognition/concepts/named-entity-categories/?WT.mc_id=academic-49822-dmitryso), as well as keyword extraction. As an additional challenge, experiment with text from a different problem domain, and see if you can extract some meaningful insights from them.
+However, the [Text Analytics Service](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/?WT.mc_id=academic-49822-dmitryso) has some pre-built [entity extraction mechanism](https://docs.microsoft.com/azure/cognitive-services/language-service/named-entity-recognition/concepts/named-entity-categories/?WT.mc_id=academic-49822-dmitryso), as well as keyword extraction. As an additional challenge, experiment with text from a different problem domain, and see if you can extract some meaningful insights from them.
 
 Things you can build:
 
-* Analyze a blog or social network posts and get the idea of different topics that author is writing about. See how interests change over time, as well as the mood. You can use the blog of [Scott Hanselman](https://www.hanselman.com/), it goes back to [2002](https://www.hanselman.com/blog/archive/2002).
+* Analyze a blog or social network posts and get the idea of different topics that author is writing about. See how interests change over time, as well as the mood. You can use the blog of [Scott Hanselman](https://www.hanselman.com/) that goes back to [2002](https://www.hanselman.com/blog/archive/2002).
 * Analyze [COVID 19 twitter feed](https://github.com/thepanacealab/covid19_twitter) to see if you can extract changes in major topics on twitter. 
 * Analyze your e-mail archive to see how the topics you discuss and your mood change over time. Most e-mail clients allow you to export your e-mails to plain text or CSV format (here is an [example for Outloook](https://support.microsoft.com/en-us/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef/?WT.mc_id=academic-49822-dmitryso)).
 
@@ -192,5 +192,5 @@ Things you can build:
 
 Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)!
 
-[Code of Conduct](CODE_OF_CONDUCT.md)
+[Code of Conduct](../CODE_OF_CONDUCT.md)
 
