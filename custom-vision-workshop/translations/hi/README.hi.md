@@ -1,0 +1,1 @@
+<!-- Translation of Custom Vision workshop Intro README in Hindi below -->
