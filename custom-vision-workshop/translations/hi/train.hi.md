@@ -9,7 +9,7 @@
 1. यहाँ जाए [Custom Vision](https://www.customvision.ai?WT.mc_id=academic-49102-chrhar) और sign in करें
 2. **New Project** को चुनें
 3. परियोजना के नाम के लिए **Dog Classification** enter करें
-4. Resource के बगल में, पहले बनाई गई कुंजी को चुनें, जो आपके द्वारा [setup](setup_hi.md) के दौरान बनाए गए नाम का उपयोग करेगा।
+4. Resource के बगल में, पहले बनाई गई कुंजी को चुनें, जो आपके द्वारा [setup](setup.hi.md) के दौरान बनाए गए नाम का उपयोग करेगा।
 5. **Project Types** के लिए **Classification** को चुनें
 6. **Classification Types** के लिए **Multiclass** को चुनें, क्योंकि हमारे कुत्तों में केवल एक नस्ल होगी
 7. **Domains** के लिए **General \[A2\]** को चुनें
@@ -38,4 +38,4 @@
 
 ## सारांश
 
-बधाई हो! आपने एक custom vision model को प्रशिक्षित किया है जो कुत्ते के प्रकार का पता लगा सकता है। अगला आप [परीक्षण करेंगे और model का उपयोग करेंगे](./predict_hi.md)।
+बधाई हो! आपने एक custom vision model को प्रशिक्षित किया है जो कुत्ते के प्रकार का पता लगा सकता है। अगला आप [परीक्षण करेंगे और model का उपयोग करेंगे](./predict.hi.md)।
