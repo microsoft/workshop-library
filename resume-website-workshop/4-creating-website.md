@@ -17,7 +17,7 @@ Next, we'll need to turn on GitHub Pages for our **resume** repository.
 1. Navigate to your repository on GitHub.com, and select **Settings**, next to the gear icon. 
 1. Select **Pages** in the left-hand menu. 
 1. Under **Source** select the **main** branch of your repository to be the source for your new website. Then, select **Save**. 
-![The GitHub Pages settings page, showing the main branch selected as the source.](./media/select-pages-source.png)
+![The GitHub Pages settings page, showing the main branch selected as the source.](./images/select-pages-source.png)
 1. After you select your source, you'll be notified of the address of your new website. It should look something like *your-username.github.io/resume/*. Navigate to the page, and check out your live resume website!
 
 ## Summary

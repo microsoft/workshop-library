@@ -104,7 +104,7 @@ This will split the `main` element into two columns. The first top-level element
 
 CSS uses what's known as the box model. The box model controls how information is displayed inside an element, and how close to one another elements are placed. There are 3 key properties - `margin`, `border`, and `padding`. The diagram below indicates how these control content placement.
 
-![The box model with Hello world text in the middle, padding indicated between the text and border, and margin indicated between the border and the outside](./media/box-model.png)
+![The box model with Hello world text in the middle, padding indicated between the text and border, and margin indicated between the border and the outside](./images/box-model.png)
 
 In this diagram the content is the text **Hello, world**. `padding` is the space between the text and the black `border`. And `margin` is the space between the `border` and the next element.
 
@@ -178,6 +178,6 @@ An icon font is a font that contains symbols and glyphs instead of letters and n
 
 You have successfully added style to your resume using CSS. You learned how to use selectors, sizing, grids, spacing, and icon fonts to make your resume stand out!
 
-![Screenshot of the final page](./media/final-result.png)
+![Screenshot of the final page](./images/final-result.png)
 
 To complete your resume, you'll [learn how to host it on a website](./4-creating-website.md).
