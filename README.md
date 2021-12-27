@@ -12,6 +12,7 @@ Workshops that are ready to be used
 | ------------------------------- | ----------- | ------------ | -------------------------------------- |
 Build a Machine Learning Model |Christopher Harrison | 1 hour | [Custom Vision Workshop](./custom-vision-workshop)
 Explore COVID Scientific Papers | [Dmitry Soshnikov](http://soshnikov.com) | 1-1.5 hours | [COVID Paper Exploration Workshop](./covid-paper-exploration-workshop)
+Build a Website to Showcase your Resume | Ornella Altunyan | 1-1.5 hours | [Build a Website to Showcase your Resume](./covid-paper-exploration-workshop)
 
 ---
 

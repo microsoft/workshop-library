@@ -6,11 +6,11 @@ Want to make your application stand out to recruiters and learn a few new skills
 
 Using the power of github.dev, a service that allows you to work with files in GitHub, and GitHub Pages, you'll code a resume website using only your browser window. By the end of the workshop, you'll be able to send anyone a link where they can view your resume online. 
 
-| **Project Goal**              | Learn about Custom Vision AI and how to use it to train and test images                                    |
+| **Project Goal**              | Build a resume web site using HTML, CSS, and host it on GitHub pages                                    |
 | ----------------------------- | --------------------------------------------------------------------- |
-| **What will you learn**       | Use images to train a model to be able to perform inference to classify images                                        |
-| **What you'll need**          | Python 3.8+, Visual Studio Code, Git |
-| **Duration**                  | 1 hour                                                                |
+| **What will you learn**       | Basics of HTML and CSS to showcase your skills in an online resume                                        |
+| **What you'll need**          | A modern web browser like [Microsoft Edge](https://www.microsoft.com/edge) or [Google Chrome](https://www.google.com/chrome/) and a [GitHub account](https://github.com) |
+| **Duration**                  | 1 - 1.5 hour(s)                                                                |
 | **Just want to try the app or see the solution?** | [Solution](./solution)                         |
 | **Slides** | [Powerpoint](slides.pptx)
 | **Author** | [Ornella Altunyan](https://aka.ms/ornelladotcom)
