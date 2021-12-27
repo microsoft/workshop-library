@@ -1,18 +1,18 @@
 # Adding content to an HTML page
 
-[Previously](./1-create-html.md) we saw how to create the structure of an HTML page. Now we want to begin adding content to our resume. Specifically, we want to add an email address, social media, education and experience.
+[Previously](./1-create-html.md), you saw how to create the structure of an HTML page. Now it's time to add more content to your resume. Specifically, you probably want to add an email address, social media links, your education and professional experience.
 
 ## Update the header
 
-Most resumes feature the name of the person at the top as the "title" of the resume. This is a perfect place to use an `h1` tag. We can also add a little separation between the header and the rest of the page by using two `hr` tags with some text in between.
+Most resumes feature the name of the person at the top as the "title" of the resume. This is a perfect place to use an `h1` tag. You can also add a little separation between the header and the rest of the page by using two horizontal rules, or `hr` tags, with some text in between.
 
 1. Inside **index.html**, change the text "YOUR NAME" to be your name. Change "YOUR TITLE" to your general title - or the title you might like to have - for example, "SOFTWARE ENGINEER".
 
-    > **NOTE** If you want your resume to look like the example we're working towards, follow the casing of the sample text in the HTML template. For example, replace **YOUR TITLE** with "SOFTWARE ENGINEERING STUDENT", using all capital letters. Once we add the CSS styling to our resume, you can experiment with casing to add additional customization to your resume.
+    > **NOTE** If you want your resume to look like the example we're working towards, follow the casing of the sample text in the HTML template. For example, replace **YOUR TITLE** with "SOFTWARE ENGINEERING STUDENT", using all capital letters. Once you add the CSS styling to your resume, you can experiment with casing to add additional customization.
 
 ## Creating email and social media links
 
-Let's create a link to your email address and any social media you wish to share on your resume. You'll use the `a` tag, which stands for "anchor". `a` has one attribute named `href` (short for hypertext reference). `href` will contain the address you want the link to point to. When a user selects the link, they will be taken to the page. If you want to create a link to an email address, you will use `mailto:` in front of the address; this will open the user's email client.
+Create a link to your email address and any social media you wish to share on your resume. You'll use the `a` tag, which stands for "anchor". `a` has an attribute named `href` (short for hypertext reference). `href` will contain the address you want the link to point to. When a user selects the link, they will be taken to the page. If you want to create a link to an email address, you will use `mailto:` in front of the address; this will open the user's email client.
 
 1. Inside **index.html**, and below the comment which reads `<!-- contact info including social media -->`, add the following HTML to add a link to your email, replacing **your-email@example.com** with your email address:
 
@@ -28,12 +28,13 @@ Let's create a link to your email address and any social media you wish to share
     > **NOTE** Notice that there is an `i` tag here - this will eventually contain a little envelope icon. Right now, it just shows up as a square, and that's because you need to add an icon font to your page. Don't worry about that for now - we'll do that in the next section, and that square will magically turn into an envelope.
 
 1. Repeat this for any social media that you want to add. Here are some different icons that you can use for the various social media platforms. Swap out the `class` of the `i` element with any of the following values.
-    * fab fa-twittter
+
+    * fab fa-twitter
     * fab fa-linkedin
     * fab fa-github
     * fab fa-facebook
 
-1. Similarly, swap out the `href` of each `a` element with the appropriate hyperlink for each social media page, and be sure to change the link text as well. For example, if I wanted to add my GitHub and LinkedIn links to my resume, the HTML would look something like this: 
+1. Similarly, swap out the `href` of each `a` element with the appropriate hyperlink for each social media page, and be sure to change the link text as well. For example, if you want to add your GitHub and LinkedIn links to your resume, the HTML would look something like this: 
 
     ```html
     <p>
@@ -50,14 +51,14 @@ Let's create a link to your email address and any social media you wish to share
 
 ## Creating lists
 
-Lists come in two varieties in HTML - ordered (with numbers or letters) and unordered (bullet points). `ol` is used to create an ordered list and `ul` is used to create an unordered list; `li` indicates each "list item" in a list. Let's use an unordered list to create a list of our work experience.
+Lists come in two varieties in HTML: ordered (with numbers or letters) and unordered (bullet points). `ol` is used to create an ordered list and `ul` is used to create an unordered list. `li` indicates each "list item" in a list. Let's use an unordered list to create a list of our work experience.
 
 You can add as many (or as few) work experience entries as you like, modifying the text as appropriate. 
 
 1. Inside **index.html**, below the comment which reads `<!-- your work experience -->`, add the following HTML to create the list:
 
     ```html
-    <h3><b>JOB TITLE</b></h3>
+    <h3>JOB TITLE</h3>
     <p>
 			Company Name | 2008 - 2010
     </p>
@@ -75,17 +76,15 @@ You can add as many (or as few) work experience entries as you like, modifying t
 
 1. Change the "Company Name" and date as appropriate.
 
-1. Add a short description that sums up your responsbilities.
+1. Add a short description that sums up your responsibilities.
 
-1. Update the `li` items to add 3 accomplishments from that work experience.
-
-1. Repeat the above HTML for each work experience. Put a `br` tag in between work experience entries to insert or "break" a space between them.
+1. Update the `li` items to add the accomplishments you want to highlight from that work experience.
 
 ## Finishing out our resume
 
 Let's fill in the final sections of the resume...
 
-1. Inside **index.html**, below the comment which reads `<!-- your skills AKA buzzwords -->`, add the following HTML and include any skills that you have. 
+1. Inside **index.html**, below the comment which reads `<!-- your skills -->`, add the following HTML and include any skills that you have. 
 
 	```html
 	    <p>HTML, CSS, GitHub, VS Code...</p>
@@ -94,7 +93,7 @@ Let's fill in the final sections of the resume...
 1. Below the comment which reads `<!-- your education -->`, add the following HTML for your education information and update the text to represent your education:
 
     ```html
-    <b>YOUR MAJOR</b>
+    <h3>YOUR MAJOR</h3>
 		<p>
 			Your university or school
 		</p>

@@ -1,18 +1,18 @@
 # Create an HTML page
 
-HTML stands for Hypertext Markup Language, and is used to "markup" the text to be displayed on a webpage. More specifically, HTML is used to describe the importance of the text in a page. With HTML you can indicate a header, create a link to another page, or indicate where an image should be placed.
+HTML stands for Hypertext Markup Language, and is used to "markup" the text to be displayed on a webpage. More specifically, HTML is used to describe the hierarchy and function of the text in a page. With HTML you can indicate a header, create a link to another page, or indicate where an image should be placed.
 
-HTML consists of what are called "tags" or "elements". While there is a technical difference between the two, you will find many developers use the terms interchangeably and generally doesn't impact how we create our code. These tags are read by a browser, and used to determine how to display and interpret the information in a page.
+HTML consists of what are called "tags" or "elements". While there is a technical difference between the two, you will find many developers use the terms interchangeably and generally doesn't impact how you create your code. These tags are read by a browser and are used to determine how to display and interpret the information in a page.
 
-We will begin creating our resume by creating an HTML file and adding the code. You may notice the page won't appear to be very structured or robust; we will make it look better when we add our CSS.
+You will begin to build your resume by creating an HTML file and adding the code. You may notice that the page won't appear to be very structured or robust; you will make it look better when you add some styles.
 
 ## Create an HTML file with CodeSwing
 
-We will use CodeSwing to create and edit our HTML and CSS in Visual Studio Code. CodeSwing has a variety of templates you can use, and includes support for advanced pages as well. Let's start by creating our first "swing" and using the core HTML template.
+You will use CodeSwing to create and edit your HTML and CSS in Visual Studio Code. CodeSwing has a variety of templates you can use and includes support for advanced pages as well. Start by creating your first "swing" using the core HTML template.
 
 1. Open the **Command Palette** by selecting the three parallel lines icon in the left-hand side Activity Bar, then navigating to **View > Command Palette**. You can also quickly open the Command Palette by using the keyboard shortcut **Control+Shift+P** on a PC, or **Command+Shift+P** on a Mac.
-4. Type **CodeSwing**, select **CodeSwing: Initialize Workspace as Swing..**.
-5. Choose the option for **Basic: HTML-Only** and your new swing will appear, with your HTML file on the left, and a browser window on the right.
+1. Type **CodeSwing**, then select **CodeSwing: Initialize Workspace as Swing**.
+1. Choose the option for **Basic: HTML-Only** and your new swing will appear, with your HTML file on the left and a browser window on the right.
 1. This will create an **index.html** file in your root directory.
 
 > **IMPORTANT** If you accidentally close the wrong windows, you can re-open CodeSwing by navigating to your repository in github.dev, opening the Command Palette with **Control+Shift+P** (or **Command+Shift+P** on a Mac), typing **CodeSwing**, selecting **CodeSwing: Open Swing...**, and selecting the directory with your files.
@@ -29,7 +29,7 @@ Most tags have an open (`<tag>`) and a close (`</tag>`), and contain information
 
 > **Tip:** Don't try to memorize every tag available. Just as memorizing a dictionary isn't a good way to learn a spoken language, memorizing a set of keywords isn't going to aid you in your growth as a developer. As you continue to create pages you'll learn more tags and how they behave.
 
-We're going to use these three tags (and a couple of others) to begin the creation of our resume. We'll explain the tags we're using after we create the page.
+You're going to use these three tags (and a couple of others) to begin the creation of your resume. We'll explain the tags we're using after we create the page.
 
 1. Inside the **index.html** window, add the following code to create the initial structure of your page, replacing **Your Name** in the `<title>` tag with your name:
 
@@ -43,7 +43,7 @@ We're going to use these three tags (and a couple of others) to begin the creati
 		<body>
 			<header id="header">
 				<!-- resume header with your name and title -->
-				<h1><b>YOUR</b> NAME</h1>
+				<h1>YOUR NAME</h1>
 				<hr>
 				YOUR TITLE (EX: SOFTWARE ENGINEERING STUDENT)
 				<hr>
@@ -56,7 +56,7 @@ We're going to use these three tags (and a couple of others) to begin the creati
 					</section>
 					<section>
 						<h2>SKILLS</h2>
-						<!-- your skills AKA "buzzwords" -->
+						<!-- your skills -->
 					</section>
 					<section>
 						<h2>EDUCATION</h2>
@@ -78,11 +78,11 @@ We're going to use these three tags (and a couple of others) to begin the creati
 	</html>
     ```
 
-1. Notice how as you type (or copy and paste) the browser window on the right automatically updates with the information you've added.
+1. Notice how as you type (or copy and paste), the browser window on the right automatically updates with the information you've added.
 
 ### Exploring the code
 
-We used several tags to display our page. Below is a table talking about each tag and what they mean. As you look at the code, notice the HTML is in all lower case letters, and the use of tabs to create an outline for the code. While this isn't required, it does make your HTML much more readable.
+You used several tags to display your new page. Below is a table that describes each of these tags and what it is used for. As you look at the code, notice that the HTML is in all lower case letters, and that you use tabs to create an outline for the code. While this isn't required, it does make your HTML much more readable.
 
 | tag                          | description                                                                                                                                                                                                      |
 | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -94,16 +94,15 @@ We used several tags to display our page. Below is a table talking about each ta
 | `header`, `main`, `article`, `section` | These are "semantic" tags. See the description below for more information.                                                                                                                                              |
 | `h1`                         | A level 1 header. Header tags go from `h1` to `h6`, with `h1` being the highest level, to `h6` being the lowest level. These are used to create structure for the outline of the page. |
 | `p` | A paragraph tag. Paragraph tags are where the body text of your page goes.
-| `b` | Makes text appear bold.
 | `hr` | Creates a horizontal line. The tag stands for "horizontal rule".
 | `id` | `id` is an attribute that allows you to assign a unique id for an HTML element. This will come in handy when we style the HTML. 
 | `<!-- comment -->` | These are HTML comments. They are useful for making notes or setting reminders to yourself.
 
-> **Note:** Comments are a great way to take notes as you're learning HTML. You can put a comment right above a section of code, and describe what the section does. But do remember comments **are not** secure, so don't store sensitive information in comments.
+> **Note:** Comments are a great way to take notes as you're learning HTML. You can put a comment right above a section of code, and describe what the section does. But do remember comments **are not** hidden from browsers, so don't store sensitive information in comments as anyone who views the source of your code can read your comments.
 
 #### Semantic tags
 
-Semantic tags are a relatively new addition to HTML. You may notice on the page there is a difference in size between `h1` and `h2`. This is because besides just indicating a level, header tags also modify how content is displayed. Semantic tags such as `header`, `main`, `article` and `section` are only used to group information together. The main advantage is the ability to structure a large HTML document, and later use CSS to control how the content will actually get displayed.
+Semantic tags are a relatively new addition to HTML. You may notice on the page there is a difference in size between `h1` and `h2`. This is because besides just indicating a level, header tags also modify how content is displayed. Semantic tags such as `header`, `main`, `article` and `section` are only used to group information together. Semantic tags are useful to structure a large HTML document, and later use CSS to control how the content will actually get displayed.
 
 You can use semantic tags however you wish, but a common hierarchy is:
 
@@ -112,6 +111,8 @@ You can use semantic tags however you wish, but a common hierarchy is:
     - `article`
         - `section`
 
+> **Note:** Semantic tags are also very important in making your web pages 'accessible', or more easily read by screen readers so that all users, including those with disabilities, can access your web pages. Read more about making your web pages accessible [in this article](https://developer.mozilla.org/docs/Learn/Accessibility/HTML).
+
 ## Summary and next steps
 
-You've now created your first HTML page! Next, let's [add additional content](./2-add-content.md) such as your email address and sections for your experience.
+You've now created your first HTML page! Next, [add additional content](./2-add-content.md) such as your email address and sections for your professional experience.

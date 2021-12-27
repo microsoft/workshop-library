@@ -12,7 +12,7 @@ When using a tag name for a selector, you use just the name of the tag. Keep in 
 
 ## Adding style to a page
 
-Let's start by creating a CSS file to hold our code, so we can add style to the page. Then, we'll set a couple of properties for the `body` tag to change the font and size.
+Let's start by creating a CSS file to hold our code, so you can add style to the page. Then, you'll set a couple of properties for the `body` tag to change the font and size.
 
 1. Hover over the name of your repository, **resume**, in the Explorer pane on the left-hand side of your screen, then select the **File with +** icon. Name the file **style.css**.
 1. Inside **style.css**, add the following CSS to choose the font and size
@@ -31,7 +31,7 @@ Notice `font-family`, which is used to select the font. There are five fonts lis
 There are also a few more rules that apply to everything in the `body` tag, which is the whole page:
 
 * `font-size` - sets the size of the font to 12 pixels
-* `max-width` - sets a maximum width for your resume so that it doesn't look silly on huge screens. 960 pixels is a common width for many websites.
+* `max-width` - sets a maximum width for your resume so that it doesn't look strange on huge screens. 960 pixels is a common width for many websites.
 * `margin` - sets the margin to auto. When combined with the `max-width` property, this centers the content on the screen horizontally.
 
 ## Sizing
@@ -40,7 +40,7 @@ CSS offers different ways to indicate sizes. In the example above, you used `12p
 
 For our example we'll use `em`. `em` indicates the size of the font at the root element - `body` in our example. `em` is a 1 based value, where `1em` is the size of the root element, `1.5em` is one and a half times the size, and `.25em` is one quarter the size. 
 
-Let's set the size for our different header elements. We are using both `h1` and `h2` tags in our resume.
+Let's set the size for our three different header elements. 
 
 1. At the bottom of **style.css**, add the following...
 
@@ -56,6 +56,13 @@ Let's set the size for our different header elements. We are using both `h1` and
         font-size: 1.5em;
         padding-bottom: 1em;
     }
+
+    h3 {
+        font-size: 1em;
+        padding-bottom: 1em;
+    }
+
+    
     ```
 
 1. The page updates with the new sizes.
@@ -127,7 +134,7 @@ Add the remaining style rules to add some padding around the elements on your pa
         height: 1px;
     }
 
-    h1, h2 {
+    h1, h2, h3 {
         font-weight: 100;
         margin-bottom: 0;
     }
@@ -137,9 +144,9 @@ Add the remaining style rules to add some padding around the elements on your pa
 * The `section` element is given some margin so that each section (ABOUT, CONTACT, SKILLS) has spacing around it. The `p` element is also given some margin. 
 * The `i` element is given some spacing on the right. These are the icons that we will be adding next. 
 * The `hr` element is turned into a thinner gray line by removing its border and providing a background color and height.
-* We reduce the `font-weight` or "thickness" of the font of our `h1` and `h2` so that it's not so blocky. 
+* We reduce the `font-weight` or "thickness" of the font of our header tags so that they aren't so blocky. 
 
-> **Note:** Notice how we were able to modify multiple elements by listing them with commas: `h1, h2`. Also, `margin-top` and `margin-bottom` sets the margin for the top and bottom respectively. You could also use `margin-left` and `margin-right` to set those values, or provide them all by just using `margin`.
+> **Note:** Notice how we were able to modify multiple elements by listing them with commas: `h1, h2, h3`. Also, `margin-top` and `margin-bottom` sets the margin for the top and bottom respectively. You could also use `margin-left` and `margin-right` to set those values, or provide them all by just using `margin`.
 
 ## Selecting an element by ID
 
