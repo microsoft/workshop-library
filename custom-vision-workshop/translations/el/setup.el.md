@@ -55,7 +55,7 @@
 1. Επιλέξτε **Create**
 1. Στο πεδίο **Create Options** βεβαιωθείτε ότι το  **Both** είναι επιλεγμένο
 1. Στο **Project Details** ρυθμίστε τα ακόλουθα:
-    1. Στο **Subscription** επιλέξτε Azure fot Students subscription
+    1. Στο **Subscription** επιλέξτε Azure for Students subscription
     1. Στο **Resource Group** επιλέξτε **Create new**, βάλτε σαν όνομα **custom-vision** και επιλέξτε **OK**
 1. Στο **Instance Details** ρυθμίστε τα ακόλουθα:
     1. Στο **Region** επιλέξτε μία κοντινή σε εσάς περιοχή
