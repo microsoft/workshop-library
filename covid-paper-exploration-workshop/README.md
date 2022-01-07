@@ -8,7 +8,7 @@ This workshop explores the use of [Azure Text Analytics](https://azure.microsoft
 | **What you'll need**          | [Azure Subscription](https://azure-for-academics.github.io/getting-azure/), ability to run [Jupyter Notebooks](https://soshnikov.com/education/how-to-execute-notebooks-from-github/) |
 | **Duration**                  | *1-1.5 hours*                                                                |
 | **Just want to try the app or see the solution?** | [COVIDPaperExploration.ipynb](solution/COVIDPaperExploration.ipynb) |
-| **Slides** | [Powerpoint](COVIDPaperExploration.pptx), [SpeakerDeck](https://speakerdeck.com/shwars/covid-paper-exploration-the-workshop) |
+| **Slides** | [Powerpoint](slides.pptx), [SpeakerDeck](https://speakerdeck.com/shwars/covid-paper-exploration-the-workshop) |
 | **Author** | [Dmitry Soshnikov](http://soshnikov.com) |
 
 > This workshop is based on the following publication: [arXiv:2110.15453](https://arxiv.org/abs/2110.15453). You can also refer to [this blog post](https://towardsdatascience.com/analyzing-covid-medical-papers-with-azure-machine-learning-and-text-analytics-for-health-c87ab621a3d0) for an overview of larger paper exploration project.
