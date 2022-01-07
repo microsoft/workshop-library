@@ -127,7 +127,7 @@
     # Φόρτωση των μεταβλητών περιβάλλοντος
     load_dotenv()
     
-    # Ανάυεση των τιμών στις μεταβλητές
+    # Ανάθεση των τιμών στις μεταβλητές
     key = os.getenv('KEY')
     endpoint = os.getenv('ENDPOINT')
     project_id = os.getenv('PROJECT_ID')

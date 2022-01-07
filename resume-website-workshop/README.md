@@ -18,6 +18,11 @@ Using the power of github.dev, a service that allows you to work with files in G
 ## Prerequisites
 To create your resume website, you'll need to download a modern web browser like [Microsoft Edge](https://www.microsoft.com/edge) or [Google Chrome](https://www.google.com/chrome/). You'll also need a [GitHub account](https://github.com/join).
 
+## Final Project
+By the end of this workshop, you'll have created a resume web site that will look like this:
+
+![resume website](./images/final-result.png)
+
 ## Outline
 In this workshop, you will: 
 * [Set up your coding environment](0-setup.md)
