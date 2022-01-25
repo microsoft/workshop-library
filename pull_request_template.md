@@ -2,11 +2,15 @@
 
 - [ ] Your workshop design document, filled in with some details about your proposed workshop including its title and the three stages in the designer delineated.
 
-- [ ] A README.md file that describes the steps of the workshop. You can include a video explanation as an embed.
+- [ ] A README.md file that describes the steps of the workshop. 
 
 - [ ] Powerpoint Slides for the workshop.
 
 - [ ] The workshop's solution in the `/solution` folder.
 
-A reviewer will be assigned to the workshop and will be work with you to shape it for production. Thank you for your contribution!
+- [ ] An embedded Train the Trainer video.
+
+- [ ] A Call to Action to enhance the workshop with a direct line to Microsoft Learn by linking to an appropriate Learn module.
+
+A reviewer will be assigned to the workshop and will work with you to shape it for production. Thank you for your contribution!
 
