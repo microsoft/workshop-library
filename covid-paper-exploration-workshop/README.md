@@ -15,6 +15,11 @@ This workshop explores the use of [Azure Text Analytics](https://azure.microsoft
 
 🎥 Watch Microsoft Student Ambassadors [give this workshop](https://www.youtube.com/watch?v=B_Z4qnYtnoU)!
 
+## Video walk-through
+
+[![workshop walk-through](./images/promo.png)](https://youtu.be/fpP2JVn-6OY "workshop walk-through")
+> 🎥 Click this image to watch Dmitry walk you through the workshop
+
 ## What students will learn
 
 In this project, you will automatically process texts of COVID-related scientific papers to draw some meaningful visual insights, such as: 
