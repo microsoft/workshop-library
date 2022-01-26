@@ -11,7 +11,9 @@ This workshop explores the use of [Azure Text Analytics](https://azure.microsoft
 | **Slides** | [Powerpoint](slides.pptx), [SpeakerDeck](https://speakerdeck.com/shwars/covid-paper-exploration-the-workshop) |
 | **Author** | [Dmitry Soshnikov](http://soshnikov.com) |
 
-> This workshop is based on the following publication: [arXiv:2110.15453](https://arxiv.org/abs/2110.15453). You can also refer to [this blog post](https://towardsdatascience.com/analyzing-covid-medical-papers-with-azure-machine-learning-and-text-analytics-for-health-c87ab621a3d0) for an overview of larger paper exploration project.
+> This workshop is based on the following publication: [arXiv:2110.15453](https://arxiv.org/abs/2110.15453). You can also refer to [this blog post](https://towardsdatascience.com/analyzing-covid-medical-papers-with-azure-machine-learning-and-text-analytics-for-health-c87ab621a3d0) for an overview of a larger paper exploration project.
+
+🎥 Watch Microsoft Student Ambassadors [give this workshop](https://www.youtube.com/watch?v=B_Z4qnYtnoU)!
 
 ## What students will learn
 
