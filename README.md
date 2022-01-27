@@ -1,6 +1,6 @@
 ## Workshop Instructional Materials
 
-Welcome to the [workshop-o-matic](presentation.pptx), built by Cloud Advocates in partnership with Microsoft Student Ambassadors. In this repo, you'll find grab-and-go resources to help you host your own workshop.
+Welcome to the [Next Generation's Team Workshop Library](presentation.pptx), built by Cloud Advocates in partnership with Microsoft Student Ambassadors. In this repo, you'll find grab-and-go resources to help you host your own workshop.
 
 > Use the enclosed [Cheat Sheet](./cheat-sheet.md) to organize your workshop delivery
 
@@ -23,4 +23,4 @@ Build a Website to Showcase your Resume | Ornella Altunyan | 1-1.5 hours | [Buil
 
 [LinkedIn Learning Course](https://www.linkedin.com/learning/presenting-technical-information-with-stories/storytelling-for-technical-presentations?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=3322) on how to present technical topics with stories
 
-![workshop-o-matic logo](logo.png)
+
