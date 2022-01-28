@@ -5,6 +5,8 @@
 
 https://docs.microsoft.com/learn/modules/introduction-to-github/
 
+https://docs.microsoft.com/learn/modules/contribute-open-source/
+
 ## Stage 1: Desired Results 
 
 1. Students will be skilled at using GitHub to manage their projects using GitHub.dev.

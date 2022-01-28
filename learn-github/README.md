@@ -15,7 +15,7 @@ In this workshop, we will discuss how to use GitHub.dev to manage basic tasks on
 | **What will you learn**       | How to use GitHub.dev to make changes in GitHub                                        |
 | **What you'll need**          | A [GitHub account](https://github.com) |
 | **Duration**                  | 20 minutes                                                                |
-                      
+| **Slides**                  | [slides](./slides.pptx)                                                           |
 
 ## Video
 
@@ -29,11 +29,11 @@ Read [this explanation of GitHub's  workflow](https://docs.microsoft.com/learn/m
 
 ## Prerequisites
 
-Make sure to have a [GitHub account](https://github.com) and sign in.
+1. Make sure to have a [GitHub account](https://github.com) and sign in.
 
-Navigate to the [first contributions repository](https://github.com/firstcontributions/first-contributions).
+1. Navigate to the [first contributions repository](https://github.com/firstcontributions/first-contributions).
 
-Fork the repository by clicking on the **Fork** button at the top right of the page. This will create a new repository in your account for practice.
+1. Fork the repository by clicking on the **Fork** button at the top right of the page. This will create a new repository in your account for practice.
 
 ![fork a repo](./images/fork.png)
 
@@ -47,7 +47,7 @@ How to:
 - Merge the pull request
 - Delete the branch
 
-## Pre-Workshop Warmup Quiz
+## Pre-Quiz
 
 [Take a quiz](https://docs.microsoft.com/learn/modules/introduction-to-github/4-knowledge-check)!
 
@@ -99,11 +99,9 @@ On the last screen, follow the prompts to delete the remote branch where you mad
 
 ![delete second step](./images/delete-2.png)
 
-> What just happened? The small change you made to your branch was copied into the main branch of your repository. You can use this technique to contribute to an open source project that accepts pull requests.
+> What just happened? The small change you made to your branch was copied into the main branch of your repository. You can use this technique to contribute to an open source project that accepts pull requests. Check the repo's issues tab to see if anything is marked as open for contribution.
 
-
-## Quiz or Code Challenge
-
+## Post-Quiz
 [Take a quiz](https://docs.microsoft.com/learn/modules/contribute-open-source/6-knowledge-check) to test your knowledge.
 
 ## Next steps
