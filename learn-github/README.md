@@ -2,9 +2,9 @@
 
 ## Module Source Link
 
-https://docs.microsoft.com/learn/modules/introduction-to-github/?WT.mc_id=academic-55780-jelooper
+[Introduction to GitHub](https://docs.microsoft.com/learn/modules/introduction-to-github/?WT.mc_id=academic-55780-jelooper)
 
-https://docs.microsoft.com/learn/modules/contribute-open-source/?WT.mc_id=academic-55780-jelooper
+[Contributing to Open Source](https://docs.microsoft.com/learn/modules/contribute-open-source/?WT.mc_id=academic-55780-jelooper)
 
 ## Goals
 
