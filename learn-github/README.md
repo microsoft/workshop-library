@@ -1,6 +1,6 @@
 # Introduction to GitHub with GitHub.dev
 
-## Module Source Link
+## Module Sources
 
 [Introduction to GitHub](https://docs.microsoft.com/learn/modules/introduction-to-github/?WT.mc_id=academic-55780-jelooper)
 
@@ -37,9 +37,10 @@ Read [this explanation of GitHub's  workflow](https://docs.microsoft.com/learn/m
 
 ![fork a repo](./images/fork.png)
 
-## What students will learn
+## What you will learn
 
-How to:
+Imagine you find an awesome GitHub repository and you feel like you could add some parts to it that are missing. How would you do that? In this workshop, you'll learn how to:
+
 - Open a repo using GitHub.dev
 - Create a branch
 - Commit changes to the branch
@@ -71,13 +72,19 @@ Give the branch a name and switch to this branch.
 
 Make a small change in the README.md file.
 
-Push your changes to your branch. Add a meaningful message and click the 'check' button.
+Push your changes to your branch. This means that you'll add your changes to a branched copy of the repository.
+
+Add a meaningful message and click the 'check' button.
 
 Your change now appears in your copy of the repository.
 
 ## Create a pull request
 
 > Read about [best practices](https://docs.microsoft.com/learn/modules/contribute-open-source/4-exercise-create-pr/?WT.mc_id=academic-55780-jelooper) for creating a pull request.
+
+Now you need to move your changes from your branch to the main branch.
+
+> In this case, the main branch is called 'master' but in other repositories it's called 'main'.
 
 In the left panel, click the 'Source Control' icon and then the '...' button.
 
