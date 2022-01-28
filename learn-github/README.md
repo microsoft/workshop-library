@@ -25,7 +25,7 @@ coming soon!
 
 Read [this introduction to GitHub](https://docs.microsoft.com/learn/modules/introduction-to-github/1-introduction/?WT.mc_id=academic-55780-jelooper).
 
-Read [this explanation of GitHub's  workflow](https://docs.microsoft.com/learn/modules/introduction-to-github/2-what-is-github/?WT.mc_id=academic-55780-jelooper).
+Read [this explanation of GitHub's workflow](https://docs.microsoft.com/learn/modules/introduction-to-github/2-what-is-github/?WT.mc_id=academic-55780-jelooper).
 
 ## Prerequisites
 
