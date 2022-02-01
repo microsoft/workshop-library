@@ -25,4 +25,4 @@ Build an AI web app by using Python and Flask | Christopher Harrison | 1 hour | 
 
 [LinkedIn Learning Course](https://www.linkedin.com/learning/presenting-technical-information-with-stories/storytelling-for-technical-presentations?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=3322) on how to present technical topics with stories
 
-These workshops were created using our [template](https://github.com/microsoft/workshop-template]
+These workshops were created using our [template](https://github.com/microsoft/workshop-template)
