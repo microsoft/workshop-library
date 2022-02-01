@@ -1,13 +1,12 @@
+# Build an AI web app to translate text with Flask
 
-## Build an AI web app to translate text with Flask
+## Workshop Source
 
-## Workshop Source 
+[Build an AI web app by using Python and Flask](https://docs.microsoft.com/learn/modules/python-flask-build-ai-web-app/?WT.mc_id=academic-56258-chrhar)
 
-https://docs.microsoft.com/learn/modules/python-flask-build-ai-web-app/
+## Stage 1: Desired Results
 
-## Stage 1: Desired Results 
-
-Students will be skilled in how to use text translation within a web application built with Python, Flask, and Azure Cognitive Services.
+Students will be skilled in how to use text translation and create a web application with Python, Flask, and Azure Cognitive Services.
 
 ## Stage 2: Evidence
 
@@ -21,4 +20,3 @@ By the end of the workshop, students will be able to build a web application for
 - Learn about the Translator service
 - Create the Translator service
 - Call the service from the app
-
