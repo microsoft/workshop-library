@@ -27,7 +27,7 @@ Video coming soon...
 ## Prerequisites
 
 - [Python](https://docs.microsoft.com/learn/modules/python-install-vscode/?WT.mc_id=academic-56258-chrhar)
-- [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-56258-chrhar
+- [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-56258-chrhar)
 
 ## What students will learn
 
