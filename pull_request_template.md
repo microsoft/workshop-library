@@ -1,8 +1,8 @@
 ## Use this template to add a workshop to this repo. Add the following items:
 
-- [ ] Your workshop design document, filled in with some details about your proposed workshop including its title and the three stages in the designer delineated.
+- [ ] Your workshop design document, filled in with some details about your proposed workshop including its title and the three stages in the designer delineated, using the `workshop-designer.md` file in the template.
 
-- [ ] A README.md file that describes the steps of the workshop. 
+- [ ] A `README.md` file that describes the steps of the workshop. 
 
 - [ ] Powerpoint Slides for the workshop.
 
