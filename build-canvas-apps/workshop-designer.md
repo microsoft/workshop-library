@@ -1,8 +1,8 @@
-# Build an app without using any code with Microsoft Power Platform
+# Build an App without Using any Code with Microsoft Power Platform
 
 ## Workshop Source
 
-[How to build a canvas app](https://docs.microsoft.com/en-us/learn/modules/build-app-solution/)
+[How to build a canvas app](https://docs.microsoft.com/learn/modules/build-app-solution/)
 
 ## Stage 1: Desired Results
 
@@ -10,7 +10,7 @@ Students will be skilled in how to build low code apps using Microsoft PowerApps
 
 ## Stage 2: Evidence
 
-By the end of the workshop, students will be able to build a site-tracking app using various PowerApps elements.
+By the end of the workshop, students will be able to build a site-tracking app using various PowerApps elements. A quiz is embedded in the slides.
 
 ## Stage 3: Learning Plan
 
