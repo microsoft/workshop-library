@@ -84,19 +84,11 @@ Choose 'Pull Request>Create Pull Request' from the dropdown menu or use the Pull
 
 Merge your change from the branch into the main branch in your repository.
 
-![create pull request](./images/create-pr.png)
-
 ## Merge the pull request and delete the branch
 
 Check that the branch has no conflicts with the base branch, and merge the Pull Request by creating a Merge Commit.
 
-![merge pull request](./images/merge.png)
-
 On the last screen, follow the prompts to delete the remote branch where you made your changes.
-
-![delete first step](./images/delete-1.png)
-
-![delete second step](./images/delete-2.png)
 
 > What just happened? The small change you made to your branch was copied into the main branch of your repository. You can use this technique to contribute to an open source project that accepts pull requests. Check the repo's issues tab to see if anything is marked as open for contribution.
 
@@ -105,6 +97,8 @@ On the last screen, follow the prompts to delete the remote branch where you mad
 [Take a quiz](https://docs.microsoft.com/learn/modules/introduction-to-github/4-knowledge-check/?WT.mc_id=academic-55780-jelooper)!
 
 ## Next steps
+
+If you want to suggest the change you made to the original repository that you forked, repeat the PR process back to the original repository.
 
 [Read more about how to extend your knowledge of GitHub and its workflows](https://docs.microsoft.com/learn/modules/contribute-open-source/5-next-steps/?WT.mc_id=academic-55780-jelooper).
 
