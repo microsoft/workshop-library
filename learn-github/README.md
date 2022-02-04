@@ -4,8 +4,6 @@
 
 [Introduction to GitHub](https://docs.microsoft.com/learn/modules/introduction-to-github/?WT.mc_id=academic-55780-jelooper)
 
-[Contributing to Open Source](https://docs.microsoft.com/learn/modules/contribute-open-source/?WT.mc_id=academic-55780-jelooper)
-
 ## Goals
 
 In this workshop, we will discuss how to use GitHub.dev to manage basic tasks on GitHub.
@@ -31,7 +29,7 @@ Read [this explanation of GitHub's workflow](https://docs.microsoft.com/learn/mo
 
 1. Make sure to have a [GitHub account](https://github.com) and sign in.
 
-1. Navigate to the [first contributions repository](https://github.com/firstcontributions/first-contributions/).
+1. Navigate to the [Workshop Library repository](https://github.com/microsoft/workshop-library).
 
 1. Fork the repository by clicking on the **Fork** button at the top right of the page. This will create a new repository in your account for practice.
 
@@ -48,13 +46,9 @@ Imagine you find an awesome GitHub repository and you feel like you could add so
 - Merge the pull request
 - Delete the branch
 
-## Pre-Quiz
-
-[Take a quiz](https://docs.microsoft.com/learn/modules/introduction-to-github/4-knowledge-check/?WT.mc_id=academic-55780-jelooper)!
-
 ## Open the forked repository in GitHub.dev
 
-Navigate to your copy of the First Contributions repository in your account. 
+Navigate to your copy of the Workshops repository in your account. 
 
 Type `.` in the search bar to open it in GitHub.dev.
 
@@ -70,7 +64,7 @@ Give the branch a name and switch to this branch.
 
 ## Commit your changes
 
-Make a small change in the README.md file.
+Make a small change in the `workshop-suggestions.md` file - what workshop would you like to see in this library?
 
 Push your changes to your branch. This means that you'll add your changes to a branched copy of the repository.
 
@@ -83,8 +77,6 @@ Your change now appears in your copy of the repository.
 > Read about [best practices](https://docs.microsoft.com/learn/modules/contribute-open-source/4-exercise-create-pr/?WT.mc_id=academic-55780-jelooper) for creating a pull request.
 
 Now you need to move your changes from your branch to the main branch.
-
-> In this case, the main branch is called 'master' but in other repositories it's called 'main'.
 
 In the left panel, click the 'Source Control' icon and then the '...' button.
 
@@ -108,8 +100,9 @@ On the last screen, follow the prompts to delete the remote branch where you mad
 
 > What just happened? The small change you made to your branch was copied into the main branch of your repository. You can use this technique to contribute to an open source project that accepts pull requests. Check the repo's issues tab to see if anything is marked as open for contribution.
 
-## Post-Quiz
-[Take a quiz](https://docs.microsoft.com/learn/modules/contribute-open-source/6-knowledge-check/?WT.mc_id=academic-55780-jelooper) to test your knowledge.
+## Test your knowledge!
+
+[Take a quiz](https://docs.microsoft.com/learn/modules/introduction-to-github/4-knowledge-check/?WT.mc_id=academic-55780-jelooper)!
 
 ## Next steps
 
