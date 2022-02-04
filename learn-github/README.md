@@ -64,9 +64,9 @@ Give the branch a name and switch to this branch.
 
 Make a small change in the `workshop-suggestions.md` file - what workshop would you like to see in this library?
 
-Push your changes to your branch. This means that you'll add your changes to a branched copy of the repository.
+Push your changes to your branch by adding a meaningful message into the textbox in the source panel and clicking the 'check' button. 
 
-Add a meaningful message and click the 'check' button.
+> 'Pushing' code means that you'll add your changes to a branched copy of the repository.
 
 Your change now appears in your copy of the repository.
 
