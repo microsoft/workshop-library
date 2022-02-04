@@ -10,7 +10,7 @@ In this workshop, we will discuss how to build a no-code app the low-code way wi
 
 | **Goal**                                          | Description                                                                                                    |
 | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| **What will you learn**                           | How to build and customize an app with PowerApps, get introduced to all its elements|
+| **What will you learn**                           | How to build and customize an app with Power Apps and learn about all its elements|
 | **What you'll need**                              | [M365 subscription](https://developer.microsoft.com/en-us/microsoft-365/dev-program)                                          |
 | **Duration**                                      | 1 hour |
 | **Slides**                                        | [Powerpoint](./slides.pptx)                                                                                      |
