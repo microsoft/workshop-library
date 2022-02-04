@@ -33,8 +33,6 @@ Read [this explanation of GitHub's workflow](https://docs.microsoft.com/learn/mo
 
 1. Fork the repository by clicking on the **Fork** button at the top right of the page. This will create a new repository in your account for practice.
 
-![fork a repo](./images/fork.png)
-
 ## What you will learn
 
 Imagine you find an awesome GitHub repository and you feel like you could add some parts to it that are missing. How would you do that? In this workshop, you'll learn how to:
