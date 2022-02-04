@@ -1,5 +1,4 @@
-## Workshop Title
-Getting Started with Development Containers in VS Code
+## Getting Started with Development Containers in VS Code
 
 ## Workshop Source
 
@@ -19,13 +18,11 @@ Getting Started with Development Containers in VS Code
 
 ## Stage 2: Evidence
  
-1. Performance Tasks (these are tasks that a student can complete to demonstrate comprehension, such as a quiz or code challenge)
 - Four exercises as part of the Learn module
 - One knowledge check quiz 
 
 ## Stage 3: Learning Plan
 
-1. List the key learning events in the workshop - for a one-hour workshop, we recommend 5 milestones
 - Introduction
 - Exercise - Prepare the project
 - Use the Remote - Containers extension in Visual Studio Code

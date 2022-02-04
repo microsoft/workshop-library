@@ -1,6 +1,6 @@
 # Getting Started with Development Containers in VS Code
 
-## Module Source link
+## Module Source
 
 [Use a Docker container as a development environment with Visual Studio Code](https://docs.microsoft.com/learn/modules/use-docker-container-dev-env-vs-code/?WT.mc_id=academic-55190-ornella)
 
@@ -13,8 +13,8 @@ In this workshop, you will learn how to access, customize, and add software to d
 | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | **What will you learn**                           | How to load and connect to a remote project, customize settings when working with a development container, and add software to the container environment. |
 | **What you'll need**                              | [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-55190-ornella), [Docker Desktop](https://www.docker.com/products/docker-desktop), and [Git](https://git-scm.com/downloads)                                          |
-| **Duration**                                      | Roughly 1 hour |
-| **Slides**                                        | [Powerpoint](slides.pptx) |   
+| **Duration**                                      | 1 hour |
+| **Slides**                                        | [Powerpoint](./slides.pptx) |   
 
 # Video
 
@@ -69,7 +69,8 @@ So far, you've learned how to add a preconfigured dev container and customize it
 - [Main Remote - Containers documentation](https://code.visualstudio.com/docs/remote/containers?WT.mc_id=academic-55190-ornella)
 - [How students can use dev containers](https://www.youtube.com/watch?v=Uvf2FVS1F8k)
 
-## Transfer Knowledge activity
+## Extending your knowledge
+
 To test your knowledge, try creating your own development container filled with your favorite coding tools. Share it with a friend!
 
 ## Feedback

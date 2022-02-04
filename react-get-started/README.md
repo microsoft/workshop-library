@@ -1,20 +1,20 @@
-# Full Workshop Title
+# Get Started with React
 
-## Module Source Link
+## Module Source
 
 This workshop is based on the [Getting started with React](https://docs.microsoft.com/learn/modules/react-get-started/?WT.mc_id=academic-56602-chrhar) module on Microsoft Learn. All of the steps the attendees will follow to complete the workshop are contained in the module.
 
 ## Goals
 
-In this workshop, we will discuss React.
+In this workshop, you will learn how to build a web application with React.
 
 | **Goal**                                          | **Description**                                                                                                       |
 | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | **What will you learn**                           | React concepts, JSX, and how to create your first component                                                           |
 | **What you'll need**                              | [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-56602-chrhar), [Node.js](https://nodejs.org/) and [Git](https://git-scm.com/) |
-| **Duration**                                      | Roughly 60 minutes                                                                                                    |
+| **Duration**                                      | 1 hour                                                                                                    |
 | **Just want to try the app or see the solution?** | [Solution files](solution)                                             |
-| **Slides**                                        | [Powerpoint](slides.pptx)                                                                                             |
+| **Slides**                                        | [Powerpoint](./slides.pptx)                                                                                             |
 
 ## Video
 
@@ -37,7 +37,7 @@ Coming soon
 
 ## What students will learn
 
-React is the most popular front-end framework for creating websites. Its modular structure allows for quick prototyping and streamlined development. During this workshop you will create your first React project. You will explore JSX, the syntax most commonly used to create React components. You will close by adding style to your pages.
+React is a popular front-end framework for creating websites. Its modular structure allows for quick prototyping and streamlined development. During this workshop you will create your first React project. You will explore JSX, the syntax most commonly used to create React components. You will close by adding style to your pages.
 
 ### Introducing React and JSX
 

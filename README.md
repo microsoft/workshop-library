@@ -8,16 +8,19 @@ Welcome to the [Next Generation's Team Workshop Library](presentation.pptx), bui
 
 `*` 🏎 indicates short workshops
 
-| **Workshop Title**              | **Author(s)**  | **Duration** | **Link**                                  | What you will learn | Technologies | 
-| ------------------------------- | ----------- | ------------ | -------------------------------------- | - | - |
-Build a Machine Learning Model |Christopher Harrison | 1 hour | [Custom Vision Workshop](./custom-vision-workshop/README.md) | Use images to train a model to be able to perform inference to classify images | Azure Custom Vision, Python, Visual Studio Code, Git | 
-Explore COVID Scientific Papers | [Dmitry Soshnikov](http://soshnikov.com) | 1-1.5 hours | [COVID Paper Exploration Workshop](./covid-paper-exploration-workshop/README.md) | How to use Azure Text Analytics Cognitive Service, How to process tabular data in Python using Pandas and visualize them using different visualization techniques | Azure Cognitive Services, Python, Pandas |
-Build a Website to Showcase your Resume | Ornella Altunyan | 1 hour | [Build a Website to Showcase your Resume](./resume-website-workshop/README.md) | Basics of HTML and CSS to showcase your skills in an online resume | HTML, CSS, GitHub Pages |
-Build an App without Using any Code with Microsoft Power Platform | Haimantika Mitra | 1 hour | [Build a Canvas App](./build-canvas-apps/README.md) | Build a no-code App using Power Platform | Power Apps, Power Platform |
-Build an AI web app by using Python and Flask | Christopher Harrison | 1 hour | [Build an AI web app by using Python and Flask](./flask-text-translator/README.md) | How to use Azure Cognitive Services for text translation in a web app build with Python using Flask as a framework | Azure Cognitive Services, Python, Flask | 
-Generate Text with TensorFlow and Keras | Alfredo Deza | 1 hour | [Use TensorFlow and Keras for NLP tasks](./nlp-tensorflow/README.md) | How to process text to generate new text using TensorFlow and Keras running in Jupyter Notebooks | NLP, TensorFlow, Keras, Python, Jupyter |
-🏎 Introduction to GitHub with GitHub.dev | [Jen Looper](https://jenlooper.com) | 20 minutes | [Introduction to GitHub with GitHub.dev](./learn-github/README.md) | How to use GitHub.dev to manage common tasks in GitHub | GitHub.dev, GitHub |
-🏎 Explore RESTful APIs | [Jen Looper](https://jenlooper.com) | 20 minutes | [Explore the art world by using RESTful APIs](./rest-apis/README.md) | How to query APIs using various authentication strategies | A modern browser |
+| Workshop Title  | Author(s)  | Duration   | What you will learn | Technologies | 
+| ------------------------------- | ----------- |  -------------------------------------- | - | - |
+[Build a Machine Learning Model using Custom Vision](./custom-vision-workshop/README.md)|Christopher Harrison | 1 hour |  Use images to train a model to be able to perform inference to classify images | Azure Custom Vision, Python, Visual Studio Code, Git | 
+[COVID Paper Exploration Workshop](./covid-paper-exploration-workshop/README.md) | [Dmitry Soshnikov](http://soshnikov.com) | 1-1.5 hours | How to use Azure Text Analytics Cognitive Service, How to process tabular data in Python using Pandas and visualize them using different visualization techniques | Azure Cognitive Services, Python, Pandas |
+[Build a Website to Showcase your Resume](./resume-website-workshop/README.md) | Ornella Altunyan | 1 hour  | Basics of HTML and CSS to showcase your skills in an online resume | HTML, CSS, GitHub Pages |
+[Build an App without Using any Code with Microsoft Power Platform](./build-canvas-apps/README.md) | Haimantika Mitra | 1 hour  | Build a no-code App using Power Platform | Power Apps, Power Platform |
+[Build an AI web app by using Python and Flask](./flask-text-translator/README.md) | Christopher Harrison | 1 hour  | How to use Azure Cognitive Services for text translation in a web app build with Python using Flask as a framework | Azure Cognitive Services, Python, Flask | 
+[Use TensorFlow and Keras for Natural Language Processing](./nlp-tensorflow/README.md) | Alfredo Deza | 1 hour  | How to process text to generate new text using TensorFlow and Keras running in Jupyter Notebooks | NLP, TensorFlow, Keras, Python, Jupyter |
+[Getting Started with Development Containers in VS Code](./dev-containers-vscode/README.md) | Ornella Altunyan | 1 hour  | How to leverage development containers in Visual Studio Code to collaborate across machines and development environments.  | VS Code, Docker, Git |
+[Get Started with React](./react-get-started/README.md) | Christopher Harrison | 1 hour  | Learn how to create React components, add style, and use JSX.  | VS Code, Node, Git |
+| |
+🏎 [Introduction to GitHub with GitHub.dev](./learn-github/README.md)  | [Jen Looper](https://jenlooper.com) | 20 minutes | How to use GitHub.dev to manage common tasks in GitHub | GitHub.dev, GitHub |
+🏎 [Explore the art world by using RESTful APIs](./rest-apis/README.md) | [Jen Looper](https://jenlooper.com) | 20 minutes  | How to query APIs using various authentication strategies | A modern browser |
 ---
 
 ## Slides and courses on how to teach and mentor effectively
