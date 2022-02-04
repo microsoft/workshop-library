@@ -17,6 +17,7 @@ Build an App without Using any Code with Microsoft Power Platform | Haimantika M
 Build an AI web app by using Python and Flask | Christopher Harrison | 1 hour | [Build an AI web app by using Python and Flask](./flask-text-translator/README.md) | How to use Azure Cognitive Services for text translation in a web app build with Python using Flask as a framework | Azure Cognitive Services, Python, Flask | 
 Generate Text with TensorFlow and Keras | Alfredo Deza | 1 hour | [Use TensorFlow and Keras for NLP tasks](./nlp-tensorflow/README.md) | How to process text to generate new text using TensorFlow and Keras running in Jupyter Notebooks | NLP, TensorFlow, Keras, Python, Jupyter |
 🏎 Introduction to GitHub with GitHub.dev | [Jen Looper](https://jenlooper.com) | 20 minutes | [Introduction to GitHub with GitHub.dev](./learn-github/README.md) | How to use GitHub.dev to manage common tasks in GitHub | GitHub.dev, GitHub |
+🏎 Explore RESTful APIs | [Jen Looper](https://jenlooper.com) | 20 minutes | [Explore the art world by using RESTful APIs](./rest-apis/README.md) | How to query APIs using various authentication strategies | A modern browser |
 ---
 
 ## Slides and courses on how to teach and mentor effectively

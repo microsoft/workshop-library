@@ -6,7 +6,7 @@
 
 ## Goals
 
-In this workshop, we will discuss how to use GitHub.dev to manage basic tasks on GitHub.
+In this workshop, you will learn how to use GitHub.dev to manage basic tasks on GitHub.
 
 | **Goal**              | Description                                    |
 | ----------------------------- | --------------------------------------------------------------------- |

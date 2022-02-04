@@ -11,7 +11,7 @@ In this workshop, we will discuss how to build a no-code app the low-code way wi
 | **Goal**                                          | Description                                                                                                    |
 | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | **What will you learn**                           | How to build and customize an app with Power Apps and learn about all its elements|
-| **What you'll need**                              | [M365 subscription](https://developer.microsoft.com/en-us/microsoft-365/dev-program)                                          |
+| **What you'll need**                              | [M365 subscription](https://developer.microsoft.com/microsoft-365/dev-program)                                          |
 | **Duration**                                      | 1 hour |
 | **Slides**                                        | [Powerpoint](./slides.pptx)                                                                                      |
 
@@ -40,7 +40,7 @@ Do you want to build an app, but the amount of development knowledge required to
 
 Ensuring that you have an M365 subscription, visit [Power Apps studio](https://make.powerapps.com) and sign in with your account. 
 
-If not, [configure and setup an environment](https://docs.microsoft.com/en-us/power-platform/admin/create-environment).
+If not, [configure and setup an environment](https://docs.microsoft.com/power-platform/admin/create-environment).
 
 ### Create the app
 
@@ -56,7 +56,7 @@ To add more detail to the app, explore the various [elements](https://docs.micro
 
 ### Add logic
 
-Add logic to the app using [functions](https://docs.microsoft.com/en-us/learn/modules/build-app-solution/4-get-started-functions-power-apps).
+Add logic to the app using [functions](https://docs.microsoft.com/learn/modules/build-app-solution/4-get-started-functions-power-apps).
 
 ### Share your app
 
