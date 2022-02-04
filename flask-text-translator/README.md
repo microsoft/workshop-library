@@ -6,7 +6,7 @@
 
 ## Goals
 
-In this workshop, we will discuss *insert your topic*.
+In this workshop, we will discuss how to use a Cognitive Service to access text translation in a web app.
 
 | **Goal**                                          | Description                                                                                                    |
 | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
