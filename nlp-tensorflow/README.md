@@ -1,19 +1,19 @@
-# Introduction to NLP with Tensorflow
+# Introduction to NLP with TensorFlow
 
-## Module Sources
+## Module Source
 
-[Introduction to NLP with Tensorflow](https://docs.microsoft.com/learn/modules/intro-natural-language-processing-tensorflow/?WT.mc_id=academic-56322-alfredodeza)
+[Introduction to NLP with TensorFlow](https://docs.microsoft.com/learn/modules/intro-natural-language-processing-tensorflow/?WT.mc_id=academic-56322-alfredodeza)
 
 ## Goals
 
-In this workshop, we will cover how text is processed using Tensorflow, a popular platform for machine learning. 
+In this workshop, we will cover how text is processed using TensorFlow, a popular platform for machine learning. 
 
 | **Goal**              | Description                                    |
 | ----------------------------- | --------------------------------------------------------------------- |
-| **What will you learn**       | Analyze text using Tensorflow                                        |
+| **What will you learn**       | Analyze text using TensorFlow                                        |
 | **What you'll need**                              | <ul><li>[Python](https://docs.microsoft.com/learn/modules/python-install-vscode/?WT.mc_id=academic-56322-alfredodeza)</li> <li>[Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-56322-alfredodeza)</li><li>[Setup VSCode for Data Science](https://youtu.be/yyQM70vi7V8)</li></ul>                                          |
-| **Duration**                                      | Roughly 1 hour |
-| **Slides**                                        | [Powerpoint](slides.pptx)                                                                                      |
+| **Duration**                                      | 1 hour |
+| **Slides**                                        | [Powerpoint](./slides.pptx)                                                                                      |
                          
 ## Video
 
@@ -22,25 +22,24 @@ Video coming soon!
 ## Pre-Learning
 
 - [Introduction to TensorFlow using Keras](https://docs.microsoft.com/learn/modules/intro-machine-learning-keras/?WT.mc_id=academic-56322-alfredodeza)
-*add a link to Microsoft Learn for students to pre-learn the topic, if possible*
 
 ## Prerequisites
 
-Attendees can activate the sandbox environments in each module, or alternative they must setup their local environment:
+You can activate the sandbox environments in each module, or alternately setup your local environment:
 
 - [Install Python](https://docs.microsoft.com/learn/modules/python-install-vscode/?WT.mc_id=academic-56322-alfredodeza)
-- [Setup VSCode for Data Science](https://youtu.be/yyQM70vi7V8)
+- [Setup Visual Studio Code for Data Science](https://youtu.be/yyQM70vi7V8)
 
-If trying the examples in a local envvironment, install required libraries and download the dataset in the same directory where the notebooks are:
+If you are trying the examples in a local environment, install required libraries and download the dataset in the same directory where the notebooks are:
 
 ```bash
 $ pip install --quiet tensorflow_datasets==4.4.0
 $ wget -q -O - https://mslearntensorflowlp.blob.core.windows.net/data/tfds-ag-news.tgz | tar xz
 ```
 
-## What students will learn
+## What you will learn
 
-Tensorflow is a popular Machine Learning platform that allows many workflows and operations for Machine Learning in Python. In this workshop, you'll be learn how to process and analyze text, so that you can create generated text or answer questions based on context.
+TensorFlow is a popular Machine Learning platform that allows many workflows and operations for Machine Learning in Python. In this workshop, you'll be learn how to process and analyze text, so that you can create generated text or answer questions based on context.
 
 ![Image of generated text](images/generate.png)
 ![Image of sequential training](images/sequential.png)
@@ -51,7 +50,7 @@ Complete the [sandboxed Jupyter Notebook](https://docs.microsoft.com/learn/modul
 
 - Perform a text classification task using the AG NEWS dataset
 - Convert text into numbers that can be represented as tensors
-- Create a Bag-of-words text representation
+- Create a Bag-of-Words text representation
 - Automatically calculate Bag-of-Words vectors with TensorFlow
 
 
@@ -87,18 +86,18 @@ Complete the [sandboxed Jupyter Notebook](https://docs.microsoft.com/learn/modul
 - Sample generated strings during training to check for correctness
 
 
-## Quiz or Code Challenge
+## Quiz
 
 Verify your knowledge with [a short quiz](https://docs.microsoft.com/learn/modules/intro-natural-language-processing-tensorflow/6-knowledge-check?WT.mc_id=academic-56322-alfredodeza)
 
 ## Next steps
 
 
-There are other Learn Modules for Tensorflow that are grouped in [the TensorFlow fundamentals Learning Path](https://docs.microsoft.com/learn/paths/tensorflow-fundamentals/?WT.mc_id=academic-56322-alfredodeza)
+There are other Learn Modules for TensorFlow that are grouped in [the TensorFlow fundamentals Learning Path](https://docs.microsoft.com/learn/paths/tensorflow-fundamentals/?WT.mc_id=academic-56322-alfredodeza)
 
-## Optional Transfer Knowledge activity
+## Optional Transfer Knowledge Activity
 
-In this workshop you used pre-trained models which may yield limited results. Try using other data sources to train your own model.
+In this workshop you used pre-trained models which may yield limited results. Try using other data sources to train your own model. What can you discover?
 
 ## Feedback
 

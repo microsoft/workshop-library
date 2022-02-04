@@ -48,7 +48,7 @@ Imagine you find an awesome GitHub repository and you feel like you could add so
 
 Navigate to your copy of the Workshops repository in your account. 
 
-Type `.` in the search bar to open it in GitHub.dev.
+Type `.` in the browser window to open it in GitHub.dev.
 
 > GitHub.dev is a web-based version of GitHub.
 
