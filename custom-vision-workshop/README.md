@@ -15,6 +15,11 @@ Over the course of this workshop you will build a model to detect dog breeds. Yo
 | **Slides** | [Powerpoint](slides.pptx)
 | **Author** | [Christopher Harrison](https://aka.ms/geektrainer)
 
+## Video walk-through
+
+[![workshop walk-through](./images/promo.png)](https://youtu.be/cZ8S3W-BQTA "workshop walk-through")
+> 🎥 Click this image to watch Christopher walk you through the workshop
+
 ## What you'll build with CustomVision.ai
 
 ![demo image](./images/demo.png)
