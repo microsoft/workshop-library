@@ -19,8 +19,8 @@ Welcome to the [Next Generation's Team Workshop Library](presentation.pptx), bui
 [Getting Started with Development Containers in VS Code](./dev-containers-vscode/README.md) | Ornella Altunyan | 1 hour  | How to leverage development containers in Visual Studio Code to collaborate across machines and development environments.  | VS Code, Docker, Git |
 [Get Started with React](./react-get-started/README.md) | Christopher Harrison | 1 hour  | Learn how to create React components, add style, and use JSX.  | VS Code, Node, Git |
 | |
-🏎 [Introduction to GitHub with GitHub.dev](./learn-github/README.md)  | [Jen Looper](https://jenlooper.com) | 20 minutes | How to use GitHub.dev to manage common tasks in GitHub | GitHub.dev, GitHub |
 🏎 [Explore the art world by using RESTful APIs](./rest-apis/README.md) | [Jen Looper](https://jenlooper.com) | 20 minutes  | How to query APIs using various authentication strategies | A modern browser |
+🏎 [Intro to Jupyter Notebooks](./intro-notebooks/README.md) | [Jen Looper](https://jenlooper.com) | 20 minutes  | How to build and run Jupyter Notebooks in VS Code | Python, VS Code, and the Python VS Code extension |
 ---
 
 ## Slides and courses on how to teach and mentor effectively
