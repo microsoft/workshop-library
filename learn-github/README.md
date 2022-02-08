@@ -1,6 +1,6 @@
 # Introduction to GitHub with GitHub.dev
 
-## Module Sources
+## Module Source
 
 [Introduction to GitHub](https://docs.microsoft.com/learn/modules/introduction-to-github/?WT.mc_id=academic-55780-jelooper)
 
