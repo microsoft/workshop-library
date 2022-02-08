@@ -37,3 +37,10 @@ In this workshop, you will:
 * [Create your resume website with GitHub Pages](4-creating-website.md)
 
 Let's get started!
+
+## Feedback
+
+Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)!
+
+[Code of Conduct](../CODE_OF_CONDUCT.md)
+
