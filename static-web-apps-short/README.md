@@ -11,7 +11,7 @@ In this workshop, you will learn to deploy your static files to Azure, whether t
 | **Goal**              | Description                                    |
 | ----------------------------- | --------------------------------------------------------------------- |
 | **What will you learn**       | Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps                                        |
-| **What you'll need**          | A modern web browser and an internet connection and an Azure account |
+| **What you'll need**          | A modern web browser, an internet connection, an Azure account, [Visual Studio Code](https://code.visualstudio.com), and the [Azure Static Web Apps VS Code Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps) |
 | **Duration**                  | 20 minutes                                                                |
 | **Slides**                  | [slides](./slides.pptx)                                                           |
 
@@ -39,17 +39,17 @@ Read about the service [in this introduction](https://docs.microsoft.com/learn/m
 Before you can deploy the app to Azure, you need to take the following steps:
 
 - Create a repo from a template
-- Run the app locally and view it via a Browser.
+- Run the app locally and view it via a browser.
 
 [Let's create the repo](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/2-exercise-get-started?pivots=angular)!
 
-## Plan your Azure static app
+## Plan your Azure Static App
 
 To deploy your app on Azure, you need to provision an Azure static apps resource. Said resource needs a few fields to be filled in. Your GitHub repo has a concept called actions that's capable of doing many things like testing code, deploying it and more. GitHub actions is the underlying technology Azure static apps rely on to deploy your app to the cloud.
 
 Learn more about Azure static app and its fields as well as GitHub actions. [Read more about the fields here](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/3-static-web-apps?pivots=angular)
 
-## Create the Azure static app
+## Create the Azure Static App
 
 To simplify your deployment to Azure, you can use a Visual Studio Code extension released by the Azure Static apps team. By using the extension, it will create the needed cloud resources the Azure static app needs as well as deploy your app. Read more about [creating the app here](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/4-exercise-static-web-apps?pivots=angular)
 
