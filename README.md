@@ -21,6 +21,7 @@ Welcome to the [Next Generation's Team Workshop Library](presentation.pptx), bui
 | |
 🏎 [Explore the art world by using RESTful APIs](./rest-apis/README.md) | [Jen Looper](https://jenlooper.com) | 20 minutes  | How to query APIs using various authentication strategies | A modern browser |
 🏎 [Intro to Jupyter Notebooks](./intro-notebooks/README.md) | [Jen Looper](https://jenlooper.com) | 20 minutes  | How to build and run Jupyter Notebooks in VS Code | Python, VS Code, and the Python VS Code extension |
+🏎 [Intro to Static Web Apps](./static-web-apps/README.md) | Chris Noring | 20 minutes  | How to build and deploy a static web app | JavaScript, VS Code, and the Static Web App VS Code extension |
 ---
 
 ## Slides and courses on how to teach and mentor effectively

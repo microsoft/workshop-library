@@ -3,18 +3,18 @@
 
 ## Workshop Source
 
-<https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api/>
+https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/
 
 ## Stage 1: Desired Results
 
-1. Students will be skilled at using Azure Static Web apps service to deploy their websites/webapps to Azure.
-
-## Stage 2: Evidence
-
-By the end of the workshop, the student will be able to:
+1. Students will be skilled at using Azure Static Web apps service to deploy their websites/webapps to Azure, including:
 
 - Understand how they can use Visual Studio Code to Publish the app to Azure Static Web Apps
 - Provision an Azure Static apps resource
+
+## Stage 2: Evidence
+
+The students will have deployed an app to Azure Static Web Apps, a quiz is embedded as well.
 
 ## Stage 3: Learning Plan
 
