@@ -72,7 +72,7 @@ Learn more about Power Apps by visiting the following links:
 
 [Manage apps in Power Apps](https://docs.microsoft.com/learn/modules/manage-apps-in-powerapps/index)
 
-## Extend your knowledge
+## Practice
 
 What else can you build with Power Apps? Get creative and explore this powerful platform.
 

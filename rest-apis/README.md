@@ -57,7 +57,7 @@ Now that you know how to get an authentication key, practice by [querying anothe
 
 Explore more about ways to build and use APIs by completing [the other elements](https://docs.microsoft.com/learn/modules/use-apis-discover-museum-art/?WT.mc_id=academic-56423-jelooper) of this module.
 
-## Optional Transfer Knowledge activity
+## Practice
 
 Now that you know about APIs and how interesting they can be to discover art, look for other interesting APIs throughout the internet. A good place to start is Todd Motto's [API list](https://github.com/public-apis/public-apis).
 

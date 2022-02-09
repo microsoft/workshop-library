@@ -76,7 +76,7 @@ Take a [quiz](https://docs.microsoft.com/learn/modules/python-create-run-jupyter
 
 This module introduced some core elements of the many things you can do in Jupyter notebooks. For inspiration, you can check out an interesting gallery of [Jupyter notebooks on GitHub](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks).
 
-## Continue your study of Python and Notebooks
+## Practice
 
 Now you know how to create and use Jupyter notebooks, you can learn how to use them in the context of Data Science and Machine Learning. Explore [this learning path on Data Science with Notebooks](https://docs.microsoft.com/learn/modules/explore-analyze-data-with-python/) to learn more about the many tools you can use to build your own data science projects. To learn more about Python as a language, complete [this learning path on Python](https://docs.microsoft.com/learn/paths/beginner-python/).
 

@@ -95,7 +95,7 @@ Verify your knowledge with [a short quiz](https://docs.microsoft.com/learn/modul
 
 There are other Learn Modules for TensorFlow that are grouped in [the TensorFlow fundamentals Learning Path](https://docs.microsoft.com/learn/paths/tensorflow-fundamentals/?WT.mc_id=academic-56322-alfredodeza)
 
-## Optional Transfer Knowledge Activity
+## Practice
 
 In this workshop you used pre-trained models which may yield limited results. Try using other data sources to train your own model. What can you discover?
 

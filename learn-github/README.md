@@ -100,7 +100,7 @@ If you want to suggest the change you made to the original repository that you f
 
 [Read more about how to extend your knowledge of GitHub and its workflows](https://docs.microsoft.com/learn/modules/contribute-open-source/5-next-steps/?WT.mc_id=academic-55780-jelooper).
 
-## Optional Transfer Knowledge activity
+## Practice
 
 Now you know how to create branches and pull requests, find an open source repository that is seeking contributions. Is there a way you can contribute to this project?
 

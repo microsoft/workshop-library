@@ -69,7 +69,7 @@ So far, you've learned how to add a preconfigured dev container and customize it
 - [Main Remote - Containers documentation](https://code.visualstudio.com/docs/remote/containers?WT.mc_id=academic-55190-ornella)
 - [How students can use dev containers](https://www.youtube.com/watch?v=Uvf2FVS1F8k)
 
-## Extending your knowledge
+## Practice
 
 To test your knowledge, try creating your own development container filled with your favorite coding tools. Share it with a friend!
 
