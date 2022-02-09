@@ -15,9 +15,11 @@ In this workshop, we will discuss how to use a Cognitive Service to access text 
 | **Duration**                                      | Roughly 1 hour |
 | **Slides**                                        | [Powerpoint](slides.pptx)                                                                                      |
 
-## Video
+## Video walk-through
 
-Video coming soon...
+[![workshop walk-through](./images/promo.png)](https://youtu.be/h7GbZzmjJRE "workshop walk-through")
+> 🎥 Click this image to watch Christopher walk you through the workshop
+
 
 ## Pre-Learning
 
