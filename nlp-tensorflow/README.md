@@ -92,7 +92,6 @@ Verify your knowledge with [a short quiz](https://docs.microsoft.com/learn/modul
 
 ## Next steps
 
-
 There are other Learn Modules for TensorFlow that are grouped in [the TensorFlow fundamentals Learning Path](https://docs.microsoft.com/learn/paths/tensorflow-fundamentals/?WT.mc_id=academic-56322-alfredodeza)
 
 ## Practice

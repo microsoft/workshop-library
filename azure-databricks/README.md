@@ -1,4 +1,4 @@
-# Read and write data in Azure Databricks
+# Read and Write Data in Azure Databricks
 
 ## Module Sources
 
@@ -12,7 +12,7 @@ In this workshop, we will go over reading and writing different data types in Az
 | ----------------------------- | --------------------------------------------------------------------- |
 | **What will you learn**       | Read and write different types of data in Azure Databricks |
 | **What you'll need**          | An Azure subscription: <ul><li>[Free Azure Trial](https://azure.microsoft.com/free/?WT.mc_id=academic-56680-alfredodeza)</li> <li>[Azure For Students](https://azure.microsoft.com/free/students/?WT.mc_id=academic-56680-alfredodeza)</li></ul>                                          |
-| **Duration**                                      | Roughly 1 hour |
+| **Duration**                                      | 1 hour |
 | **Slides**                                        | [Powerpoint](slides.pptx)                                                                                      |
 
 ## Video
@@ -39,13 +39,12 @@ Databricks is one of the most prominent platforms to deal with big data and perf
 
 ## Milestone 1: Read data in CSV format
 
-Create an Azure Databricks cluster and go through the notebook to read data. This notebook will cover the following:
+[Start here](https://docs.microsoft.com/learn/modules/describe-azure-databricks/5-exercise-work-notebooks?WT.mc_id=academic-56680-alfredodeza) to create an Azure Databricks cluster and go through the notebook to read data. This notebook will cover the following:
 
 - Cover the `SparkSession` class
 - Read a very simple TSV (tab-separated value) file
 - Transform the TSV into a CSV (comma-separated value) file
 - Read the CSV file with an inferred schema and then with a user-defined schema
-
 
 ## Milestone 2: Read data in JSON format
 
@@ -55,7 +54,7 @@ Continue with the next notebook to read JSON data after completing the CSV noteb
 - Use inferring to auto detect the types of values and data in the JSON file
 - With `pyspark`, you'll create a user-defined schema to load JSON
 
-## Milestone 3: Read data in Parquest format
+## Milestone 3: Read data in Parquet format
 
 Work through the next notebook (_3.Reading Data - Parquet_) to load Parquet files that usually come with a pre-defined schema. Similar to other milestones, in this section you will:
 
@@ -78,7 +77,7 @@ Go to the next notebook (_4.Reading Data - Tables and Views_) in the Databricks 
 Finally, go to the last notebook (_5.Writing Data_) where you will use Parquet files to write data. You'll cover loading a TSV file into Databricks and then save it as a Parquet file using the `Pyspark` Python API.
 
 
-## Quiz or Code Challenge
+## Quiz
 
 Verify your knowledge with [a short quiz](https://docs.microsoft.com/learn/modules/read-write-data-azure-databricks/8-knowledge-check?WT.mc_id=academic-56680-alfredodeza)
 
@@ -86,7 +85,7 @@ Verify your knowledge with [a short quiz](https://docs.microsoft.com/learn/modul
 
 There is a slightly more advanced and involved learning path that covers [Data Engineering with Azure Databricks](https://docs.microsoft.com/learn/paths/data-engineer-azure-databricks/?WT.mc_id=academic-56680-alfredodeza).
 
-## Optional Transfer Knowledge activity
+## Practice
 
 In this workshop you used small data sets that are easy to work with. Try using larger datasets to take advantage of a platform like Databricks.
 
@@ -94,4 +93,4 @@ In this workshop you used small data sets that are easy to work with. Try using 
 
 Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)!
 
-[Code of Conduct](CODE_OF_CONDUCT.md)
+[Code of Conduct](../CODE_OF_CONDUCT.md)

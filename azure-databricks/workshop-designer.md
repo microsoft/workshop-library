@@ -16,6 +16,6 @@ At the end of the workshop, students will be able to work with datasets and diff
 ## Stage 3: Learning Plan
 
 - Login into your Azure account
-- Create an Azure Databaricks cluster
+- Create an Azure Databricks cluster
 - Read data in CSV, JSON, and Parquet formats
-- Write data to a Parquet file in Azure Databaricks
+- Write data to a Parquet file in Azure Databricks
