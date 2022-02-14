@@ -2,7 +2,7 @@
 
 ## Module Source
 
-[Use a Docker container as a development environment with Visual Studio Code](https://docs.microsoft.com/en-us/learn/modules/use-docker-container-dev-env-vs-code/?WT.mc_id=academic-55190-ornella)
+[Manipulate and clean data in Python](https://docs.microsoft.com/learn/modules/data-manipulate-clean/?WT.mc_id=academic-56265-ornella)
 
 ## Goals
 
@@ -21,17 +21,17 @@ Video coming soon...
 
 ## Pre-Learning
 
--[Introduction to Python](https://docs.microsoft.com/learn/modules/python-data-science/?WT.mc_id=academic-55190-ornella)
--[Introduction to the NumPy library for data science](https://docs.microsoft.com/learn/modules?WT.mc_id=academic-55190-ornella/pandas-data-science/)
--[Introduction to the pandas library for data science](https://docs.microsoft.com/learn/modules/pandas-data-science/?WT.mc_id=academic-55190-ornella)
+- [Introduction to Python](https://docs.microsoft.com/learn/modules/python-data-science/?WT.mc_id=academic-55190-ornella)
+- [Introduction to the NumPy library for data science](https://docs.microsoft.com/learn/modules?WT.mc_id=academic-55190-ornella/pandas-data-science/)
+- [Introduction to the pandas library for data science](https://docs.microsoft.com/learn/modules/pandas-data-science/?WT.mc_id=academic-55190-ornella)
 
 ## Prerequisites
 
--[Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-55190-ornella)
--[Python](https://www.python.org/downloads/)
--[Python extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
--[Jupyter extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
--[Activated Anaconda environment](https://code.visualstudio.com/docs/datascience/jupyter-notebooks?WT.mc_id=academic-55190-ornella)
+- [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-55190-ornella)
+- [Python](https://www.python.org/downloads/)
+- [Python extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+- [Jupyter extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
+- [Activated Anaconda environment](https://code.visualstudio.com/docs/datascience/jupyter-notebooks?WT.mc_id=academic-55190-ornella)
 - [A data science environment in VS Code](https://code.visualstudio.com/docs/datascience/data-science-tutorial?WT.mc_id=academic-55190-ornella)
 
 ## What students will learn
@@ -42,8 +42,7 @@ Say you want to perform some analysis on a dataset that you find interesting -- 
 
 ## Introduction
 
-In this section, you'll review an [introduction]
-(https://docs.microsoft.com/learn/modules/data-manipulate-clean/1-introduction?WT.mc_id=academic-55190-ornella) and make sure that your data science environment is set up correctly before continuing on to the next part of the workshop.
+In this section, you'll review an [introduction](https://docs.microsoft.com/learn/modules/data-manipulate-clean/1-introduction?WT.mc_id=academic-55190-ornella) and make sure that your data science environment is set up correctly before continuing on to the next part of the workshop.
 
 ## Explore DataFrame information
 
@@ -55,30 +54,26 @@ Now that you know how to get an overall sense of the dataset you are working wit
 
 ## Remove duplicate data
 
-(https://docs.microsoft.com/learn/modules/data-manipulate-clean/4-duplicate-data?WT.mc_id=academic-55190-ornella)
+Another common thing you'll have to do with most datasets you encounter is [remove duplicate data](https://docs.microsoft.com/learn/modules/data-manipulate-clean/4-duplicate-data?WT.mc_id=academic-55190-ornella). In this section of the workshop, you will learn how to use pandas to detect and remove duplicate entries.
 
+## Combine datasets
 
-text
+Sometimes, you will need to combine datasets together. Luckily, there are several methods available in pandas to [merge and join datasets](https://docs.microsoft.com/learn/modules/data-manipulate-clean/5-combine-datasets?WT.mc_id=academic-55190-ornella).
 
-link
+## Exploratory statistics and visualization
 
-## Milestone 5
-
-text
-
-link
-
-## Quiz or Code Challenge
-
-Link to quiz or challenge on Learn
+So far, you've learned how to use pandas methods to examine some aspects of a DataFrame, and fill in, remove, and combine data. The final way we will seek to understand our data is by [creating visualizations](https://docs.microsoft.com/learn/modules/data-manipulate-clean/6-exploratory-statistics-visualization?WT.mc_id=academic-55190-ornella).
 
 ## Next steps
 
-*links to Microsoft Learn to further learning progress, and/or a path to certifications*
+- [Explore and analyze data with Python](https://docs.microsoft.com/learn/modules/explore-analyze-data-with-python/?WT.mc_id=academic-55190-ornella)
+- [Introduction to machine learning
+](https://docs.microsoft.com/learn/modules/introduction-to-machine-learning/?WT.mc_id=academic-55190-ornella)
+- [Discover the role of Python in space exploration](https://docs.microsoft.com/learn/paths/introduction-python-space-exploration-nasa/?WT.mc_id=academic-55190-ornella)
 
 ## Optional Transfer Knowledge activity
 
-*suggest, or add as an addendum, a way to extend students knowledge of the topic by creating a new app or demo that builds on the original workshop materials.*
+To test your knowledge, try downloading a free dataset from [Kaggle](https://www.kaggle.com/datasets) that you find interesting. Use the techniques that you learned in this workshop to manipulate and clean your data!
 
 ## Feedback
 

@@ -18,7 +18,7 @@
 
 ## Stage 2: Evidence
 
-- Five applied learning lessons as part of the Learn module
+- Five exercises built into the Learn module
 
 ## Stage 3: Learning Plan
 
