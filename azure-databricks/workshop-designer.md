@@ -1,5 +1,6 @@
-
 # Introduction to Azure Databricks
+
+Databaricks is a platform to work with big data. Azure has a solid integration with Databaricks making it easy to setup and start working with datasets.
 
 ## Workshop Source
 
@@ -7,7 +8,7 @@
 
 ## Stage 1: Desired Results
 
-Attendees will learn how to read and write data to an Azure Databricks cluster using notebooks and ready-to-use datasets. 
+Attendees will learn how to read and write data to an Azure Databricks cluster using notebooks and ready-to-use datasets.
 
 ## Stage 2: Evidence
 
