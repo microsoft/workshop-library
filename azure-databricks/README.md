@@ -1,6 +1,6 @@
 # Read and Write Data in Azure Databricks
 
-Databaricks is a platform to work with big data. Azure has a solid integration with Databaricks making it easy to setup and start working with datasets.
+Databricks is a platform to work with big data. Azure has a solid integration with Databricks, making it easy to setup and start working with datasets.
 
 ## Module Sources
 
@@ -32,7 +32,7 @@ Attendees should have an Azure account. There are several options that can give 
 - [Free Azure Trial](https://azure.microsoft.com/free/?WT.mc_id=academic-56680-alfredodeza)
 - [Azure For Students](https://azure.microsoft.com/free/students/?WT.mc_id=academic-56680-alfredodeza)
 
-For this workshop, students will go through the [Read and write data in Azure Databricks](https://docs.microsoft.com/learn/modules/read-write-data-azure-databricks/?WT.mc_id=academic-56680-alfredodeza) Learn Module which will direct you to import Jupyter Notebooks to execute on Databricks. These notebooks will show you how to read and write data in Azure Databricks.
+For this workshop, students will go through the [Read and write data in Azure Databricks](https://docs.microsoft.com/learn/modules/read-write-data-azure-databricks/?WT.mc_id=academic-56680-alfredodeza) Learn Module which will direct you to import Jupyter Notebooks to execute processes using Databricks. These notebooks will show you how to read and write data in Azure Databricks.
 
 ## What students will learn
 
