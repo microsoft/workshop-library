@@ -72,6 +72,10 @@ As with any webpage, you will want to update the style by using CSS. With React,
 - [Explore Azure Static Web Apps](https://docs.microsoft.com/learn/paths/azure-static-web-apps/?WT.mc_id=academic-56602-chrhar)
 - [Build JavaScript applications with Node.js](https://docs.microsoft.com/learn/paths/build-javascript-applications-nodejs/?WT.mc_id=academic-56602-chrhar)
 
+## Practice
+
+Now that you know how to build a web application in React, either create a new project and build a blog or todo app, or add on to your Recipe app. Can you build a form so that someone could add a recipe? Can you style your recipes into cards that flip? Be creative!
+
 ## Feedback
 
 Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)!
