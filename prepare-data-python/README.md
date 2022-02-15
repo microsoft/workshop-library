@@ -12,9 +12,11 @@ In this workshop, you will learn how to use Python, and popular libraries like N
 | ----------------------------- | --------------------------------------------------------------------- |
 | **What will you learn**       | How to find information about, clean, and prepare data that's stored in a pandas DataFrame.                                       |
 | **What you'll need**          | [Visual Studio Code environment set up to run Python and Jupyter notebooks](https://docs.microsoft.com/learn/modules/python-data-science/1-introduction?WT.mc_id=academic-55190-ornella) |
-| **Duration**                  | 1 hr 20 min                                                                |
+| **Duration**                  | 1 hr 20 min                   |                     
+| **Just want to try the app or see the solution?** | [Solution](solution/)                          |
 | **Slides** | [Powerpoint](slides.pptx) 
-                         
+             
+            
 ## Video
 
 Video coming soon...
@@ -71,7 +73,7 @@ So far, you've learned how to use pandas methods to examine some aspects of a Da
 ](https://docs.microsoft.com/learn/modules/introduction-to-machine-learning/?WT.mc_id=academic-55190-ornella)
 - [Discover the role of Python in space exploration](https://docs.microsoft.com/learn/paths/introduction-python-space-exploration-nasa/?WT.mc_id=academic-55190-ornella)
 
-## Optional Transfer Knowledge activity
+## Practice
 
 To test your knowledge, try downloading a free dataset from [Kaggle](https://www.kaggle.com/datasets) that you find interesting. Use the techniques that you learned in this workshop to manipulate and clean your data!
 
