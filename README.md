@@ -18,6 +18,7 @@ Welcome to the [Next Generation's Team Workshop Library](presentation.pptx), bui
 [Use TensorFlow and Keras for Natural Language Processing](./nlp-tensorflow/README.md) | Alfredo Deza | 1 hour  | How to process text to generate new text using TensorFlow and Keras running in Jupyter Notebooks | NLP, TensorFlow, Keras, Python, Jupyter |
 [Getting Started with Development Containers in VS Code](./dev-containers-vscode/README.md) | Ornella Altunyan | 1 hour  | How to leverage development containers in Visual Studio Code to collaborate across machines and development environments.  | VS Code, Docker, Git |
 [Get Started with React](./react-get-started/README.md) | Christopher Harrison | 1 hour  | Learn how to create React components, add style, and use JSX.  | VS Code, Node, Git |
+[Read and Write Data using Azure DataBricks](./azure-databricks/README.md) | Alfredo Deza | 1 hour  | Read and write data to an Azure Databricks cluster using notebooks and ready-to-use datasets. | Azure Subscription |
 | |
 🏎 [Explore the art world by using RESTful APIs](./rest-apis/README.md) | [Jen Looper](https://jenlooper.com) | 20 minutes  | How to query APIs using various authentication strategies | A modern browser |
 🏎 [Intro to Jupyter Notebooks](./intro-notebooks/README.md) | [Jen Looper](https://jenlooper.com) | 20 minutes  | How to build and run Jupyter Notebooks in VS Code | Python, VS Code, and the Python VS Code extension |
