@@ -16,9 +16,12 @@ In this workshop, you will learn how to build a web application with React.
 | **Just want to try the app or see the solution?** | [Solution files](solution)                                             |
 | **Slides**                                        | [Powerpoint](./slides.pptx)                                                                                             |
 
-## Video
+## Video walk-through
 
-Coming soon
+[![workshop walk-through](./images/promo.png)](https://youtu.be/_id4QTDI5yg "workshop walk-through")
+> 🎥 Click this image to watch Christopher walk you through the workshop
+
+
 
 ## Pre-Learning
 
