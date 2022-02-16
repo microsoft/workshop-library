@@ -74,7 +74,7 @@ Take a [quiz](https://docs.microsoft.com/learn/modules/python-create-run-jupyter
 
 ## Next steps
 
-This module introduced some core elements of the many things you can do in Jupyter notebooks. For inspiration, you can check out an interesting gallery of [Jupyter notebooks on GitHub](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks).
+This module introduced some core elements of the many things you can do in Jupyter notebooks. For inspiration, you can check out an interesting gallery of [Jupyter notebooks on GitHub](https://github.com/jupyter/jupyter/wiki).
 
 ## Practice
 
