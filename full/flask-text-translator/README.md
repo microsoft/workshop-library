@@ -61,6 +61,10 @@ To close out the workshop, attendees will [add the code to call the Translator s
 - [Connecting IoT devices to Cognitive Services using Azure Functions](https://docs.microsoft.com/learn/modules/connecting-iot-devices-cognitive-services-azure-functions/?WT.mc_id=academic-56258-chrhar)
 - [Create machine learning models](https://docs.microsoft.com/learn/paths/create-machine-learn-models/?WT.mc_id=academic-56258-chrhar)
 
+## Practice
+
+Now that you know how to make a web app that can translate text, what other apps can you build? Think of a use case for these translations and see how you can enhance this app. Can you add a voice element to the app, so that you can speak into a microphone, have it transcribed, and then translated using the dropdown?
+
 ## Feedback
 
 Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)!
