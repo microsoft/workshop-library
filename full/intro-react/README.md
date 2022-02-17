@@ -83,4 +83,4 @@ Now that you know how to build a web application in React, either create a new p
 
 Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)!
 
-[Code of Conduct](../CODE_OF_CONDUCT.md)
+[Code of Conduct](../../CODE_OF_CONDUCT.md)

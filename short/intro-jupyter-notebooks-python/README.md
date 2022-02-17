@@ -84,5 +84,5 @@ Now you know how to create and use Jupyter notebooks, you can learn how to use t
 
 Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)!
 
-[Code of Conduct](../CODE_OF_CONDUCT.md)
+[Code of Conduct](../../CODE_OF_CONDUCT.md)
 

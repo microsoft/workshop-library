@@ -42,5 +42,5 @@ Let's get started!
 
 Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)!
 
-[Code of Conduct](../CODE_OF_CONDUCT.md)
+[Code of Conduct](../../CODE_OF_CONDUCT.md)
 

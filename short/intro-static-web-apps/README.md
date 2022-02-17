@@ -65,4 +65,4 @@ Now that you know about Azure Static Web Apps, learn how to [publish an API](htt
 
 Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)!
 
-[Code of Conduct](../CODE_OF_CONDUCT.md)
+[Code of Conduct](../../CODE_OF_CONDUCT.md)

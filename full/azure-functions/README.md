@@ -67,5 +67,5 @@ Now that you know how to create Azure functions from the Azure portal, try creat
 
 Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)!
 
-[Code of Conduct](../CODE_OF_CONDUCT.md)
+[Code of Conduct](../../CODE_OF_CONDUCT.md)
 
