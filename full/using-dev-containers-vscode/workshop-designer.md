@@ -1,4 +1,4 @@
-## Getting Started with Development Containers in VS Code
+# Getting Started with Development Containers in VS Code
 
 ## Workshop Source
 
