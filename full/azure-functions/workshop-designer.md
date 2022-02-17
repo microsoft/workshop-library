@@ -1,5 +1,5 @@
 
-# Create serverless logic with Azure Functions
+# Create Serverless Logic with Azure Functions
 
 ## Workshop Source 
 

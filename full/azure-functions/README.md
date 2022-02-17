@@ -1,4 +1,4 @@
-# Create serverless logic with Azure Functions
+# Create Serverless Logic with Azure Functions
 
 ## Module Source
 
