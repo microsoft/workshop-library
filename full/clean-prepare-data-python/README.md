@@ -24,8 +24,7 @@ Video coming soon...
 ## Pre-Learning
 
 - [Introduction to Python](https://docs.microsoft.com/learn/modules/python-data-science/?WT.mc_id=academic-55190-ornella)
-- [Introduction to the NumPy library for data science](https://docs.microsoft.com/learn/modules?WT.mc_id=academic-55190-ornella/pandas-data-science/)
-- [Introduction to the pandas library for data science](https://docs.microsoft.com/learn/modules/pandas-data-science/?WT.mc_id=academic-55190-ornella)
+- [Introduction to the NumPy and pandas libraries for data science](https://docs.microsoft.com/learn/modules/pandas-data-science/?WT.mc_id=academic-55190-ornella)
 
 ## Prerequisites
 
