@@ -19,7 +19,8 @@ In this workshop, you will learn how to use Python, and popular libraries like N
             
 ## Video
 
-Video coming soon...
+[![workshop walk-through](./images/promo.png)](https://youtu.be/DVlE8kS5lcU "workshop walk-through")
+> 🎥 Click this image to watch Ornella walk you through the workshop
 
 ## Pre-Learning
 
