@@ -21,7 +21,7 @@ coming soon!
 
 ## What you will learn
 
-You're a web developer and you've built a web app. Typically a web app consists of  HTML, JavaScript or CSS files and can be produced by manually creating all the files or use a framework to do so.
+You're a web developer and you've built a web app. Typically a web app consists of HTML, JavaScript or CSS files and can be produced by manually creating all the files or use a framework to do so.
 
 You'd like to be able to deploy, or publish, your web site to Azure so that you can show it off to your friends.
 
@@ -36,7 +36,7 @@ Read about the service [in this introduction](https://docs.microsoft.com/learn/m
 
 ## Create a web app
 
-Before you can deploy the app to Azure, you need build it.
+Before you can deploy the app to Azure, you need to build it.
 
 - Create a repo from a template
 - Run the app locally and view it via a browser.
