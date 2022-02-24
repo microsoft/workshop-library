@@ -8,7 +8,7 @@ Welcome to the [Next Generation's Team Workshop Library](presentation.pptx), bui
 
 | Workshop Title  | Author(s)  | Duration   | What you will learn | Video | Technologies | 
 | ------------------------------- | ----------- |  -------------------------------------- | - | - | - |
-[Build a Machine Learning Model using Custom Vision](./full/ml-model-custom-vision/README.md)|Christopher Harrison | 1 hour |  Use images to train a model to be able to perform inference to classify images | [🎥](https://youtu.be/cZ8S3W-BQTA) | Azure Custom Vision, Python, Visual Studio Code, Git | 
+[Build a Machine Learning Model using Custom Vision](./full/ml-model-custom-vision/README.md)|Christopher Harrison | 1 hour |  Use images to train a model to be able to perform inference to classify images | [🎥](https://youtu.be/YWTDxcHAfkA) | Azure Custom Vision, Python, Visual Studio Code, Git | 
 [COVID Paper Exploration Workshop](./full/covid-paper-text-analytics/README.md) | [Dmitry Soshnikov](http://soshnikov.com) | 1-1.5 hours | How to use Azure Text Analytics Cognitive Service, How to process tabular data in Python using Pandas and visualize them using different visualization techniques | [🎥](https://youtu.be/fpP2JVn-6OY) | Azure Cognitive Services, Python, Pandas |
 [Build a Website to Showcase your Resume](./full/build-resume-website/README.md) | Ornella Altunyan | 1 hour  | Basics of HTML and CSS to showcase your skills in an online resume | [🎥](https://youtu.be/M2IrPFMFwx8) | HTML, CSS, GitHub Pages |
 [Build an App without Using any Code with Microsoft Power Platform](./full/power-platform-canvas-app/README.md) | Haimantika Mitra | 1 hour  | Build a no-code App using Power Platform | | Power Apps, Power Platform |
