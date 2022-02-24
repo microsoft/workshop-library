@@ -17,7 +17,7 @@ This workshop explores the use of [Azure Text Analytics](https://azure.microsoft
 
 ## Video walk-through
 
-[![workshop walk-through](./images/promo.png)](https://youtu.be/fpP2JVn-6OY "workshop walk-through")
+[![workshop walk-through](./images/promo.png)](https://youtu.be/OcJ4VY0ojhk "workshop walk-through")
 > 🎥 Click this image to watch Dmitry walk you through the workshop
 
 ## What students will learn
