@@ -2,9 +2,10 @@
 
 In this workshop, you will learn the basics of Deep Learning for Computer Vision using one of the popular frameworks: [PyTorch](http://pytorch.org) or [Tensorflow](http://tensorflow.org). You can chose one of the frameworks that you will use.
 
-![Tensorflow](images/tensorflow.png) | ![PyTorch](images/pytorch.png)
------|-----
-One of the first deep learning frameworks, and thus it is currently widely used in the industry. It also includes simplified Keras framework, which makes training neural networks much easier. | Great deep learning framework that is quickly gaining popularity. It first introduced the notion of *dynamic computational graph*, and gained huge momentum since then. 
+<table border="0"><tr><td><img src="images/tensorflow.png" width="300"/></td><td><img src="images/pytorch.png" width="300"/></td></tr>
+<tr><td>
+One of the first deep learning frameworks, and thus it is currently widely used in the industry. It also includes simplified Keras framework, which makes training neural networks much easier.
+</td><td>Great deep learning framework that is quickly gaining popularity. It first introduced the notion of *dynamic computational graph*, and gained huge momentum since then.</td></tr></table>
 
 ## Module Source Link
 
