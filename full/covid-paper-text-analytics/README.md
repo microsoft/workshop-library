@@ -81,8 +81,10 @@ Once you have created the resource, you should go to the portal and copy **Endpo
 
 ```python
 endpoint = 'https://myservice.cognitiveservices.azure.com/' 
-key = '123456789b44bb987c60af9aff34f63' 
+key = '123456789123456789012345678901' 
 ```
+
+> Numbers here are fictional, you need to substitute them with actual values from a resource in your subscription for the code to work!
 
 To call the service, we first create the endpoint:
 ```python
