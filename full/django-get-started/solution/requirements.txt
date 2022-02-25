@@ -1,3 +1,1 @@
-flask
-python-dotenv
-requests
+Django
