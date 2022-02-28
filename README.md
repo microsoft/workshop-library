@@ -26,7 +26,7 @@ Welcome to the [Next Generation's Team Workshop Library](presentation.pptx), bui
 [2️⃣ Read and Write Data using Azure DataBricks](./full/intro-databricks/README.md) | Alfredo Deza | 1 hour  | Read and write data to an Azure Databricks cluster using notebooks and ready-to-use datasets. | | Azure Subscription |
 [2️⃣ Clean and Prepare Data using Python](./full/clean-prepare-data-python/README.md) | Ornella Altunyan | 1 hour  | Use Python and popular libraries like NumPy and pandas to manipulate and clean data to prepare it for analysis. | [🎥](https://youtu.be/DVlE8kS5lcU) | Python, VS Code, and the Python VS Code extension |
 | |
-🏎 [Intro to Jupyter Notebooks](./short/intro-jupyter-notebooks-python/README.md) | [Jen Looper](https://jenlooper.com) | 20 minutes  | How to build and run Jupyter Notebooks in VS Code |[🎥](https://youtu.be/QJHd4jf4ekI) at 1:16:00 | Python, VS Code, and the Python VS Code extension |
+🏎 [1️⃣ Intro to Jupyter Notebooks](./short/intro-jupyter-notebooks-python/README.md) | [Jen Looper](https://jenlooper.com) | 20 minutes  | How to build and run Jupyter Notebooks in VS Code |[🎥](https://youtu.be/QJHd4jf4ekI) at 1:16:00 | Python, VS Code, and the Python VS Code extension |
 
 ## Web Development / App Development Workshops
 
