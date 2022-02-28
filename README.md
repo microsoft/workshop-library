@@ -26,7 +26,7 @@ Welcome to the [Next Generation's Team Workshop Library](presentation.pptx), bui
 [2️⃣ Read and Write Data using Azure DataBricks](./full/intro-databricks/README.md) | Alfredo Deza | 1 hour  | Read and write data to an Azure Databricks cluster using notebooks and ready-to-use datasets. | | Azure Subscription |
 [2️⃣ Clean and Prepare Data using Python](./full/clean-prepare-data-python/README.md) | Ornella Altunyan | 1 hour  | Use Python and popular libraries like NumPy and pandas to manipulate and clean data to prepare it for analysis. | [🎥](https://youtu.be/DVlE8kS5lcU) | Python, VS Code, and the Python VS Code extension |
 | |
-🏎 [Intro to Jupyter Notebooks](./short/intro-jupyter-notebooks-python/README.md) | [Jen Looper](https://jenlooper.com) | 20 minutes  | How to build and run Jupyter Notebooks in VS Code | | Python, VS Code, and the Python VS Code extension |
+🏎 [Intro to Jupyter Notebooks](./short/intro-jupyter-notebooks-python/README.md) | [Jen Looper](https://jenlooper.com) | 20 minutes  | How to build and run Jupyter Notebooks in VS Code |[🎥](https://youtu.be/QJHd4jf4ekI) at 1:16:00 | Python, VS Code, and the Python VS Code extension |
 
 ## Web Development / App Development Workshops
 
@@ -40,9 +40,9 @@ Welcome to the [Next Generation's Team Workshop Library](presentation.pptx), bui
 [2️⃣ Create Serverless Logic with Azure Functions](./full/azure-functions/README.md) | Ornella Altunyan | 45 mins  | How to identify if an Azure function is right for your development needs, and how to create and use functions from the Azure portal | | JavaScript or PowerShell |
 [2️⃣ Get Started with Django](./full/django-get-started/README.md) | Christopher Harrison | 1-1.5 hours | Build a web app with Django | | Python, Django |
 | |
-🏎 [1️⃣ Explore the art world by using RESTful APIs](./short/explore-art-rest-api/README.md) | [Jen Looper](https://jenlooper.com) | 20 minutes  | How to query APIs using various authentication strategies | | A modern browser |
-🏎 [1️⃣ Intro to Static Web Apps](./short/intro-static-web-apps/README.md) | Chris Noring | 20 minutes  | How to build and deploy a static web app | | JavaScript, VS Code, and the Static Web App VS Code extension |
-🏎 [1️⃣ Intro to GitHub using GitHub.dev](./short/intro-github-dev/README.md) | [Jen Looper](https://jenlooper.com) | 15 minutes  | Perform common source control tasks in the browser using GitHub.dev | | a modern browser, GitHub account |
+🏎 [1️⃣ Explore the art world by using RESTful APIs](./short/explore-art-rest-api/README.md) | [Jen Looper](https://jenlooper.com) | 20 minutes  | How to query APIs using various authentication strategies | [🎥](https://youtu.be/QJHd4jf4ekI) at 0:56:00 | A modern browser |
+🏎 [1️⃣ Intro to Static Web Apps](./short/intro-static-web-apps/README.md) | Chris Noring | 20 minutes  | How to build and deploy a static web app | [🎥](https://youtu.be/QJHd4jf4ekI) at 0:21:00 | JavaScript, VS Code, and the Static Web App VS Code extension |
+🏎 [1️⃣ Intro to GitHub using GitHub.dev](./short/intro-github-dev/README.md) | [Jen Looper](https://jenlooper.com) | 15 minutes  | Perform common source control tasks in the browser using GitHub.dev | [🎥](https://youtu.be/QJHd4jf4ekI) at 0:04:15 | a modern browser, GitHub account |
 
 ---
 
