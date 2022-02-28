@@ -29,8 +29,8 @@ Welcome to the [Next Generation's Team Workshop Library](presentation.pptx), bui
 
 ## Web Development / App Development Workshops
 
-| Workshop Title  | Author(s)  | Duration   | What you will learn | Video | Technologies | 
-| ------------------------------- | ----------- |  -------------------------------------- | - | - | - |
+| Level | Workshop Title  | Author(s)  | Duration   | What you will learn | Video | Technologies | 
+|-| ------------------------------- | ----------- |  -------------------------------------- | - | - | - |
 1️⃣ | [Intro to GitHub using GitHub.dev](./short/intro-github-dev/README.md) | [Jen Looper](https://jenlooper.com) | 🏎 15 minutes  | Perform common source control tasks in the browser using GitHub.dev | [🎥](https://youtu.be/QJHd4jf4ekI) at 0:04:15 | a modern browser, GitHub account |
 1️⃣ | [Explore the art world by using RESTful APIs](./short/explore-art-rest-api/README.md) | [Jen Looper](https://jenlooper.com) | 🏎 20 minutes  | How to query APIs using various authentication strategies | [🎥](https://youtu.be/QJHd4jf4ekI) at 0:56:00 | A modern browser |
 1️⃣ | [Intro to Static Web Apps](./short/intro-static-web-apps/README.md) | Chris Noring | 🏎 20 minutes  | How to build and deploy a static web app | [🎥](https://youtu.be/QJHd4jf4ekI) at 0:21:00 | JavaScript, VS Code, and the Static Web App VS Code extension |
