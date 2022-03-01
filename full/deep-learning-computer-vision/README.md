@@ -184,6 +184,18 @@ Notice that all files are in one `images` directory, but they include the class 
 
 If you try to train the model using the neural network from the previous section, you are likely go get low accuracy (you can try it if you want). In cases like this, it makes sense to use **pre-trained networks** and **transfer learning**.
 
+Both TensorFlow/Keras and PyTorch allow you to easily load pre-trained network models, such as VGG-16 or ResNet 50, which can be used as feature extractors. In this case, pre-trained model weights are automatically loaded from the Internet.
+
+> **Note**: When running in the Microsoft Learn sandbox, access to arbitrary Internet resources is limited. You can use the following code to load pre-trained ResNet-50 model in Tensorflow. You may also look at the original Microsoft Learn content to see how they handle loading pre-trained networks.
+
+```python
+!wget https://mslearntensorflowlp.blob.core.windows.net/models/resnet50_weights_tf_dim_ordering_tf_kernels_notop.h5"
+resnet50 = tf.keras.applications.ResNet50(
+             include_top=False,
+             input_shape=(224,224,3),
+             weights='resnet50_weights_tf_dim_ordering_tf_kernels_notop.h5')
+```
+
 You can construct one neural network for transfer learning, but keep in mind the following:
 
 * In most of the cases, you need to do some pre-processing for the images, which may be different from just normalization. You can either pre-process all original images before training, or add a pre-processing layer as the first layer in the network
@@ -192,6 +204,8 @@ You can construct one neural network for transfer learning, but keep in mind the
 * You need to **freeze the weights** of the pre-trained network, otherwise the weights would be destroyed by the first passes of back propagation
 
 With transfer learning, you should be able to achieve the accuracy around 80-90% on the raw data without much fine-tuning of the model.
+
+
 
 ## Next steps
 
