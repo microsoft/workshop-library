@@ -17,7 +17,9 @@ In this workshop, you will learn how to use GitHub.dev to manage basic tasks on 
 
 ## Video
 
-coming soon!
+[![workshop walk-through](./images/promo.png)](https://youtu.be/QJHd4jf4ekI "workshop walk-through")
+> 🎥 Click this image to watch Jen walk you through the workshop starting at at 0:04:15
+
 
 ## Pre-Learning
 

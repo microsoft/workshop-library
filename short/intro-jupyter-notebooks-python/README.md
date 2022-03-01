@@ -16,8 +16,10 @@ In this workshop, you will learn how to use Jupyter notebooks to run Python by b
 | **Slides**                  | [slides](./slides.pptx)                                                           |
 
 ## Video
+ 
+[![workshop walk-through](./images/promo.png)](https://youtu.be/QJHd4jf4ekI "workshop walk-through")
+> 🎥 Click this image to watch Chris walk you through the workshop starting at 1:16:00
 
-coming soon!
 
 ## Pre-Learning
 
