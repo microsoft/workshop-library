@@ -41,8 +41,7 @@ Welcome to the [Next Generation's Team Workshop Library](presentation.pptx), bui
 1️⃣ | [Getting Started with Development Containers in VS Code](./full/using-dev-containers-vscode/README.md) | Ornella Altunyan | 1 hour | How to leverage development containers in Visual Studio Code to collaborate across machines and development environments. | | Git, [Use a Docker container as a development environment with Visual Studio Code](https://docs.microsoft.com/learn/modules/use-docker-container-dev-env-vs-code/?WT.mc_id=academic-55190-ornella) |
 2️⃣ | [Get Started with React](./full/intro-react/README.md) | Christopher Harrison | 1 hour  | Learn how to create React components, add style, and use JSX.  | [🎥](https://youtu.be/_id4QTDI5yg) | VS Code, Node, Git, [Getting started with React](https://docs.microsoft.com/learn/modules/react-get-started/?WT.mc_id=academic-56602-chrhar)|
 2️⃣ | [Create Serverless Logic with Azure Functions](./full/azure-functions/README.md) | Ornella Altunyan | 45 mins  | How to identify if an Azure function is right for your development needs, and how to create and use functions from the Azure portal | [🎥](https://youtu.be/ebiLaNQuP4g) | JavaScript or PowerShell, [Create serverless logic with Azure Functions](https://docs.microsoft.com/learn/modules/create-serverless-logic-with-azure-functions/?WT.mc_id=academic-56400-ornella) |
-2️⃣ | [Get Started with Django](./full/django-get-started/README.md) | Christopher Harrison | 1-1.5 hours | Build a web app with Django | | Python, [Get started with Django](https://docs.microsoft.com/learn/modules/django-get-started/?WT.mc_id=academic-56601-chrhar)
- |
+2️⃣ | [Get Started with Django](./full/django-get-started/README.md) | Christopher Harrison | 1-1.5 hours | Build a web app with Django | | Python, [Get started with Django](https://docs.microsoft.com/learn/modules/django-get-started/?WT.mc_id=academic-56601-chrhar)|
 
 ---
 
