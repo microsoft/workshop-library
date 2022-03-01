@@ -38,7 +38,7 @@ Welcome to the [Next Generation's Team Workshop Library](presentation.pptx), bui
 1️⃣ | [Build an App without Using any Code with Microsoft Power Platform](./full/power-platform-canvas-app/README.md) | Haimantika Mitra | 1 hour  | Build a no-code App using Power Platform | | Power Apps, Power Platform |
 1️⃣ | [Getting Started with Development Containers in VS Code](./full/using-dev-containers-vscode/README.md) | Ornella Altunyan | 1 hour | How to leverage development containers in Visual Studio Code to collaborate across machines and development environments. | | VS Code, Docker, Git |
 2️⃣ | [Get Started with React](./full/intro-react/README.md) | Christopher Harrison | 1 hour  | Learn how to create React components, add style, and use JSX.  | [🎥](https://youtu.be/_id4QTDI5yg) | VS Code, Node, Git |
-2️⃣ | [Create Serverless Logic with Azure Functions](./full/azure-functions/README.md) | Ornella Altunyan | 45 mins  | How to identify if an Azure function is right for your development needs, and how to create and use functions from the Azure portal | | JavaScript or PowerShell |
+2️⃣ | [Create Serverless Logic with Azure Functions](./full/azure-functions/README.md) | Ornella Altunyan | 45 mins  | How to identify if an Azure function is right for your development needs, and how to create and use functions from the Azure portal | [🎥](https://youtu.be/ebiLaNQuP4g) | JavaScript or PowerShell |
 2️⃣ | [Get Started with Django](./full/django-get-started/README.md) | Christopher Harrison | 1-1.5 hours | Build a web app with Django | | Python, Django |
 
 ---
