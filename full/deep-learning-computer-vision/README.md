@@ -28,7 +28,8 @@ In this workshop, we will learn how to determine the breed of a dog or a cat fro
 
 ## Video
 
-*Upcoming*
+[![workshop walk-through](./images/promo.png)](https://youtu.be/9tW-KuQ6sEA "workshop walk-through")
+> 🎥 Click this image to watch Dmitry walk you through the workshop
 
 ## Pre-Learning
 

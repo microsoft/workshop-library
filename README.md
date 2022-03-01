@@ -16,7 +16,7 @@ Welcome to the [Next Generation's Team Workshop Library](presentation.pptx), bui
 2️⃣ | [Build a Machine Learning Model using Custom Vision](./full/ml-model-custom-vision/README.md)|Christopher Harrison | 1 hour |  Use images to train a model to be able to perform inference to classify images | [🎥](https://youtu.be/YWTDxcHAfkA) | Azure Custom Vision, Python, Visual Studio Code, Git | 
 2️⃣ | [Build an AI web app by using Python and Flask](./full/flask-text-translator/README.md) | Christopher Harrison | 1 hour  | How to use Azure Cognitive Services for text translation in a web app build with Python using Flask as a framework | [🎥](https://youtu.be/h7GbZzmjJRE) | Azure Cognitive Services, Python, Flask | 
 2️⃣ | [Use TensorFlow and Keras for Natural Language Processing](./full/intro-nlp-tensorflow/README.md) | Alfredo Deza | 1 hour  | How to process text to generate new text using TensorFlow and Keras running in Jupyter Notebooks | | NLP, TensorFlow, Keras, Python, Jupyter |
-3️⃣ | [Deep Learning for Computer Vision](./full/deep-learning-computer-vision/README.md) | [Dmitry Soshnikov](http://soshnikov.com) | 1-1.5 hours | How to use neural networks to classify images of different breeds of cats and dogs | | Python, PyTorch/TensorFlow |
+3️⃣ | [Deep Learning for Computer Vision](./full/deep-learning-computer-vision/README.md) | [Dmitry Soshnikov](http://soshnikov.com) | 1-1.5 hours | How to use neural networks to classify images of different breeds of cats and dogs | [🎥](https://youtu.be/9tW-KuQ6sEA) | Python, PyTorch/TensorFlow |
 
 ## Data Workshops
 
