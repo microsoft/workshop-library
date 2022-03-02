@@ -10,8 +10,9 @@ Welcome to the [Next Generation's Team Workshop Library](presentation.pptx), bui
 
 > 1️⃣, 2️⃣, 3️⃣ indicate beginner, intermediate, and advanced level workshops
 
+[AI/ML Workshops](#AI) | [Data Workshops](#data) | [Web/App Development Workshops](#web)
 
-## AI/ML Workshops
+## <a name="AI"></a>AI/ML Workshops
 
 | Level | Workshop Title  | Author(s)  | Duration   | What you will learn | Train-the-Trainer Video | Technologies taught, paired Microsoft Learn modules |
 |-| ------------------------------- | ----------- |  -------------------------------------- | - | - | - |
@@ -20,7 +21,7 @@ Welcome to the [Next Generation's Team Workshop Library](presentation.pptx), bui
 2️⃣ | [Use TensorFlow and Keras for Natural Language Processing](./full/intro-nlp-tensorflow/README.md) | Alfredo Deza | 1 hour  | How to process text to generate new text using TensorFlow and Keras running in Jupyter Notebooks | | Keras, Python, Jupyter, [Introduction to NLP with TensorFlow](https://docs.microsoft.com/learn/modules/intro-natural-language-processing-tensorflow/?WT.mc_id=academic-56322-alfredodeza) |
 3️⃣ | [Deep Learning for Computer Vision](./full/deep-learning-computer-vision/README.md) | [Dmitry Soshnikov](http://soshnikov.com) | 1-1.5 hours | How to use neural networks to classify images of different breeds of cats and dogs | [🎥](https://youtu.be/9tW-KuQ6sEA) | Python, [Introduction to Computer Vision with PyTorch](https://docs.microsoft.com/learn/modules/intro-computer-vision-pytorch/?WT.mc_id=academic-56313-dmitryso), [Introduction to Computer Vision with TensorFlow](https://docs.microsoft.com/learn/modules/intro-computer-vision-tensorflow/?WT.mc_id=academic-56313-dmitryso) |
 
-## Data Workshops
+## <a name="data"></a>Data Workshops
 
 | Level | Workshop Title  | Author(s)  | Duration   | What you will learn | Train-the-Trainer Video | Technologies taught, paired Microsoft Learn modules |
 |-| ------------------------------- | ----------- |  -------------------------------------- | - | - | - |
@@ -29,7 +30,7 @@ Welcome to the [Next Generation's Team Workshop Library](presentation.pptx), bui
 2️⃣ | [Read and Write Data using Azure DataBricks](./full/intro-databricks/README.md) | Alfredo Deza | 1 hour  | Read and write data to an Azure Databricks cluster using notebooks and ready-to-use datasets. | | [Read and write data in Azure Databricks](https://docs.microsoft.com/learn/modules/read-write-data-azure-databricks/?WT.mc_id=academic-56680-alfredodeza) |
 2️⃣ | [COVID Paper Exploration Workshop](./full/covid-paper-text-analytics/README.md) | [Dmitry Soshnikov](http://soshnikov.com) | 1-1.5 hours | How to use Azure Text Analytics Cognitive Service, How to process tabular data in Python using Pandas and visualize them using different visualization techniques | [🎥](https://youtu.be/OcJ4VY0ojhk) | Python, Pandas, [Azure Cognitive Services](https://docs.microsoft.com/learn/modules/analyze-text-with-text-analytics-service/?WT.mc_id=academic-49822-dmitryso) |
 
-## Web Development / App Development Workshops
+## <a name="web"></a>Web Development / App Development Workshops
 
 | Level | Workshop Title  | Author(s)  | Duration   | What you will learn | Train-the-Trainer Video | Technologies taught, paired Microsoft Learn modules |
 |-| ------------------------------- | ----------- |  -------------------------------------- | - | - | - |
