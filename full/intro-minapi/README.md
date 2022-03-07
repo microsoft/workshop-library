@@ -1,88 +1,323 @@
-# Workshop Title
+# Build a minimal API with .NET 6
 
 ## Module Source Link
 
-Link the source Learn module here
+* [Tutorial](https://minimal-apis.github.io/tutorial/)
+* [Related Module](https://docs.microsoft.com/learn/paths/aspnet-core-minimal-api/)
 
 ## Goals
 
-In this workshop, we will discuss *insert your topic*.
+In this workshop, we will discuss *Minimal APIs*.
 
-| **Goal**              | *describe the goal of the workshop*                                    |
+| **Goal**              | **Create a fast, powerful API with .NET 6**                                   |
 | ----------------------------- | --------------------------------------------------------------------- |
-| **What will you learn**       | *describe your learning goals*                                        |
-| **What you'll need**          | *link all the necessary tooling, subscriptions, and downloads needed* |
-| **Duration**                  | *specify the duration*                                                                |
-| **Just want to try the app or see the solution?** | *an optional link to the completed project sample app or solution folder*                          |
-| **Slides** | [Powerpoint](slides.pptx) 
-                         
+| **What will you learn**       | Learn the basics of creating a web API that links to a persistent database.                                        |
+| **What you'll need**          | [.NET 6 and VS Code (For Windows)](https://aka.ms/dotnet-coding-pack-win), [.NET 6 and VS Code (For macOS)](https://aka.ms/dotnet-coding-pack-mac) |
+| **Duration**                  | 1 hour                                                                |
+| **Slides** | [Powerpoint](Minimal%20APIs%20for%20Students.pptx) 
+| **Author** | Katie Savage |                         
 ## Video
 
-Embed your Train the Trainer video here. Instructions on how to create a great video experience is [available on this page](./video-guidance.md).
+Coming soon...
 
 ## Pre-Learning
 
-*add a link to Microsoft Learn for students to pre-learn the topic, if possible*
+[Create web apps and services with ASP.NET Core, minimal API, and .NET 6](https://docs.microsoft.com/en-us/learn/paths/aspnet-core-minimal-api/)
 
 ## Prerequisites
 
-*any installations that will be helpful, any hardware or software needed*
+* [.NET 6 and VS Code (For Windows)](https://aka.ms/dotnet-coding-pack-win)
+* [.NET 6 and VS Code (For macOS)](https://aka.ms/dotnet-coding-pack-mac)
+* If you already have Visual Studio Code, or another preferred editor, just download the [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0).
+* [SQLite](https://www.sqlite.org/index.html)
 
 ## What students will learn
 
-*In this area, describe the scenario and intended solution, paraphrasing what is in the module or creating a brief description here*
+In this workshop, use a Minimal API, or Application Programming Interface, to create a dynamic Todo list that you can update, create new items for, mark items as complete, and delete items.
 
-Example: Have you ever wanted to visit a museum virtually or explore its collections right from your home computer? In this workshop, use an API, or Application Programming Interface, to learn more about a museum collection.
+![image of completed project](images/result.gif)
 
-*add a screenshot of the completed project*
+## What are minimal APIs
 
-![image of completed project](images/placeholder.png)
+In this segment, you'll learn the basics of what APIs, web APIs, and minimal APIs are and when you will use them.
 
-## Milestone 1 (example)
+[For more information, click here.](https://docs.microsoft.com/learn/modules/build-web-api-minimal-api/2-what-is-minimal-api)
 
-In this segment, you'll query an API at the Metropolitan Museum of Art
+## Create a new web app
 
-[link to Learn module area](link)
+Using the .NET CLI, create a new web application with the command *dotnet new web -o TodoApi*. Now that you have created your minimal API you can run it. To run your application, navigate to the *TodoApi* folder and type the command below
+```
+TodoApi> dotnet run
+```
 
-## Milestone 2
+Check out your API in action by navigating to [http://localhost:5000](http://localhost:5000).
 
-text
+Add a new route to your API by opening the app in your editor and navigating to the Program.cs file. In Program.cs, create new todo route to our api that returns a list items. Add the following MapGet after *app.MapGet("/", () => "Hello World!");*.
+```csharp
+app.MapGet("/todo", () => new { Item = "Water plants", Complete = "false" });
+```
+This route will return one Todo item.
 
-link
+Learning checklist
+* Created a new route /todo
+* Used the GET HTTP Request method MapGet
+* Configured and implemented OpenAPI and Swagger UI
+* Introduced to middleware and dependency injection
 
-## Milestone 3
+[Create a new web app](https://minimal-apis.github.io/tutorial/first-steps.html#getting-started)
 
-text
+## Add interactive API docs
 
-link
+In a terminal window, type the following command:
+```
+TodoApi> dotnet add package Swashbuckle.AspNetCore --version 6.1.4
+```
 
-## Milestone 4
+To set up Swagger UI, add the following code snippets:
 
-text
+**Snippet 1** : Under *var builder = WebApplication.CreateBuilder(args);*, add the following lines of code:
 
-link
+```csharp
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen(c =>
+{
+    c.SwaggerDoc("v1", new OpenApiInfo { Title = "Todo API", Description = "Keep track of your tasks", Version = "v1" });
+});
+```
+The AddSwaggerGen method adds information such as title, description, and version to your API.
 
-## Milestone 5
+**Snippet 2** : Above app.MapGet("/", () => "Hello World!");, add the following lines of code:
+```csharp
+app.UseSwagger();
+app.UseSwaggerUI(c =>
+{
+   c.SwaggerEndpoint("/swagger/v1/swagger.json", "Todo API V1");
+});
+```
 
-text
+The preceding code enables middleware to serve the generated OpenAPI description as JSON content, enables middle to serve the Swagger UI elements, and specifies the OpenAPI description's endpoint.
 
-link
+Go back to your browser where your app is and navigate to this URL [https://localhost:5001/swagger](https://localhost:5001/swagger).
 
-## Quiz or Code Challenge
+Learning checklist
+* Configured and implemented OpenAPI and Swagger UI
+* Introduced to middleware and dependency injection
 
-Link to quiz or challenge on Learn
+[Link: Interactive API docs](https://minimal-apis.github.io/tutorial/first-steps.html#interactive-api-docs)
+
+## Create Read Update Delete
+
+You just built simple API where you hard coded the results to HTTP method. Now, we are going to step it up a notch and create something dynamic. Instead of returning a static item that is hardcoded to our route, we are going to be creating to-do list we can update, create new items, mark an item as complete and delete an item.
+
+Our to-do APIs is going to:
+
+* Create a new item.
+* Return a specific item on a list. 
+* Update an existing item.
+* Delete an item. 
+
+### Create a TodoItem class after *app.Run();* using the following code:
+```csharp
+class TodoItem
+{
+    public int Id { get; set; }
+    public string? Item { get; set; }
+    public bool IsComplete { get; set; }
+
+}
+```
+
+### Install the Entity Frameworkcore InMemory package.
+> Entity Framework is a code library that enables the transfer of data stored in relational database tables(E.g. SQLite and MySQL, SQL server etc) into objects that are more commonly used in application code.
+In your terminal execute the following:
+```
+TodoApi>dotnet add package Microsoft.EntityFrameworkCore.InMemory --version 6.0
+```
+Add *using Microsoft.EntityFrameworkCore;* to the top of your Program.cs file.
+
+### Set up your in memory database
+Add the following code snippets
+
+**Snippet 1** : Below the *TodoItem* create a *TodoDb* class
+```csharp
+class TodoDb : DbContext
+{
+    public TodoDb(DbContextOptions options) : base(options) { }
+    public DbSet<TodoItem> Todos { get; set; }
+
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
+        optionsBuilder.UseInMemoryDatabase("Todos");
+    }
+}
+```
+
+**Snippet 2** : Before AddSwaggerGen services we configured earlier, add the code snippet below.
+```csharp
+builder.Services.AddDbContext<TodoDb>(options => options.UseInMemoryDatabase("items"));
+```
+**Return a list of items**
+To read from a list of items in the todo list replace the "/todo" route with the "/todos" route below.
+```csharp
+app.MapGet("/todos", async (TodoDb db) => await db.Todos.ToListAsync());
+```
+Go back your browser and navigate to [https://localhost:5001/swagger](https://localhost:5001/swagger) click on the GET/todos button and you will see the list is empty under Response body.
+
+### Create new items
+Let's *POST* new tasks to the todos list. Below app.MapGet you create earlier.
+```csharp
+app.MapPost("/todos", async (TodoDb db, TodoItem todo) =>
+{
+    await db.Todos.AddAsync(todo);
+    await db.SaveChangesAsync();
+    return Results.Created($"/todo/{todo.Id}", todo);
+});
+```
+
+Go back to Swagger and now you should see POST/todos. To add new items to the todo list:
+
+* Click on POST /todos
+* Click on Try it out
+* Update id, item, and isComplete
+* Click Execute
+
+### Read the items in the list
+To read the items in the list
+
+* Click on GET/todos
+* Click on Try it out
+* Click `Execute
+* The Response body will include the items just added.
+
+To GET an item by id add the code below app.MapPost route created earlier
+```csharp
+app.MapGet("/todos/{id}", async (TodoDb db, int id) => await db.Todos.FindAsync(id));
+```
+
+### Update an item
+To update an existing item add the code below GET /todos/{id} route we created above.
+```csharp
+app.MapPut("/todos/{id}", async ( TodoDb db, TodoItem updateTodo ,int id) =>
+{
+    var todo = await db.Todos.FindAsync(id);
+    
+    if (todo is null) return NotFound();
+    
+    todo.Item = updateTodo.Item;
+    todo.IsComplete = updateTodo.IsComplete;
+
+    await db.SaveChangesAsync();
+
+    return Results.NoContent();
+});
+```
+
+* Click on PUT/todos/{id}
+* Click on Try it out
+* In the id text box enter 2
+* Update Request body paste the JSON below and update isComplete to true.
+```json
+{
+    "id": 2,
+    "item": "Water plants",
+    "isComplete": false
+  }
+```
+* Click Execute
+
+### Delete an item
+To delete an existing item add the code below PUT/todos/{id} we created above.
+```csharp
+app.MapDelete("/todos/{id}", async (TodoDb db, int id) =>
+{
+    var todo = await db.Todos.FindAsync(id);
+    if (todo is null)
+    {
+        return NotFound();
+    }
+    db.Todos.Remove(todo);
+    await db.SaveChangesAsync();
+
+    return Results.Ok();
+
+});
+```
+Now, try deleting an item.
+
+Learning checklist:
+* Add model class and database context
+* CRUD methods (GET, POST, PUT, DELETE)
+* Configured routing and returned values
+
+[Link: Create Read Update Delete](https://minimal-apis.github.io/tutorial/crud.html#create-read-update-delete)
+
+## Set up SQLite database
+
+We just learned how to build a basic CRUD application with an in-memory database. Now, we are going to step it up notch and work with a persistent database. Meaning your data will be saved even after you shut down your application.
+
+Install the following tools and packages
+```
+TodoApi>dotnet add package Microsoft.EntityFrameworkCore.Sqlite --version 6.0
+TodoApi>dotnet tool install --global dotnet-ef
+TodoApi>dotnet add package Microsoft.EntityFrameworkCore.Design --version 6.0
+```
+
+[Working with Databases](https://minimal-apis.github.io/tutorial/databases.html#working-with-databases)
+
+### Enable database creation
+In order to enable database creation they are couple of steps we need to complete:
+
+1. Set the database connection string.
+2. Migrate your data model (see below) to a SQLite database. Create a data model
+```csharp
+class TodoItem
+{
+    public int Id { get; set; }
+    public string? Item { get; set; }
+    public bool IsComplete { get; set; }
+
+}
+```
+3. Create your database and schema
+
+### Set connection string
+In Program.cs below your app builder var builder = WebApplication.CreateBuilder(args); add a connection string.
+```csharp
+var connectionString = builder.Configuration.GetConnectionString("todos") ?? "Data Source=todos.db";
+```
+
+### Add context to your services
+Now we are going to replace the in-memory database with a persistent database. Replace your current in-memory database implementation *builder.Services.AddDbContext<TodoDb>(options => options.UseInMemoryDatabase("items"));* in your build services with the SQLite one below:
+```csharp
+builder.Services.AddSqlite<TodoDb>(connectionString);
+```
+
+### Migrate the data model
+With the EF Core migration tool, you can now start your first migration, InitialCreate. In a terminal window, run the migrations command:
+```
+dotnet ef migrations add InitialCreate    
+```
+    
+### Create your database and schema
+Now that you have completed the migration, you can use it to create your database and schema. In a terminal window, run the database update command below to apply migrations to a database:
+```
+TodoApi> dotnet ef database update
+```
+    
+Learn checklist
+* Setup SQLite database
+* Create a SQLite database
+* Perform SQLite CRUD operation from our todo API
+    
 
 ## Next steps
 
-*links to Microsoft Learn to further learning progress, and/or a path to certifications*
+[Create web apps and services with ASP.NET Core, minimal API, and .NET 6](https://docs.microsoft.com/learn/paths/aspnet-core-minimal-api/)
 
-## Optional Transfer Knowledge activity
-
-*suggest, or add as an addendum, a way to extend students knowledge of the topic by creating a new app or demo that builds on the original workshop materials.*
 
 ## Feedback
 
 Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)!
 
-[Code of Conduct](CODE_OF_CONDUCT.md)
+[Code of Conduct](../CODE_OF_CONDUCT.md)
 
