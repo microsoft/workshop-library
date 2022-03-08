@@ -12,5 +12,7 @@
 
 - [ ] A Call to Action to enhance the workshop with a direct line to Microsoft Learn by linking to an appropriate Learn module.
 
+- [ ] Code quality check: no authentication keys should be included in solution or sample code
+
 A reviewer will be assigned to the workshop and will work with you to shape it for production. Thank you for your contribution!
 
