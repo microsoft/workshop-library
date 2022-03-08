@@ -14,7 +14,7 @@ In this workshop, we will discuss *Minimal APIs*.
 | **What will you learn**       | Learn the basics of creating a web API that links to a persistent database.                                        |
 | **What you'll need**          | [.NET 6 and VS Code (For Windows)](https://aka.ms/dotnet-coding-pack-win), [.NET 6 and VS Code (For macOS)](https://aka.ms/dotnet-coding-pack-mac) |
 | **Duration**                  | 1 hour                                                                |
-| **Slides** | [Powerpoint](Minimal%20APIs%20for%20Students.pptx) 
+| **Slides** | [Powerpoint](slides.pptx) 
 | **Author** | Katie Savage |                         
 ## Video
 
@@ -95,7 +95,7 @@ app.UseSwaggerUI(c =>
 });
 ```
 
-The preceding code enables middleware to serve the generated OpenAPI description as JSON content, enables middle to serve the Swagger UI elements, and specifies the OpenAPI description's endpoint.
+The preceding code enables middleware to serve the generated OpenAPI description as JSON content, enables middleware to serve the Swagger UI elements, and specifies the OpenAPI description's endpoint.
 
 Go back to your browser where your app is and navigate to this URL [https://localhost:5001/swagger](https://localhost:5001/swagger).
 
@@ -319,5 +319,5 @@ Learn checklist
 
 Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)!
 
-[Code of Conduct](../CODE_OF_CONDUCT.md)
+[Code of Conduct](../../CODE_OF_CONDUCT.md)
 
