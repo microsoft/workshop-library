@@ -2,7 +2,7 @@
 
 ## Learn module
 
-[How to build a canvas app](https://docs.microsoft.com/learn/modules/build-app-solution/)
+[How to build a canvas app](https://docs.microsoft.com/learn/modules/build-app-solution/?WT.mc_id=academic-56577-hmitra)
 
 ## Goals
 
@@ -11,7 +11,7 @@ In this workshop, we will discuss how to build a no-code app the low-code way wi
 | **Goal**                                          | Description                                                                                                    |
 | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | **What will you learn**                           | How to build and customize an app with Power Apps and learn about all its elements|
-| **What you'll need**                              | [M365 subscription](https://developer.microsoft.com/microsoft-365/dev-program)                                          |
+| **What you'll need**                              | [M365 subscription](https://developer.microsoft.com/microsoft-365/dev-program?WT.mc_id=academic-56577-hmitra)                                          |
 | **Duration**                                      | 1 hour |
 | **Slides**                                        | [Powerpoint](./slides.pptx)                                                                                      |
 
@@ -21,12 +21,12 @@ Video coming soon...
 
 ## Pre-Learning
 
-- [Introduction to Power Platform](https://docs.microsoft.com/learn/modules/introduction-power-platform/)
+- [Introduction to Power Platform](https://docs.microsoft.com/learn/modules/introduction-power-platform/?WT.mc_id=academic-56577-hmitra)
 
 
 ## Prerequisites
 
-- [M365 subscription](https://developer.microsoft.com/microsoft-365/dev-program) 
+- [M365 subscription](https://developer.microsoft.com/microsoft-365/dev-program?WT.mc_id=academic-56577-hmitra) 
 
 ## What you will learn
 
@@ -38,13 +38,13 @@ Do you want to build an app, but the amount of development knowledge required to
 
 ### Setup your environment
 
-Ensuring that you have an M365 subscription, visit [Power Apps studio](https://make.powerapps.com) and sign in with your account. 
+Ensuring that you have an M365 subscription, visit [Power Apps studio](https://make.powerapps.com?WT.mc_id=academic-56577-hmitra) and sign in with your account. 
 
-If not, [configure and setup an environment](https://docs.microsoft.com/power-platform/admin/create-environment).
+If not, [configure and setup an environment](https://docs.microsoft.com/power-platform/admin/create-environment?WT.mc_id=academic-56577-hmitra).
 
 ### Create the app
 
-After setting up the environment and opening [Power Apps studio](https://make.powerapps.com), click 'Create' from the left panel.
+After setting up the environment and opening [Power Apps studio](https://make.powerapps.com?WT.mc_id=academic-56577-hmitra), click 'Create' from the left panel.
 
 ### Choosing data
 
@@ -52,25 +52,25 @@ You can use some sample data in the attached [zip file](./data/Contoso-Site-Trac
 
 ### Exploring the various elements
 
-To add more detail to the app, explore the various [elements](https://docs.microsoft.com/learn/modules/build-app-solution/2-learn-basic-elements) and services.
+To add more detail to the app, explore the various [elements](https://docs.microsoft.com/learn/modules/build-app-solution/2-learn-basic-elements?WT.mc_id=academic-56577-hmitra) and services.
 
 ### Add logic
 
-Add logic to the app using [functions](https://docs.microsoft.com/learn/modules/build-app-solution/4-get-started-functions-power-apps).
+Add logic to the app using [functions](https://docs.microsoft.com/learn/modules/build-app-solution/4-get-started-functions-power-apps?WT.mc_id=academic-56577-hmitra).
 
 ### Share your app
 
-Now it's time to share! You can publish your app to the organization using [Power Apps](https://docs.microsoft.com/learn/modules/build-app-solution/5-share-app).
+Now it's time to share! You can publish your app to the organization using [Power Apps](https://docs.microsoft.com/learn/modules/build-app-solution/5-share-app?WT.mc_id=academic-56577-hmitra).
 
 ## Next steps
 
 Learn more about Power Apps by visiting the following links:
 
-[Navigation in a canvas app in Power Apps](https://docs.microsoft.com/learn/modules/navigation-canvas-app/)
+[Navigation in a canvas app in Power Apps](https://docs.microsoft.com/learn/modules/navigation-canvas-app/?WT.mc_id=academic-56577-hmitra)
 
-[Customize a canvas app in Power Apps](https://docs.microsoft.com/learn/modules/customize-apps-in-powerapps/)
+[Customize a canvas app in Power Apps](https://docs.microsoft.com/learn/modules/customize-apps-in-powerapps/?WT.mc_id=academic-56577-hmitra)
 
-[Manage apps in Power Apps](https://docs.microsoft.com/learn/modules/manage-apps-in-powerapps/index)
+[Manage apps in Power Apps](https://docs.microsoft.com/learn/modules/manage-apps-in-powerapps/index?WT.mc_id=academic-56577-hmitra)
 
 ## Practice
 

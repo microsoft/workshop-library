@@ -13,7 +13,7 @@
 | **Διάρκεια**                  | 1 ώρα                                                                |
 | **Θέλετε απλώς να δοκιμάσετε την εφαρμογή ή να δείτε την λύση;** | [Λύση](https://github.com/microsoft/workshop-library/tree/main/custom-vision-workshop/solution)                         |
 | **Διαφάνειες** | [Powerpoint](https://github.com/microsoft/workshop-library/blob/main/custom-vision-workshop/slides.pptx)
-| **Δημιουργός** | [Christopher Harrison](https://aka.ms/geektrainer)
+| **Δημιουργός** | [Christopher Harrison](https://geektrainer.dev)
 
 ## Τι θα φτιάξετε με το CustomVision.ai
 

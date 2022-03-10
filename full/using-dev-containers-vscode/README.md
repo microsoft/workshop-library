@@ -18,7 +18,8 @@ In this workshop, you will learn how to access, customize, and add software to d
 
 # Video
 
-Video coming soon...
+[![workshop walk-through](./images/promo.png)](https://youtu.be/StzyJcGI0uo) "workshop walk-through")
+> 🎥 Click this image to watch Ornella walk you through the workshop
 
 ## Pre-Learning
 

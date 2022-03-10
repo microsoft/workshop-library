@@ -9,7 +9,7 @@ Using the power of github.dev, a service that allows you to work with files in G
 | **Project Goal**              | Build a resume web site using HTML, CSS, and host it on GitHub pages                                    |
 | ----------------------------- | --------------------------------------------------------------------- |
 | **What will you learn**       | Basics of HTML and CSS to showcase your skills in an online resume                                        |
-| **What you'll need**          | A modern web browser like [Microsoft Edge](https://www.microsoft.com/edge) or [Google Chrome](https://www.google.com/chrome/) and a [GitHub account](https://github.com) |
+| **What you'll need**          | A modern web browser like [Microsoft Edge](https://www.microsoft.com/edge?WT.mc_id=academic-51109-ornella) or [Google Chrome](https://www.google.com/chrome/) and a [GitHub account](https://github.com) |
 | **Duration**                  | 1 - 1.5 hour(s)                                                                |
 | **Just want to try the app or see the solution?** | [Solution](./solution)                         |
 | **Slides** | [Powerpoint](slides.pptx)
@@ -21,7 +21,7 @@ Using the power of github.dev, a service that allows you to work with files in G
 > 🎥 Click this image to watch Ornella and Burke as they walk you through the workshop
 
 ## Prerequisites
-To create your resume website, you'll need to download a modern web browser like [Microsoft Edge](https://www.microsoft.com/edge) or [Google Chrome](https://www.google.com/chrome/). You'll also need a [GitHub account](https://github.com/join).
+To create your resume website, you'll need to download a modern web browser like [Microsoft Edge](https://www.microsoft.com/edge?WT.mc_id=academic-51109-ornella) or [Google Chrome](https://www.google.com/chrome/). You'll also need a [GitHub account](https://github.com/join).
 
 ## Final Project
 By the end of this workshop, you'll have created a resume web site that will look like this:

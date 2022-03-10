@@ -13,7 +13,7 @@ Over the course of this workshop you will build a model to detect dog breeds. Yo
 | **Duration**                  | 1 hour                                                                |
 | **Just want to try the app or see the solution?** | [Solution](./solution)                         |
 | **Slides** | [Powerpoint](slides.pptx)
-| **Author** | [Christopher Harrison](https://aka.ms/geektrainer)
+| **Author** | [Christopher Harrison](https://geektrainer.dev)
 
 ## Video walk-through
 

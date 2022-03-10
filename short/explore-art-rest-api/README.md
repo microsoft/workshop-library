@@ -17,7 +17,9 @@ In this workshop, you will learn the basics of REST APIs, a way to securely quer
 
 ## Video
 
-coming soon!
+[![workshop walk-through](./images/promo.png)](https://youtu.be/QJHd4jf4ekI "workshop walk-through")
+> 🎥 Click this image to watch Jen walk you through the workshop starting at 0:56:00
+
 
 ## What you will learn
 

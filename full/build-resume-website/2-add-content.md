@@ -47,7 +47,7 @@ Create a link to your email address and any social media you wish to share on yo
     </p>
     ```
 
-> **IMPORTANT** Whenever you add a link to a page you want to ensure the text which is displayed for the link (commonly referred to as link text) accurately describes the target of the link. Text like **here** or **click here** aren't accessible because they don't help the user understand the significance of the link. Using [good link text makes your pages accessible](https://docs.microsoft.com/learn/modules/web-development-101-accessibility/4-links-images) to all.
+> **IMPORTANT** Whenever you add a link to a page you want to ensure the text which is displayed for the link (commonly referred to as link text) accurately describes the target of the link. Text like **here** or **click here** aren't accessible because they don't help the user understand the significance of the link. Using [good link text makes your pages accessible](https://docs.microsoft.com/learn/modules/web-development-101-accessibility/4-links-images?WT.mc_id=academic-51109-ornella) to all.
 
 ## Creating lists
 

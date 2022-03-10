@@ -17,7 +17,8 @@ In this workshop, you will learn how to create, execute, monitor, and test Azure
                          
 ## Video
 
-Video coming soon...
+[![workshop walk-through](./images/promo.png)](https://youtu.be/ebiLaNQuP4g "workshop walk-through")
+> 🎥 Click this image to watch Ornella walk you through the workshop
 
 ## Pre-Learning
 

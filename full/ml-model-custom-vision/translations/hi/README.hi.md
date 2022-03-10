@@ -13,7 +13,7 @@ Azure [कस्टम विजन](https://docs.microsoft.com/azure/cognitive-
 | **अवधि**                  | 1 घंटा                                                                |
 | **बस ऐप आज़माएं या समाधान देखें?** | [समाधान](../../solution)                         |
 | **स्लाइड्स** | [Powerpoint](../../slides.pptx)
-| **लेखक** | [Christopher Harrison](https://aka.ms/geektrainer)
+| **लेखक** | [Christopher Harrison](https://geektrainer.dev)
 
 ## आप CustomVision.ai के साथ क्या निर्माण करेंगे
 

@@ -17,7 +17,9 @@ In this workshop, you will learn to deploy your static files to Azure, whether t
 
 ## Video
 
-coming soon!
+[![workshop walk-through](./images/promo.png)](https://youtu.be/QJHd4jf4ekI "workshop walk-through")
+> 🎥 Click this image to watch Chris walk you through the workshop starting at 0:21:00
+
 
 ## What you will learn
 
