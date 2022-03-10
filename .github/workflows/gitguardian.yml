@@ -17,6 +17,7 @@ jobs:
   scanning:
     name: GitGuardian scan
     runs-on: ubuntu-latest
+    if: github.repository_owner == 'microsoft'
     steps:
       - name: Checkout
         uses: actions/checkout@v2
