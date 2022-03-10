@@ -17,7 +17,7 @@ jobs:
   scanning:
     name: GitGuardian scan
     runs-on: ubuntu-latest
-    if: github.repository_owner == 'microsoft'
+    if: github.repository == ‘microsoft/workshop-library’
     steps:
       - name: Checkout
         uses: actions/checkout@v2
