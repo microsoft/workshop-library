@@ -51,9 +51,7 @@ You will be able to...
 What is Diabetic Retinopathy?
   A diabetes complication that affects eyes, which might cause no symptoms or only mild vision problems at first. But it can lead to blindness. Careful management of diabetes is the best way to prevent vision loss. Patient should see an eye doctor for a yearly eye exam with dilation — even if the vision seems fine.
 
-![image](https://user-images.githubusercontent.com/49314681/153230680-9351bded-4c7c-43e3-aa61-a9c5ae55f357.png)
-
-
+![eye image](images/eye.png)
 
 ## Milestone 1 - Custom Vision project build up
 
@@ -68,11 +66,11 @@ In Azure, you can use the Custom Vision cognitive service to train an image clas
     You are free to amalgamate both these datasets to strengthen the robustness of your model. 
 
 2. Open the Azure portal at https://portal.azure.com/. If prompted, sign in using the Microsoft account associated with your Azure subscription and agree to the terms of service
-![image](https://user-images.githubusercontent.com/49314681/156890834-f302abcb-8a1c-4f07-8c4c-20052ddc18df.png)
+![screenshot 1](images/screenshot-1.png)
 
 
 3. Click the Custom Vision section, then you'll enter this page:
-  ![image](https://user-images.githubusercontent.com/49314681/156890910-7e75e2b1-1908-4823-8cfc-59f6277979b9.png)
+  ![screenshot 2](images/screenshot-2.png)
 
     * Let's create a new project with the following settings:
 
@@ -95,12 +93,12 @@ In Azure, you can use the Custom Vision cognitive service to train an image clas
           Pricing tier: Standard
           
     Click 'Review+create'. Once your resource is validated, hit 'Create'. <br> You will now have the resource group available
-    ![image](https://user-images.githubusercontent.com/49314681/156891388-239bdaa4-eba6-4918-aa1c-592ea948954b.png)
+    ![screenshot 3](images/screenshot-3.png)
 
       
 4. Next, login to the [Custom Vision portal](https://www.customvision.ai/), create a new project with the following settings:
 
-   ![image](https://user-images.githubusercontent.com/49314681/156891552-09ef5f49-165f-47a8-9420-3811e275c914.png)
+   ![screenshot 4](images/screenshot-4.png)
 
           Name: Diabetic Retinopathy detection 
 
@@ -116,7 +114,7 @@ In Azure, you can use the Custom Vision cognitive service to train an image clas
    Then, click 'Create Project'
 
 5. You will enter the User Interface of Custom Vision like the one below. Click [+] Add images, and select all of the files in the positive image folder you extracted previously. Then upload the image files, specifying the tag positive
-   ![image](https://user-images.githubusercontent.com/49314681/156891847-a2a36206-9aae-49a5-a126-5cd83b75af48.png)
+   ![custom vision portal](images/cv-portal.png)
 
 6. Repeat the previous step to upload the images in the negative folder with the tag negative
 
@@ -127,7 +125,7 @@ In Azure, you can use the Custom Vision cognitive service to train an image clas
    * Precision indicates the fraction of identified classifications that were correct. For example, if the model identified 100 images as dogs, and 99 of them were actually of dogs, then the precision would be 99%.
    * Recall indicates the fraction of actual classifications that were correctly identified. For example, if there were actually 100 images of apples, and the model identified 80 as apples, the recall would be 80%.
    * Mean average precision is the average value of the average precision (AP). AP is the area under the precision/recall curve (precision plotted against recall for each prediction made).
-![image](https://user-images.githubusercontent.com/49314681/155886624-4209eff5-e132-4c11-9593-b437a62c975b.png)
+![cv training](images/cv-training.png)
 
 
 ## Milestone 2 - Test the model & Generate Custom Vision link
@@ -241,7 +239,7 @@ User acceptance test (Optional)
 
 Congratulations! You made your first app, and it's tested and ready to go! Now you can [publish](https://docs.microsoft.com/powerapps/maker/canvas-apps/save-publish-app) and [share](https://docs.microsoft.com/powerapps/maker/canvas-apps/share-app) your canvas app!
 
-## Knowledge test
+## Knowledge check
 
 https://docs.microsoft.com/learn/modules/classify-images-custom-vision/3a-knowledge-check
 
@@ -259,8 +257,6 @@ AI business school for healthcare: https://docs.microsoft.com/learn/paths/ai-bus
 
 The Value of Computer Vision in Healthcare Panel in [this video](https://www.youtube.com/watch?v=dbISoN71rrY)
 
-
-
 ## Optional Transfer Knowledge activity
 
 You can modify your app to analyze images, including generating a descriptive caption, extracting relevant tags, identifying objects, determining image type and metadata, detecting human faces, known brands, and celebrities, and others. You can find out more about using the Computer Vision service in the [service documentation](https://docs.microsoft.com/azure/cognitive-services/computer-vision/).
@@ -277,5 +273,5 @@ Share your apps instantly so that coworkers can use them on their phones and tab
 
 Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)!
 
-[Code of Conduct](CODE_OF_CONDUCT.md)
+[Code of Conduct](../../CODE_OF_CONDUCT.md)
 
