@@ -15,9 +15,10 @@ In this workshop, we will discuss how to build a no-code app the low-code way wi
 | **Duration**                                      | 1 hour |
 | **Slides**                                        | [Powerpoint](./slides.pptx)                                                                                      |
 
-## Video
+## Video walk-through
 
-Video coming soon...
+[![workshop walk-through](./images/promo.png)](https://youtu.be/NLXtRjXgMBo "workshop walk-through")
+> 🎥 Click this image to watch Someleze walk you through the workshop
 
 ## Pre-Learning
 
