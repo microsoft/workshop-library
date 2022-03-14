@@ -19,7 +19,7 @@ Customize a Power app by adding controls, images, and logic.
 
 ## Stage 2: Evidence
 
-By the end of the workshop, students will be able to build a customed app combined with custom vision service. A quiz is embedded in the slides.
+By the end of the workshop, students will be able to build a custom app combined with custom vision service. A quiz is embedded in the slides.
 
 ## Stage 3: Learning Plan
 
