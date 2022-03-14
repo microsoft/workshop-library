@@ -9,7 +9,7 @@
 En este taller, cubriremos cómo procesar texto usando TensorFlow, una plataforma popular para el aprendizaje automático.
 
 | **Objetivo** | Descripción |
-| -------------------------------------------- | -------------------------------------------------- ------------------- |
+| -------------------------------------------- | ---------------------------------------------------------------------- |
 | **Qué aprenderás** | Analizar texto con TensorFlow |
 | **Lo que necesitarás** | <ul><li>[Python](https://docs.microsoft.com/es-es/learn/modules/python-install-vscode/?WT.mc_id=academic-56322-alfredodeza)</li> <li>[Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-56322-alfredodeza)</li><li>[Configurar VSCode para Data Science](https://youtu.be/yyQM70vi7V8)< /li></ul> |
 | **Duración** | 1 hora |
