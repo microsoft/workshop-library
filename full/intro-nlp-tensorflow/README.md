@@ -6,7 +6,7 @@
 
 ## Goals
 
-In this workshop, we will cover how text is processed using TensorFlow, a popular platform for machine learning. 
+In this workshop, we will cover how text is processed using TensorFlow, a popular platform for machine learning.
 
 | **Goal**              | Description                                    |
 | ----------------------------- | --------------------------------------------------------------------- |
@@ -14,10 +14,11 @@ In this workshop, we will cover how text is processed using TensorFlow, a popula
 | **What you'll need**                              | <ul><li>[Python](https://docs.microsoft.com/learn/modules/python-install-vscode/?WT.mc_id=academic-56322-alfredodeza)</li> <li>[Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-56322-alfredodeza)</li><li>[Setup VSCode for Data Science](https://youtu.be/yyQM70vi7V8)</li></ul>                                          |
 | **Duration**                                      | 1 hour |
 | **Slides**                                        | [Powerpoint](./slides.pptx)                                                                                      |
-                         
+
 ## Video
 
-Video coming soon!
+[![Tensorflow and Keras for NLP](https://img.youtube.com/vi/f2RoFeLDneI/0.jpg)](https://youtu.be/f2RoFeLDneI "Tensorflow and Keras for NLP video - Click to Watch!")
+> 🎥 Click the image above to learn how to deliver this workshop
 
 ## Pre-Learning
 
@@ -71,8 +72,8 @@ Work through the [sandboxed Jupyter Notebook](https://docs.microsoft.com/learn/m
 
 The notebook will go through the following items:
 
-- Load the AG News dataset and train it with TensorFlow 
-- Use masking to minimize the amount of padding 
+- Load the AG News dataset and train it with TensorFlow
+- Use masking to minimize the amount of padding
 - Use LSTM to learn relationships between distant tokens
 
 
