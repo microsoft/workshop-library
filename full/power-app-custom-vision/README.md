@@ -135,7 +135,7 @@ Before publishing this iteration of the model for applications to use, you shoul
 1. Above the performance metrics, click 'Quick Test'. View the predictions returned by your model - the probability score should be around 90%
 2. In the Quick Test window, select in the Submit Image field and enter the URL of the image you want to use for your test. If you want to use a locally stored image instead, select the Browse local files button and select a local image file.
 3. The image you select appears in the middle of the page. Then the prediction results appear below the image in the form of a table with two columns, labeled Tags and Confidence. After you view the results, you may close the Quick Test window.
-![image](https://user-images.githubusercontent.com/49314681/155886729-36553579-5027-4018-ae34-a2112f72659b.png)
+![quick test window](images/quick-test.png)
 
 Now you're ready to publish your trained model and use it from a client application!
 
@@ -153,68 +153,68 @@ Go to https://make.powerapps.com and sign in with your organizational account.
 
 The following figure shows the main development window when you enter Power Apps Studio:
 
-![image](https://user-images.githubusercontent.com/49314681/154696362-9b2cc7c7-a128-43c5-b5bc-50ae81271788.png)
+![studio 1](images/studio-1.png)
 
-![image](https://user-images.githubusercontent.com/49314681/154700454-9167caf1-a1a2-4e6a-94c9-7ad135296c72.png)
+![studio 2](images/studio-2.png)
 
 Now we will have a look at the steps to connecting our application to Custom Vision
 
 1. We need to connect to Custom Vision by going Data source→(search Custom Vision) → Select Custom Vision → Choose a table/entity.
-![image](https://user-images.githubusercontent.com/49314681/154702946-e50aca72-ec96-4391-aa2c-f260bdb07615.png)
+![connect 1](images/connect-1.png)
 2. Then you will be asked to enter the Prediction Key and Site URL. We'll go back to Custom Vision Performance tab and find the Prediction Key like the image below (We covered the specific keys to avoid cost of reusing resources)
-![image](https://user-images.githubusercontent.com/49314681/157447442-960c9472-cf7e-4961-91d9-d5e4801c2040.png)
+![connect 2](images/connect-2.png)
 
 We'll use only a portion of the image file URL like the image below
-![image](https://user-images.githubusercontent.com/49314681/157447520-676296ba-66eb-4629-975e-510056810c8f.png)
+![connect 3](images/connect-3.png)
 
 Click 'Connect' then your Custom Vision data resource will appear in your left pane!
 
 ## Milestone 4 - Layout of Power App
 Now, we'll create the 'CameraTestScreen'
  * First, add the 'Camera' feature for detection functionality on phone or tablet
- ![image](https://user-images.githubusercontent.com/49314681/156895614-a5e6fc20-3f60-429a-b4ca-c6bdb37e67e7.png)
+ ![layout 1](images/layout-1.png)
  * Then, add one button 'Scan'. Its OnSelect function should be similar as below as we are using the [ClearCollect](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/functions/function-clear-collect-clearcollect), and we are naming it as camercol 
  
- ![image](https://user-images.githubusercontent.com/49314681/157448005-d004daea-11ab-4d2a-810c-5b2e402b1131.png)
- * Next, let's insert a gallery to show the scaning process, 
- ![image](https://user-images.githubusercontent.com/49314681/156896003-5332ca53-1461-49e5-b1fa-a66686aa13be.png)
+ ![layout 2](images/layout-2.png)
+ * Next, let's insert a gallery to show the scanning process, 
+ ![layout 3](images/layout-3.png)
    * When prompted, choose camercol as the resource group
    * In properties, choose Layout as 'title and subtitle', and font color as yellow or as you like
-   ![image](https://user-images.githubusercontent.com/49314681/157069405-2b2a2270-7322-40e4-ab57-22e6fe1ecd10.png)
+   ![layout 4](images/layout-4.png)
    * Then, Click 'Title2' in the left pane. Modify its function as ThisItem.tagName and change font color as yellow or as you like
-   ![image](https://user-images.githubusercontent.com/49314681/156896243-03154b21-76a8-40fc-8ddb-6d1b6a49f311.png)
+   ![layout 5](images/layout-5.png)
    * Moving on to 'Subtitle2' in the left pane, we are going to use it showing the percentage of positive or negative detection result. Modify its function as Round(ThisItem.probability*100,2)&"%" and change font color as yellow or as you like
-   ![image](https://user-images.githubusercontent.com/49314681/156896384-d87caf9c-16dd-42c7-a780-3c333ac48707.png)
+   ![layout 6](images/layout-6.png)
  * Lastly, rename the screen name as 'CameraTestScreen'. 
 
 The second screen is 'GalleryTestScreen', which looks like this 
-![image](https://user-images.githubusercontent.com/49314681/154808073-79c740db-66cc-4205-9f34-94f5c82b41d4.png)
+![layout 7](images/layout-7.png)
  * First, let's add the 'add picture' function
- ![image](https://user-images.githubusercontent.com/49314681/156896517-de8ede06-50eb-40cc-a18a-0c4567281ed1.png)
-   It should generate the box like below
-   ![image](https://user-images.githubusercontent.com/49314681/156896572-c6d0d114-b7eb-4c6b-9a0e-3635c5889408.png)
+ ![layout 8](images/layout-8.png)
+  It should generate the box like below
+   ![layout 9](images/layout-9.png)
    
  * Then, add one button 'Scan'. Its OnSelect function should be similar as below, and we are naming it as gallerycol   
- ![image](https://user-images.githubusercontent.com/49314681/157448097-cdb333c6-44ab-42ce-814e-fec4642ce1cf.png)
+ ![layout 10](images/layout-10.png)
  * Next, let's insert a gallery, similar process as we add it in the first camera screen
  * You can test out the the detection process using the preview!
- ![image](https://user-images.githubusercontent.com/49314681/156899193-09aa0649-1ad0-4e81-ae24-415cedd3c9fb.png)
+ ![layout 11](images/layout-11.png)
 
 Moving forward, we'll build up the navigation screen when you enter the app. 
-![image](https://user-images.githubusercontent.com/49314681/154807189-cb262ccd-8541-47db-b817-99f09ee07447.png)
+![layout 12](images/layout-12.png)
  * Let's change the background to 'Black' and add the background image
- ![image](https://user-images.githubusercontent.com/49314681/156899255-091f9240-62c9-475e-a982-7cf7eece9b06.png)
+ ![layout 13](images/layout-13.png)
  * There'll be a label of our app at the top, refer as "Diabetic Retinopathy Detector", or as what naming you prefer
- ![image](https://user-images.githubusercontent.com/49314681/156899297-be53bb6d-2a20-40e6-a4d4-4a4ad46ba77e.png)
+ ![layout 14](images/layout-14.png)
  * Add two buttons, one 'Camera Test', another 'Upload Image', modify the OnSelect function to navigate the clicking action
- ![image](https://user-images.githubusercontent.com/49314681/156899356-9b38e0a2-b452-4d1b-98a5-be8c86f71844.png)
+ ![layout 15](images/layout-15.png)
 
  * Finally, add one button 'Back' in the camera and galary screen to navigate back to the main screen
    * input function: Navigate('Navigation Screen')
-   ![image](https://user-images.githubusercontent.com/49314681/156899403-3ab07a8e-5652-47a4-b161-a24e6e71089d.png)
+   ![layout 16](images/layout-16.png)
 
 After performing all the above steps, you get a Power Apps with screens and functions which will look like the image below. 
-![image](https://user-images.githubusercontent.com/49314681/154808685-0902d369-32d0-4d6c-8e7c-ef460593a0e6.png)
+![layout 17](images/layout-17.png)
 
 The app can run on mobile, install the Power Apps Mobile app on your phone. When building an app, you should test it in the same form factor as your users!
 
@@ -247,17 +247,17 @@ https://docs.microsoft.com/learn/modules/get-started-with-powerapps/6-powerapps-
 
 ## Next steps
 
-Learning more about Custom Vision: https://docs.microsoft.com/learn/paths/explore-computer-vision-microsoft-azure/
+[Learning more about Custom Vision](https://docs.microsoft.com/learn/paths/explore-computer-vision-microsoft-azure/)
 
-Learning more about Canvas App creation:https://docs.microsoft.com/learn/paths/create-powerapps/
+[Learning more about Canvas App creation](https://docs.microsoft.com/learn/paths/create-powerapps/)
 
-Azure Health bot by using built-in or custom scenarios: https://docs.microsoft.com/learn/paths/create-bots-azure-health-bot/
+[Azure Health bot by using built-in or custom scenarios](https://docs.microsoft.com/learn/paths/create-bots-azure-health-bot/)
 
-AI business school for healthcare: https://docs.microsoft.com/learn/paths/ai-business-school-healthcare/?WT.mc_id=sitertzn_homepage_mslearn-card-aibusinessschool
+[AI business school for healthcare](https://docs.microsoft.com/learn/paths/ai-business-school-healthcare)
 
 The Value of Computer Vision in Healthcare Panel in [this video](https://www.youtube.com/watch?v=dbISoN71rrY)
 
-## Optional Transfer Knowledge activity
+## Practice your skills
 
 You can modify your app to analyze images, including generating a descriptive caption, extracting relevant tags, identifying objects, determining image type and metadata, detecting human faces, known brands, and celebrities, and others. You can find out more about using the Computer Vision service in the [service documentation](https://docs.microsoft.com/azure/cognitive-services/computer-vision/).
 
