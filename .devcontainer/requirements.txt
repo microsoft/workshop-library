@@ -1,9 +1,9 @@
+pandas
+numpy 
 flask
 jupyter
 datascience 	
-numpy 
 pybryt
-pandas 
 scipy 
 folium
 matplotlib 
