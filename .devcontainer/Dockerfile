@@ -53,6 +53,16 @@ RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
         ottr \
     && rm -rf /tmp/downloaded_packages
 
+RUN apt-get -y install apt-utils \
+    build-essential \
+    python3 \
+    gcc \
+    python3-dev \
+    python3-pip \
+    python3-numpy \
+    python3-pandas
+
+
 # Install summarytools and load some R package off the bat
 RUN R -e "devtools::install_github('https://github.com/dcomtois/summarytools/tree/0-8-9')"
 RUN R -e "library(ottr)"
