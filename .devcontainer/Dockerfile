@@ -26,6 +26,21 @@ RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
         libxt-dev \
     && apt-get autoremove -y && apt-get clean -y && rm -rf /var/lib/apt/lists/* /tmp/library-scripts \
     && python3 -m pip --no-cache-dir install radian \
+    && pip --disable-pip-version-check --no-cache-dir install pybryt \
+    && pip --disable-pip-version-check --no-cache-dir install pylint \
+    && pip --disable-pip-version-check --no-cache-dir install jupyter \
+    && pip --disable-pip-version-check --no-cache-dir install datascience \
+    && pip --disable-pip-version-check --no-cache-dir install otter-grader \
+    && pip --disable-pip-version-check --no-cache-dir install numpy \
+    && pip --disable-pip-version-check --no-cache-dir install pandas \
+    && pip --disable-pip-version-check --no-cache-dir install scipy \
+    && pip --disable-pip-version-check --no-cache-dir install folium>=0.9.1 \
+    && pip --disable-pip-version-check --no-cache-dir install matplotlib \
+    && pip --disable-pip-version-check --no-cache-dir install ipywidgets>=7.0.0 \
+    && pip --disable-pip-version-check --no-cache-dir install bqplot \
+    && pip --disable-pip-version-check --no-cache-dir install nbinteract>=0.0.12 \
+    && pip --disable-pip-version-check --no-cache-dir install otter-grader \
+    && pip --disable-pip-version-check --no-cache-dir install okpy \
     && install2.r --error --skipinstalled --ncpus -1 \
         devtools \
         languageserver \
