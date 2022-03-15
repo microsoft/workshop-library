@@ -11,7 +11,7 @@ En este taller, cubriremos cómo procesar texto usando TensorFlow, una plataform
 | **Objetivo** | Descripción |
 | -------------------------------------------- | ---------------------------------------------------------------------- |
 | **Qué aprenderás** | Analizar texto con TensorFlow |
-| **Lo que necesitarás** | <ul><li>[Python](https://docs.microsoft.com/es-es/learn/modules/python-install-vscode/?WT.mc_id=academic-56322-alfredodeza)</li> <li>[Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-56322-alfredodeza)</li><li>[Configurar VSCode para Data Science](https://youtu.be/yyQM70vi7V8)< /li></ul> |
+| **Lo que necesitarás** | <ul><li>[Python](https://docs.microsoft.com/es-es/learn/modules/python-install-vscode/?WT.mc_id=academic-56322-alfredodeza)</li> <li>[Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-56322-alfredodeza)</li><li>[Configurar VSCode para Data Science](https://youtu.be/yyQM70vi7V8)</li></ul> |
 | **Duración** | 1 hora |
 | ** Diapositivas ** | [Powerpoint](./diapositivas.pptx) |
 
@@ -41,10 +41,10 @@ $ wget -q -O - https://mslearntensorflowlp.blob.core.windows.net/data/tfds-ag-ne
 
 TensorFlow es una plataforma de aprendizaje automático muy popular que permite muchos flujos de trabajo y operaciones para el aprendizaje automático en Python. En este taller, aprenderás cómo procesar y analizar texto, para que puedas generar texto o responder preguntas según el contexto.
 
-![Imagen del texto generado](images/generate.png)
-![Imagen de entrenamiento secuencial](images/secuencial.png)
+![Imagen del texto generado](../../images/generate.png)
+![Imagen de entrenamiento secuencial](../../images/secuencial.png)
 
-## Hito 1: representar texto como tensores
+## Paso 1: representar texto como tensores
 
 Completa el [Notebook de Jupyter de espacio aislado](https://docs.microsoft.com/es-es/learn/modules/intro-natural-language-processing-tensorflow/2-represent-text-as-tensors?WT.mc_id=academic-56322- alfredodeza) que cubrirá lo siguiente:
 
@@ -54,7 +54,7 @@ Completa el [Notebook de Jupyter de espacio aislado](https://docs.microsoft.com/
 - Calcula automáticamente vectores de bolsa de palabras con TensorFlow
 
 
-## Hito 2: representar palabras con incrustaciones
+## Paso 2: representar palabras con incrustaciones
 
 Vaya a [Jupyter Notebook en espacio aislado](https://docs.microsoft.com/learn/modules/intro-natural-language-processing-tensorflow/3-embeddings?WT.mc_id=academic-56322-alfredodeza) para trabajar con el conjunto de datos de AG News e intentar representar un significado _semántico_ de una palabra.
 
@@ -65,7 +65,7 @@ En esta sección podrás:
 - Usa incrustaciones pre-entrenadas disponibles en el marco Keras
 - Averigüa sobre posibles dificultades y limitaciones de las representaciones de incrustación tradicionales preentrenadas como Word2Vec
 
-## Hito 3: capturar patrones con redes neuronales recurrentes
+## Paso 3: capturar patrones con redes neuronales recurrentes
 
 Completa el [Notebook de Jupyter de espacio aislado](https://docs.microsoft.com/es-es/learn/modules/intro-natural-language-processing-tensorflow/4-recurrent-networks?WT.mc_id=academic-56322-alfredodeza) para comprender no sólo el significado agregado de las palabras, sino también tener en cuenta el orden. Para capturar el significado de una secuencia de texto, utilizarás una red neuronal recurrente.
 
@@ -76,7 +76,7 @@ El cuaderno pasará por los siguientes elementos:
 - Usa LSTM para aprender relaciones entre tokens distantes
 
 
-## Hito 4: Generar texto con redes recurrentes
+## Paso 4: Generar texto con redes recurrentes
 
 Complete el [Cuaderno Jupyter de espacio aislado](https://docs.microsoft.com/es-es/learn/modules/intro-natural-language-processing-tensorflow/5-generative-networks?WT.mc_id=academic-56322-alfredodeza) para descubrir cómo generar texto usando RNNs (Recurrent Neural Networks). En esta sección final del taller, cubrirá lo siguiente:
 
