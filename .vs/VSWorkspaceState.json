@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.devcontainer",
+    "\\.devcontainer\\library-scripts",
+    "\\binder"
+  ],
+  "SelectedNode": "\\.devcontainer\\devcontainer.json",
+  "PreviewInSolutionExplorer": false
+}
