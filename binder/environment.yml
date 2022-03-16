@@ -1,0 +1,23 @@
+# This environment file is for binder env
+# Testing libraries (nbval, flake8, and flake8-nb)
+# are not considered dependencies. They are pip-installed
+# separately on CI.
+
+name: conda-environment
+
+channels:
+  - defaults
+
+dependencies:
+  - pip
+  - python=3.8  # Python 3.9 also works, but we are being a bit conservative here.
+  - pip:
+    - jupyter
+    - numpy
+    - pandas
+    - pybryt>=0.1.8
+    - ipykernel==5.5.5
+    - matplotlib
+    - scikit-learn
+    # There is a conflict between pybryt and ipykernel>=6.0.0 (released 2 July 2021).
+    # Because of that, we fix ipykernel version until version 6.* matures.
