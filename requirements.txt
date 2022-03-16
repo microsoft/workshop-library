@@ -12,3 +12,4 @@ bqplot
 nbinteract==0.0.12 
 otter-grader 
 okpy
+scikit-learn
