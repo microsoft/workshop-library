@@ -17,5 +17,7 @@ dependencies:
     - pandas
     - pybryt>=0.1.8
     - ipykernel==5.5.5
+    - matplotlib
+    - scikit-learn
     # There is a conflict between pybryt and ipykernel>=6.0.0 (released 2 July 2021).
     # Because of that, we fix ipykernel version until version 6.* matures.
