@@ -1,0 +1,15 @@
+pandas
+numpy 
+flask
+jupyter
+datascience 	
+pybryt
+scipy 
+folium
+matplotlib 
+ipywidgets>=7.0.0 
+bqplot 
+nbinteract==0.0.12 
+otter-grader 
+okpy
+scikit-learn
