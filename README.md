@@ -2,7 +2,7 @@
 
 Welcome to the [Next Generation Team's Workshop Library](presentation.pptx), built by Cloud Advocates and their colleagues in partnership with Microsoft Student Ambassadors. In this repo, you'll find grab-and-go resources to help you host your own workshop.
 
-[![CodeQL](https://github.com/microsoft/workshop-library/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/microsoft/workshop-library/actions/workflows/codeql-analysis.yml)
+> video here
 
 # Prepared Workshops
 
