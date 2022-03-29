@@ -13,7 +13,7 @@
 - Executing a function using triggers
 - Monitoring and testing their Azure Function from the Azure portal
 
-1. Students will be able to independently use their learning to:
+2. Students will be able to independently use their learning to:
 - Use Azure Functions in their projects 
 
 ## Stage 2: Evidence
