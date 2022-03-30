@@ -20,7 +20,9 @@ In this workshop, we will discuss how to build a no-code app with Custom Vision 
                          
 ## Video
 
-Embed your Train the Trainer video here. Instructions on how to create a great video experience is [available on this page](../video-guidance.md).
+[![workshop walk-through](./images/promo.png)](https://youtu.be/YctfdD8ycQY "workshop walk-through")
+> 🎥 Click this image to watch Jingyi and Sanya walk you through the workshop
+
 
 ## Pre-Learning
 
