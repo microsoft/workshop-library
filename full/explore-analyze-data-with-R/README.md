@@ -1,10 +1,6 @@
 # Explore and analyze data with R
 
 
-## Module Source
-
-[Explore and Analyze data with R](https://review.docs.microsoft.com/en-us/learn/modules/explore-analyze-data-with-r/?branch=NEW-ml-explore-data)
-
 ## Goals
 
 Hello and welcome to this learning adventure! In this repo, you will find a Data Exploration Notebook. This is basically an autograding guided assessment notebook that will help you test your understanding in using R to explore and analyze data! We hope that you will find that R, is at its heart, a beautiful and elegant language for Data Science.
@@ -13,16 +9,13 @@ Hello and welcome to this learning adventure! In this repo, you will find a Data
 | ----------------------------- | -----------------------------------------------|
 | **What will you learn**       | How to use R to explore and analyze data           |
 | **What you'll need**          | [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-55190-ornella), [Docker Desktop](https://www.docker.com/products/docker-desktop), [Remote Developer Extension](https://aka.ms/vscode-remote/download/extension) and [Git](https://git-scm.com/downloads) |
-| **Duration**                  | 1 hour and 20 Minutes                                         |
+| **Duration**                  | 2 hours                                      |
 | **Slides**                    | [Powerpoint](./slides.pptx)                                |
 
 ## Video
 
-**Coming soon!**
-
-## Pre-Learning
-
-This workshop allows learners to use the skills learnt in the module [Explore and Analyze Data with R](https://review.docs.microsoft.com/en-us/learn/modules/explore-analyze-data-with-r/?branch=NEW-ml-explore-data) to create their own regression models. As such, learners are encouraged to go through the module beforehand so as to be conversant with some of the concepts covered in this worksop.
+[![workshop walk-through](./images/promo.png)](https://youtu.be/VrVHaxarniY "workshop walk-through")
+> 🎥 Click this image to watch Carlotta walk you through the workshop material and to gain some tips about delivering this workshop.
 
 ## Prerequisites
 
@@ -30,7 +23,7 @@ To get you up and running and writing R code in no time, we have containarized t
 
 ### Setting up the development container
 
-A **development container** is a running [Docker](https://www.docker.com) container with a well-defined tool/runtime stack and its prerequisites. You can try out development containers with **[GitHub Codespaces](https://github.com/features/codespaces)** or **[Visual Studio Code Remote - Containers](https://aka.ms/vscode-remote/containers)**.
+A **development container** is a running [Docker](https://www.docker.com) container with a well-defined tool/runtime stack and its prerequisites. You can try out development containers with **[GitHub Codespaces](https://github.com/features/codespaces)**, **[Binder](https://mybinder.org/)** or **[Visual Studio Code Remote - Containers](https://aka.ms/vscode-remote/containers)**.
 
 #### GitHub Codespaces
 Follow these steps to open this workshop in a Codespace:
@@ -114,15 +107,11 @@ In this section, you will:
 
     - Which route has the highest average arrival delay?
 
-## Quiz
-
-Test your knowledge with [a short quiz](https://review.docs.microsoft.com/en-us/learn/modules/explore-analyze-data-with-r/8-knowledge-check?branch=NEW-ml-explore-data)!
-
 ## Next steps
 
 Congratulations on finishing this challenge 🏅!
 
-There are other Learn Modules around using [R for Data Science](...). In this module, we learnt how to clean data, visualize data and transform data to derive insights and knowledge. The next set of modules show you how to create regression models, create classification models and create clustering models. Be sure to check them out!
+There are other workshops coming soon around using R for Data Science. In this workshop, we learnt how to clean data, visualize data and transform data to derive insights and knowledge. The next set of workshops will show you how to create regression models, create classification models and create clustering models. Be sure to check them out!
 
 ## Practice
 
