@@ -1,9 +1,5 @@
 # Explore and analyze data with R
 
-## Workshop Source
-
-[Explore and Analyze data with R](https://review.docs.microsoft.com/en-us/learn/modules/explore-analyze-data-with-r/?branch=NEW-ml-explore-data)
-
 ## Stage 1: Desired Results 
 
 1. Students will be skilled at:
