@@ -7,11 +7,11 @@ https://docs.microsoft.com/learn/modules/customize-apps-in-powerapps/
 
 ## Goals
 
-In this workshop, we will discuss how to build a no-code app with Custom Vision to classify imagines 
+In this workshop, we will discuss how to build a no-code app with Custom Vision to classify images 
 
 | **Goal**              |                     Description           |
 | ----------------------------- | --------------------------------------------------------------------- |
-| **What will you learn**       | How to build an app with Power Apps and integrate Custom Vision to classify imagines                                        |
+| **What will you learn**       | How to build an app with Power Apps and integrate Custom Vision to classify images                                        |
 | **What you'll need**          | [Custom Vision](https://www.customvision.ai/), [Power App]( https://make.powerapps.com)|
 | **Duration**                  | 1 hour                                                                |
 | **Just want to try the app or see the solution?** | [DR Detection App](https://apps.powerapps.com/play/7df60516-60d8-4627-bccb-f96169f86d76?tenantId=84c31ca0-ac3b-4eae-ad11-519d80233e6f&source=portal&screenColor=RGBA(0%2C176%2C240%2C1))                      |
@@ -20,7 +20,9 @@ In this workshop, we will discuss how to build a no-code app with Custom Vision 
                          
 ## Video
 
-Embed your Train the Trainer video here. Instructions on how to create a great video experience is [available on this page](../video-guidance.md).
+[![workshop walk-through](./images/promo.png)](https://youtu.be/YctfdD8ycQY "workshop walk-through")
+> 🎥 Click this image to watch Jingyi and Sanya walk you through the workshop
+
 
 ## Pre-Learning
 
@@ -204,12 +206,12 @@ Moving forward, we'll build up the navigation screen when you enter the app.
 ![layout 12](images/layout-12.png)
  * Let's change the background to 'Black' and add the background image
  ![layout 13](images/layout-13.png)
- * There'll be a label of our app at the top, refer as "Diabetic Retinopathy Detector", or as what naming you prefer
+ * There'll be a label of our app at the top, refer as "Diabetic Retinopathy Detector", or any name you prefer
  ![layout 14](images/layout-14.png)
  * Add two buttons, one 'Camera Test', another 'Upload Image', modify the OnSelect function to navigate the clicking action
  ![layout 15](images/layout-15.png)
 
- * Finally, add one button 'Back' in the camera and galary screen to navigate back to the main screen
+ * Finally, add one button 'Back' in the camera and gallery screen to navigate back to the main screen
    * input function: Navigate('Navigation Screen')
    ![layout 16](images/layout-16.png)
 
