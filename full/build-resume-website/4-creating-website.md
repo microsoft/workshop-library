@@ -30,9 +30,9 @@ Q1: What does HTML stand for?
 - c. Hypertext Markup Language
 
 Q2: HTML pages normally include the following main tags:
-- a. html, head, and body
-- b. head, body, and tail
-- c. html, head, body and tail
+- a. head, body, and tail
+- b. html, head, body and tail
+- c. html, head, and body
 
 Q3: CSS is NOT used to manage:
 - a. tag creation
