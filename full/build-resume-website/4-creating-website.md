@@ -25,19 +25,19 @@ Next, we'll need to turn on GitHub Pages for our **resume** repository.
 Try this quick quiz to check your knowledge
 
 Q1: What does HTML stand for?
-a. Hypertext Markdown Language
-b. Hypotext Markup Language
-c. Hypertext Markup Language
+- a. Hypertext Markdown Language
+- b. Hypotext Markup Language
+- c. Hypertext Markup Language
 
 Q2: HTML pages normally include the following main tags:
-a. html, head, and body
-b. head, body, and tail
-c. html, head, body and tail
+- a. html, head, and body
+- b. head, body, and tail
+- c. html, head, body and tail
 
 Q3: CSS is NOT used to manage:
-a. tag creation
-b. background color
-c. font size
+- a. tag creation
+- b. background color
+- c. font size
 
 ## Summary
 
