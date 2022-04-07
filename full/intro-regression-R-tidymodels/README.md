@@ -17,7 +17,7 @@ Hello and welcome to this learning adventure! In this repo, you will find a Regr
 
 ## Pre-Learning
 
-This workshop is the second of a series designed to getting started with data science in R. As such, learners are encouraged to go through the [first workshop](../full/explore-analyze-data-with-R) of the series beforehand so as to be conversant with some of the concepts covered in this worksop.
+This workshop is the second of a series designed to getting started with data science in R. As such, learners are encouraged to go through the [first workshop](../explore-analyze-data-with-R) of the series beforehand so as to be conversant with some of the concepts covered in this worksop.
 
 ## Prerequisites
 
@@ -37,7 +37,7 @@ For more info, check out the [GitHub documentation](https://docs.github.com/en/f
 #### Binder
 This workshop is also available on Binder. To open the notebook in a Binder environment, just click the button below.
 
-[![Binder](https://mybinder.org/badge_logo.svg)]()
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/carlotta94c-workshop-library-zsu0alyk/doc/tree/full/intro-regression-R-tidymodels/solution/Challenge-regression.ipynb)
 
 #### VS Code Remote - Containers
 Follow these steps to open this workshop in a container using the VS Code Remote - Containers extension:
@@ -150,11 +150,11 @@ In this section you will:
 
 Congratulations on finishing this regression challenge 🏅!
 
-There are other workshops coming soon around using R for Data Science. In this workshop, we learnt how regression can be used to create a machine learning model that predicts numeric values. The next set of modules show you how to create classification models and create clustering models. Be sure to check them out!
+There are other workshops coming soon around using R for Data Science. In this workshop, we learnt how regression can be used to create a machine learning model that predicts numeric values. The next set of workshops show you how to create classification models and create clustering models. Be sure to check them out!
 
 ## Practice
 
-In this workshop, you trained a single model (random forest) to predict house prices based on their features. Sometimes, a data practitioner may need to try out a couple of models. Try using other models discussed in this notebook's Learn module. Try tuning some model hyperparameters while at it too. Do you obtain better evaluation metrics?
+In this workshop, you trained a single model (random forest) to predict house prices based on their features. Sometimes, a data practitioner may need to try out a couple of models. Try using other models discussed in this workshop. Try tuning some model hyperparameters while at it too. Do you obtain better evaluation metrics?
 
 
 ## Feedback
