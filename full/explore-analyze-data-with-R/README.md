@@ -8,7 +8,7 @@ Hello and welcome to this learning adventure! In this repo, you will find a Data
 | **Goal**                      | Description                                    |
 | ----------------------------- | -----------------------------------------------|
 | **What will you learn**       | How to use R to explore and analyze data           |
-| **What you'll need**          | [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-55190-ornella), [Docker Desktop](https://www.docker.com/products/docker-desktop), [Remote Developer Extension](https://aka.ms/vscode-remote/download/extension) and [Git](https://git-scm.com/downloads) |
+| **What you'll need**          | [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-59300-cacaste), [Docker Desktop](https://www.docker.com/products/docker-desktop), [Remote Developer Extension](https://aka.ms/vscode-remote/download/extension) and [Git](https://git-scm.com/downloads) |
 | **Duration**                  | 2 hours                                      |
 | **Slides**                    | [Powerpoint](./slides.pptx)                                |
 
