@@ -37,7 +37,7 @@ For more info, check out the [GitHub documentation](https://docs.github.com/en/f
 #### Binder
 This workshop is also available on Binder. To open the notebook in a Binder environment, just click the button below.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/carlotta94c-workshop-library-zsu0alyk/doc/tree/full/intro-regression-R-tidymodels/solution/Challenge-regression.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carlotta94c/workshop-library/introToRegressionR%26Tidymodels?labpath=full%2Fintro-regression-R-tidymodels%2Fsolution%2FChallenge-regression.ipynb)
 
 #### VS Code Remote - Containers
 Follow these steps to open this workshop in a container using the VS Code Remote - Containers extension:
