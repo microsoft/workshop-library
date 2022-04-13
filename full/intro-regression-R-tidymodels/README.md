@@ -8,7 +8,7 @@ Hello and welcome to this learning adventure! In this repo, you will find a Regr
 | ----------------------------- | -----------------------------------------------|
 | **What will you learn**       | How to create regression models in R           |
 | **What you'll need**          | [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-59300-cacaste), [Docker Desktop](https://www.docker.com/products/docker-desktop), [Remote Developer Extension](https://aka.ms/vscode-remote/download/extension) and [Git](https://git-scm.com/downloads) |
-| **Duration**                  | 2 Hour                                         |
+| **Duration**                  | 2 Hours                                        |
 | **Slides**                    | [Powerpoint](./slides.pptx)                               |
 
 ## Video
@@ -21,7 +21,7 @@ This workshop is the second of a series designed to getting started with data sc
 
 ## Prerequisites
 
-To get you up and running and writing R code in no time, we have containarized this workshop such that you have a ready out of the box R coding environment.
+To get you up and running and writing R code in no time, we have containerized this workshop such that you have a ready out of the box R coding environment.
 
 ### Setting up the development container
 
