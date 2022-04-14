@@ -12,7 +12,7 @@ En este taller, aprenderá a usar Github.dev para administrar tareas básicas en
 | ----------------------------- | --------------------------------------------------------------------- |
 | **Lo que aprenderás**       | Cómo usar Github.dev para hacer cambios en Github                        |
 | **Lo que vas a necesitar**          | Una [cuenta de GitHub](https://github.com) |
-| **Duración**                  | 20 minutes                                                                |
+| **Duración**                  | 20 minutos                                                                |
 | **Diapositivas**                  | [Powerpoint](./slides.pptx)                                                           |
 
 ## Video
