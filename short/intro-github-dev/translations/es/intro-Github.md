@@ -23,9 +23,9 @@ En este taller, aprenderá a usar Github.dev para administrar tareas básicas en
 
 ## Pre-aprendizaje
 
-Lea [esta introducción a GitHub](https://docs.microsoft.com/learn/modules/introduction-to-github/1-introduction/?WT.mc_id=academic-55780-jelooper).
+- Lea [esta introducción a GitHub](https://docs.microsoft.com/learn/modules/introduction-to-github/1-introduction/?WT.mc_id=academic-55780-jelooper).
 
-Lea [esta explicación del flujo de trabajo de GitHub](https://docs.microsoft.com/learn/modules/introduction-to-github/2-what-is-github/?WT.mc_id=academic-55780-jelooper).
+- Lea [esta explicación del flujo de trabajo de GitHub](https://docs.microsoft.com/learn/modules/introduction-to-github/2-what-is-github/?WT.mc_id=academic-55780-jelooper).
 
 ## Requisitos previos
 
