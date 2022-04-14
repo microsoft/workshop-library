@@ -17,7 +17,7 @@ En este taller, aprenderá a usar Github.dev para administrar tareas básicas en
 
 ## Video
 
-[![Recorrido por el taller](./images/promo.png)](https://youtu.be/QJHd4jf4ekI "workshop walk-through")
+[![Recorrido por el taller](../../images/promo.png)](https://youtu.be/QJHd4jf4ekI "workshop walk-through")
 > 🎥 Haga clic en esta imagen para ver a Jen dar un recorrido a través del taller a partir de 0:04:15
 
 
