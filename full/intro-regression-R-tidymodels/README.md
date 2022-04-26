@@ -13,7 +13,8 @@ Hello and welcome to this learning adventure! In this repo, you will find a Regr
 
 ## Video
 
-**Coming soon!**
+[![workshop walk-through](./images/promo.png)](https://youtu.be/ckqijBKO-Es "workshop walk-through")
+> 🎥 Click this image to watch Carlotta walk you through the workshop material and to gain some tips about delivering this workshop.
 
 ## Pre-Learning
 
