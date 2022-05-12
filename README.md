@@ -51,7 +51,7 @@ Welcome to the [Next Generation Team's Workshop Library](presentation.pptx), bui
 2️⃣ | [Get Started with React](./full/intro-react/README.md) | Christopher Harrison | 1 hour  | Learn how to create React components, add style, and use JSX.  | [🎥](https://youtu.be/_id4QTDI5yg) | VS Code, Node, Git, [Getting started with React](https://docs.microsoft.com/learn/modules/react-get-started/?WT.mc_id=academic-56602-chrhar)|
 2️⃣ | [Create Serverless Logic with Azure Functions](./full/azure-functions/README.md) | Ornella Altunyan | 45 mins  | How to identify if an Azure function is right for your development needs, and how to create and use functions from the Azure portal | [🎥](https://youtu.be/ebiLaNQuP4g) | JavaScript or PowerShell, [Create serverless logic with Azure Functions](https://docs.microsoft.com/learn/modules/create-serverless-logic-with-azure-functions/?WT.mc_id=academic-56400-ornella) |
 2️⃣ | [Get Started with Django](./full/django-get-started/README.md) | Christopher Harrison | 1-1.5 hours | Build a web app with Django | [🎥](https://youtu.be/H3dDiVNY_ks) | Python, [Get started with Django](https://docs.microsoft.com/learn/modules/django-get-started/?WT.mc_id=academic-56601-chrhar)|
-2️⃣ | [Build a Mood Journal Progressive Web App](./full/https://github.com/microsoft/workshop-library/tree/main/full/mood-journal-progressive-web-app/README.md) | Beth Pan | 1.5 hours | Build a Mood Journal for Mental Health as a Progressively-Enhanced Web app |  | JavaScript|
+2️⃣ | [Build a Mood Journal Progressive Web App](./full/mood-journal-progressive-web-app/README.md) | Beth Pan | 1.5 hours | Build a Mood Journal for Mental Health as a Progressively-Enhanced Web app |  | JavaScript|
 
 ---
 
