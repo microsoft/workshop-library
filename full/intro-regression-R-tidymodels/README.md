@@ -2,13 +2,13 @@
 
 ## Goals
 
-Hello and welcome to this learning adventure! In this repo, you will find a Regression Challenge Notebook. This is basically an autograding guided assessment notebook that will help you test your understanding in using R to create models that can predict a numeric, quantifiable value, such as a price, amount, size, or other scalar numbers.
+Hello and welcome to this learning adventure! In this folder, you will find a Regression Challenge Notebook. This is basically an autograding guided assessment notebook that will help you test your understanding in using R to create models that can predict a numeric, quantifiable value, such as a price, amount, size, or other scalar numbers.
 
 | **Goal**                      | Description                                    |
 | ----------------------------- | -----------------------------------------------|
 | **What will you learn**       | How to create regression models in R           |
 | **What you'll need**          | [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-59300-cacaste), [Docker Desktop](https://www.docker.com/products/docker-desktop), [Remote Developer Extension](https://aka.ms/vscode-remote/download/extension) and [Git](https://git-scm.com/downloads) |
-| **Duration**                  | 2 Hour                                         |
+| **Duration**                  | 1.5 to 2 Hours                                         |
 | **Slides**                    | [Powerpoint](./slides.pptx)                               |
 
 ## Video
@@ -151,7 +151,7 @@ In this section you will:
 
 Congratulations on finishing this regression challenge 🏅!
 
-There are other workshops coming soon around using R for Data Science. In this workshop, we learnt how regression can be used to create a machine learning model that predicts numeric values. The next set of workshops show you how to create classification models and create clustering models. Be sure to check them out!
+There are other workshops around using R for Data Science. In this workshop, we learnt how regression can be used to create a machine learning model that predicts numeric values. The next set of workshops show you how to [create classification models](../intro-classification-R-tidymodels) and create clustering models (coming soon!). Be sure to check them out!
 
 ## Practice
 
