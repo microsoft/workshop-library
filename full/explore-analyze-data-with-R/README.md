@@ -5,7 +5,7 @@
 
 ## Goals
 
-Hello and welcome to this learning adventure! In this folder, you will find a Data Exploration Notebook. This is basically an autograding guided assessment notebook that will help you test your understanding in using R to explore and analyze data! We hope that you will find that R, is at its heart, a beautiful and elegant language for Data Science.
+Hello and welcome to this learning adventure! In this folder, you will find a Data Exploration Notebook. This is an autograding guided assessment notebook that will help you test your understanding in using R to explore and analyze data! We hope that you will find that R, is at its heart, a beautiful and elegant language for Data Science.
 
 | **Goal**                      | Description                                    |
 | ----------------------------- | -----------------------------------------------|
