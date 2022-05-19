@@ -1,5 +1,8 @@
 # Introduction to classification models by using R and Tidymodels 
 
+## Workshop Source
+[Introduction to classification models by using R and tidymodels](https://docs.microsoft.com/en-us/learn/modules/introduction-classification-models/?WT.mc_id=academic-59300-cacaste)
+
 ## Stage 1: Desired Results 
 
 1. Students will be skilled at:
@@ -17,7 +20,7 @@
 ## Stage 3: Learning Plan
 
 - Introduction
-- Train and evaluate a classification model
-- Experimenting with models
+- Train and evaluate a binary classification model
+- Create multiclass classification models
 - Challenge - Create a classification model using Tidymodels
 - Knowledge check

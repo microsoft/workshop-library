@@ -1,5 +1,8 @@
 # Introduction to classification models by using R and Tidymodels
 
+## Module Source
+[Introduction to classification models by using R and tidymodels](https://docs.microsoft.com/en-us/learn/modules/introduction-classification-models/?WT.mc_id=academic-59300-cacaste)
+
 ## Goals
 
 Hello and welcome to this learning adventure! In this folder, you will find a Classification Challenge Notebook. This is basically an autograding guided assessment notebook that will help you test your understanding in using R to create models that predict which category an item belongs to. So grab your wand and let the adventure begin!
@@ -9,15 +12,16 @@ Hello and welcome to this learning adventure! In this folder, you will find a Cl
 | **What will you learn**       | How to create classification models in R           |
 | **What you'll need**          | [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-59300-cacaste), [Docker Desktop](https://www.docker.com/products/docker-desktop), [Remote Developer Extension](https://aka.ms/vscode-remote/download/extension) and [Git](https://git-scm.com/downloads)   |
 | **Duration**                  | 1.5 to 2 Hours                                         |
-| **Slides**                    | **Coming soon**                                |
+| **Slides**                    | [Powerpoint](./slides.pptx)                                 |
 
 ## Video
 
 **Coming soon!**
 
 ## Pre-Learning
+This workshop allows learners to use the skills learnt in the module [Introduction to classification models by using R and tidymodels](https://docs.microsoft.com/en-us/learn/modules/introduction-classification-models/?WT.mc_id=academic-59300-cacaste) to create their own classification models. As such, learners are encouraged to go through the module beforehand so as to be conversant with some of the concepts covered in this workshop.
+This workshop is the third of a series designed to get started with data science in R. So you may also want to have a look to the [first](../explore-analyze-data-with-R) and [second](../intro-regression-R-tidymodels) workshops of the series, dealing with exploratory data analysis and regression.
 
-This workshop is the third of a series designed to getting started with data science in R. As such, learners are encouraged to go through the [first](../explore-analyze-data-with-R) and [second](../intro-regression-R-tidymodels) workshops of the series beforehand so as to be conversant with some of the concepts covered in this worksop.
 
 ## Prerequisites
 
@@ -36,6 +40,11 @@ For more info, check out the [GitHub documentation](https://docs.github.com/en/f
 
 #### Binder
 This workshop is also available on Binder. To open the notebook in a Binder environment, just click the button below.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carlotta94c/workshop-library/introToClassificationR%26Tidymodels?labpath=full%2Fintro-classification-R-tidymodels%2Fsolution%2FChallenge-Classification.ipynb)
+
+#### Learn Sandbox
+You can go through this challenge also leveraging on the Learn Sandbox environment, provided by [Unit 9](https://docs.microsoft.com/en-us/learn/modules/introduction-classification-models/9-challenge-classification) of the MS Learn module - Introduction to classification models by using R and tidymodels. Just sign in with your Microsoft or GitHub account and click on **Activate sandbox** to start.
 
 #### VS Code Remote - Containers
 Follow these steps to open this workshop in a container using the VS Code Remote - Containers extension:
@@ -135,6 +144,9 @@ In this section you will:
 | 13.72 | 1.43| 2.5 | 16.7 | 108 | 3.4 | 3.67 | 0.19 | 2.04 | 6.8 | 0.89 | 2.87 | 1285|
 | 12.37 | 0.94 | 1.36 | 10.6 | 88 | 1.98 | 0.57 | 0.28 | 0.42 | 1.95 | 1.05 | 1.82 | 520 |
 
+## Quiz
+
+Test your knowledge with [a short quiz](https://docs.microsoft.com/en-us/learn/modules/introduction-classification-models/8-knowledge-check)!
 
 ## Next steps
 

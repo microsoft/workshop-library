@@ -1,5 +1,8 @@
 # Explore and analyze data with R
 
+## Workshop Source
+[Explore and analyze data with R](https://docs.microsoft.com/en-us/learn/modules/explore-analyze-data-with-r/?WT.mc_id=academic-59300-cacaste)
+
 ## Stage 1: Desired Results 
 
 1. Students will be skilled at:
