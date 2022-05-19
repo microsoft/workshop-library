@@ -1,9 +1,11 @@
 # Explore and analyze data with R
 
+## Module Source
+[Explore and analyze data with R](https://docs.microsoft.com/en-us/learn/modules/explore-analyze-data-with-r/?WT.mc_id=academic-59300-cacaste)
 
 ## Goals
 
-Hello and welcome to this learning adventure! In this repo, you will find a Data Exploration Notebook. This is an autograding guided assessment notebook that will help you test your understanding in using R to explore and analyze data! We hope that you will find that R, is at its heart, a beautiful and elegant language for Data Science.
+Hello and welcome to this learning adventure! In this folder, you will find a Data Exploration Notebook. This is an autograding guided assessment notebook that will help you test your understanding in using R to explore and analyze data! We hope that you will find that R, is at its heart, a beautiful and elegant language for Data Science.
 
 | **Goal**                      | Description                                    |
 | ----------------------------- | -----------------------------------------------|
@@ -16,6 +18,10 @@ Hello and welcome to this learning adventure! In this repo, you will find a Data
 
 [![workshop walk-through](./images/promo.png)](https://youtu.be/VrVHaxarniY "workshop walk-through")
 > 🎥 Click this image to watch Carlotta walk you through the workshop material and to gain some tips about delivering this workshop.
+
+## Pre-Learning
+
+This workshop allows learners to use the skills learnt in the module [Explore and analyze data with R](https://docs.microsoft.com/en-us/learn/modules/explore-analyze-data-with-r/?WT.mc_id=academic-59300-cacaste) to perform data analysis and visualization. As such, learners are encouraged to go through the module beforehand so as to be conversant with some of the concepts covered in this workshop.
 
 ## Prerequisites
 
@@ -36,6 +42,9 @@ For more info, check out the [GitHub documentation](https://docs.github.com/en/f
 This workshop is also available on Binder. To open the notebook in a Binder environment, just click the button below.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carlotta94c/workshop-library/workshop-binding?labpath=%2Ffull%2Fexplore-analyze-data-with-R%2Fsolution%2Fchallenge-Data_Exploration.ipynb)
+
+#### Learn Sandbox
+You can go through this challenge also leveraging on the Learn Sandbox environment, provided by [Unit 9](https://docs.microsoft.com/en-us/learn/modules/explore-analyze-data-with-r/9-challenge-data-exploration) of the MS Learn module -  Explore and analyze data with R. Just sign in with your Microsoft or GitHub account and click on **Activate sandbox** to start.
 
 #### VS Code Remote - Containers
 Follow these steps to open this workshop in a container using the VS Code Remote - Containers extension:
@@ -104,11 +113,15 @@ In this section, you will:
 
     - Which route has the highest average arrival delay?
 
+## Quiz
+
+Test your knowledge with [a short quiz](https://docs.microsoft.com/en-us/learn/modules/explore-analyze-data-with-r/8-knowledge-check)!
+
 ## Next steps
 
 Congratulations on finishing this challenge 🏅!
 
-There are other workshops coming soon around using R for Data Science. In this workshop, we learnt how to clean data, visualize data and transform data to derive insights and knowledge. The next set of workshops will show you how to create regression models, create classification models and create clustering models. Be sure to check them out!
+There are other workshops around using R for Data Science. In this workshop, we learnt how to clean data, visualize data and transform data to derive insights and knowledge. The next set of workshops will show you how to [create regression models](../intro-regression-R-tidymodels), [create classification models](../intro-classification-R-tidymodels) and create clustering models (coming soon!). Be sure to check them out!
 
 ## Practice
 
