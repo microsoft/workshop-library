@@ -26,7 +26,7 @@ This workshop is the second of a series designed to get started with data scienc
 
 ## Prerequisites
 
-To get you up and running and writing R code in no time, we have containarized this workshop such that you have a ready out of the box R coding environment.
+To get you up and running and writing R code in no time, we have containerized this workshop such that you have a ready out of the box R coding environment.
 
 ### Setting up the development container
 

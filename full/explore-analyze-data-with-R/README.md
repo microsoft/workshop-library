@@ -63,9 +63,6 @@ This definition includes some test code that will help you verify it is working 
 
 At some point, you may want to make changes to your container, such as installing a new package. You'll need to rebuild your container for your changes to take effect. 
 
-
-
-
 ## What you will learn
 
 Let's say the Department of Transportation is considering the addition of a new airport. As the incredible data scientist you are, you have been requested to explore existing data. The results of your analysis might form the basis of a report or a machine learning mode.
@@ -96,7 +93,7 @@ In this section you will:
 
 ### More EDA
 
-The goal of EDA is to develop a better understanding of your data. More often than not, EDA will involve formulating some probing questions about your data, searching for answers by visualising and transforming data and finally using the understanding gained to refine questions, drop the questions entirely and/or generate new questions.
+The goal of EDA is to develop a better understanding of your data. More often than not, EDA will involve formulating some probing questions about your data, searching for answers by visualizing and transforming data and finally using the understanding gained to refine questions, drop the questions entirely and/or generate new questions.
 
 In this section, you will:
 
@@ -106,7 +103,7 @@ In this section, you will:
 
     - How do the carriers compare in terms of arrival delay performance?
 
-    - Is there a noticable difference in arrival delays for different days of the week?
+    - Is there a noticeable difference in arrival delays for different days of the week?
 
     - Which departure airport has the highest average departure delay?
 
@@ -128,7 +125,7 @@ There are other workshops around using R for Data Science. In this workshop, we 
 
 ## Practice
 
-In this workshop, you used already provided questions to guide your EDA. Sometimes this is not the case. Try generating questions of your own and answering them using the data visualisation and transformation skills you have acquire in this module. What new insights do you reveal?
+In this workshop, you used already provided questions to guide your EDA. Sometimes this is not the case. Try generating questions of your own and answering them using the data visualization and transformation skills you have acquire in this module. What new insights do you reveal?
 
 
 ## Feedback

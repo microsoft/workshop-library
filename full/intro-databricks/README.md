@@ -19,7 +19,8 @@ In this workshop, you'll use Databricks, a powerful platform to work with big da
 
 ## Video
 
-Video coming soon!
+[![Read and write data in Azure Databaricks](https://img.youtube.com/vi/55rHLoFGJ98/0.jpg)](https://youtu.be/55rHLoFGJ98 "Read and write data in Azure Databricks video - Click to Watch!")
+> 🎥 Click the image above to learn how to deliver this workshop
 
 ## Pre-Learning
 
