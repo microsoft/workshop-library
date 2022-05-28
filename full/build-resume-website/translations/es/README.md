@@ -17,7 +17,8 @@ Usando el poder de github.dev, un servicio que nos permitirá trabajar con archi
 
 ## Video Tutorial
 
-[![workshop walk-through](./images/promo.png)](https://youtu.be/M2IrPFMFwx8 "workshop walk-through")
+[![workshop walk-through](../../images/promo.png)](https://youtu.be/M2IrPFMFwx8 "workshop walk-through")
+
 > 🎥 Haz click en la imagen para ver a Ornella y Burke explicando paso a paso este taller.
 
 ## Prerrequisitos
