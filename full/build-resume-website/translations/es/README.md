@@ -11,7 +11,8 @@ Usando el poder de github.dev, un servicio que nos permitirá trabajar con archi
 | **¿Qué aprenderás?**          | Conceptos básicos de HTML y CSS para mostrar tus habilidades en un currículum en línea.                                     |
 | **¿Qué necesitarás?**         | Un navegador moderno como [Microsoft Edge](https://www.microsoft.com/edge?WT.mc_id=academic-51109-ornella) o [Google Chrome](https://www.google.com/chrome/) y una [cuenta de GitHub.](https://github.com) |
 | **Duración**                  | 1 - 1.5 hora(s)                                                                |
-| **¿Quieres ver el resultado?**               | [Solución](./solution)                         |
+| **¿Quieres ver el resultado?**               | [Solución](../../solution)                         |
+
 | **Slides** | [Powerpoint](slides.pptx)
 | **Autor/a**| [Ornella Altunyan](https://aka.ms/ornelladotcom)
 
