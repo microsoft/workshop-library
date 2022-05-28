@@ -27,7 +27,8 @@ Para crear la página web de tu currículum, necesitarás descargar un navegador
 ## Proyecto Final
 Cuando termines este taller, deberás crear una página para tu currículum que se vea como esta:
 
-![resume website](./images/final-result.png)
+![resume website](../../images/final-result.png)
+
 
 ## Resumen
 En este taller aprenderás: 
