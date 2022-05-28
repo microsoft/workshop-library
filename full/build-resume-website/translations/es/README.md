@@ -44,4 +44,5 @@ En este taller aprenderás:
 
 Asegúrate de dejar tu [feedback acerca de este taller.](https://forms.office.com/r/MdhJWMZthR)!
 
-[Código de conducta](../../CODE_OF_CONDUCT.md)
+[Código de conducta](../../../../CODE_OF_CONDUCT.md)
+
