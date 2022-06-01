@@ -1,14 +1,17 @@
-# Introduction to regression models by using R and Tidymodels 
+# Introduction to regression models by using R and Tidymodels
+
+## Module Source
+[Introduction to regression models by using R and tidymodels](https://docs.microsoft.com/en-us/learn/modules/introduction-regression-models/?WT.mc_id=academic-59300-cacaste)
 
 ## Goals
 
-Hello and welcome to this learning adventure! In this repo, you will find a Regression Challenge Notebook. This is basically an autograding guided assessment notebook that will help you test your understanding in using R to create models that can predict a numeric, quantifiable value, such as a price, amount, size, or other scalar numbers.
+Hello and welcome to this learning adventure! In this folder, you will find a Regression Challenge Notebook. This is basically an autograding guided assessment notebook that will help you test your understanding in using R to create models that can predict a numeric, quantifiable value, such as a price, amount, size, or other scalar numbers.
 
 | **Goal**                      | Description                                    |
 | ----------------------------- | -----------------------------------------------|
 | **What will you learn**       | How to create regression models in R           |
 | **What you'll need**          | [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-59300-cacaste), [Docker Desktop](https://www.docker.com/products/docker-desktop), [Remote Developer Extension](https://aka.ms/vscode-remote/download/extension) and [Git](https://git-scm.com/downloads) |
-| **Duration**                  | 2 Hours                                        |
+| **Duration**                  | 1.5 to 2 Hours                                         |
 | **Slides**                    | [Powerpoint](./slides.pptx)                               |
 
 ## Video
@@ -18,7 +21,8 @@ Hello and welcome to this learning adventure! In this repo, you will find a Regr
 
 ## Pre-Learning
 
-This workshop is the second of a series designed to getting started with data science in R. As such, learners are encouraged to go through the [first workshop](../explore-analyze-data-with-R) of the series beforehand so as to be conversant with some of the concepts covered in this worksop.
+This workshop allows learners to use the skills learnt in the module [Introduction to regression models by using R and tidymodels](https://docs.microsoft.com/en-us/learn/modules/introduction-regression-models/?WT.mc_id=academic-59300-cacaste) to create their own regression models. As such, learners are encouraged to go through the module beforehand so as to be conversant with some of the concepts covered in this workshop.
+This workshop is the second of a series designed to get started with data science in R. So you may also want to have a look to the [first](../explore-analyze-data-with-R) workshop of the series, dealing with exploratory data analysis.
 
 ## Prerequisites
 
@@ -39,6 +43,9 @@ For more info, check out the [GitHub documentation](https://docs.github.com/en/f
 This workshop is also available on Binder. To open the notebook in a Binder environment, just click the button below.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carlotta94c/workshop-library/introToRegressionR%26Tidymodels?labpath=full%2Fintro-regression-R-tidymodels%2Fsolution%2FChallenge-regression.ipynb)
+
+#### Learn Sandbox
+You can go through this challenge also leveraging on the Learn Sandbox environment, provided by [Unit 9](https://docs.microsoft.com/en-us/learn/modules/introduction-regression-models/9-challenge-regression) of the MS Learn module - Introduction to regression models by using R and tidymodels. Just sign in with your Microsoft or GitHub account and click on **Activate sandbox** to start.
 
 #### VS Code Remote - Containers
 Follow these steps to open this workshop in a container using the VS Code Remote - Containers extension:
@@ -146,12 +153,15 @@ In this section you will:
 | 2013.167             | 16.2          | 289.3248             | 5                            | 24.98203     | 121.54348     |
 | 2013.000             | 13.6          | 4082.015             | 0                            | 24.94155     | 121.50381     |
 
+## Quiz
+
+Test your knowledge with [a short quiz](https://docs.microsoft.com/en-us/learn/modules/introduction-regression-models/8-knowledge-check)!
 
 ## Next steps
 
 Congratulations on finishing this regression challenge 🏅!
 
-There are other workshops coming soon around using R for Data Science. In this workshop, we learnt how regression can be used to create a machine learning model that predicts numeric values. The next set of workshops show you how to create classification models and create clustering models. Be sure to check them out!
+There are other workshops around using R for Data Science. In this workshop, we learnt how regression can be used to create a machine learning model that predicts numeric values. The next set of workshops show you how to [create classification models](../intro-classification-R-tidymodels) and create clustering models (coming soon!). Be sure to check them out!
 
 ## Practice
 
