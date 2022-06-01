@@ -16,7 +16,7 @@ Hello and welcome to this learning adventure! In this folder, you will find a Cl
 
 ## Video
 
-[![workshop walk-through](./images/promo.png)](https://youtu.be/ckqijBKO-Es "workshop walk-through")
+[![workshop walk-through](./images/promo.png)](https://youtu.be/NpYpUgaoK8M "workshop walk-through")
 > 🎥 Click this image to watch Carlotta walk you through the workshop material and to gain some tips about delivering this workshop.
 
 ## Pre-Learning
