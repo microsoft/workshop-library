@@ -23,6 +23,7 @@ Have you heard about Progressive Web Apps (PWA) in the latest web development tr
 - An [Azure account](https://aka.ms/learn-pwa/workshop/azure.microsoft.com/free/students/) if you want to deploy your app to a secure endpoint.
 - [Git](https://git-scm.com/downloads) to clone sample solutions.
 - [Node.js](https://nodejs.org/en/) to run the sample solutions.
+- A [Microsoft account](https://aka.ms/learn-pwa/workshop/outlook.live.com/owa) that you can register as a developer account to publish your app to the Microsoft Store. You will need to pay $19 for account services to publish your app to the Microsoft Store. Note that if you have Visual Studio Enterprise subscription, you get a promo code to publish your apps for free.
 
 ## What you will learn
 
