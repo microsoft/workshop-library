@@ -41,7 +41,6 @@ Next, let's look at the file structure of the generated solution.
 | `public` | This folder contains all the files that are served to the browser such as your app icons, screenshots, and other creative assets. |
 | `index.html` | This is the main HTML file that is served to the browser and the entry point of your source code. |
 | `public/manifest.json` | This is the manifest file that is used to configure your PWA. |
-| `registerSW.js` | This is the service worker registration file. It is empty by default because the generation and registration are automatically handled by `vite`. You don't need to update this if you are ok with the default `CacheFirst` setting. We will talk more about this file in [step 5](5-register-service-worker.md). |
 | `src` | This folder contains all the source code for your app. |
 | `src/app-index.ts` | This file is the main entry point for your app code. The router is configured here, as well as service worker registration. |
 | `src/components` | This folder contains reusable components of your app. |
