@@ -46,7 +46,7 @@ In this segment, you'll learn the basics of what APIs, web APIs, and minimal API
 
 Using the .NET CLI, create a new web application with the following command:
 ```
-dotnet new web -minimal -o TodoApi 
+dotnet new web -o TodoApi 
 ```
 
 Now that you have created your minimal API you can run it. To run your application, navigate to the *TodoApi* folder and type the command below:
