@@ -29,7 +29,6 @@ Coming soon...
 * [.NET 6 and VS Code (For Windows)](https://aka.ms/dotnet-coding-pack-win)
 * [.NET 6 and VS Code (For macOS)](https://aka.ms/dotnet-coding-pack-mac)
 * If you already have Visual Studio Code, or another preferred editor, just download the [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0).
-* [SQLite](https://www.sqlite.org/index.html)
 
 ## What students will learn
 
@@ -45,18 +44,38 @@ In this segment, you'll learn the basics of what APIs, web APIs, and minimal API
 
 ## Create a new web app
 
-Using the .NET CLI, create a new web application with the command *dotnet new web -o TodoApi*. Now that you have created your minimal API you can run it. To run your application, navigate to the *TodoApi* folder and type the command below
+Using the .NET CLI, create a new web application with the following command:
 ```
-TodoApi> dotnet run
+dotnet new web -minimal -o TodoApi 
 ```
 
-Check out your API in action by navigating to [http://localhost:5000](http://localhost:5000).
+Now that you have created your minimal API you can run it. To run your application, navigate to the *TodoApi* folder and type the command below:
+```
+TodoApi> dotnet watch
+```
+
+.NET will build and run your minimal API project with hot reload enabled, showing output in the console that looks similar to this:
+```
+Building...
+info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: https://localhost:7243
+info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://localhost:5085
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: C:\Users\Jon\temp\TodoApi
+```
+
+The console output shows the ports your API is running on. It will attempt to open a browser window to the HTTPS port - if it doesn't you can click on those links in the console, or type them into a browser to navigate to them. You should see a "Hello world!" message.
 
 Add a new route to your API by opening the app in your editor and navigating to the Program.cs file. In Program.cs, create new todo route to our api that returns a list items. Add the following MapGet after *app.MapGet("/", () => "Hello World!");*.
 ```csharp
 app.MapGet("/todo", () => new { Item = "Water plants", Complete = "false" });
 ```
-This route will return one Todo item.
+This route will return one Todo item. Stop the application using `ctrl+c` / `cmd+c`.
 
 Learning checklist
 * Created a new route /todo
@@ -70,7 +89,7 @@ Learning checklist
 
 In a terminal window, type the following command:
 ```
-TodoApi> dotnet add package Swashbuckle.AspNetCore --version 6.1.4
+TodoApi> dotnet add package Swashbuckle.AspNetCore
 ```
 
 To set up Swagger UI, add the following code snippets:
@@ -84,7 +103,12 @@ builder.Services.AddSwaggerGen(c =>
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "Todo API", Description = "Keep track of your tasks", Version = "v1" });
 });
 ```
-The AddSwaggerGen method adds information such as title, description, and version to your API.
+The `AddSwaggerGen` method adds information such as title, description, and version to your API.
+
+Add a using statement to the top of the file with the following code:
+```csharp
+using Microsoft.OpenApi.Models;
+```
 
 **Snippet 2** : Above app.MapGet("/", () => "Hello World!");, add the following lines of code:
 ```csharp
@@ -97,7 +121,7 @@ app.UseSwaggerUI(c =>
 
 The preceding code enables middleware to serve the generated OpenAPI description as JSON content, enables middleware to serve the Swagger UI elements, and specifies the OpenAPI description's endpoint.
 
-Go back to your browser where your app is and navigate to this URL [https://localhost:5001/swagger](https://localhost:5001/swagger).
+Restart the application using `dotnet watch`. When the application runs, add `swagger` to the end of the URL, e.g. https://localhost:7243/swagger in this example (filling in your port number instead of 7243).
 
 Learning checklist
 * Configured and implemented OpenAPI and Swagger UI
@@ -123,7 +147,6 @@ class TodoItem
     public int Id { get; set; }
     public string? Item { get; set; }
     public bool IsComplete { get; set; }
-
 }
 ```
 
@@ -144,11 +167,6 @@ class TodoDb : DbContext
 {
     public TodoDb(DbContextOptions options) : base(options) { }
     public DbSet<TodoItem> Todos { get; set; }
-
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-    {
-        optionsBuilder.UseInMemoryDatabase("Todos");
-    }
 }
 ```
 
@@ -161,10 +179,11 @@ To read from a list of items in the todo list replace the "/todo" route with the
 ```csharp
 app.MapGet("/todos", async (TodoDb db) => await db.Todos.ToListAsync());
 ```
-Go back your browser and navigate to [https://localhost:5001/swagger](https://localhost:5001/swagger) click on the GET/todos button and you will see the list is empty under Response body.
+
+Restart the application using `dotnet watch`. Go back your browser and navigate to [https://localhost:[port]/swagger] and click on the GET/todos button. You will see the list is empty under Response body.
 
 ### Create new items
-Let's *POST* new tasks to the todos list. Below app.MapGet you create earlier.
+Let's *POST* new tasks to the todos list. Below `app.MapGet` you created earlier, add the following:
 ```csharp
 app.MapPost("/todos", async (TodoDb db, TodoItem todo) =>
 {
@@ -201,7 +220,7 @@ app.MapPut("/todos/{id}", async ( TodoDb db, TodoItem updateTodo ,int id) =>
 {
     var todo = await db.Todos.FindAsync(id);
     
-    if (todo is null) return NotFound();
+    if (todo is null) return Results.NotFound();
     
     todo.Item = updateTodo.Item;
     todo.IsComplete = updateTodo.IsComplete;
@@ -268,26 +287,17 @@ TodoApi>dotnet add package Microsoft.EntityFrameworkCore.Design --version 6.0
 In order to enable database creation they are couple of steps we need to complete:
 
 1. Set the database connection string.
-2. Migrate your data model (see below) to a SQLite database. Create a data model
-```csharp
-class TodoItem
-{
-    public int Id { get; set; }
-    public string? Item { get; set; }
-    public bool IsComplete { get; set; }
-
-}
-```
+2. Migrate your data model to a SQLite database.
 3. Create your database and schema
 
 ### Set connection string
-In Program.cs below your app builder var builder = WebApplication.CreateBuilder(args); add a connection string.
+In Program.cs below your app builder `var builder = WebApplication.CreateBuilder(args);` add a connection string.
 ```csharp
 var connectionString = builder.Configuration.GetConnectionString("todos") ?? "Data Source=todos.db";
 ```
 
 ### Add context to your services
-Now we are going to replace the in-memory database with a persistent database. Replace your current in-memory database implementation *builder.Services.AddDbContext<TodoDb>(options => options.UseInMemoryDatabase("items"));* in your build services with the SQLite one below:
+Now we are going to replace the in-memory database with a persistent database. Replace your current in-memory database implementation `builder.Services.AddDbContext<TodoDb>(options => options.UseInMemoryDatabase("items"));` in your build services with the SQLite one below:
 ```csharp
 builder.Services.AddSqlite<TodoDb>(connectionString);
 ```
@@ -301,14 +311,17 @@ dotnet ef migrations add InitialCreate
 ### Create your database and schema
 Now that you have completed the migration, you can use it to create your database and schema. In a terminal window, run the database update command below to apply migrations to a database:
 ```
-TodoApi> dotnet ef database update
+dotnet ef database update
 ```
-    
+
+### Test the application using the new database
+
+Test the application again in Swagger – you will see that your Todo items are stored in the database, so they will remain if you stop and start the app.
+
 Learn checklist
 * Setup SQLite database
 * Create a SQLite database
 * Perform SQLite CRUD operation from our todo API
-    
 
 ## Next steps
 
