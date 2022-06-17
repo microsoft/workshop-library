@@ -32,7 +32,7 @@ En este taller, usted aprenderá a:
 
 ## Introducción al servicio de Azure Static Web Apps
 
-Lea sobre el servicio [en esta introducción](https://docs.microsoft.com/es-mx/learn/modules/publish-app-service-static-web-app-api/1-introduction?pivots=angular&WT.mc_id=academic-56895-chnoring)
+Lea sobre el servicio [en esta introducción](https://docs.microsoft.com/es-mx/learn/modules/publish-app-service-static-web-app-api/1-introduction?pivots=angular&WT.mc_id=academic-56895-chnoring).
 
 ## Crear una aplicación web
 
@@ -42,3 +42,27 @@ Antes de que puedas desplegar tu aplicación en Azure, necesitas compilarla.
 - Ejecuta la aplicación en local y visualiza en tu navegador
 
 [¡Vamos a crear el repositorio!](https://docs.microsoft.com/es-mx/learn/modules/publish-app-service-static-web-app-api/2-exercise-get-started?pivots=angular&WT.mc_id=academic-56895-chnoring)
+
+## Planear su instancia de Azure Static Web App
+
+Para desplegar su aplicación en Azure, necesitaras proveer un recurso de Azure Static Web Apps. Este recurso necesita que completes algunos campos. Su repositorio de GitHub tiene un concepto llamado actions que es capaz de hacer muchas cosas, como probar código, desplegar y más. GitHub actions es la tecnología fundamental en la que se basa Azure Static Web Apps para el desplique de aplicaciones en la nube.
+
+Aprende más de Azure Static Web Apps y sus campos, así como GitHub actions. [Lea más sobre los campos aquí](https://docs.microsoft.com/es-mx/learn/modules/publish-app-service-static-web-app-api/3-static-web-apps?pivots=angular&WT.mc_id=academic-56895-chnoring).
+
+## Crear una instancia de Azure Static Web App
+
+Para simplificar su despliegue en Azure, puede usar la extensión de Visual Studio Code creada por el equipo de Azure Static Web Apps. Utilizando la extensión, ceará los recursos en la nube que necesita la Azure Static App. Entonces funcionará para desplegar su aplicación. Obtenga más información sobre [cómo crear la aplicación](https://docs.microsoft.com/es-mx/learn/modules/publish-app-service-static-web-app-api/4-exercise-static-web-apps?pivots=angular&WT.mc_id=academic-56895-chnoring)
+
+## Siguientes pasos
+
+Prueba otras maneras de construir una aplicación web estática en este módulo - puedes probar con Vue, React, Angular o Svelte [en este módulo](https://docs.microsoft.com/es-mx/learn/modules/publish-app-service-static-web-app-api/?WT.mc_id=academic-56895-chnoring).
+
+## Práctica
+
+Ahora que conoces de Azure Static Web Apps, aprende a cómo [publicar una API](https://docs.microsoft.com/es-mx/learn/modules/publish-static-web-app-api-preview-url/?WT.mc_id=academic-56895-chnoring) y cómo [autenticar a los usuarios](https://docs.microsoft.com/es-mx/learn/modules/publish-static-web-app-authentication/?WT.mc_id=academic-56895-chnoring) con Azure Static Web Apps.
+
+## Feedback
+
+¡Asegúrate de dejarnos [comentarios sobre este taller](https://forms.office.com/r/MdhJWMZthR)!
+
+[Código de Conducta](../../../../CODE_OF_CONDUCT.md)
