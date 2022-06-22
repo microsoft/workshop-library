@@ -1,19 +1,19 @@
 # Introducción a Azure Static Web Apps
 
-## Módulo de Refrencia
+## Módulo de Referencia
 
 [Publicación de una aplicación de JavaScript con Angular, React, Svelte o Vue con Azure Static Web Apps](https://docs.microsoft.com/es-mx/learn/modules/publish-app-service-static-web-app-api/?WT.mc_id=academic-56895-chnoring)
 
 ## Objetivos
 
-En este taller, usted aprendreá a desplegar sus archivos estáticos en Azure, ya sea que se trate de una Single Page App(SPA) de JavaScript avanzada o HTML simple.
+En este taller, usted aprenderá a desplegar sus archivos estáticos en Azure, ya sea que se trate de una Single Page App(SPA) de JavaScript avanzado o HTML simple.
 
 | **Objetivo** | Descripción |
 | ------------ | ----------- |
 | **Qué aprenderás** | Publicar una aplicación JavaScript Angular, React, Svelte o Vue con Azure Static Web Apps |
 | **Lo qué necesitarás** | Un navegador web moderno, conexión a internet, una cuenta en Azure, [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-56895-chnoring), y la extensión [Azure Static Web Apps](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps&WT.mc_id=academic-56895-chnoring) |
 | **Duración** | 20 minutos |
-| **Diapositivas** | [Powerpoint](https://github.com/microsoft/workshop-library/blob/main/short/intro-static-web-apps/slides.pptx) |
+| **Diapositivas** | [Powerpoint](../../slides.pptx) |
 
 ## Video
 
@@ -38,7 +38,7 @@ Lea sobre el servicio [en esta introducción](https://docs.microsoft.com/es-mx/l
 
 Antes de que puedas desplegar tu aplicación en Azure, necesitas compilarla.
 
-- Crea un repositorio a partir de una platilla
+- Crea un repositorio a partir de una plantilla
 - Ejecuta la aplicación en local y visualiza en tu navegador
 
 [¡Vamos a crear el repositorio!](https://docs.microsoft.com/es-mx/learn/modules/publish-app-service-static-web-app-api/2-exercise-get-started?pivots=angular&WT.mc_id=academic-56895-chnoring)
@@ -51,7 +51,7 @@ Aprende más de Azure Static Web Apps y sus campos, así como GitHub actions. [L
 
 ## Crear una instancia de Azure Static Web App
 
-Para simplificar su despliegue en Azure, puede usar la extensión de Visual Studio Code creada por el equipo de Azure Static Web Apps. Utilizando la extensión, ceará los recursos en la nube que necesita la Azure Static App. Entonces funcionará para desplegar su aplicación. Obtenga más información sobre [cómo crear la aplicación](https://docs.microsoft.com/es-mx/learn/modules/publish-app-service-static-web-app-api/4-exercise-static-web-apps?pivots=angular&WT.mc_id=academic-56895-chnoring)
+Para simplificar su despliegue en Azure, puede usar la extensión de Visual Studio Code creada por el equipo de Azure Static Web Apps. Utilizando la extensión, creara los recursos en la nube que necesita la Azure Static App. Entonces funcionará para desplegar su aplicación. Obtenga más información sobre [cómo crear la aplicación](https://docs.microsoft.com/es-mx/learn/modules/publish-app-service-static-web-app-api/4-exercise-static-web-apps?pivots=angular&WT.mc_id=academic-56895-chnoring)
 
 ## Siguientes pasos
 
