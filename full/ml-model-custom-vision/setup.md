@@ -24,12 +24,12 @@ A starter project has been provided which includes the images for the workshop a
     ```bash
     # Windows
     git clone <URL>
-    cd workshop-library\custom-vision-workshop
+    cd workshop-library\full\ml-model-custom-vision
     code .
 
     # Linux, WSL or macOS
     git clone <URL>
-    cd workshop-library\custom-vision-workshop
+    cd workshop-library\full\ml-model-custom-vision
     code .
     ```
 

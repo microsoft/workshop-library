@@ -70,7 +70,7 @@ export class AppHome extends LitElement {
         flex-direction: column;
         margin-top: 2rem;
         max-height: 50vh;
-        overflow: scroll;
+        overflow: auto;
       }
 
       .hero__top-content .entries fluent-accordion-item.main-accordion {
