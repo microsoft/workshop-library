@@ -10,7 +10,7 @@ En este taller, usted aprenderá a desplegar sus archivos estáticos en Azure, y
 
 | **Objetivo** | Descripción |
 | ------------ | ----------- |
-| **Qué aprenderás** | Publicar una aplicación JavaScript Angular, React, Svelte o Vue con Azure Static Web Apps |
+| **¿Qué aprenderás?** | Publicar una aplicación JavaScript Angular, React, Svelte o Vue con Azure Static Web Apps |
 | **Lo qué necesitarás** | Un navegador web moderno, conexión a internet, una cuenta en Azure, [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-56895-chnoring), y la extensión [Azure Static Web Apps](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps&WT.mc_id=academic-56895-chnoring) |
 | **Duración** | 20 minutos |
 | **Diapositivas** | [Powerpoint](../../slides.pptx) |
@@ -21,7 +21,7 @@ Video próximamente
 
 ## Lo que vas a aprender
 
-Usted es un desarrollador web y ha construido una aplicación web. Por lo general, una aplicación web consta de archivos HTML, JavaScript o CSS y pueden ser producidos creando de forma manual todos los archivos o utilizando un framework para hacerlo.
+Usted es un desarrollador web y ha construido una aplicación web. Por lo general, una aplicación web consta de archivos HTML, JavaScript o CSS y pueden ser creados de forma manual todos los archivos o utilizando un framework para hacerlo.
 
 Le gustaría poder implementar o publicar su sitio web en Azure para poder mostrárselo a sus amigos.
 
@@ -45,7 +45,7 @@ Antes de que puedas desplegar tu aplicación en Azure, necesitas compilarla.
 
 ## Planear su instancia de Azure Static Web App
 
-Para desplegar su aplicación en Azure, necesitaras proveer un recurso de Azure Static Web Apps. Este recurso necesita que completes algunos campos. Su repositorio de GitHub tiene un concepto llamado actions que es capaz de hacer muchas cosas, como probar código, desplegar y más. GitHub actions es la tecnología fundamental en la que se basa Azure Static Web Apps para el desplique de aplicaciones en la nube.
+Para desplegar su aplicación en Azure, necesitaras proveer un recurso de Azure Static Web Apps. Este recurso necesita que completes algunos campos. Su repositorio de GitHub tiene un concepto llamado actions que es capaz de hacer muchas cosas, como probar código, desplegar y más. GitHub actions es la tecnología fundamental en la que se basa Azure Static Web Apps para el despliegue de aplicaciones en la nube.
 
 Aprende más de Azure Static Web Apps y sus campos, así como GitHub actions. [Lea más sobre los campos aquí](https://docs.microsoft.com/es-mx/learn/modules/publish-app-service-static-web-app-api/3-static-web-apps?pivots=angular&WT.mc_id=academic-56895-chnoring).
 
