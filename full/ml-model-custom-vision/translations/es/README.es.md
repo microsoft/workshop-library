@@ -51,9 +51,9 @@ Las intrucciones para este taller se realizarán en [Visual Studio Code](https:/
 
 ## El taller
 
-- [Parte 0: Instalar y configurar herramientas](./setup.md)
-- [Parte 1: Entrenar tu modelo](./train.md)
-- [Parte 2: Probar tu modelo](./predict.md)
+- [Parte 0: Instalar y configurar herramientas](./setup-es.md)
+- [Parte 1: Entrenar tu modelo](./train-es.md)
+- [Parte 2: Probar tu modelo](./predict-es.md)
 
 ## Feedback
 
