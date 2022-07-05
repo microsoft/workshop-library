@@ -13,7 +13,7 @@ En este taller, aprenderás los conceptos básicos de APIs REST, una manera segu
 | **¿Qué aprenderás?**  | Explorarás el mundo del arte usando APIs RESTful  |
 | **¿Qué necesitarás?** | Un navegador moderno y conexión a internet    |
 | **Duración**          | 20 minutos                                        |
-| **Diapositivas**      | [PowerPoint](./slides.pptx)                       |
+| **Diapositivas**      | [PowerPoint](../../slides.pptx)                       |
 
 ## Video 
 
