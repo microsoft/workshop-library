@@ -19,7 +19,7 @@ Hello and welcome to this learning adventure! In this folder, you will find a Cl
 Coming soon!
 
 ## Pre-Learning
-This workshop allows learners to use the skills learnt in the module [Introduction to clustering models by using R and tidymodels](https://docs.microsoft.com/en-us/learn/modules/introduction-clustering-models/?WT.mc_id=academic-59300-cacaste) to create their own clustering models. As such, learners are encouraged to go through the module beforehand so as to be conversant with some of the concepts covered in this workshop.
+This workshop allows learners to use the skills learnt in the module [Introduction to clustering models by using R and tidymodels](https://docs.microsoft.com/en-us/learn/modules/introduction-clustering-models/?WT.mc_id=academic-59300-cacaste) to create their clustering models. As such, learners are encouraged to go through the module beforehand to get used to the concepts covered in this workshop.
 This workshop is the forth of a series designed to get started with data science in R. So you may also want to have a look to the [first](../explore-analyze-data-with-R), [second](../intro-regression-R-tidymodels) and [third](../intro-classification-R-tidymodels) workshops of the series, dealing with exploratory data analysis and supervised learning.
 
 
