@@ -1,41 +1,44 @@
-# Part 1: Entrenar tu modelo
+# Parte 1: Entrenar tu modelo
 
-A custom vision model 
+Un modelo personalizado de Vision. 
 
-## Create the project
+## Crear el proyecto
 
-A project is a custom vision model. It's used to label images with the appropriate tag (or category), and perform the training. Let's start by creating a project.
+Un proyecto es un modelo de Vision personalizado. Se utiliza para etiquetar imágenes con la etiqueta (o categoría) adecuada, y se somete a entrenamiento. Comencemos creando un proyecto.  
 
-1. Navigate to [Custom Vision](https://www.customvision.ai?WT.mc_id=academic-49102-chrhar) and sign in
-1. Select **New Project**
-1. Enter **Dog Classification** for the project name
-1. Next to Resource, select the key you created earlier, which will use the name you created during the [setup](setup.md).
-1. For **Project Types** select **Classification**
-1. For **Classification Types** select **Multiclass**, as our dogs will only have one breed
-1. For **Domains** select **General \[A2\]**
-1. Select **Create project**
 
-## Upload images
+1. Navega a [Custom Vision](https://www.customvision.ai?WT.mc_id=academic-49102-chrhar) e inicia sesión. 
+4. Selecciona **Nuevo Proyecto**
+5. Escribe **Clasificación de Perros** para el nombre del proyecto. 
+6. Junto a Recurso, selecciona la clave que has creado previamente, cuyo nombre será el que has creado en [Configuración](setup-es.md).
+7. Para **Tipo de Proyecto** selecciona **Clasificación**
+9. Para **Tipos de Clasificación** selecciona  **Multiclase**, ya que nuestros perros solo tendrán una raza. 
+10. Para **Dominios** selecciona **General \[A2\]**
+11. Selecciona **Crear proyecto**
 
-Once the project is created it's time to upload images. These images are used to train the model.
+## Subir imágenes
 
-> **Tip**: As a general rule, the more images you can use to train a model the better. You want to include as much variety in the images as possible, including different lighting, angles, and settings.
+Una vez nuestro proyecto a sido creado, es tiempo de subir imágenes. Estas serán utilizadas para entrenar el modelo. 
 
-1. Select **Add images**
-1. Navigate to **training-images**
-1. Select all the images marked as **american-staffordshire-terrier** in the folder, and select **Open**
-1. Enter **american-staffordshire-terrier** for the tag and select **Upload 8 files**
-1. Select **Done**
-1. Repeat the above steps for the remaining breeds:
+> **Consejo**: Como regla general, cuantas más imágenes pueda usar para entrenar el modelo, mejor. Busca incluir la mayor variedad de imágenes posibles, que incluyan diferente iluminiación, ángulos, y configuraciones.  
+
+
+1. Selecciona **Agregar imágenes**
+3. Navega a **Imágenes de entrenamiento**
+4. Selecciona todas las imágenes marcadas como **american-staffordshire-terrier** en la carpeta, y seleccione **Abrir**
+5. Ingrese **american-staffordshire-terrier** para la etiqueta y seleccione **Subir 8 archivos**
+6. Seleccione **Hecho**
+8. Repita los pasos anteriores para las razas restantes: 
     - **australian-shepherd**
     - **buggle**
     - **german-wirehaired-pointer**
     - **shorkie**
-1. Select **Train** to open the training dialog
-1. Leave **Quick Training** selected and select **Train** to begin the training process
+9. Seleccione **Entrenar** para abrir el diálogo de entrenamiento. 
+10. Deje **Quick Training** seleccionado y seleccione **Entrenar** para comenzar el entrenamiento. 
 
-> **Note**: Training the model will take a couple of minutes.
+> **Nota**: Entrenar el modelo puede tomar un par de minutos. 
 
-## Summary
+## Resumen
 
-Congratulations! You have trained up a custom vision model which can detect dog types. Next you'll [test and use the model](./predict.md).
+¡Felicidades! Ha entrenado un modelo personalizado de Vision que puede detectar tipos de perros. A continuación  [probará y usará el modelo.](./predict-es.md).
+Congratulations! You have trained up a custom vision model which can detect dog types. Next you'll 
