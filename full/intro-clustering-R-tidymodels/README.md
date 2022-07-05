@@ -44,7 +44,7 @@ This workshop is also available on Binder. To open the notebook in a Binder envi
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carlotta94c/workshop-library/introToClusteringR%26Tidymodels/?labpath=%2Ffull%2Fintro-clustering-R-tidymodels%2Fsolution%2FChallenge-Clustering.ipynb)
 
 #### Learn Sandbox
-You can go through this challenge also leveraging on the Learn Sandbox environment, provided by [Unit 7](https://docs.microsoft.com/en-us/learn/modules/introduction-clustering-models/7-challenge-clustering?WT.mc_id=academic-59300-cacaste) of the MS Learn module - Introduction to clustering models by using R and tidymodels. Just sign in with your Microsoft or GitHub account and click on **Activate sandbox** to start.
+You can go through this challenge leveraging on the Learn Sandbox environment, provided by [Unit 7](https://docs.microsoft.com/en-us/learn/modules/introduction-clustering-models/7-challenge-clustering?WT.mc_id=academic-59300-cacaste) of the MS Learn module - Introduction to clustering models by using R and tidymodels. Just sign in with your Microsoft or GitHub account and click on **Activate sandbox** to start.
 
 #### VS Code Remote - Containers
 Follow these steps to open this workshop in a container using the VS Code Remote - Containers extension:
