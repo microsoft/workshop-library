@@ -29,7 +29,7 @@ To get you up and running and writing R code in no time, we have containerized t
 
 ### Setting up the development container
 
-A **development container** is a running [Docker](https://www.docker.com) container with a well-defined tool/runtime stack and its prerequisites. You can try out development containers with **[GitHub Codespaces](https://github.com/features/codespaces)** or **[Visual Studio Code Remote - Containers](https://aka.ms/vscode-remote/containers)**.
+A **development container** is a running [Docker](https://www.docker.com) container with a well-defined tool and runtime stack with its prerequisites. You can try out development containers with **[GitHub Codespaces](https://github.com/features/codespaces)** or **[Visual Studio Code Remote - Containers](https://aka.ms/vscode-remote/containers)**.
 
 #### GitHub Codespaces
 Follow these steps to open this workshop in a Codespace:
