@@ -55,7 +55,7 @@ Follow these steps to open this workshop in a container using the VS Code Remote
 
    > **Note:** If needed, you can drag-and-drop the `.devcontainer` folder from this sub-folder in a locally cloned copy of this repository into the VS Code file explorer instead of using the command.
 
-3. Select this definition. You may also need to select **Show All Definitions...** for it to appear.
+3. Select the "R Data Science Environment" definition.. You may also need to select **Show All Definitions...** for it to appear.
 
 4. Finally, press <kbd>F1</kbd> and run **Remote-Containers: Reopen Folder in Container** to start using the definition.
 
