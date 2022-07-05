@@ -7,7 +7,7 @@
 
 1. Students will be skilled at:
 - Understanding what is clustering and when to use a clustering model
-- Training and evaluating clustering models using the Tidymodels framework
+- Training and evaluating clustering models in R
 1. Students will be able to independently use their learning to:
 - Use Principal Componenent Analysis (PCA) to create a 2D version of the features for visualization
 - Experimenting with different clustering models (k-means, hierarchical clustering)
@@ -21,5 +21,5 @@
 
 - Introduction
 - Evaluate different type of clustering
-- Challenge - Create a clustering model using Tidymodels
+- Challenge - Build a clustering model in R
 - Knowledge check
