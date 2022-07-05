@@ -80,7 +80,7 @@ In this section you will:
 
 ## Milestone 2: Calculate WCSS to determine the right number of clusters
 
-One of the fundamental problems with clustering is: without knowing class labels, how do you know how many clusters to separate your data into? One way is to use a data sample to create a series of clustering models with an incrementing number of clusters. Then you can measure how tightly the data points are grouped within each cluster, by using the within cluster sum of squares (WCSS), with lower values meaning that the data points are closer. You can also plot the WCSS for each model and spot the optimal number of cluster from the chart.
+One of the fundamental problems with clustering is: without knowing class labels, how do you know how many clusters to separate your data into? One way is to use a data sample to create a series of clustering models with an incrementing number of clusters. Then, you can measure how tightly the data points are grouped within each cluster, by using the cluster sum of squares (WCSS) with lower values which means that the data points are closer. You can also plot the WCSS for each model and spot the optimal number of cluster from the chart.
 
 In this section you will:
 
