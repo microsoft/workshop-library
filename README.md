@@ -56,8 +56,12 @@ Welcome to the [Next Generation Team's Workshop Library](presentation.pptx), bui
 2️⃣ | [Build a Mood Journal Progressive Web App](./full/mood-journal-progressive-web-app/README.md) | Beth Pan | 1.5 hours | Build a Mood Journal for Mental Health as a Progressively-Enhanced Web app | [🎥](https://youtu.be/12THeQreSQ0) | JavaScript|
 
 ---
+<details open>
+<summary><h2>Resources on how to teach and mentor effectively</h2></summary>
+<br>
+Well, you asked for it!
 
-## Resources on how to teach and mentor effectively
+
 
 Use the [Cheat Sheet](./cheat-sheet.md) to organize your workshop delivery
 
@@ -68,3 +72,4 @@ Use the [Cheat Sheet](./cheat-sheet.md) to organize your workshop delivery
 [LinkedIn Learning Course](https://www.linkedin.com/learning/presenting-technical-information-with-stories/storytelling-for-technical-presentations?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=3322) on how to present technical topics with stories
 
 These workshops were created using our [template](https://github.com/microsoft/workshop-template)
+</details>
