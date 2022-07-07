@@ -16,7 +16,8 @@ Hello and welcome to this learning adventure! In this folder, you will find a Cl
 
 ## Video
 
-Coming soon!
+[![workshop walk-through](./images/promo.png)](https://youtu.be/7YMNl-7gZhs "workshop walk-through")
+> 🎥 Click this image to watch Carlotta walk you through the workshop material and to gain some tips about delivering this workshop
 
 ## Pre-Learning
 This workshop allows learners to use the skills learnt in the module [Introduction to clustering models by using R and tidymodels](https://docs.microsoft.com/en-us/learn/modules/introduction-clustering-models/?WT.mc_id=academic-59300-cacaste) to create their clustering models. As such, learners are encouraged to go through the module beforehand to get used to the concepts covered in this workshop.
