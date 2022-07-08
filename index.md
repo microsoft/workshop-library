@@ -2,8 +2,6 @@
 
 This is a collection of presentation materials that you can use, adapt, and modify for *your* own presentation! It was built by Cloud Advocate at Microsoft in partnership with Microsoft Student Ambassadors.
 
-This site is also available in: [Español](./es/index.md) 
-
 🚀 Present in 3 easy steps:
 
 1. Find a ready-to-use topic from [AI/ML](#-ai-and-ml), [Data](#-data-and-data-science), or [Web Development](#-web-development). For example: [Intro to Static Web Apps](./short/intro-static-web-apps/README.md)
@@ -24,22 +22,37 @@ From building ML models using Custom Vision to creating a web application with F
 
   <details>
     <summary>Intermmediate</summary>
-    <br>
 
-   - [Build a Machine Learning Model using Custom Vision](./full/ml-model-custom-vision/README.md)
-   - [Build an AI web app by using Python and Flask](./full/flask-text-translator/README.md)
-   - [Create a Regression Model with Azure Machine Learning designer](./full/regression-aml-designer/README.md)
-   - [Integrating Custom Vision with Power Apps for Diabetic Retinopathy Detection](./full/power-app-custom-vision/README.md)
+   <ul>
+    <li>
+       <a href="./full/ml-model-custom-vision/README.md">Build a Machine Learning Model using Custom Vision</a>
+    </li>
+    <li>
+      <a href="./full/flask-text-translator/README.md">Build an AI web app by using Python and Flask</a>
+    </li>
+    <li>
+      <a href="./full/regression-aml-designer/README.md">Create a Regression Model with Azure Machine Learning designer</a>
+    </li>
+    <li>
+      <a href="./full/power-app-custom-vision/README.md">Integrating Custom Vision with Power Apps for Diabetic Retinopathy Detection</a>
+    </li>
+   </ul>
 
   </details>
 
   <details>
     <summary>Advanced</summary>
-    <br>
 
-   - [Use TensorFlow and Keras for Natural Language Processing](./full/intro-nlp-tensorflow/README.md)
-   - [Deep Learning for Computer Vision](./full/deep-learning-computer-vision/README.md)
+  <ul>
+      <li>
+        <a href="./full/intro-nlp-tensorflow/README.md">Use TensorFlow and Keras for Natural Language Processing</a>
+      </li>
+      <li>
+        <a href="./full/deep-learning-computer-vision/README.md">Deep Learning for Computer Vision</a>
+      </li>
+  </ul>
 
+    
   </details>
 
 
@@ -48,26 +61,44 @@ If you are interested in data or data science, you'll find these presentations c
 
 <details>
     <summary>Beginner</summary>
-    <br>
 
- - [Intro to Jupyter Notebooks](./short/intro-jupyter-notebooks-python/README.md)
- - [Explore and Analyze Data with R](./full/explore-analyze-data-with-R/README.md)
+  <ul>
+      <li>
+        <a href="./short/intro-jupyter-notebooks-python/README.md">Intro to Jupyter Notebooks</a>
+      </li>
+      <li>
+        <a href="./full/explore-analyze-data-with-R/README.md">Explore and Analyze Data with R</a>
+      </li>
+  </ul>
 
 
 </details>
 
 <details>
   <summary>Intermmediate</summary>
-  <br>
 
- - [Clean and Prepare Data using Python](./full/clean-prepare-data-python/README.md)
- - [Read and Write Data using Azure DataBricks](./full/intro-databricks/README.md)
- - [COVID Paper Exploration Workshop](./full/covid-paper-text-analytics/README.md)
- - [Introduction to Regression Models with R and Tidymodels](./full/intro-regression-R-tidymodels/README.md)
- - [Introduction to Classification Models with R and Tidymodels](./full/intro-classification-R-tidymodels/README.md)
- - [Introduction to Clustering Models with R and Tidymodels](./full/intro-clustering-R-tidymodels/README.md)
-
+  <ul>
+    <li>
+      <a href="./full/clean-prepare-data-python/README.md">Clean and Prepare Data using Python</a>
+    </li>
+    <li>
+      <a href="./full/intro-databricks/README.md">Read and Write Data using Azure DataBricks</a>
+    </li>
+    <li>
+      <a href="./full/covid-paper-text-analytics/README.md">COVID Paper Exploration Workshop</a>
+    </li>
+    <li>
+      <a href="./full/intro-regression-R-tidymodels/README.md">Introduction to Regression Models with R and Tidymodels</a>
+    </li>
+    <li>
+      <a href="./full/intro-classification-R-tidymodels/README.md">Introduction to Classification Models with R and Tidymodels</a>
+    </li>
+    <li>
+      <a href="./full/intro-clustering-R-tidymodels/README.md">Introduction to Clustering Models with R and Tidymodels</a>
+    </li>
+  </ul>
 </details>
+
 
 
 
@@ -77,26 +108,49 @@ If you like web development, then these ready-to-use presentations are going to 
   <details>
     <summary>Beginner</summary>
 
-
-   - [Intro to GitHub using GitHub.dev](./short/intro-github-dev/README.md)
-   - [Explore the art world by using RESTful APIs](./short/explore-art-rest-api/README.md)
-   - [Intro to Static Web Apps](./short/intro-static-web-apps/README.md)
-   - [Build a Website to Showcase your Resume](./full/build-resume-website/README.md)
-   - [Build an App without Using any Code with Microsoft Power Platform](./full/power-platform-canvas-app/README.md)
-   - [Getting Started with Development Containers in VS Code](./full/using-dev-containers-vscode/README.md)
+  <ul>
+      <li>
+        <a href="./short/intro-github-dev/README.md">Intro to GitHub using GitHub.dev</a>
+      </li>
+      <li>
+        <a href="./short/explore-art-rest-api/README.md">Explore the art world by using RESTful APIs</a>
+      </li>
+      <li>
+        <a href="./short/intro-static-web-apps/README.md">Intro to Static Web Apps</a>
+      </li>
+      <li>
+        <a href="./full/build-resume-website/README.md">Build a Website to Showcase your Resume</a>
+      </li>
+      <li>
+        <a href="./full/power-platform-canvas-app/README.md">Build an App without Using any Code with Microsoft Power Platform</a>
+      </li>
+      <li>
+        <a href="./full/using-dev-containers-vscode/README.md">Getting Started with Development Containers in VS Code</a>
+      </li>
+  </ul>
 
   </details>
 
   <details>
     <summary>Intermmediate</summary>
 
-
-   - [Build a Minimal API with .NET 6](./full/intro-minapi/README.md)
-   - [Get Started with React](./full/intro-react/README.md)
-   - [Create Serverless Logic with Azure Functions](./full/azure-functions/README.md)
-   - [Get Started with Django](./full/django-get-started/README.md)
-   - [Build a Mood Journal Progressive Web App](./full/mood-journal-progressive-web-app/README.md)
-
+  <ul>
+      <li>
+        <a href="./full/intro-minapi/README.md">Build a Minimal API with .NET 6</a>
+      </li>
+      <li>
+        <a href="./full/intro-react/README.md">Get Started with React</a>
+      </li>
+      <li>
+        <a href="./full/azure-functions/README.md">Create Serverless Logic with Azure Functions</a>
+      </li>
+      <li>
+        <a href="./full/django-get-started/README.md">Get Started with Django</a>
+      </li>
+      <li>
+        <a href="./full/mood-journal-progressive-web-app/README.md">Build a Mood Journal Progressive Web App</a>
+      </li>
+  </ul>
   </details>
 
 
