@@ -56,10 +56,9 @@ Welcome to the [Next Generation Team's Workshop Library](presentation.pptx), bui
 2️⃣ | [Build a Mood Journal Progressive Web App](./full/mood-journal-progressive-web-app/README.md) | Beth Pan | 1.5 hours | Build a Mood Journal for Mental Health as a Progressively-Enhanced Web app | [🎥](https://youtu.be/12THeQreSQ0) | JavaScript|
 
 ---
-<details open>
+<details>
 <summary><h2>Resources on how to teach and mentor effectively</h2></summary>
 <br>
-Well, you asked for it!
 
 
 
