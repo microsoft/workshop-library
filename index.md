@@ -24,7 +24,7 @@ From building ML models using Custom Vision to creating a web application with F
 
   <details>
     <summary>Intermmediate</summary>
-
+    <br>
 
    - [Build a Machine Learning Model using Custom Vision](./full/ml-model-custom-vision/README.md)
    - [Build an AI web app by using Python and Flask](./full/flask-text-translator/README.md)
@@ -35,7 +35,7 @@ From building ML models using Custom Vision to creating a web application with F
 
   <details>
     <summary>Advanced</summary>
-
+    <br>
 
    - [Use TensorFlow and Keras for Natural Language Processing](./full/intro-nlp-tensorflow/README.md)
    - [Deep Learning for Computer Vision](./full/deep-learning-computer-vision/README.md)
@@ -48,7 +48,7 @@ If you are interested in data or data science, you'll find these presentations c
 
 <details>
     <summary>Beginner</summary>
-
+    <br>
 
  - [Intro to Jupyter Notebooks](./short/intro-jupyter-notebooks-python/README.md)
  - [Explore and Analyze Data with R](./full/explore-analyze-data-with-R/README.md)
@@ -58,7 +58,7 @@ If you are interested in data or data science, you'll find these presentations c
 
 <details>
   <summary>Intermmediate</summary>
-
+  <br>
 
  - [Clean and Prepare Data using Python](./full/clean-prepare-data-python/README.md)
  - [Read and Write Data using Azure DataBricks](./full/intro-databricks/README.md)
