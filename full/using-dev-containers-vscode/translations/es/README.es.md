@@ -12,7 +12,7 @@ En este taller, aprenderás a como acceder, personalizar y añadir software a lo
 | **Objetivo**                                          | Descripción                                                                                                    |
 | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | **¿Qué aprenderás?**                           | Aprenderás a como cargar y conectarte a un proyecto remoto, personalizar la configuración cuando se trabaja con un contenedor de desarrollo y añadir software al entorno del contenedor. |
-| **Lo que necesitarás**                              | [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-55190-ornella), [Docker Desktop](https://www.docker.com/products/docker-desktop) y [Git](https://git-scm.com/downloads)                                          |
+| **Lo que necesitarás**                              | [Visual Studio Code](https://azure.microsoft.com/es-mx/products/visual-studio-code/), [Docker Desktop](https://www.docker.com/products/docker-desktop) y [Git](https://git-scm.com/downloads)                                          |
 | **Duración**                                      | 1 hora |
 | **Diapositivas**                                        | [Powerpoint](../../slides.pptx) |   
 
