@@ -11,7 +11,7 @@ En este taller, aprenderás a como acceder, personalizar y añadir software a lo
 
 | **Objetivo**                                          | Descripción                                                                                                    |
 | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| **¿Qué aprenderás?**                           | aprenderás a como cargar y conectarte a un proyecto remoto, personalizar la configuración cuando se trabaja con un contenedor de desarrollo y añadir software al entorno del contenedor. |
+| **¿Qué aprenderás?**                           | Aprenderás a como cargar y conectarte a un proyecto remoto, personalizar la configuración cuando se trabaja con un contenedor de desarrollo y añadir software al entorno del contenedor. |
 | **Lo que necesitarás**                              | [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-55190-ornella), [Docker Desktop](https://www.docker.com/products/docker-desktop) y [Git](https://git-scm.com/downloads)                                          |
 | **Duración**                                      | 1 hora |
 | **Diapositivas**                                        | [Powerpoint](../../slides.pptx) |   
@@ -27,12 +27,6 @@ En este taller, aprenderás a como acceder, personalizar y añadir software a lo
 - [Visión general de Contenedores y Docker](https://docs.microsoft.com/gl-es/dotnet/architecture/containerized-lifecycle/introduction-to-containers-and-docker?WT.mc_id=academic-55190-ornella)
 - [Introducción a Git](https://docs.microsoft.com/gl-es/learn/modules/intro-to-git/?WT.mc_id=academic-55190-ornella)
 - [Uso de un contenedor de Docker como entorno de desarrollo con Visual Studio Code](https://docs.microsoft.com/gl-es/learn/modules/use-docker-container-dev-env-vs-code/?WT.mc_id=academic-55190-ornella)
-
-## Prerequisitos
-
-- [Visual Studio Code](https://azure.microsoft.com/es-mx/products/visual-studio-code/)
-- [Docker Desktop](https://www.docker.com/products/docker-desktop)
-- [Git](https://git-scm.com/downloads)
 
 ## Lo que aprenderán los estudiantes
 
