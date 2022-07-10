@@ -13,10 +13,10 @@ En este taller, abordaremos como construir una aplicación sin código con _low 
 | **¿Qué aprenderás?**                           | Cómo construir y personalizar una aplicación con Power Apps y aprenderás sobre todos sus elementos|
 | **¿Qué vas a necesitar?**                              | [Suscripción M365](https://developer.microsoft.com/microsoft-365/dev-program?WT.mc_id=academic-56577-hmitra)                                          |
 | **Duración**                                      | 1 hora |
-| **Presentación**                                        | [Powerpoint](./slides_es.pptx)                                                                                      |
+| **Presentación**                                        | [Powerpoint](../../slides_es.pptx)                                                                                      |
 ## Video walk-through
 
-[![Taller walk-through](./images/promo.png)](https://youtu.be/NLXtRjXgMBo "Taller walk-through")
+[![Taller walk-through](../../images/promo.png)](https://youtu.be/NLXtRjXgMBo "Taller walk-through")
 > 🎥 Clic a la imagen para mirar una guía del taller
 
 ## Pre-Aprendizaje
@@ -32,7 +32,7 @@ En este taller, abordaremos como construir una aplicación sin código con _low 
 
 ¿Te gustaría construir una aplicación pero la cantidad de conocimientos en desarrollo requeridos para hacerlo te detiene? Si es así, ¡convierte tus ideas en realidad con la ayuda de Microsoft Power Apps!
 
-![Captura del proyecto final](./images/project.png)
+![Captura del proyecto final](../../images/project.png)
 
 ## Pasos a seguir:
 
