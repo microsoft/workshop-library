@@ -49,19 +49,19 @@ También puede completar este desafío aprovechando el espacio asilado de Learn,
 #### VS Code Remote - Containers
 Siga estos pasos para abrir este taller en un contenedor usando la extensión VS Code Remote - Containers:
 
-1. If this is your first time using a development container, please ensure your system meets the pre-reqs (i.e. have Docker installed) in the [getting started steps](https://aka.ms/vscode-remote/containers/getting-started).
+1. Si es la primera vez que usa un contenedor de desarrollo, asegúrese de que su sistema cumpla con los requisitos previos (por ejemplo, tener instalado Docker) en la [guía de inicio](https://aka.ms/vscode-remote/containers/getting-started).
 
-2. Press <kbd>F1</kbd> select and **Add Development Container Configuration Files...** command for **Remote-Containers** or **Codespaces**.
+2. Presiona <kbd>F1</kbd> y seleccione el comando **Agregar archivos de configuración del contenedor de desarrollo...** para **Contenedores Remotos** o **Codespaces**.
 
-   > **Note:** If needed, you can drag-and-drop the `.devcontainer` folder from this sub-folder in a locally cloned copy of this repository into the VS Code file explorer instead of using the command.
+   > **Nota:** Si es necesario, puede arrastrar y soltar la carpeta `.devcontainer` desde esta subcarpeta en una copia clonada localmente de este repositorio en el explorador de archivos de VS Code en lugar de usar el comando.
 
-3. Select this definition. You may also need to select **Show All Definitions...** for it to appear.
+3. Selecciona esta definición. También debe seleccionar **Mostrar todas las definiciones...** para que aparezca.
 
-4. Finally, press <kbd>F1</kbd> and run **Remote-Containers: Reopen Folder in Container** to start using the definition.
+4. Finalmente, presiona <kbd>F1</kbd> y ejecuta **Contenedores Remotos: Reabrir carpeta en contenedor** para empezar a usar la definición.
 
-This definition includes some test code that will help you verify it is working as expected on your system. Open the `all-systems-check` folder where you can choose to run the `.R`, `.Rmd` or `.ipynb` scripts. You should see "Hello, remote world!" in an R terminal window (for `.R` and `.Rmd`) or within a Jupyter Notebook (for `.ipynb`) after the respective script executes.
+Esta definición incluye un código de prueba que lo ayudará a verificar que funciona correctamente en su sistema. Abra la carpeta `all-systems-check` donde puede elegir ejecutar los scripts `.R`, `.Rmd` o `.ipynb`. Deberías ver "¡Hola, mundo remoto!" en una ventana de terminal R (para `.R` y `.Rmd`) o dentro de un Jupyter Notebook (para `.ipynb`) después de que se ejecute el script respectivo.
 
-At some point, you may want to make changes to your container, such as installing a new package. You'll need to rebuild your container for your changes to take effect. 
+En algún momento, es posible que desee realizar cambios en su contenedor, como instalar un nuevo paquete. Deberá reconstruir su contenedor para que los cambios surtan efecto.
 
 ## Lo que vas a aprender
 
@@ -93,25 +93,25 @@ En esta sección usted:
 
 ### More EDA
 
-The goal of EDA is to develop a better understanding of your data. More often than not, EDA will involve formulating some probing questions about your data, searching for answers by visualizing and transforming data and finally using the understanding gained to refine questions, drop the questions entirely and/or generate new questions.
+El objetivo de EDA es desarrollar una mejor comprensión de sus datos. La mayoría de las veces, EDA implicará formular algunas preguntas de sondeo sobre sus datos, buscar respuestas mediante la visualización y transformación de datos y, finalmente, utilizar la comprensión adquirida para refinar las preguntas, descartarlas por completo y/o generar nuevas preguntas.
 
-In this section, you will:
+En esta sección:
 
-- Use statistics, aggregate functions, and visualizations to answer the following questions:
+- Utilizará estadísticas, funciones agregadas y visualizaciones para responder las siguientes preguntas:
 
-    - What are the average (mean) departure and arrival delays?
+    - ¿Cuáles son los retrasos promedio (media) de salida y llegada?
 
-    - How do the carriers compare in terms of arrival delay performance?
+    - ¿Cómo se comparan los transportistas en términos de rendimiento de retrasos en la llegada?
 
-    - Is there a noticeable difference in arrival delays for different days of the week?
+    - ¿Hay una diferencia notable en los retrasos de llegada para los diferentes días de la semana?
 
-    - Which departure airport has the highest average departure delay?
+     - ¿Qué aeropuerto de salida tiene el retraso medio de salida más alto?
 
-    - Do late departures tend to result in longer arrival delays than on-time departures?
+     - ¿Las salidas tardías tienden a resultar en retrasos de llegada más prolongados que las salidas a tiempo?
 
-    - Which route (from origin airport to destination airport) has the most late arrivals?
+     - ¿Qué ruta (del aeropuerto de origen al aeropuerto de destino) tiene más llegadas tardías?
 
-    - Which route has the highest average arrival delay?
+     - ¿Qué ruta tiene el promedio de retraso de llegada más alto?
 
 ## Prueba
 
@@ -121,13 +121,12 @@ Evalúa tus conocimientos con [una breve prueba](https://docs.microsoft.com/en-u
 
 ¡Felicidades por finalizar este reto 🏅!
 
-Hay otros talleres sobre el uso de R para Ciencia de Datos. En este taller, aprendimos cómo limpiar, visualizar y transformar datos para obtener información y conocimiento. El siguiente conjunto de talleres le mostrará 
-There are other workshops around using R for Data Science. In this workshop, we learnt how to clean data, visualize data and transform data to derive insights and knowledge. The next set of workshops will show you how to [create regression models](../intro-regression-R-tidymodels), [create classification models](../intro-classification-R-tidymodels) and create clustering models (coming soon!). Be sure to check them out!
+Hay otros talleres sobre el uso de R para Ciencia de Datos. En este taller, aprendimos cómo limpiar, visualizar y transformar datos para obtener información y conocimiento. El siguiente conjunto de talleres le enseñará [cómo crear modelos de regresión](../../../intro-regression-R-tidymodels/), [cómo crear modelos de clasificación](../../../intro-classification-R-tidymodels/) y cómo crear modelos de agrupamiento (¡muy pronto!). 
+There are other workshops around using R for Data Science. In this workshop, we learnt how to clean data, visualize data and transform data to derive insights and knowledge. The next set of workshops will show you how to [create regression models](../intro-regression-R-tidymodels), [create classification models](../intro-classification-R-tidymodels) and create clustering models (coming soon!). ¡Asegúrate de echarles un vistazo!
 
 ## Práctica
 
-En este taller utilizaste 
-In this workshop, you used already provided questions to guide your EDA. Sometimes this is not the case. Try generating questions of your own and answering them using the data visualization and transformation skills you have acquire in this module. What new insights do you reveal?
+En este taller utilizó preguntas ya proporcionadas para guiar su EDA. A veces este no es el caso. Intente generar sus propias preguntas y responderlas utilizando las habilidades de transformación y visualización de datos que ha adquirido en este módulo. ¿Qué nuevos conocimientos revela?
 
 
 ## Feedback
