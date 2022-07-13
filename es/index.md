@@ -1,21 +1,22 @@
 ## Presentaciones listas para usar
 
-Esta es una colección de presentaciones que puedes usar, adaptar, y modificar para *tu* propia presentacion! Esta construida por Cloud Advocates de Microsoft en colaboración con Microsoft Student Ambassadors.
+¡Esta es una colección de presentaciones que puedes usar, adaptar, y modificar para *tu* propia presentacion! Esta construida por Cloud Advocates de Microsoft en colaboración con los Microsoft Learn Student Ambassadors.
 
-🚀 Present in 3 easy steps:
+🚀 Presenta en 3 pasos sencillos:
+1. Encuentra un tema que esta listo para usar de [Inteligencia Artificial/Aprendizaje Automático](#-ai-and-ml), [Datos](#-data-and-data-science), o [Desarrollo Web](#-web-development). Por ejemplo: [Introduccion a Aplicaciones Web Estaticas](./short/intro-static-web-apps/README.md)
+1. Haz clic en el link para encontrar todos los recursos en una sola pagina incluyendo una presentacion opcional de Power Point.
+1. Selecciona y modifica el contenido acorde a tus necesidades y ¡presentalo a tu audiencia! 
 
-1. Find a ready-to-use topic from [AI/ML](#-ai-and-ml), [Data](#-data-and-data-science), or [Web Development](#-web-development). For example: [Intro to Static Web Apps](./short/intro-static-web-apps/README.md)
-1. Click on the link to find all resources in a single page including an optional Power Point
-1. Select and modify the content to your needs, and present away!
+## 🧐 Suena interesante, ¿qué necesito hacer?
 
-## 🧐 Sounds interesting, what do I need?
-You only need to find an available title from a topic that you like and use any (or all) resources to create a presentation. No need to know Git or GitHub unless you want to fork this repository and make changes (✅ which is OK if you want to!).
+Lo unico que necesitas es: encontrar un titulo disponible de un tema que te guste y usar uno (o todos) los recursos disponibles para crear tu presentacion. No es necesario conocer Git o GitHub, a menos que desees bifurcar (fork) este repositorio y realizar cambios (lo cual esta super bien ✅, si es lo que deseas)
 
 
-## 🤔 I'm still confused!
-Watch this short video that explains how to use the ready-to-use presentations
+## 🤔 Sigo confundidx
+Mira este corto video que explica como tú puedes utilizar estas presentaciones.
+
+> 🎥 Haz clic en la imagen inferior para aprender como presentar un taller de esta libreria
 [![Workshop Library overview ](/images/how-to.gif)](https://youtu.be/tylrSBnjHGo "Workshop Library overview - Click to Watch!")
-> 🎥 Click the image above to learn how to deliver a workshop from this library
 
 ## 🧠 AI and ML
 From building ML models using Custom Vision to creating a web application with Flask, this category is full of useful resources related to AI and ML so that you can present. Click on the available presentations below 👇
