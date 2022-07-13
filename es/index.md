@@ -1,111 +1,111 @@
 ## Presentaciones listas para usar
 
-¡Esta es una colección de presentaciones que puedes usar, adaptar, y modificar para *tu* propia presentacion! Esta construida por Cloud Advocates de Microsoft en colaboración con los Microsoft Learn Student Ambassadors.
+¡Esta es una colección de presentaciones que puedes usar, adaptar, y modificar para *tu* propia presentación! Esta construida por Cloud Advocates de Microsoft en colaboración con los Microsoft Learn Student Ambassadors.
 
 🚀 Presenta en 3 pasos sencillos:
-1. Encuentra un tema que esta listo para usar de [Inteligencia Artificial/Aprendizaje Automático](#-ai-and-ml), [Datos](#-data-and-data-science), o [Desarrollo Web](#-web-development). Por ejemplo: [Introduccion a Aplicaciones Web Estaticas](./short/intro-static-web-apps/README.md)
-1. Haz clic en el link para encontrar todos los recursos en una sola pagina incluyendo una presentacion opcional de Power Point.
-1. Selecciona y modifica el contenido acorde a tus necesidades y ¡presentalo a tu audiencia! 
+1. Encuentra un tema que está listo para usar de [Inteligencia Artificial/Aprendizaje Automático](#-ai-and-ml), [Datos](#-data-and-data-science), o [Desarrollo Web](#-web-development). Por ejemplo: [Introducción a Aplicaciones Web Estáticas](./short/intro-static-web-apps/README.md)
+1. Haz clic en el enlace para encontrar todos los recursos en una sola página incluyendo una presentación opcional de PowerPoint.
+1. Selecciona y modifica el contenido acorde a tus necesidades y ¡preséntalo a tu audiencia! 
 
 ## 🧐 Suena interesante, ¿qué necesito hacer?
 
-Lo unico que necesitas es: encontrar un titulo disponible de un tema que te guste y usar uno (o todos) los recursos disponibles para crear tu presentacion. No es necesario conocer Git o GitHub, a menos que desees bifurcar (fork) este repositorio y realizar cambios (lo cual esta super bien ✅, si es lo que deseas)
-
+Lo único que necesitas es: encontrar un título disponible de un tema que te guste y usar uno (o todos) los recursos disponibles para crear tu presentación. No es necesario conocer Git o GitHub, a menos que desees bifurcar (fork) este repositorio y realizar cambios (lo cual esta super bien ✅, si es lo que deseas)
 
 ## 🤔 Sigo confundidx
 Mira este corto video que explica como tú puedes utilizar estas presentaciones.
 
-> 🎥 Haz clic en la imagen inferior para aprender como presentar un taller de esta libreria
+> 🎥 Haz clic en la imagen inferior para aprender como presentar un taller de esta librería
 [![Workshop Library overview ](/images/how-to.gif)](https://youtu.be/tylrSBnjHGo "Workshop Library overview - Click to Watch!")
 
-## 🧠 AI and ML
-From building ML models using Custom Vision to creating a web application with Flask, this category is full of useful resources related to AI and ML so that you can present. Click on the available presentations below 👇
+## 🧠 Inteligencia Artificial y Aprendizaje Automático
+
+Desde construir modelos de Aprendizaje Automático (Machine Learning) utilizando Custom Vision hasta la creación de una aplicación web con Flask, esta categoría está llena de recursos útiles relacionados con Inteligencia Artificial y Aprendizaje Automático que puedes presentar. A continuación, haz clic en las presentaciones disponibles 👇: 
 
   <details>
-    <summary>Intermmediate</summary>
+    <summary>Intermedio</summary>
 
 
-   - [Build a Machine Learning Model using Custom Vision](./full/ml-model-custom-vision/README.md)
-   - [Build an AI web app by using Python and Flask](./full/flask-text-translator/README.md)
-   - [Create a Regression Model with Azure Machine Learning designer](./full/regression-aml-designer/README.md)
-   - [Integrating Custom Vision with Power Apps for Diabetic Retinopathy Detection](./full/power-app-custom-vision/README.md)
+   - [Crea un modelo de Aprendizaje Automático con Custom Vision](./full/ml-model-custom-vision/README.md)
+   - [Crea una aplicación web de Inteligencia Artificial mediante Python y Flask](./full/flask-text-translator/README.md)
+   - [Crea un modelo de regresión con el diseñador de Azure Machine Learning](./full/regression-aml-designer/README.md)
+   - [Integración de la Custom Vision con Power Apps para la detección de la retinopatía diabética](./full/power-app-custom-vision/README.md)
 
   </details>
 
   <details>
-    <summary>Advanced</summary>
+    <summary>Avanzado</summary>
 
 
-   - [Use TensorFlow and Keras for Natural Language Processing](./full/intro-nlp-tensorflow/README.md)
-   - [Deep Learning for Computer Vision](./full/deep-learning-computer-vision/README.md)
+   - [Usa TensorFlow y Keras para el procesamiento del lenguaje natural](./full/intro-nlp-tensorflow/README.md)
+   - [Aprendizaje profundo para visión artificial](./full/deep-learning-computer-vision/README.md)
 
   </details>
 
 
-## 💿 Data and Data Science
-If you are interested in data or data science, you'll find these presentations compelling! This category covers noteboks, data manipulation, data exploration and more! Click on the available presentations below 👇
+## 💿 Datos y Ciencia de Datos
+Si estas interesadx en datos o en ciencia de datos, ¡encontraras estas interesantes estas presentaciones! esta categoría cubre notebooks (cuadernos), manipulación de datos, exploración de datos y ¡mucho más! A continuación, haz clic en las presentaciones disponibles 👇:
 
 <details>
-    <summary>Beginner</summary>
+    <summary>Principiante</summary>
 
 
- - [Intro to Jupyter Notebooks](./short/intro-jupyter-notebooks-python/README.md)
- - [Explore and Analyze Data with R](./full/explore-analyze-data-with-R/README.md)
+ - [Introducción a Jupyter Notebooks](./short/intro-jupyter-notebooks-python/README.md)
+ - [Explore y analice datos con R](./full/explore-analyze-data-with-R/README.md)
 
 
 </details>
 
 <details>
-  <summary>Intermmediate</summary>
+  <summary>Intermedio</summary>
 
 
- - [Clean and Prepare Data using Python](./full/clean-prepare-data-python/README.md)
- - [Read and Write Data using Azure DataBricks](./full/intro-databricks/README.md)
- - [COVID Paper Exploration Workshop](./full/covid-paper-text-analytics/README.md)
- - [Introduction to Regression Models with R and Tidymodels](./full/intro-regression-R-tidymodels/README.md)
- - [Introduction to Classification Models with R and Tidymodels](./full/intro-classification-R-tidymodels/README.md)
- - [Introduction to Clustering Models with R and Tidymodels](./full/intro-clustering-R-tidymodels/README.md)
+ - [Limpiar y preparar datos con Python](./full/clean-prepare-data-python/README.md)
+ - [Lectura y escritura de datos con Azure DataBricks](./full/intro-databricks/README.md)
+ - [Taller de Exploración del Papel de COVID](./full/covid-paper-text-analytics/README.md)
+ - [Introducción a los modelos de regresión con R y Tidymodels](./full/intro-regression-R-tidymodels/README.md)
+ - [Introducción a los modelos de clasificación con R y Tidymodels](./full/intro-classification-R-tidymodels/README.md)
+ - [Introducción a los modelos de clustering con R y Tidymodels](./full/intro-clustering-R-tidymodels/README.md)
 
 </details>
 
 
 
-## 🕸 Web Development
-If you like web development, then these ready-to-use presentations are going to help you present in no time! Even if your audience is just starting out, there are presentations on how to setup a development environment or build simple projects like a website to showcase your resume. Click on the available presentations below 👇
+## 🕸 Desarrollo Web
+Si te gusta el desarrollo web, entonces ¡estas presentaciones listas para usar te ayudarán a presentar en poco tiempo! Incluso si tu audiencia recién está comenzando. Hay presentaciones sobre como configurar un entorno de desarrollo o crear proyectos simples como un sitio web para mostrar tu currículum. A continuación, haz clic en las presentaciones disponibles 👇:
 
   <details>
-    <summary>Beginner</summary>
+    <summary>Principiante</summary>
 
 
-   - [Intro to GitHub using GitHub.dev](./short/intro-github-dev/README.md)
-   - [Explore the art world by using RESTful APIs](./short/explore-art-rest-api/README.md)
-   - [Intro to Static Web Apps](./short/intro-static-web-apps/README.md)
-   - [Build a Website to Showcase your Resume](./full/build-resume-website/README.md)
-   - [Build an App without Using any Code with Microsoft Power Platform](./full/power-platform-canvas-app/README.md)
-   - [Getting Started with Development Containers in VS Code](./full/using-dev-containers-vscode/README.md)
+   - [Introducción a GitHub usando GitHub.dev](./short/intro-github-dev/README.md)
+   - [Explora el mundo del arte mediante el uso de API RESTful](./short/explore-art-rest-api/README.md)
+   - [Introducción a las aplicaciones web estáticas](./short/intro-static-web-apps/README.md)
+   - [Crea un sitio web para mostrar tu currículum](./full/build-resume-website/README.md)
+   - [Crea una aplicación sin usar ningún código con Microsoft Power Platform](./full/power-platform-canvas-app/README.md)
+   - [Introducción a los contenedores de desarrollo en VS Code](./full/using-dev-containers-vscode/README.md)
 
   </details>
 
   <details>
-    <summary>Intermmediate</summary>
+    <summary>Intermedio</summary>
 
 
-   - [Build a Minimal API with .NET 6](./full/intro-minapi/README.md)
-   - [Get Started with React](./full/intro-react/README.md)
-   - [Create Serverless Logic with Azure Functions](./full/azure-functions/README.md)
-   - [Get Started with Django](./full/django-get-started/README.md)
-   - [Build a Mood Journal Progressive Web App](./full/mood-journal-progressive-web-app/README.md)
+   - [Crea una API mínima con .NET 6](./full/intro-minapi/README.md)
+   - [Introducción a React](./full/intro-react/README.md)
+   - [Creación de lógica sin servidor con Azure Functions](./full/azure-functions/README.md)
+   - [Introducción a Django](./full/django-get-started/README.md)
+   - [Crea una aplicación web progresiva de Mood Journal](./full/mood-journal-progressive-web-app/README.md)
 
   </details>
 
 
-## 🤩 Contributing and other resources
+## 🤩 Contribuciones y otros recursos
 
-Are you looking to contribute a presentation or want to learn more about presenting and delivering? This section has you covered!
+¿Estás buscando colaborar con una presentación o deseas obtener más información sobre la presentación y como presentarla a tu audiencia? ¡En esta sección encontraras más sobre ello!
 
-- Use the [Cheat Sheet](./cheat-sheet.md) to organize your workshop delivery
-- [Slides on how to mentor](https://github.com/FrontEndFoxes/art/blob/main/frontend-foxes-mentor-training.pdf) from Front-End Foxes School
-- [LinkedIn Learning Course](https://www.linkedin.com/learning/teaching-techniques-developing-curriculum/welcome?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=3322) on how to develop curriculum
-- [LinkedIn Learning Course](https://www.linkedin.com/learning/presenting-technical-information-with-stories/storytelling-for-technical-presentations?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=3322) on how to present technical topics with stories
+- Utiliza el [Cheat Sheet](./cheat-sheet.md) para organizar la entrega/presentación de tu taller
+- [Diapositivas sobre cómo ser mentor](https://github.com/FrontEndFoxes/art/blob/main/frontend-foxes-mentor-training.pdf) de la escuela Front-End Foxes
+- [Curso de LinkedIn Learning](https://www.linkedin.com/learning/teaching-techniques-developing-curriculum/welcome?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=3322) sobre cómo crear un curriculum
+- [Curso de LinkedIn Learning](https://www.linkedin.com/learning/presenting-technical-information-with-stories/storytelling-for-technical-presentations?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=3322) sobre como presentar temas técnicos como historias
 
-These ready-to-use presentations were created using our [template](https://github.com/microsoft/workshop-template)
+Estas presentaciones listas-para-usar fueron creadas utilizando nuestra [plantilla](https://github.com/microsoft/workshop-template)
