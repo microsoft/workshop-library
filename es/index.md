@@ -28,7 +28,7 @@ Desde construir modelos de Machine Learning utilizando Custom Vision hasta la cr
    - [Crea un modelo de Aprendizaje Automático con Custom Vision](./full/ml-model-custom-vision/README.md)
    - [Crea una aplicación web de Inteligencia Artificial mediante Python y Flask](./full/flask-text-translator/README.md)
    - [Crea un modelo de regresión con el diseñador de Azure Machine Learning](./full/regression-aml-designer/README.md)
-   - [Integración de la Custom Vision con Power Apps para la detección de la retinopatía diabética](./full/power-app-custom-vision/README.md)
+   - [Integración de Custom Vision con Power Apps para la detección de la retinopatía diabética](./full/power-app-custom-vision/README.md)
 
   </details>
 
