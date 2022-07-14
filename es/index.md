@@ -19,7 +19,7 @@ Mira este video corto que explica como tú puedes utilizar estas presentaciones.
 
 ## 🧠 Inteligencia Artificial y Machine Learning
 
-Desde construir modelos de Aprendizaje Automático (Machine Learning) utilizando Custom Vision hasta la creación de una aplicación web con Flask, esta categoría está llena de recursos útiles relacionados con Inteligencia Artificial y Aprendizaje Automático que puedes presentar. A continuación, haz clic en las presentaciones disponibles 👇: 
+Desde construir modelos de Machine Learning utilizando Custom Vision hasta la creación de una aplicación web con Flask, esta categoría está llena de recursos útiles relacionados con Inteligencia Artificial y Machine Learning que puedes presentar. A continuación, haz clic en las presentaciones disponibles 👇: 
 
   <details>
     <summary>Intermedio</summary>
