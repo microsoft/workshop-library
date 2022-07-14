@@ -11,7 +11,7 @@
 
 Lo único que necesitas es: encontrar un título disponible de un tema que te guste y usar uno (o todos) los recursos disponibles para crear tu presentación. No es necesario conocer Git o GitHub, a menos que desees bifurcar (fork) este repositorio y realizar cambios (lo cual esta super bien ✅, si es lo que deseas)
 
-## 🤔 Sigo confundidx
+## 🤔 Sigo sin comprender
 Mira este corto video que explica como tú puedes utilizar estas presentaciones.
 
 > 🎥 Haz clic en la imagen inferior para aprender como presentar un taller de esta librería
