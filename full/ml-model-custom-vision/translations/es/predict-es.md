@@ -108,7 +108,7 @@ La mayoría de las aplicaciones de Python comienzan importando las bibliotecas r
 1. Dentro de **predict.py**, agregue lo siguiente para importar las bibliotecas necesarias: 
 
     ```python
-    # Prediction client
+    # Cliente de predicción
     from azure.cognitiveservices.vision.customvision.prediction import CustomVisionPredictionClient
     # Clase llave para Azure
     from msrest.authentication import ApiKeyCredentials
