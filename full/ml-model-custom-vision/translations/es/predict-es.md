@@ -53,7 +53,7 @@ Siempre que esté escribiendo código, es una buena práctica nunca codificar va
 
 1. Regresa a Visual Studio Code
 2. En la carpeta raíz de este proyecto, crea un nuevo archivo llamado **.env**
-3. Agrege los siguientes valores, reemplazando los marcadores de posición
+3. Agrega los siguientes valores, reemplazando los marcadores de posición
 
     ```bash
     ENDPOINT=<YOUR_ENDPOINT>
