@@ -68,7 +68,7 @@ Siempre que esté escribiendo código, es una buena práctica nunca codificar va
 
 Usaremos dos paquetes de Python para apoyar nuestro proyecto. El primero ya lo presentamos, **python-dotenv**. El siguiente es la [librería cliente de Custom Vision (o SDK)](https://docs.microsoft.com/azure/cognitive-services/custom-vision-service/quickstarts/image-classification?tabs=visual-studio&pivots=programming-language-python&WT.mc_id=academic-49102-chrhar), que se usará para hacer las predicciones. 
 
-1. Crear un nuevo archivo llamado **requirements.txt**
+1. Crea un nuevo archivo llamado **requirements.txt**
 2. Dentro de **requirements.txt**, agregar lo siguiente: 
 
     ```bash
