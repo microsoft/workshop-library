@@ -38,7 +38,7 @@ Una grandiosa API para consultar, y descubrir la forma de sus datos así como su
 
 ## Aprende sobre estrategias de autenticación
 
-Mientras algunas APIs son de acceso público y no requieren de autenticación, algunas otras sí. Aprende más sobre estrategias de atenticación [con esta introducción](https://docs.microsoft.com/learn/modules/use-apis-discover-museum-art/5-authentication-strategies?WT.mc_id=academic-56423-jelooper).
+Mientras algunas APIs son de acceso público y no requieren de autenticación, algunas otras sí. Aprende más sobre estrategias de autenticación [con esta introducción](https://docs.microsoft.com/learn/modules/use-apis-discover-museum-art/5-authentication-strategies?WT.mc_id=academic-56423-jelooper).
 
 ## Consulta la API del museo de arte Cooper Hewitt
 
