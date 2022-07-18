@@ -38,7 +38,7 @@ Construirás un proyecto usando Python. Por lo cual, se asume que cuentas con co
 python3 --version
 pip3 --version
 ```
-Si Python y pip están instalados se mostrará un número de versión, cómo *3.8.10*. De lo contrario, se muestra un mensaje de error. Puede instalar Python y pip según sea necesario: 
+Si Python y pip están instalados se mostrará un número de versión, cómo *3.8.10*. De lo contrario, se mostrará un mensaje de error. Puede instalar Python y pip según sea necesario: 
 
 - [Windows](https://docs.microsoft.com/windows/python/beginners?WT.mc_id=academic-49102-chrhar#install-python)
 - [MacOS](https://www.python.org/downloads/macos/)
