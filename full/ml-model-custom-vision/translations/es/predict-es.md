@@ -35,7 +35,7 @@ Como con cualquier servicio, necesitamos recopilar las claves y los valores para
 4. En la esquina superior derecha de la interfaz de Custom Vision, selecciona el ícono de **Engranaje** para la configuración 
 5. Copia el valor de **id del Proyecto**
 
-> Consejo: **Project Id** es el valor en el lado izquierdo de la pantalla
+> Consejo: **Id del Proyecto** es el valor en el lado izquierdo de la pantalla
 
 ### Crear el valor del endpoint
 
