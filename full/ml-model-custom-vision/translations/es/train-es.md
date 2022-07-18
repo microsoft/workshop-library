@@ -18,7 +18,7 @@ Este proyecto es un modelo de Custom Vision (vision personalizada), se utiliza p
 
 ## Subir imágenes
 
-Una vez nuestro proyecto a sido creado, es tiempo de subir imágenes. Estas serán utilizadas para entrenar el modelo. 
+Una vez que nuestro proyecto ha sido creado, es el momento de subir nuestras imágenes. Estas serán utilizadas para entrenar el modelo. 
 
 > **Consejo**: Como regla general, cuantas más imágenes pueda usar para entrenar el modelo, mejor. Busca incluir la mayor variedad de imágenes posibles, que incluyan diferente iluminiación, ángulos, y configuraciones.  
 
