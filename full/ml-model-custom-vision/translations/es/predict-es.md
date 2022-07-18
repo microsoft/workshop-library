@@ -26,7 +26,7 @@ El objetivo de crear un modelo en Custom Vision es usarlo en diferentes aplicaci
 
 ## Obtener claves y valores
 
-Como con cualquier servicio, necesitamos recopilar las claves y los valores para realizar nuestras llamadas. Querrá copiar estas claves en un archivo de texto; se utilizarán en el siguiente paso. 
+Como con cualquier servicio, necesitamos recopilar las claves y los valores para realizar nuestras llamadas. Copia estas claves en un archivo de texto; ya que se utilizarán en el siguiente paso. 
 
 1. En la pantalla **Performance**, seleccione **Prediction URL**
 1. Copie la URL debajo de **Si tiene un archivo de imagen**; esto se usará para crear el endpoint
