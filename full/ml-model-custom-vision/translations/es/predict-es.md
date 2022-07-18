@@ -33,7 +33,7 @@ Como con cualquier servicio, necesitamos recopilar las claves y los valores para
 2. Copia el valor hexadecimal de la **Llave de Predicción**. Esta luce similar a: *ba81ed4539cd46ec979a98569035a463*
 3. Seleccione **Entendido** para cerrar la ventana
 4. En la esquina superior derecha de la interfaz de Custom Vision, seleccione el ícono de **Engranaje** para la configuración 
-5. Copie el valor de **Project Id**
+5. Copia el valor de **id del Proyecto**
 
 > Consejo: **Project Id** es el valor en el lado izquierdo de la pantalla
 
