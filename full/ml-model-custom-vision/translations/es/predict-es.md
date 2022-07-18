@@ -112,7 +112,7 @@ La mayoría de las aplicaciones de Python comienzan importando las bibliotecas r
     from azure.cognitiveservices.vision.customvision.prediction import CustomVisionPredictionClient
     # Clase llave para Azure
     from msrest.authentication import ApiKeyCredentials
-    # dotenv to load key
+    # dotenv para cargar la clave
     from dotenv import load_dotenv
     # Import os to read environment variables
     import os
