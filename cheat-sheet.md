@@ -8,7 +8,7 @@ Here are the steps to take to host a workshop:
 
 ## Logistics phase
 
-1. Invite your students to the workshop held on Teams, optionally using text from your [workshop designer](https://github.com/microsoft/workshop-template/blob/main/workshop/workshop-designer.md) file to explain expected student takeaways. You can use [this template](https://www.canva.com/design/DAEuDXXR9us/EdQZLkVpknPAzSRD4fSxyw/view?utm_content=DAEuDXXR9us&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview) to design a poster about your session. There are also posters and marketing materials on Teams in the Student Ambassador tenant for use to promote your workshop.
+1. Invite your students to the workshop held on Teams, optionally using text from your [workshop designer](https://github.com/microsoft/workshop-template/blob/main/workshop/workshop-designer.md) file to explain expected student takeaways. You can design a poster about your session. There are also posters and marketing materials on Teams in the [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/) tenant for use to promoting Student Ambassadors Led workshop.
 1. Gather a group of mentors and assign them groups of students if you will be teaching a large group. Meet with the mentors prior to the workshop, and walk through the suggested [mentor training](https://github.com/FrontEndFoxes/art/blob/main/frontend-foxes-mentor-training.pdf)
 
 ## Delivery phase
