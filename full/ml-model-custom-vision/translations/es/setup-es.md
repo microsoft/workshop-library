@@ -15,7 +15,7 @@ Se ha proporcionado un proyecto inicial que incluye las imágenes para el taller
 1. Nombra el nuevo repositorio **workshop-library**. 
 1. Selecciona **Create repository from template**. 
 1. Cuando se abra el nuevo repositorio, selecciona **Code**. 
-1. Selecciona la tab **Local** y después el botón de  **Copy**. 
+1. Selecciona la pestaña **Local** y después el botón de **Copiar**. 
 
 
     ![icono de copiar](../../images/copy.png)
