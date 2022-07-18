@@ -154,7 +154,7 @@ Anteriormente configuramos algunas variables de entorno como nuestra clave y end
         # Perform the prediction
         results = client.classify_image(project_id, published_name, image.read())
     
-        # Because there could be multiple predictions, we loop through each one
+        # Debido a que podría haber múltiples predicciones, recorremos cada una de ellas.
         for prediction in results.predictions:
             # Muestra el nombre de la raza y el porcentaje de probabilidad
             print(f'{prediction.tag_name}: {(prediction.probability):.2%}')
