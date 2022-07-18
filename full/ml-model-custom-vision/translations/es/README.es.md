@@ -32,7 +32,7 @@ Este taller asume que cuentas con un conocimiento básico de Git, específicamen
 
 ### Python 3.8 o superior, incluyendo pip
 
-Construirás un proyecto usando Python. Se asume que cuentas con conocimiento básico de Python, específicamente la habilidad de importar paquetes y usar `open` and `with`. También necesitará Python instalado localmente. Para probar sí ya cuentas con Python y pip instalados, abre la ventana de comandos o terminal y ejecuta los siguientes comandos.  
+Construirás un proyecto usando Python. Por lo cual, se asume que cuentas con conocimiento básico de Python, específicamente la habilidad de importar paquetes y utilizar `open` y `with`. También necesitaras tener Python instalado localmente. Para probar sí ya cuentas con Python y pip instalados, abre la ventana de comandos o terminal y ejecuta los siguientes comandos.  
 
 ```bash
 python3 --version
