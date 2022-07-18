@@ -39,7 +39,7 @@ Como con cualquier servicio, necesitamos recopilar las claves y los valores para
 
 ### Crear el valor del endpoint
 
-El SDK para Custom Vision se usa una URL ligeramente diferente a la copiada anteriormente. El valor que copiaste tendrá un aspecto similar al siguiente: 
+El SDK para Custom Vision utiliza una URL ligeramente diferente a la copiada anteriormente. El valor que copiaste tendrá un aspecto similar al siguiente: 
 
 > `https://customvisionworkshop-prediction.cognitiveservices.azure.com/customvision/v3.0/Prediction/0dd3299b-6a41-40fe-ab06-dd20e886ccd4/classify/iterations/Iteration1/image`
 
