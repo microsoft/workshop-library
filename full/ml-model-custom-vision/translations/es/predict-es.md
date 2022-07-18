@@ -125,7 +125,7 @@ Anteriormente configuramos algunas variables de entorno como nuestra clave y end
 1. Al el final de **predict.py**, agrega el siguiente código para cargar las variables de entorno
 
     ```python
-    # Load the key and endpoint values
+    # Carga los valores de clave y endpoint
     load_dotenv()
     
     # Set the values into variables
