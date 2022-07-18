@@ -67,4 +67,4 @@ Crearemos estas claves usando el Portal de Azure.
 
 ## Resumen
 
-Ahora cuenta con todas las herramientas necesarias para crear y usar un modelo de Custom Vision. El siguiente paso es [Entrenar tu modelo](./train-es.md).
+Ahora cuentas con todas las herramientas necesarias para crear y usar un modelo de Custom Vision. El siguiente paso es: [Entrenar tu modelo](./train-es.md).
