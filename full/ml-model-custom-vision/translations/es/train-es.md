@@ -29,7 +29,7 @@ Una vez que nuestro proyecto ha sido creado, es el momento de subir nuestras im√
 5. Escribe **american-staffordshire-terrier** en la etiqueta y selecciona **Subir 8 archivos**
 6. Selecciona **Hecho**
 8. Repita los pasos anteriores para las razas restantes: 
-    - **australian-shepherd**
+    - **pastor-australiano**
     - **buggle**
     - **german-wirehaired-pointer**
     - **shorkie**
