@@ -11,7 +11,7 @@ Visual Studio Code es un editor de código abierto en el cual se puede utilizar 
 Se ha proporcionado un proyecto inicial que incluye las imágenes para el taller y la solución del código. Para obtener el proyecto: 
 
 1. Visita [https://github.com/microsoft/workshop-library/](https://github.com/microsoft/workshop-library/). 
-1. Seleccionar **Use this template** para crear una copia del repositorio en tú cuenta de GitHub.
+1. Selecciona **Use this template** _en español: utiliza esta plantilla_ para crear una copia del repositorio en tú cuenta de GitHub.
 1. Nombra el nuevo repositorio **workshop-library**. 
 1. Selecciona **Create repository from template**. 
 1. Cuando se abra el nuevo repositorio, selecciona **Code**. 
