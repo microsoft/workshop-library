@@ -118,7 +118,7 @@ La mayoría de las aplicaciones de Python comienzan importando las bibliotecas r
     import os
     ```
 
-### Cargar las variables
+### Carga las variables
 
 Anteriormente configuramos algunas variables de entorno como nuestra clave y endpoint. Vamos a cargarlos en la memoria. 
 
