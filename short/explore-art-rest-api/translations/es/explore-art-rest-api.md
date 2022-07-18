@@ -13,16 +13,16 @@ En este taller, aprenderás los conceptos básicos de APIs REST, una manera segu
 | **¿Qué aprenderás?**  | Explorarás el mundo del arte usando APIs RESTful  |
 | **¿Qué necesitarás?** | Un navegador moderno y conexión a internet    |
 | **Duración**          | 20 minutos                                        |
-| **Diapositivas**      | [PowerPoint](../../slides.pptx)                       |
+| **Diapositivas**      | [PowerPoint](slides.es.pptx)                       |
 
 ## Video 
 > 🎥 Da click en la imagen para ver a Jen guiarte en este taller, empieza en 0:56:00
-[![Recorrido por el taller](../../images/promo.png)](https://youtu.be/QJHd4jf4ekI "workshop walk-through")
-> 🎥 Da click en la imagen para ver a Jen guiarte en este taller, empieza en 0:56:00
+[![Recorrido por el taller](../../images/promo.es.png)](https://youtu.be/QJHd4jf4ekI "workshop walk-through")
+
 
 ## Lo que aprenderás...
 
-Te dedicas al desarrollo web y tienes pasión por el mundo del arte. Te encantaría crear una página web para mostrar el arte a través de los siglos. Pero no tienes la seguridad de cuál es la mejor manera de obtener imágenes de piezas de arte para tu página. ¡Es aqui donde entran las APIs! En este módulo, aprenderás los conceptos básicos de APIs que te ayudarán a obtener imágenes de piezas de arte publicadas por museos alrededor del mundo.
+Te dedicas al desarrollo web y tienes pasión por el mundo del arte. Te encantaría crear una página web para mostrar el arte a través de los siglos. Pero no tienes la seguridad de cuál es la mejor manera de obtener imágenes de piezas de arte para tu página. ¡Es aquí donde entran las APIs! En este módulo, aprenderás los conceptos básicos de APIs que te ayudarán a obtener imágenes de piezas de arte publicadas por museos alrededor del mundo.
 
 En este taller, aprenderás sobre:
 - APIs RESTful
@@ -33,7 +33,7 @@ En este taller, aprenderás sobre:
 
 Lee sobre APIs RESTful [en esta introducción](https://docs.microsoft.com/learn/modules/use-apis-discover-museum-art/2-what-is-api/?WT.mc_id=academic-56423-jelooper).
 
-## Consulta la API del Museo Metropolitano de Nueva York
+## Consulta la API del Museo Metropolitano
 Una grandiosa API para consultar, y descubrir la forma de sus datos, así como sus colecciones, es la del Museo Metropolitano de Nueva York. ¡[Vamos a consultarla](https://docs.microsoft.com/learn/modules/use-apis-discover-museum-art/4-query-met-api?/?WT.mc_id=academic-56423-jelooper)!
 
 ## Aprende sobre estrategias de autenticación
