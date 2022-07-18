@@ -1,6 +1,6 @@
 # Parte 2: Utiliza el modelo
 
-Con el modelo entrenado, es momento de centrar nuestra atención en su uso. Comenzaremos probándolo en el sitio web de Custom Vision. Luego exploraremos cómo podemos llamar al modelo desde el código usando un SDK. 
+Con el modelo entrenado, es momento de centrar nuestra atención en su uso. Comenzaremos probándolo en el sitio web de Custom Vision. Luego, exploraremos cómo podemos llamar al modelo desde el código usando un SDK. 
 
 ## Probar el modelo
 Veamos que tan bien funciona nuestro modelo. Es importante usar imágenes que no se usaron para entrenar el modelo. Después de todo, si el modelo ya ha visto la imagen, sabrá la respuesta. 
