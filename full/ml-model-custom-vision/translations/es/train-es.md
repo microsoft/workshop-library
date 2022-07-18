@@ -7,7 +7,7 @@ Un modelo personalizado de Vision.
 Este proyecto es un modelo de Custom Vision (vision personalizada), se utiliza para etiquetar imágenes con la categoría adecuada, y se somete a entrenamiento. ¡Comencemos creando un proyecto!
 
 
-1. Navega a [Custom Vision](https://www.customvision.ai?WT.mc_id=academic-49102-chrhar) e inicia sesión. 
+1. Ingresa a la página web de [Custom Vision](https://www.customvision.ai?WT.mc_id=academic-49102-chrhar) e inicia sesión. 
 4. Selecciona **Nuevo Proyecto**
 5. Escribe **Clasificación de Perros** para el nombre del proyecto. 
 6. Junto a Recurso, selecciona la clave que has creado previamente, cuyo nombre será el que has creado en [Configuración](setup-es.md).
