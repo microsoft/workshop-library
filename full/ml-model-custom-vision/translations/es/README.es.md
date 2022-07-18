@@ -6,7 +6,7 @@ Azure [Custom Vision](https://docs.microsoft.com/azure/cognitive-services/custom
 
 En el transcurso de este taller construirá un modelo para detectar razas de perros. Comenzará instalando y configurando las herramientas necesarias, luego creará un modelo personalizado subiendo y etiquetando imágenes, y finalmente usará el modelo con un kit de desarrollo de software (SDK). 
 
-| **Meta del proyecto**              | Obtenga información sobre Custom Vision AI y cómo usarlo para entrenar y probar imágenes.                                    |
+| **Meta del proyecto**              | Obtenga información sobre Custom Vision AI y sobre cómo usarlo para entrenar y probar imágenes.                                    |
 | ----------------------------- | --------------------------------------------------------------------- |
 | **¿Qué aprenderás?**       |El uso de imágenes para entrenar un modelo capaz de realizar inferencias para clasificar imágenes. |
 | **¿Qué necesitarás?**          | Python 3.8+, Visual Studio Code, Git |
