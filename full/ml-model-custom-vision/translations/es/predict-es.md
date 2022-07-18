@@ -143,7 +143,7 @@ Anteriormente configuramos algunas variables de entorno como nuestra clave y end
 1. Al final de **predict.py**, agrega el siguiente código para realizar la predicción de una raza de perro
 
     ```python
-    # Setup credentials for client
+    # Configura las credenciales para el cliente
     credentials = ApiKeyCredentials(in_headers={'Prediction-key':key})
     
     # Create client, which will be used to make predictions
