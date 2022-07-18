@@ -1,4 +1,4 @@
-# Part 2: Usar el modelo
+# Parte 2: Utiliza el modelo
 
 Con el modelo entrenado, es momento de centrar nuestra atención en su uso. Comenzaremos probándolo en el sitio web de Custom Vision. Luego exploraremos cómo podemos llamar al modelo desde el código usando un SDK. 
 
