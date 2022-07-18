@@ -27,7 +27,7 @@ En el transcurso de este taller construirá un modelo para detectar razas de per
 
 ### Git
 
-Este taller asume que cuentas con un conocimiento básico de Git, específicamente la capacidad de clonar un repositorio. Durante el taller descargará el código de GitHub. También necesitarás [Git](https://git-scm.com/) para clonar el repositorio. 
+Este taller asume que cuentas con un conocimiento básico de Git, específicamente la capacidad de clonar un repositorio. Durante el taller descargaras el código de GitHub y también necesitarás [Git](https://git-scm.com/) para clonar el repositorio. 
 
 
 ### Python 3.8 o superior, incluyendo pip
