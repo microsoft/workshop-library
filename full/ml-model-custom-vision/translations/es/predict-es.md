@@ -167,7 +167,7 @@ Con el programa creado, ¡es momento de ejecutarlo y ver que pasa!
 
 1. Guarde todos los archivos seleccionando **Archivo** > **Guardar Todo**
 2. Regrese a la terminal dentro de Visual Studio Code seleccionando **Vista** > **Terminal**
-3. Ejecute el comando siguiente para ejecutar el programa
+3. Ingresa el siguiente comando para ejecutar el programa
 
     ```bash
     python predict.py
