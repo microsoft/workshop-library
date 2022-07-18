@@ -30,7 +30,7 @@ Una vez que nuestro proyecto ha sido creado, es el momento de subir nuestras im√
 6. Selecciona **Hecho**
 8. Repita los pasos anteriores para las razas restantes: 
     - **pastor-australiano**
-    - **buggle**
+    - **beagle**
     - **german-wirehaired-pointer**
     - **shorkie**
 9. Selecciona **Entrenar** para abrir el di√°logo de entrenamiento. 
