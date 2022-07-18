@@ -165,7 +165,7 @@ Anteriormente configuramos algunas variables de entorno como nuestra clave y end
 Con el programa creado, ¡es momento de ejecutarlo y ver que pasa!
 
 
-1. Guarde todos los archivos seleccionando **Archivo** > **Guardar Todo**
+1. Guarda todos los archivos seleccionando **Archivo** > **Guardar Todo**
 2. Regresa a la terminal dentro de Visual Studio Code seleccionando **Vista** > **Terminal**
 3. Ingresa el siguiente comando para ejecutar el programa
 
