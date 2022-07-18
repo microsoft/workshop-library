@@ -186,7 +186,7 @@ Con el programa creado, ¡es momento de ejecutarlo y ver que pasa!
     > **Nota**: Es posible que sus porcentajes no coincidan exactamente con los anteriores
 
 ## Resumen
-¡Felicidades! Ha creado y llamado con éxito un modelo de visión personalizado. El modelo que creó se puede utilizar para clasificar los tipos de imágenes. También puede crear modelos para detectar ciertos objetos en una imagen. Si quieres seguir desarrollando tus habilidades:
+¡Felicidades! Has creado y llamado con éxito un modelo de Custom Vision (visión personalizada). El modelo que creaste se puede utilizar para clasificar tipos de imágenes. También puedes crear modelos para detectar ciertos objetos en una imagen. Si quieres seguir desarrollando tus habilidades:
 
 - [Detección de Objetos con Custom Vision](https://docs.microsoft.com/learn/modules/detect-objects-images-custom-vision/?WT.mc_id=academic-49102-chrhar)
 - [Creando modelos personalizados con TensorFlow](https://docs.microsoft.com/learn/paths/tensorflow-fundamentals/?WT.mc_id=academic-49102-chrhar)
