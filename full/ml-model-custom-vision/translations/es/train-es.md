@@ -4,7 +4,7 @@ Un modelo personalizado de Vision.
 
 ## Crear el proyecto
 
-Un proyecto es un modelo de Vision personalizado. Se utiliza para etiquetar imágenes con la etiqueta (o categoría) adecuada, y se somete a entrenamiento. Comencemos creando un proyecto.  
+Este proyecto es un modelo de Custom Vision (vision personalizada), se utiliza para etiquetar imágenes con la categoría adecuada, y se somete a entrenamiento. ¡Comencemos creando un proyecto!
 
 
 1. Navega a [Custom Vision](https://www.customvision.ai?WT.mc_id=academic-49102-chrhar) e inicia sesión. 
