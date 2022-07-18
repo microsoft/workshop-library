@@ -20,7 +20,7 @@ Se ha proporcionado un proyecto inicial que incluye las imágenes para el taller
 
     ![icono de copiar](../../images/copy.png)
     
-1. Abra ventana de comando o terminal y ejecute lo siguiente, reemplazando \<URL\> con la URL que copió en el paso anterior. 
+1. Abre la ventana de comando o terminal y ejecute lo siguiente, reemplazando \<URL\> con la URL que copió en el paso anterior. 
 
     ```bash
     # Windows
