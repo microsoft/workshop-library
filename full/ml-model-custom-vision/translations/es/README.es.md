@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Azure [Custom Vision](https://docs.microsoft.com/azure/cognitive-services/custom-vision-service/?WT.mc_id=academic-49102-chrhar) le permite crear modelos que pueden clasificar y detectar objetos en imágenes. Puede usar esto para detectar una raza de perro, si alguien esta usando un casco, o alguna otra característica de interés. Si bien, esto se puede hacer mediante el uso de código y procesamiento manual de las imágenes, Custom Vision proporciona una interfaz y herramientas basadas en web que agilizan el proceso. ¡No se requieren conocimientos previos de aprendizaje automático o matemáticas! 
+Azure [Custom Vision](https://docs.microsoft.com/azure/cognitive-services/custom-vision-service/?WT.mc_id=academic-49102-chrhar) le permite crear modelos que pueden clasificar y detectar objetos en imágenes. Puede usar esto para detectar una raza de perro, si alguien está usando un casco, o alguna otra característica de interés. Si bien, esto se puede hacer mediante el uso de código y procesamiento manual de las imágenes, Custom Vision proporciona una interfaz y herramientas basadas en web que agilizan el proceso. ¡No se requieren conocimientos previos de aprendizaje automático o matemáticas! 
 
 En el transcurso de este taller construirá un modelo para detectar razas de perros. Comenzará instalando y configurando las herramientas necesarias, luego creará un modelo personalizado subiendo y etiquetando imágenes, y finalmente usará el modelo con un kit de desarrollo de software (SDK). 
 
