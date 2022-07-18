@@ -49,7 +49,7 @@ Para crear el valor de endpoint, borra todo después de **azure.com**. Tu valor 
 
 ## Almacenar las credenciales necesarias
 
-Siempre que esté escribiendo códio, es una buena práctica nunca codificar valores confidenciales, como contraseñas o cualquier valor que pueda cambiar. Esto puede dar lugar a abrir brechas de seguridad o código que es difícil de mantener. Para crear nuestra aplicación vamos a seguir las mejores prácticas generalmente aceptadas. Para hacer esto usaremos una biblioteca llamada [python_dotenv](https://github.com/theskumar/python-dotenv), which allows you to set environment variables with a text file.
+Siempre que esté escribiendo código, es una buena práctica nunca codificar valores confidenciales, como contraseñas o cualquier valor que pueda cambiar. Esto puede dar lugar a abrir brechas de seguridad o código que es difícil de mantener. Para crear nuestra aplicación, vamos a seguir las mejores prácticas generalmente aceptadas. Para hacer esto, usaremos una biblioteca llamada [python_dotenv](https://github.com/theskumar/python-dotenv), la cual permite establecer variables de entorno con un archivo de texto.
 
 1. Vuelva a Visual Studio Code
 2. En la carpeta raíz de este proyecto, cree un nuevo archivo llamado **.env**
