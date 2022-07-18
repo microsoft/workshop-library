@@ -36,7 +36,7 @@ Se ha proporcionado un proyecto inicial que incluye las imágenes para el taller
 
 ## Registro en Azure para Estudiantes
 
-Azure para Estudiantes ofrece $100 US en crédito gratis para ser usado através de 12 meses y una gran cantidad servicios gratis - ¡Custom Vision incluido! Si aún no tienes una suscripción de Azure, puedes registrarte en [Azure para Estudiantes](https://azure.microsoft.com/free/students) usando tú correo institucional. Si tu dirección de correo no funciona, solicita apoyo en tu institución. 
+Azure para Estudiantes ofrece $100 US en crédito gratis para ser usado a través de 12 meses y una gran cantidad servicios gratis - ¡Custom Vision incluido! Si aún no tienes una suscripción de Azure, puedes registrarte en [Azure para Estudiantes](https://azure.microsoft.com/free/students) usando tú correo institucional. Si tu dirección de correo no funciona, solicita apoyo en tu institución. 
 
 ## Creando las claves
 
