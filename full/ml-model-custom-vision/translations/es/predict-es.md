@@ -32,7 +32,7 @@ Como con cualquier servicio, necesitamos recopilar las claves y los valores para
 1. Copia la URL que esta debajo de **Si tiene un archivo de imagen**; esto se usará para crear el endpoint
 2. Copia el valor hexadecimal de la **Llave de Predicción**. Esta luce similar a: *ba81ed4539cd46ec979a98569035a463*
 3. Selecciona **Entendido** para cerrar la ventana
-4. En la esquina superior derecha de la interfaz de Custom Vision, seleccione el ícono de **Engranaje** para la configuración 
+4. En la esquina superior derecha de la interfaz de Custom Vision, selecciona el ícono de **Engranaje** para la configuración 
 5. Copia el valor de **id del Proyecto**
 
 > Consejo: **Project Id** es el valor en el lado izquierdo de la pantalla
