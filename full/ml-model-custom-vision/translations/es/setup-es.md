@@ -48,7 +48,7 @@ Para usar Custom Vision, necesitará dos claves:
 Crearemos estas claves usando el Portal de Azure. 
 
 
-1. Navegar a [portal.azure.com](https://portal.azure.com)
+1. Visita esta página web [portal.azure.com](https://portal.azure.com)
 1. Selecciona **Crear un Recurso**
 1. Busca **Custom Vision** y presiona enter
 1. Selecciona **Custom Vision** de la lista de servicios
