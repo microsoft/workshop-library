@@ -86,7 +86,7 @@ Usaremos dos paquetes de Python para apoyar nuestro proyecto. El primero ya lo p
     .\venv\Scripts\activate
     pip install -r requirements.txt
 
-    # On Linux, WSL or macOS
+    # En Linux, WSL o macOS
     python3 -m venv venv
     source venv/bin/activate
     pip install -r requirements.txt
