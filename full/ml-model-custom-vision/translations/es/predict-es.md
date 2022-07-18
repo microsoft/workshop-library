@@ -137,7 +137,7 @@ Anteriormente configuramos algunas variables de entorno como nuestra clave y end
 
 ### Realiza la predicción
 
-¡Ahora podemos realizar nuestra predicción! Usaremos una de las imágenes en la carpeta de prueba.
+¡Ahora podemos realizar nuestra predicción! Usaremos una de las imágenes de la carpeta de prueba.
 
 
 1. Al final de **predict.py**, agrega el siguiente código para realizar la predicción de una raza de perro
