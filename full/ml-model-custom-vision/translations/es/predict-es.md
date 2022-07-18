@@ -15,7 +15,7 @@ Veamos que tan bien funciona nuestro modelo. Es importante usar imágenes que no
 
 El objetivo de crear un modelo en Custom Vision es usarlo en diferentes aplicaciones. Para poder acceder al modelo fuera del sitio web, este debe de publicarse. 
 
-1. En la 'Performance' tab, selecciona **Publish**
+1. En la pestaña de 'Rendimiento', selecciona **Publicar**
 3. Para **Nombre de Modelo** escribe **perros**
 4. Para **Recurso de Predicción** selecciona la clave de predicción que has creado previamente
 5. Selecciona **Publicar**
