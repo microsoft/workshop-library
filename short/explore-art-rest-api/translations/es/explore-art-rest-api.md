@@ -55,7 +55,7 @@ Ahora que tienes más conocimiento sobre cómo obtener una clave de autenticaci�
 
 ## Próximos pasos
 
-Explora más sobre la maneras de crear y usar APIs con [los otros elementos](https://docs.microsoft.com/learn/modules/use-apis-discover-museum-art/?WT.mc_id=academic-56423-jelooper) de este módulo.
+Explora más sobre las maneras de crear y usar APIs con [los otros elementos](https://docs.microsoft.com/learn/modules/use-apis-discover-museum-art/?WT.mc_id=academic-56423-jelooper) de este módulo.
 
 ## Practica
 
