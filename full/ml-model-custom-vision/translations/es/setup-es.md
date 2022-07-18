@@ -60,7 +60,7 @@ Crearemos estas claves usando el Portal de Azure.
 4. Debajo de **Detalles de Instalación** configure lo siguiente: 
     1. En **Región** selecciona una región cercana a ti. 
     1. En **Nombre**, proporciona un nombre único cómo  **custom-vision-tu-nombre**, reemplazando **tu-nombre** con el tuyo. 
-6. Para **Training pricing tier** y **Prediction pricing tier** selecciona **Free F0**.
+6. Para **Tarifas de costos de formación** y **Tarifas de costos de predicción** selecciona **Gratis F0**.
 7. Selecciona **Revisar + Crear**.
 8. Selecciona **Crear**.
 
