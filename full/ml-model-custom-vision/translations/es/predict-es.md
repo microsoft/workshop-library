@@ -122,7 +122,7 @@ La mayoría de las aplicaciones de Python comienzan importando las bibliotecas r
 
 Anteriormente configuramos algunas variables de entorno como nuestra clave y endpoint. Vamos a cargarlos en la memoria. 
 
-1. Al el final de **predict.py**, agrega el siguiente código para cargar las variables de entorno
+1. Al final de **predict.py**, agrega el siguiente código para cargar las variables de entorno
 
     ```python
     # Carga los valores de clave y endpoint
