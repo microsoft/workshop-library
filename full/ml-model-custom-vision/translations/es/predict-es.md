@@ -128,7 +128,7 @@ Anteriormente configuramos algunas variables de entorno como nuestra clave y end
     # Carga los valores de clave y endpoint
     load_dotenv()
     
-    # Set the values into variables
+    # Establece los valores en variables
     key = os.getenv('KEY')
     endpoint = os.getenv('ENDPOINT')
     project_id = os.getenv('PROJECT_ID')
