@@ -19,7 +19,7 @@ El objetivo de crear un modelo en Custom Vision es usarlo en diferentes aplicaci
 3. Para **Nombre de Modelo** escribe **perros**
 4. Para **Recurso de Predicción** selecciona la clave de predicción que has creado previamente
 5. Selecciona **Publicar**
-6. Selecciona **Prediction URL** para ver la dirección del endpoint
+6. Selecciona **URL de Prediccion** para ver la dirección del endpoint
 7. Copia el valor en el recuadro gris debajo de  **Si tiene un archivo de imagen** y péguelo en algún lugar local donde pueda encontrarlo más tarde
 8. Selecciona **Entendido**
 
