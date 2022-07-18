@@ -151,7 +151,7 @@ Anteriormente configuramos algunas variables de entorno como nuestra clave y end
     
     # Open the test file
     with open('testing-images/american-staffordshire-terrier-10.jpg', 'rb') as image:
-        # Perform the prediction
+        # Realiza la predicción
         results = client.classify_image(project_id, published_name, image.read())
     
         # Debido a que podría haber múltiples predicciones, recorremos cada una de ellas.
