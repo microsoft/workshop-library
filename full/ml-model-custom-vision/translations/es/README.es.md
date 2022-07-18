@@ -46,7 +46,7 @@ Si Python y pip están instalados se mostrará un número de versión, cómo *3.
 
 ### Visual Studio Code
 
-Las intrucciones para este taller se realizarán en [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-49102-chrhar), un editor de código abierto. También necesitarás la [Pylance extension](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance&WT.mc_id=academic-49102-chrhar), la cual proporciona funcionalidad adicional al escribir en Python. 
+Para realizar este taller necesitaras [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-49102-chrhar), un editor de código abierto. También necesitarás la [extensión Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance&WT.mc_id=academic-49102-chrhar), la cual proporciona funcionalidad adicional al escribir en Python. 
 
 ## El taller
 
