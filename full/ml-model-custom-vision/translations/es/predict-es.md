@@ -62,7 +62,7 @@ Siempre que esté escribiendo código, es una buena práctica nunca codificar va
     PUBLISHED_ITERATION_NAME=perros
     ```
 
-1. Guarde el archivo seleccionando **Archivo** > **Guardar**
+1. Guarda el archivo seleccionando **Archivo** > **Guardar**
 
 ## Instalar los paquetes
 
