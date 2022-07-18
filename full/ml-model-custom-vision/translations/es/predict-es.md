@@ -13,7 +13,7 @@ Veamos que tan bien funciona nuestro modelo. Es importante usar imágenes que no
 
 ## Publica el modelo
 
-El objetivo de crear un modelo en Custom Vision es usarlo en diferentes aplicaciones. Para acceder desde fuera del sitio web de Custom Visiom, debe de publicarse. 
+El objetivo de crear un modelo en Custom Vision es usarlo en diferentes aplicaciones. Para poder acceder al modelo fuera del sitio web, este debe de publicarse. 
 
 1. En la 'Performance' tab, selecciona **Publish**
 3. Para **Nombre de Modelo** escribe **perros**
