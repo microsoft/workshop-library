@@ -30,7 +30,7 @@ Como con cualquier servicio, necesitamos recopilar las claves y los valores para
 
 1. En la pantalla **Rendimiento**, selecciona **URL de Predicción**
 1. Copia la URL que esta debajo de **Si tiene un archivo de imagen**; esto se usará para crear el endpoint
-2. Copie el valor hex de la **Prediction-Key**. Esta luce similar a: *ba81ed4539cd46ec979a98569035a463*
+2. Copia el valor hexadecimal de la **Llave de Predicción**. Esta luce similar a: *ba81ed4539cd46ec979a98569035a463*
 3. Seleccione **Entendido** para cerrar la ventana
 4. En la esquina superior derecha de la interfaz de Custom Vision, seleccione el ícono de **Engranaje** para la configuración 
 5. Copie el valor de **Project Id**
