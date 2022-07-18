@@ -135,7 +135,7 @@ Anteriormente configuramos algunas variables de entorno como nuestra clave y end
     published_name = os.getenv('PUBLISHED_ITERATION_NAME')
     ```
 
-### Realizar la predicción
+### Realiza la predicción
 
 ¡Ahora podemos realizar nuestra predicción! Usaremos una de las imágenes en la carpeta de prueba.
 
