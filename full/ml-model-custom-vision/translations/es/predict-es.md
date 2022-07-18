@@ -156,7 +156,7 @@ Anteriormente configuramos algunas variables de entorno como nuestra clave y end
     
         # Because there could be multiple predictions, we loop through each one
         for prediction in results.predictions:
-            # Display the name of the breed, and the probability percentage
+            # Muestra el nombre de la raza y el porcentaje de probabilidad
             print(f'{prediction.tag_name}: {(prediction.probability):.2%}')
     ```
 
