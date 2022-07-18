@@ -8,7 +8,7 @@ Visual Studio Code es un editor de código abierto en el cual se puede utilizar 
 
 ## Obtención del proyecto inicial
 
-Se ha proporcionado un proyecto inicial que incluye las imágenes para el taller y el código de la solución. Para obtener el proyecto: 
+Se ha proporcionado un proyecto inicial que incluye las imágenes para el taller y la solución del código. Para obtener el proyecto: 
 
 1. Visita [https://github.com/microsoft/workshop-library/](https://github.com/microsoft/workshop-library/). 
 1. Seleccionar **Use this template** para crear una copia del repositorio en tú cuenta de GitHub.
