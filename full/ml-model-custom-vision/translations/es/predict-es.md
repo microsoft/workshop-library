@@ -146,7 +146,7 @@ Anteriormente configuramos algunas variables de entorno como nuestra clave y end
     # Configura las credenciales para el cliente
     credentials = ApiKeyCredentials(in_headers={'Prediction-key':key})
     
-    # Create client, which will be used to make predictions
+    # Crea el cliente, el cual se utilizará para hacer predicciones
     client = CustomVisionPredictionClient(endpoint, credentials)
     
     # Open the test file
