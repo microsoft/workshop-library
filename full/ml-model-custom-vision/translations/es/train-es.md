@@ -41,4 +41,3 @@ Una vez que nuestro proyecto ha sido creado, es el momento de subir nuestras im�
 ## Resumen
 
 ¡Felicidades! Ha entrenado un modelo de Custom Vision _(personalizado de Vision)_ que puede detectar tipos de perros. A continuación [probará y usará el modelo](./predict-es.md)
-Congratulations! You have trained up a custom vision model which can detect dog types. Next you'll 
