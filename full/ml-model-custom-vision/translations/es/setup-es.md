@@ -18,7 +18,7 @@ Se ha proporcionado un proyecto inicial que incluye las imágenes para el taller
 1. Selecciona la tab **Local** y después el botón de  **Copy**. 
 
 
-    ![Copy icon](../../images/copy.png)
+    ![icono de copiar](../../images/copy.png)
     
 1. Abra ventana de comando o terminal y ejecute lo siguiente, reemplazando \<URL\> con la URL que copió en el paso anterior. 
 
