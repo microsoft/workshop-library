@@ -18,7 +18,6 @@ En el transcurso de este taller construirá un modelo para detectar razas de per
 ## Video Tutorial
 🎥 Haz click en la imagen para ver a Christopher explicar paso a paso el taller. 
 [![Recorrido del taller](../../images/promo.png)](https://youtu.be/YWTDxcHAfkA "workshop walk-through")
-> 🎥 Haz click en la imagen para ver a Christopher explicar paso a paso el taller. 
 
 ## Lo que vas a construir con CustomVision.ai
 
