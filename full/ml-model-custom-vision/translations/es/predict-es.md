@@ -9,7 +9,7 @@ Veamos que tan bien funciona nuestro modelo. Es importante usar imágenes que no
 2. Selecciona  **Buscar en archivos locales**
 4. Navega a **testing-images** y selecciona una de las imágenes de perros
 5. Selecciona **Abrir**
-6. Observe las puntuaciones de **Tag** y **Probabilidad**
+6. Observe las puntuaciones de **Etiqueta/Categoria** _tag_ y **Probabilidad**
 
 ## Publicar el modelo
 
