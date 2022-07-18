@@ -81,7 +81,7 @@ Usaremos dos paquetes de Python para apoyar nuestro proyecto. El primero ya lo p
 3. Crea un nuevo entorno de Python e instala los paquetes ejecutando el siguiente comando: 
 
     ```bash
-    # On Windows
+    # En Windows
     python3 -m venv venv
     .\venv\Scripts\activate
     pip install -r requirements.txt
