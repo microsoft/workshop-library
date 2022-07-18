@@ -4,7 +4,7 @@ Cómo con cualquier proyecto, se necesitarán algunas herramientas. En particula
 
 ## Instalando el editor
 
-Visual Studio Code es un editor de código abierto el cual se puede usar para crear casi cualquier tipo de proyecto con cualquier lenguaje de programación. Si aún no tiene instalado Visual Studio Code, puede instalarlo visitando [code.visualstudio.com](https://code.visualstudio.com). También necesitará la  [extensión de Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance), que proporcionará funcionalidad adicional al escribir en Python.
+Visual Studio Code es un editor de código abierto en el cual se puede utilizar para crear casi cualquier tipo de proyecto con cualquier lenguaje de programación. Si aún no tienes instalado Visual Studio Code, puedes instalarlo visitando [code.visualstudio.com](https://code.visualstudio.com). También necesitaras la [extensión de Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance), que proporcionará funcionalidad adicional al escribir en Python.
 
 ## Obtención del proyecto inicial
 
