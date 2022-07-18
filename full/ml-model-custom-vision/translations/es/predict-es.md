@@ -149,7 +149,7 @@ Anteriormente configuramos algunas variables de entorno como nuestra clave y end
     # Crea el cliente, el cual se utilizará para hacer predicciones
     client = CustomVisionPredictionClient(endpoint, credentials)
     
-    # Open the test file
+    # Abre el archivo de prueba
     with open('testing-images/american-staffordshire-terrier-10.jpg', 'rb') as image:
         # Realiza la predicción
         results = client.classify_image(project_id, published_name, image.read())
