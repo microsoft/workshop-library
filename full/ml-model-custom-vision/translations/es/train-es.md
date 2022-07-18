@@ -33,7 +33,7 @@ Una vez que nuestro proyecto ha sido creado, es el momento de subir nuestras im�
     - **buggle**
     - **german-wirehaired-pointer**
     - **shorkie**
-9. Seleccione **Entrenar** para abrir el diálogo de entrenamiento. 
+9. Selecciona **Entrenar** para abrir el diálogo de entrenamiento. 
 10. Deje **Quick Training** seleccionado y seleccione **Entrenar** para comenzar el entrenamiento. 
 
 > **Nota**: Entrenar el modelo puede tomar un par de minutos. 
