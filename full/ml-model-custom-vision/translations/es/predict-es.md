@@ -96,7 +96,7 @@ Usaremos dos paquetes de Python para apoyar nuestro proyecto. El primero ya lo p
 
 ## Creando el programa
 
-Con el trabajo de configuración hecho, ¡es hora de agregar su código! Dividiremos esto en algunas secciones.
+Con el trabajo de configuración realizado, ¡es hora de agregar tu código! Dividiremos esto en algunas secciones.
 
 
 1. Crea un nuevo archivo llamado **predict.py**
