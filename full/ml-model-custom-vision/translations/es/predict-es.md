@@ -11,7 +11,7 @@ Veamos que tan bien funciona nuestro modelo. Es importante usar imágenes que no
 5. Selecciona **Abrir**
 6. Observe las puntuaciones de **Etiqueta/Categoria** _tag_ y **Probabilidad**
 
-## Publicar el modelo
+## Publica el modelo
 
 El objetivo de crear un modelo en Custom Vision es usarlo en diferentes aplicaciones. Para acceder desde fuera del sitio web de Custom Visiom, debe de publicarse. 
 
