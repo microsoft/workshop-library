@@ -77,7 +77,7 @@ Usaremos dos paquetes de Python para apoyar nuestro proyecto. El primero ya lo p
     ```
 
 1. Guarda el archivo seleccionado **Archivo** > **Guardar**
-2. Abra una nueva ventana de terminal dentro de Visual Studio Code seleccionando **Terminal** > **Nueva Ventana de Terminal**
+2. Abre una nueva ventana de terminal dentro de Visual Studio Code seleccionando **Terminal** > **Nueva Ventana de Terminal**
 3. Crea un nuevo entorno de Python e instala los paquetes ejecutando el siguiente comando: 
 
     ```bash
