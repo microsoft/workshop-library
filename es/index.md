@@ -21,23 +21,11 @@ Mira este video corto que explica como tú puedes utilizar estas presentaciones.
 
 Desde construir modelos de Machine Learning utilizando Custom Vision hasta la creación de una aplicación web con Flask, esta categoría está llena de recursos útiles relacionados con Inteligencia Artificial y Machine Learning que puedes presentar. A continuación, haz clic en las presentaciones disponibles 👇: 
 
-  <details>
-    <summary>Intermedio</summary>
-
-
-   - [Crea un modelo de Aprendizaje Automático con Custom Vision](./full/ml-model-custom-vision/README.md)
-   - [Crea una aplicación web de Inteligencia Artificial con Python y Flask](./full/flask-text-translator/README.md)
-   - [Crea un modelo de regresión con el diseñador de Azure Machine Learning](./full/regression-aml-designer/README.md)
-   - [Integración de Custom Vision con Power Apps para la detección de la retinopatía diabética](./full/power-app-custom-vision/README.md)
-
-  </details>
 
   <details>
     <summary>Avanzado</summary>
 
-
-   - [Usa TensorFlow y Keras para el procesamiento del lenguaje natural](./full/intro-nlp-tensorflow/README.md)
-   - [Aprendizaje profundo para visión artificial](./full/deep-learning-computer-vision/README.md)
+   - [Usa TensorFlow y Keras para el procesamiento del lenguaje natural](./full/intro-nlp-tensorflow/translations/es/README.es.md)
 
   </details>
 
@@ -58,13 +46,7 @@ Si estas interesadx en datos o en ciencia de datos, ¡encontraras estas interesa
 <details>
   <summary>Intermedio</summary>
 
-
- - [Limpiar y preparar datos con Python](./full/clean-prepare-data-python/README.md)
- - [Lectura y escritura de datos con Azure DataBricks](./full/intro-databricks/README.md)
- - [Taller de Exploración del Papel de COVID](./full/covid-paper-text-analytics/README.md)
- - [Introducción a los modelos de regresión con R y Tidymodels](./full/intro-regression-R-tidymodels/README.md)
- - [Introducción a los modelos de clasificación con R y Tidymodels](./full/intro-classification-R-tidymodels/README.md)
- - [Introducción a los modelos de clustering con R y Tidymodels](./full/intro-clustering-R-tidymodels/README.md)
+ - [Lectura y escritura de datos con Azure DataBricks](./full/intro-databricks/translations/es/README.es.md)
 
 </details>
 
@@ -77,15 +59,12 @@ Si te gusta el desarrollo web, entonces ¡estas presentaciones listas para usar 
     <summary>Principiante</summary>
 
 
-   - [Introducción a GitHub usando GitHub.dev](./short/intro-github-dev/README.md)
-   - [Explora el mundo del arte mediante el uso de API RESTful](./short/explore-art-rest-api/README.md)
-   - [Introducción a las aplicaciones web estáticas](./short/intro-static-web-apps/README.md)
-   - [Crea un sitio web para mostrar tu currículum](./full/build-resume-website/README.md)
-   - [Crea una aplicación sin usar ningún código con Microsoft Power Platform](./full/power-platform-canvas-app/README.md)
-   - [Introducción a los contenedores de desarrollo en VS Code](./full/using-dev-containers-vscode/README.md)
+   - [Introducción a GitHub usando GitHub.dev](./short/intro-github-dev/translations/es/intro-Github.md)
+   - [Introducción a las aplicaciones web estáticas](./short/intro-static-web-apps/translations/es/README.es.md)
+   - [Crea un sitio web para mostrar tu currículum](./full/build-resume-website/translations/es/README.md)
 
   </details>
-
+<!--
   <details>
     <summary>Intermedio</summary>
 
@@ -98,7 +77,7 @@ Si te gusta el desarrollo web, entonces ¡estas presentaciones listas para usar 
 
   </details>
 
-
+-->
 ## 🤩 Contribuciones y otros recursos
 
 ¿Estás buscando colaborar con una presentación o deseas obtener más información sobre la presentación y como presentarla a tu audiencia? ¡En esta sección encontraras más sobre ello!
