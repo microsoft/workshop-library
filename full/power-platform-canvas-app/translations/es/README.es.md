@@ -2,7 +2,7 @@
 
 ## Módulo de referencia
 
-[Cómo crear una aplicación de lienzo](https://docs.microsoft.com/learn/modules/build-app-solution/?WT.mc_id=academic-56577-hmitra)
+[¿Cómo crear una aplicación de lienzo?](https://docs.microsoft.com/learn/modules/build-app-solution/?WT.mc_id=academic-56577-hmitra)
 
 ## Objetivos
 
@@ -10,27 +10,28 @@ En este taller, abordaremos como construir una aplicación sin código con _low 
 
 | **Objetivo**                                          | Descripción                                                                                                    |
 | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| **¿Qué aprenderás?**                           | Cómo construir y personalizar una aplicación con Power Apps y aprenderás sobre todos sus elementos|
-| **¿Qué vas a necesitar?**                              | [Suscripción M365](https://developer.microsoft.com/microsoft-365/dev-program?WT.mc_id=academic-56577-hmitra)                                          |
+| **¿Qué aprenderás?**                           | Aprenderás a cómo construir y personalizar una aplicación con Power Apps y aprenderás sobre todos sus elementos|
+| **¿Qué vas a necesitar?**                              | [Suscripción M365](https://developer.microsoft.com/es-ES/microsoft-365/dev-program)                                          |
 | **Duración**                                      | 1 hora |
 | **Presentación**                                        | [Powerpoint](../../slides_es.pptx)                                                                                      |
-## Video walk-through
+## Recorrido en video
+> 🎥 _Clic a la imagen para mirar una guía del taller_
 
-[![Taller walk-through](../../images/promo.png)](https://youtu.be/NLXtRjXgMBo "Taller walk-through")
-> 🎥 Clic a la imagen para mirar una guía del taller
+[![Recorrido del taller en video](../../images/promo.png)](https://youtu.be/NLXtRjXgMBo "Recorrido del taller en video")
+
 
 ## Pre-Aprendizaje
 
-- [Introducción a Power Platform](https://docs.microsoft.com/learn/modules/introduction-power-platform/?WT.mc_id=academic-56577-hmitra)
+- [Introducción a Power Platform](https://developer.microsoft.com/es-ES/microsoft-365/dev-program?WT.mc_id=academic-00000-abrilu)
 
 
 ## Pre-Requisitos
 
-- [Suscripción M365](https://developer.microsoft.com/microsoft-365/dev-program?WT.mc_id=academic-56577-hmitra) 
+- [Suscripción M365](https://developer.microsoft.com/es-ES/microsoft-365/dev-program?WT.mc_id=academic-00000-abrilu) 
 
 ## ¿Qué aprenderás?
 
-¿Te gustaría construir una aplicación pero la cantidad de conocimientos en desarrollo requeridos para hacerlo te detiene? Si es así, ¡convierte tus ideas en realidad con la ayuda de Microsoft Power Apps!
+¿Te gustaría construir una aplicación, pero la cantidad de conocimientos en desarrollo requeridos para hacerlo te detiene? Si es así, ¡convierte tus ideas en realidad con la ayuda de Microsoft Power Apps!
 
 ![Captura del proyecto final](../../images/project.png)
 
@@ -48,7 +49,7 @@ Después de configurar el ambiente y acceder a [Power Apps studio](https://make.
 
 ### Elige tu fuente de datos
 
-Puedes usar algún conjunto de datos muestra en el adjunto [zip file](./data/Contoso-Site-Tracking.zip). Extrae y sube el archivo zip a través de One Drive, seleccionando `One Drive para empresas` como fuente de datos.
+Puedes usar algún conjunto de datos de muestra del siguiente [archivo zip](./data/Contoso-Site-Tracking.zip). Extrae y sube el archivo zip a través de One Drive, seleccionando `One Drive para empresas` como fuente de datos.
 
 ### Explorando los diferentes elementos
 
