@@ -14,7 +14,7 @@ The content will teach you how to improve your delivery when you are in front of
 
 ## Video
 
-Comming soon!
+Coming soon!
 
 <!--
 [![presentation walk-through](./images/promo.png)](https://youtu.be/xxxxxxx "presentation walk-through")
@@ -33,7 +33,7 @@ This content will allow you to learn:
 
 ## Single idea 💡
 
-Focus on what the single most important idea for your delivery is. No audience is capable of recalling several different take aways. Focus on the single idea and tie everything you say back to the single idea.
+Focus on what the single most important idea for your delivery is. No audience can recall several different take aways. Focus on the single idea and tie everything you say back to the single idea.
 
 ## Always tell a story 📘
 
@@ -47,7 +47,7 @@ When you present about something that is exciting,  your voice, stance, and ener
 
 ## Don't read 🤓
 
-Never ever read. As soon as you read you will sound robotic and will cause the audience to disconnect and lose interest. Reading from slides, cards, or anything else has one of the most negative impact in your delivery.
+Never ever read. As soon as you read you will sound robotic and will cause the audience to disconnect and lose interest. Reading from slides, cards, or anything else has one of the most negative impacts in your delivery.
 
 ## Use the Problem-Solution-Benefit technique 🎯
 
@@ -59,7 +59,7 @@ A monotone delivery will bore your audience. It can happen if you are really ner
 
 Try mixing how fast you're talking with pauses or speeding up and then slowing down.
 
-Similarly to volume, try raising your voice for excitement or lowering it for suspense.
+Similarly,  to volume, try raising your voice for excitement or lowering it for suspense.
 
 Lastly, use body movement to match what you are saying. You can move your arms using gestures to highlight a phrase or even a problem.
 
@@ -72,7 +72,7 @@ Use two or three sentences to recap what just happened. For example: the bad wol
 Summarizing allows to keep an audience on track.
 
 1. **Repeat to Connect**
-Find elements that you can repeat so that the story or presentation connects. For example you mention at the beginning that the wolf was very hungry. Towards the end, you can say "now this wolf is even hungrier".  This helps chain the events in a way that the audience can relate to.
+Find elements that you can repeat so that the story or presentation connects. For example, you mention at the beginning that the wolf was very hungry. Towards the end, you can say "now this wolf is even hungrier".  This helps chain the events in a way that the audience can relate to.
 
 1. **Emphasize the single idea**
 There has to be *one* key takeaway for your audience. Use this key takeaway at every chance you get and emphasize it: "Hard work pays off [...]. The three piglets where all benefitting from the hard work in the strongest house"
