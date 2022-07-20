@@ -82,3 +82,7 @@ Aprende más sobre Power Apps visitando los siguientes enlaces:
 Asegúrate de darnos [retroalimentación de este taller](https://forms.office.com/r/MdhJWMZthR) ¡Tu opinión es muy importante!
 
 [Código de Conducta](../../CODE_OF_CONDUCT.md)
+
+## Agradecimientos
+
+¡Muchas gracias a Alejandra Perez @aleepsy por habernos ayudado a traducir todo este contenido a español! 
