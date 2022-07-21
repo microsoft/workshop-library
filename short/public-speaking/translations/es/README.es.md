@@ -72,7 +72,8 @@ Utiliza dos o tres oraciones para resumir lo que acaba de pasar. Por ejemplo: _"
 Resumir permite mantener a la audiencia enfocada en la historia.
 
 1. **Repite para conectar**
-Encuentra elementos que puedas repetir para que la historia o presentación se conecte. Por ejemplo mencionar al principio que el lobo tenía mucha hambre. Hacia el final, puedes decir "ahora este lobo tiene aún más hambre". Esto ayuda a encadenar los eventos de manera que la audiencia pueda identificarse.
+Encuentra elementos que puedas repetir para que la historia o presentación se conecte. Por ejemplo, al principio puedes mencionar que el lobo tenía mucha hambre. En el final de la historia, puedes decir _"ahora este lobo tiene aún más hambre"_. Esto ayuda a conectar los eventos de manera que la audiencia pueda identificarse.
+
 
 1. **Enfatiza la idea única**
 Tiene que haber *una* conclusión clave para tu audiencia. Utiliza esta conclusión clave en cada oportunidad que tengas y enfatícela: "El trabajo duro tiene su recompensa [...]. Los tres cerditos se beneficiaron del trabajo duro que realizaron en la casa más sólida".
