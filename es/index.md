@@ -3,7 +3,7 @@
 ¡Esta es una colección de presentaciones que puedes usar, adaptar, y modificar para *tu* propia presentación! Esta construida por Cloud Advocates de Microsoft en colaboración con los Microsoft Learn Student Ambassadors.
 
 🚀 Presenta en 3 pasos sencillos:
-1. Encuentra un tema que está listo para usar de [Inteligencia Artificial/Aprendizaje Automático](#-ai-and-ml), [Datos](#-data-and-data-science), o [Desarrollo Web](#-web-development). Por ejemplo: [Introducción a Aplicaciones Web Estáticas](./short/intro-static-web-apps/README.md)
+1. Encuentra un tema que está listo para usar de [Inteligencia Artificial/Machine Learing](#-ai-and-ml), [Datos](#-data-and-data-science), o [Desarrollo Web](#-web-development). Por ejemplo: [Introducción a Aplicaciones Web Estáticas](./short/intro-static-web-apps/README.md)
 1. Haz clic en el enlace para encontrar todos los recursos en una sola página incluyendo una presentación opcional de PowerPoint.
 1. Selecciona y modifica el contenido acorde a tus necesidades y ¡preséntalo a tu audiencia! 
 
@@ -25,28 +25,28 @@ Desde construir modelos de Machine Learning utilizando Custom Vision hasta la cr
   <details>
     <summary>Avanzado</summary>
 
-   - [Usa TensorFlow y Keras para el procesamiento del lenguaje natural](./full/intro-nlp-tensorflow/translations/es/README.es.md)
+   - [Usa TensorFlow y Keras para el procesamiento del lenguaje natural](../full/intro-nlp-tensorflow/translations/es/README.es.md)
 
   </details>
 
 
 ## 💿 Datos y Ciencia de Datos
-Si estas interesadx en datos o en ciencia de datos, ¡encontraras estas interesantes estas presentaciones! esta categoría cubre notebooks (cuadernos), manipulación de datos, exploración de datos y ¡mucho más! A continuación, haz clic en las presentaciones disponibles 👇:
+Si te interesan los datos o ciencia de datos, ¡encontraras estas interesantes estas presentaciones! esta categoría cubre notebooks (cuadernos), manipulación de datos, exploración de datos y ¡mucho más! A continuación, haz clic en las presentaciones disponibles 👇:
 
+<!-- -
 <details>
     <summary>Principiante</summary>
 
 
- - [Introducción a Jupyter Notebooks](./short/intro-jupyter-notebooks-python/README.md)
- - [Explore y analice datos con R](./full/explore-analyze-data-with-R/README.md)
+ - [Explore y analice datos con R](../full/explore-analyze-data-with-R/README.md)
 
 
 </details>
-
+-->
 <details>
   <summary>Intermedio</summary>
 
- - [Lectura y escritura de datos con Azure DataBricks](./full/intro-databricks/translations/es/README.es.md)
+ - [Lectura y escritura de datos con Azure DataBricks](../full/intro-databricks/translations/es/README.es.md)
 
 </details>
 
@@ -59,9 +59,10 @@ Si te gusta el desarrollo web, entonces ¡estas presentaciones listas para usar 
     <summary>Principiante</summary>
 
 
-   - [Introducción a GitHub usando GitHub.dev](./short/intro-github-dev/translations/es/intro-Github.md)
-   - [Introducción a las aplicaciones web estáticas](./short/intro-static-web-apps/translations/es/README.es.md)
-   - [Crea un sitio web para mostrar tu currículum](./full/build-resume-website/translations/es/README.md)
+   - [Introducción a GitHub usando GitHub.dev](../short/intro-github-dev/translations/es/intro-Github.md)
+   - [Introducción a Azure Static Web Apps](../short/intro-static-web-apps/translations/es/README.es.md)
+   - [Crea un sitio web para mostrar tu currículum](../full/build-resume-website/translations/es/README.md)
+   - [Construye una aplicación sin código con Microsoft Power Platform](../full/power-platform-canvas-app/translations/es/README.es.md)
 
   </details>
 <!--
@@ -82,7 +83,7 @@ Si te gusta el desarrollo web, entonces ¡estas presentaciones listas para usar 
 
 ¿Estás buscando colaborar con una presentación o deseas obtener más información sobre la presentación y como presentarla a tu audiencia? ¡En esta sección encontraras más sobre ello!
 
-- Utiliza el [Cheat Sheet](./cheat-sheet.md) para organizar la entrega/presentación de tu taller
+- Utiliza el [Acordeon](./acordeon.md) para organizar la entrega/presentación de tu taller
 - [Diapositivas sobre cómo ser mentor](https://github.com/FrontEndFoxes/art/blob/main/frontend-foxes-mentor-training.pdf) de la escuela Front-End Foxes
 - [Curso de LinkedIn Learning](https://www.linkedin.com/learning/teaching-techniques-developing-curriculum/welcome?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=3322) sobre cómo crear un curriculum
 - [Curso de LinkedIn Learning](https://www.linkedin.com/learning/presenting-technical-information-with-stories/storytelling-for-technical-presentations?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=3322) sobre como presentar temas técnicos como historias
