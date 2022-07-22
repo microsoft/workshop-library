@@ -3,7 +3,7 @@
 ¡Esta es una colección de presentaciones que puedes usar, adaptar, y modificar para *tu* propia presentación! Esta construida por Cloud Advocates de Microsoft en colaboración con los Microsoft Learn Student Ambassadors.
 
 🚀 Presenta en 3 pasos sencillos:
-1. Encuentra un tema que está listo para usar de [Inteligencia Artificial/Machine Learing](#-ai-and-ml), [Datos](#-data-and-data-science), o [Desarrollo Web](#-web-development). Por ejemplo: [Introducción a Aplicaciones Web Estáticas](./short/intro-static-web-apps/README.md)
+1. Encuentra un tema que está listo para usar de [Inteligencia Artificial/Machine Learing](#-inteligencia-artificial-y-machine-learning), [Datos](#-Datos-y-Ciencia-de-Datos), o [Desarrollo Web](#-Desarrollo-Web). Por ejemplo: [Introducción a Aplicaciones Web Estáticas](./short/intro-static-web-apps/README.md)
 1. Haz clic en el enlace para encontrar todos los recursos en una sola página incluyendo una presentación opcional de PowerPoint.
 1. Selecciona y modifica el contenido acorde a tus necesidades y ¡preséntalo a tu audiencia! 
 
