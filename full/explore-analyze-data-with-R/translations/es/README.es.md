@@ -5,7 +5,7 @@
 
 ## Objetivos
 
-¡Hola y bienvenidx a esta aventura de aprendizaje! En esta carpeta, encontrará un Notebook de Exploración de Datos. ¡Es un notebook de valoración guiada con calificación automática que lo ayudará a evaluar su comprensión al usar R para explorar y analizar datos! Esperamos que encuentre que R, es en esencia, un lenguaje hermoso y elegante para la Ciencia de Datos.
+¡Hola! Le damos la bienvenida a esta aventura de aprendizaje. En esta carpeta, encontrará un notebook de exploración de datos. ¡Es un notebook de valoración guiada con calificación automática que lo ayudará a evaluar su comprensión al usar R para explorar y analizar datos! Esperamos que pueda notar que R, es en esencia, un lenguaje hermoso y elegante para la Ciencia de Datos.
 
 
 | **Objetivo**                      | Descripción                                    |
@@ -13,7 +13,7 @@
 | **¿Qué aprenderás?**       | Cómo usar R para exploración y análisis de datos          |
 | **Lo qué necesitarás**          | [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-59300-cacaste), [Docker Desktop](https://www.docker.com/products/docker-desktop), [Remote Developer Extension](https://aka.ms/vscode-remote/download/extension) y [Git](https://git-scm.com/downloads) |
 | **Duración**                  | 2 horas                                      |
-| **Diapositivas**                    | [Powerpoint](../../slides.pptx)                                |
+| **Diapositivas**                    | [Powerpoint](slides.pptx)                                |
 
 ## Video
 
@@ -25,16 +25,16 @@ Este taller nos permite aplicar las habilidades aprendidas en el módulo [Explor
 
 ## Requisitos previos
 
-Para preparar, ejecutar y escribir código R en poco tiempo, hemos incluido en este taller un contenedor, de modo que tenga un entorno de codificación R listo para utilizar.
+Para preparar, ejecutar y escribir código R en poco tiempo, hemos incluido en este taller un contenedor, de modo que tenga un entorno de codificación de R listo para utilizar.
 
 ### Configuración del contenedor de desarrollo
 
-Un **contenedor de desarrollo** es un contenedor de [Docker](https://www.docker.com) en ejecución with a well-defined tool/runtime stack and its prerequisites. Puede probar contenedores de desarrollo con **[GitHub Codespaces](https://github.com/features/codespaces)**, **[Binder](https://mybinder.org/)** o **[Visual Studio Code Remote - Containers](https://aka.ms/vscode-remote/containers)**.
+Un **contenedor de desarrollo** es un contenedor de [Docker](https://www.docker.com) en ejecución que incluye herramientas y tiempos de ejecución bien definidos así como los requisitos previos. Puede probar contenedores de desarrollo con **[GitHub Codespaces](https://github.com/features/codespaces)**, **[Binder](https://mybinder.org/)** o **[Visual Studio Code Remote - Containers](https://aka.ms/vscode-remote/containers)**.
 
 #### GitHub Codespaces
-Siga estos pasos para abrir este taller en un Codespace:
-1. Haga clic en el menú desplegable Código y seleccione la opción **Abrir con Codespaces** .
-2. Select **+ New codespace** at the bottom on the pane.
+Sigue estos pasos para abrir este taller en un Codespace:
+1. Haga clic en el menú desplegable Código y seleccione la opción **Open with Codespaces** .
+2. Seleccione **+ New codespace** en la parte inferior del panel.
 
 Para más información, consulte la [documentación de GitHub](https://docs.github.com/en/free-pro-team@latest/github/developing-online-with-codespaces/creating-a-codespace#creating-a-codespace).
 
@@ -44,36 +44,36 @@ Este taller también está disponible en Binder. Para abrir el notebook en un en
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carlotta94c/workshop-library/workshop-binding?labpath=%2Ffull%2Fexplore-analyze-data-with-R%2Fsolution%2Fchallenge-Data_Exploration.ipynb)
 
 #### Espacio aislado de Learn
-También puede completar este desafío aprovechando el espacio asilado de Learn, que se encuentra en la [Unidad 9](https://docs.microsoft.com/es-es/learn/modules/explore-analyze-data-with-r/9-challenge-data-exploration) del módulo de Microsoft Learn -  Exploración y análisis de datos con R. Simplemente inicie sesión con su cuenta de Microsoft o GitHub y haga clic en **Activar el espacio aislado** para iniciar.
+También puede completar este desafío aprovechando el espacio asilado de Learn, que se encuentra en la [unidad 9](https://docs.microsoft.com/es-es/learn/modules/explore-analyze-data-with-r/9-challenge-data-exploration) del módulo de Microsoft Learn -  Exploración y análisis de datos con R. Solo inicie sesión con su cuenta de Microsoft o GitHub y haga clic en **Activar el espacio aislado** para iniciar.
 
 #### VS Code Remote - Containers
-Siga estos pasos para abrir este taller en un contenedor usando la extensión VS Code Remote - Containers:
+Sigue estos pasos para abrir este taller en un contenedor usando la extensión VS Code Remote - Containers:
 
-1. Si es la primera vez que usa un contenedor de desarrollo, asegúrese de que su sistema cumpla con los requisitos previos (por ejemplo, tener instalado Docker) en la [guía de inicio](https://aka.ms/vscode-remote/containers/getting-started).
+1. Si es la primera vez que utiliza un contenedor de desarrollo, asegúrese de que su sistema cumpla con los requisitos previos (por ejemplo, tener instalado Docker) en la [guía de inicio](https://aka.ms/vscode-remote/containers/getting-started).
 
-2. Presiona <kbd>F1</kbd> y seleccione el comando **Agregar archivos de configuración del contenedor de desarrollo...** para **Contenedores Remotos** o **Codespaces**.
+2. Presione <kbd>F1</kbd> y seleccione el comando **Add Development Container Configuration Files...** para **Remote-Containers** o **Codespaces**.
 
    > **Nota:** Si es necesario, puede arrastrar y soltar la carpeta `.devcontainer` desde esta subcarpeta en una copia clonada localmente de este repositorio en el explorador de archivos de VS Code en lugar de usar el comando.
 
-3. Selecciona esta definición. También debe seleccionar **Mostrar todas las definiciones...** para que aparezca.
+3. Seleccione esta definición. También debe seleccionar **Show All Definitions...** para que aparezca.
 
-4. Finalmente, presiona <kbd>F1</kbd> y ejecuta **Contenedores Remotos: Reabrir carpeta en contenedor** para empezar a usar la definición.
+4. Finalmente, presione <kbd>F1</kbd> y ejecute **Remote-Containers: Reopen Folder in Container** para empezar a usar la definición.
 
-Esta definición incluye un código de prueba que lo ayudará a verificar que funciona correctamente en su sistema. Abra la carpeta `all-systems-check` donde puede elegir ejecutar los scripts `.R`, `.Rmd` o `.ipynb`. Deberías ver "¡Hola, mundo remoto!" en una ventana de terminal R (para `.R` y `.Rmd`) o dentro de un Jupyter Notebook (para `.ipynb`) después de que se ejecute el script respectivo.
+Esta definición incluye un código de prueba que lo ayudará a verificar que funciona correctamente en su sistema. Abra la carpeta `all-systems-check` donde puede elegir ejecutar los scripts `.R`, `.Rmd` o `.ipynb`. Debería ver "¡Hola, mundo remoto!" en una ventana de terminal R (para `.R` y `.Rmd`) o dentro de un Jupyter Notebook (para `.ipynb`) después de que se ejecute el script respectivo.
 
 En algún momento, es posible que desee realizar cambios en su contenedor, como instalar un nuevo paquete. Deberá reconstruir su contenedor para que los cambios surtan efecto.
 
 ## Lo que vas a aprender
 
-Supongamos que el Departamento de Transporte está considerando construir un nuevo aeropuerto. Como el increíble científico de datos que eres, se te ha pedido que explores los datos existentes. Los resultados de su análisis pueden formar la base de un informe o un modo de aprendizaje automático.
+Supongamos que el Departamento de Transporte está considerando construir un nuevo aeropuerto. Como el increíble científico de datos que es, se le ha pedido que explores los datos existentes. Los resultados de su análisis pueden formar la base de un informe o un modo de aprendizaje automático.
 
 En este desafío, explorará un conjunto de datos del mundo real que contiene datos de vuelos del Departamento de Transporte de EE. UU.
 
 ## Paso 1: Limpieza de datos
 
-Rara vez encontramos datos en la forma correcta para el análisis. Como tal, una vez que haya importado sus datos, un buen lugar para comenzar su análisis es respondiendo a la pregunta: "¿Son los datos precisos y apropiados para su análisis deseado?". La limpieza de datos para manejar errores, valores faltantes y otros problemas vale la pena a largo plazo y permite un análisis exploratorio de datos más fácil y preciso.
+Rara vez encontramos datos en la forma correcta para el análisis. Como tal, una vez que haya importado sus datos, un buen lugar para comenzar su análisis es respondiendo a la pregunta: "_¿Son los datos precisos y apropiados para su análisis deseado?_". La limpieza de datos para resolver errores, valores faltantes y otros problemas vale la pena a largo plazo y permite un análisis exploratorio de datos más fácil y preciso.
 
-En esta sección usted:
+En esta sección:
 
 - Identificará cualquier dato nulo o faltante e agregará valores de reemplazo apropiados.
 
@@ -84,14 +84,14 @@ En esta sección usted:
 El análisis exploratorio de datos, conocido popularmente como EDA, es utilizado por los científicos de datos  para analizar e investigar conjuntos de datos y resumir sus características principales, por ejemplo, la distribución, a menudo visualizando y transformando datos.
 
 
-En esta sección usted:
+En esta sección:
 
 - Observará las estadísticas de resumen para los campos numéricos en el conjunto de datos.
 
 - Determinará la distribución de las columnas DepDelay y ArrDelay.
 
 
-### More EDA
+### Más EDA
 
 El objetivo de EDA es desarrollar una mejor comprensión de sus datos. La mayoría de las veces, EDA implicará formular algunas preguntas de sondeo sobre sus datos, buscar respuestas mediante la visualización y transformación de datos y, finalmente, utilizar la comprensión adquirida para refinar las preguntas, descartarlas por completo y/o generar nuevas preguntas.
 
@@ -115,22 +115,21 @@ En esta sección:
 
 ## Prueba
 
-Evalúa tus conocimientos con [una breve prueba](https://docs.microsoft.com/en-us/learn/modules/explore-analyze-data-with-r/8-knowledge-check)!
+Evalúe sus conocimientos con [una breve prueba](https://docs.microsoft.com/en-us/learn/modules/explore-analyze-data-with-r/8-knowledge-check).
 
 ## Próximos pasos
 
 ¡Felicidades por finalizar este reto 🏅!
 
-Hay otros talleres sobre el uso de R para Ciencia de Datos. En este taller, aprendimos cómo limpiar, visualizar y transformar datos para obtener información y conocimiento. El siguiente conjunto de talleres le enseñará [cómo crear modelos de regresión](../../../intro-regression-R-tidymodels/), [cómo crear modelos de clasificación](../../../intro-classification-R-tidymodels/) y cómo crear modelos de agrupamiento (¡muy pronto!). 
-There are other workshops around using R for Data Science. In this workshop, we learnt how to clean data, visualize data and transform data to derive insights and knowledge. The next set of workshops will show you how to [create regression models](../intro-regression-R-tidymodels), [create classification models](../intro-classification-R-tidymodels) and create clustering models (coming soon!). ¡Asegúrate de echarles un vistazo!
+Hay otros talleres sobre el uso de R para Ciencia de Datos. En este taller, aprendimos cómo limpiar, visualizar y transformar datos para obtener información. El siguiente conjunto de talleres le enseñará [cómo crear modelos de regresión](../../../intro-regression-R-tidymodels/), [cómo crear modelos de clasificación](../../../intro-classification-R-tidymodels/) y cómo crear modelos de agrupamiento (¡muy pronto!). ¡Asegúrate de echarles un vistazo!
 
 ## Práctica
 
-En este taller utilizó preguntas ya proporcionadas para guiar su EDA. A veces este no es el caso. Intente generar sus propias preguntas y responderlas utilizando las habilidades de transformación y visualización de datos que ha adquirido en este módulo. ¿Qué nuevos conocimientos revela?
+En este taller utilizó preguntas ya proporcionadas para guiar su EDA. A veces este no es el caso. Intente generar sus propias preguntas y responderlas utilizando las habilidades de transformación y visualización de datos que ha adquirido en este módulo. ¿Qué nueva información ha obtenido?
 
 
 ## Feedback
 
-¡Asegúrate de dejarnos [comentarios sobre este taller](https://forms.office.com/r/MdhJWMZthR)! ¡Feliz aprendizaje!
+Asegúrese de dejarnos [comentarios sobre este taller](https://forms.office.com/r/MdhJWMZthR). ¡Feliz aprendizaje!
 
 [Código de conducta](../../../../CODE_OF_CONDUCT.md)
