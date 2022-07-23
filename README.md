@@ -37,6 +37,7 @@ Welcome to the [Next Generation Team's Workshop Library](presentation.pptx), bui
 2️⃣ | [COVID Paper Exploration Workshop](./full/covid-paper-text-analytics/README.md) | [Dmitry Soshnikov](http://soshnikov.com) | 1-1.5 hours | How to use Azure Text Analytics Cognitive Service, How to process tabular data in Python using Pandas and visualize them using different visualization techniques | [🎥](https://youtu.be/OcJ4VY0ojhk) | Python, Pandas, [Azure Cognitive Services](https://docs.microsoft.com/learn/modules/analyze-text-with-text-analytics-service/?WT.mc_id=academic-49822-dmitryso) |
 2️⃣ | [Introduction to Regression Models with R and Tidymodels](./full/intro-regression-R-tidymodels/README.md) | Carlotta Casteluccio and [Eric Wanjau](https://twitter.com/ericntay) | 1.5-2 hours | Using R, learn about Regression Models with Tidymodels |  [🎥](https://youtu.be/ckqijBKO-Es) | Regression, Tidymodels, Tidyverse, R, [Introduction to regression models by using R and tidymodels](https://docs.microsoft.com/en-us/learn/modules/introduction-regression-models/?WT.mc_id=academic-59300-cacaste) |
 2️⃣ | [Introduction to Classification Models with R and Tidymodels](./full/intro-classification-R-tidymodels/README.md) | Carlotta Casteluccio and [Eric Wanjau](https://twitter.com/ericntay) | 1.5-2 hours | Using R, learn about Classification Models with Tidymodels | [🎥](https://youtu.be/NpYpUgaoK8M)  | Classification, Tidymodels, Tidyverse, R, [Introduction to classification models by using R and tidymodels](https://docs.microsoft.com/en-us/learn/modules/introduction-classification-models/?WT.mc_id=academic-59300-cacaste) |
+2️⃣ | [Introduction to Clustering Models with R and Tidymodels](./full/intro-clustering-R-tidymodels/README.md) | Carlotta Casteluccio and [Eric Wanjau](https://twitter.com/ericntay) | 1.5-2 hours | Using R, learn about Clustering Models with Tidymodels | [🎥](https://youtu.be/7YMNl-7gZhs)  | Clustering, Tidymodels, Tidyverse, R, [Introduction to clustering models by using R and tidymodels](https://docs.microsoft.com/en-us/learn/modules/introduction-clustering-models/?WT.mc_id=academic-59300-cacaste) |
 
 ## <a name="web"></a>Web Development / App Development Workshops
 
@@ -55,8 +56,11 @@ Welcome to the [Next Generation Team's Workshop Library](presentation.pptx), bui
 2️⃣ | [Build a Mood Journal Progressive Web App](./full/mood-journal-progressive-web-app/README.md) | Beth Pan | 1.5 hours | Build a Mood Journal for Mental Health as a Progressively-Enhanced Web app | [🎥](https://youtu.be/12THeQreSQ0) | JavaScript|
 
 ---
+<details>
+<summary><h2>Resources on how to teach and mentor effectively</h2></summary>
+<br>
 
-## Resources on how to teach and mentor effectively
+
 
 Use the [Cheat Sheet](./cheat-sheet.md) to organize your workshop delivery
 
@@ -67,3 +71,4 @@ Use the [Cheat Sheet](./cheat-sheet.md) to organize your workshop delivery
 [LinkedIn Learning Course](https://www.linkedin.com/learning/presenting-technical-information-with-stories/storytelling-for-technical-presentations?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=3322) on how to present technical topics with stories
 
 These workshops were created using our [template](https://github.com/microsoft/workshop-template)
+</details>

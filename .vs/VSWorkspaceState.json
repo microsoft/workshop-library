@@ -1,12 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.devcontainer",
-    "\\.devcontainer\\library-scripts",
     "\\full",
-    "\\full\\explore-analyze-data-with-R",
-    "\\full\\explore-analyze-data-with-R\\solution"
+    "\\full\\intro-clustering-R-tidymodels",
+    "\\full\\intro-regression-R-tidymodels",
+    "\\full\\intro-regression-R-tidymodels\\solution"
   ],
-  "SelectedNode": "\\full\\explore-analyze-data-with-R\\README.md",
+  "SelectedNode": "\\full\\intro-databricks",
   "PreviewInSolutionExplorer": false
 }

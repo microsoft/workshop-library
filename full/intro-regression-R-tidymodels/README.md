@@ -37,7 +37,7 @@ Follow these steps to open this workshop in a Codespace:
 1. Click the Code drop-down menu and select the **Open with Codespaces** option.
 2. Select **+ New codespace** at the bottom on the pane.
 
-For more info, check out the [GitHub documentation](https://docs.github.com/en/free-pro-team@latest/github/developing-online-with-codespaces/creating-a-codespace#creating-a-codespace).
+For more info, check out the [GitHub documentation](https://docs.github.com/en/free-pro-team@latest/github/developing-online-with-codespaces/creating-a-codespace#creating-a-codespace?WT.mc_id=academic-59300-cacaste).
 
 #### Binder
 This workshop is also available on Binder. To open the notebook in a Binder environment, just click the button below.
@@ -45,7 +45,7 @@ This workshop is also available on Binder. To open the notebook in a Binder envi
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carlotta94c/workshop-library/introToRegressionR%26Tidymodels?labpath=full%2Fintro-regression-R-tidymodels%2Fsolution%2FChallenge-regression.ipynb)
 
 #### Learn Sandbox
-You can go through this challenge also leveraging on the Learn Sandbox environment, provided by [Unit 9](https://docs.microsoft.com/en-us/learn/modules/introduction-regression-models/9-challenge-regression) of the MS Learn module - Introduction to regression models by using R and tidymodels. Just sign in with your Microsoft or GitHub account and click on **Activate sandbox** to start.
+You can go through this challenge also leveraging on the Learn Sandbox environment, provided by [Unit 9](https://docs.microsoft.com/en-us/learn/modules/introduction-regression-models/9-challenge-regression?WT.mc_id=academic-59300-cacaste) of the MS Learn module - Introduction to regression models by using R and tidymodels. Just sign in with your Microsoft or GitHub account and click on **Activate sandbox** to start.
 
 #### VS Code Remote - Containers
 Follow these steps to open this workshop in a container using the VS Code Remote - Containers extension:
@@ -155,7 +155,7 @@ In this section you will:
 
 ## Quiz
 
-Test your knowledge with [a short quiz](https://docs.microsoft.com/en-us/learn/modules/introduction-regression-models/8-knowledge-check)!
+Test your knowledge with [a short quiz](https://docs.microsoft.com/en-us/learn/modules/introduction-regression-models/8-knowledge-check?WT.mc_id=academic-59300-cacaste)!
 
 ## Next steps
 
