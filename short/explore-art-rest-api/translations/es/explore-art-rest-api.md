@@ -17,6 +17,7 @@ En este taller, aprenderás los conceptos básicos de APIs REST, una manera segu
 
 ## Video 
 > 🎥 Da click en la imagen para ver a Jen guiarte en este taller, empieza en 0:56:00
+
 [![Recorrido por el taller](../../images/promo.es.png)](https://youtu.be/QJHd4jf4ekI?t=56 "workshop walk-through")
 
 
@@ -33,7 +34,7 @@ En este taller, aprenderás sobre:
 
 Lee sobre APIs RESTful [en esta introducción](https://docs.microsoft.com/learn/modules/use-apis-discover-museum-art/2-what-is-api/?WT.mc_id=academic-56423-jelooper).
 
-## Consulta la API del Museo Metropolitano de Nueva York
+## Consulta la API del Museo Metropolitano
 Una grandiosa API para consultar, y descubrir la forma de sus datos, así como sus colecciones, es la del Museo Metropolitano de Nueva York. ¡[Vamos a consultarla](https://docs.microsoft.com/learn/modules/use-apis-discover-museum-art/4-query-met-api?/?WT.mc_id=academic-56423-jelooper)!
 
 ## Aprende sobre estrategias de autenticación
