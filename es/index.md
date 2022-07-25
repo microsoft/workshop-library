@@ -17,6 +17,7 @@ Mira este video corto que explica como tú puedes utilizar estas presentaciones.
 > 🎥 Haz clic en la imagen inferior para aprender como presentar un taller de esta librería
 [![Descripción general de la biblioteca del taller](../images/how-to.gif)](https://youtu.be/tylrSBnjHGo "Descripción general de la biblioteca del taller - ¡Haz clic para ver este video!")
 
+
 ## 🧠 Inteligencia Artificial y Machine Learning
 
 Desde construir modelos de Machine Learning utilizando Custom Vision hasta la creación de una aplicación web con Flask, esta categoría está llena de recursos útiles relacionados con Inteligencia Artificial y Machine Learning que puedes presentar. A continuación, haz clic en las presentaciones disponibles 👇: 
