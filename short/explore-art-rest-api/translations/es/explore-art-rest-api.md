@@ -67,3 +67,7 @@ Ahora que sabes sobre APIs y qué tan interesantes pueden ser para descubrir art
 ¡Asegúrate de [dar una retroalimentación de este taller](https://forms.office.com/r/MdhJWMZthR)!
 
 [Código de conducta](../../CODE_OF_CONDUCT.md)
+
+## Agradecimientos ❤️ 
+
+¡Muchísimas gracias a Berenice Osorio @ferenike por habernos ayudado a traducir todo este contenido a español! ❤️ ✨ 🚀 
