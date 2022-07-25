@@ -15,7 +15,7 @@ Lo único que necesitas es: encontrar un título disponible de un tema que te gu
 Mira este video corto que explica como tú puedes utilizar estas presentaciones.
 
 > 🎥 Haz clic en la imagen inferior para aprender como presentar un taller de esta librería
-[![Workshop Library overview ](/images/how-to.gif)](https://youtu.be/tylrSBnjHGo "Workshop Library overview - Click to Watch!")
+[![Descripción general de la biblioteca del taller](../images/how-to.gif)](https://youtu.be/tylrSBnjHGo "Descripción general de la biblioteca del taller - ¡Haz clic para ver este video!")
 
 ## 🧠 Inteligencia Artificial y Machine Learning
 
