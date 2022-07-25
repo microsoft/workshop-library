@@ -18,7 +18,7 @@ En este taller, aprenderás los conceptos básicos de APIs REST, una manera segu
 ## Video 
 > 🎥 Da click en la imagen para ver a Jen guiarte en este taller, empieza en 0:56:00
 
-[![Recorrido por el taller](../../images/promo.es.png)](https://youtu.be/QJHd4jf4ekI?t=56 "workshop walk-through")
+[![Recorrido por el taller](../../images/promo.es.png)](https://youtu.be/QJHd4jf4ekI?t=3333 "workshop walk-through")
 
 
 ## Lo que aprenderás...
