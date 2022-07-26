@@ -83,7 +83,11 @@ Si te gusta el desarrollo web, entonces ¡estas presentaciones listas para usar 
       <li>
         <a href="../full/power-platform-canvas-app/translations/es/">Construye una aplicación sin código con Microsoft Power Platform</a>
       </li>
+          <li>
+        <a href="../short/explore-art-rest-api/translations/es/">Explora el mundo del arte usando APIs RESTful</a>
+      </li>
   </ul>
+  ./
 
 
   </details>
