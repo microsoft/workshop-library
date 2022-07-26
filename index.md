@@ -4,7 +4,7 @@ This is a collection of presentation materials that you can use, adapt, and modi
 
 🚀 Present in 3 easy steps:
 
-1. Find a ready-to-use topic from [AI/ML](#-ai-and-ml), [Data](#-data-and-data-science), or [Web Development](#-web-development). For example: [Intro to Static Web Apps](./short/intro-static-web-apps/)
+1. Find a ready-to-use topic from [AI/ML](#-ai-and-ml), [Data](#-data-and-data-science), [Web Development](#-web-development), or [Soft Skills](#-soft-skills). For example: [Intro to Static Web Apps](./short/intro-static-web-apps/)
 1. Click on the link to find all resources in a single page including an optional Power Point
 1. Select and modify the content to your needs, and present away!
 
@@ -153,6 +153,20 @@ If you like web development, then these ready-to-use presentations are going to 
   </ul>
   </details>
 
+
+## 🦉 Soft skills
+Sometimes you'll need more than technical skills to deliver useful presentations. In this section you'll find resources to improve your soft skills like Public Speaking Skills 👇
+
+  <details>
+    <summary>Beginner</summary>
+
+  <ul>
+      <li>
+        <a href="./short/public-speaking/">Public Speaking Skills</a>
+      </li>
+  </ul>
+
+  </details>
 
 ## 🤩 Contributing and other resources
 

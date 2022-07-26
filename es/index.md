@@ -3,9 +3,9 @@
 ¡Esta es una colección de presentaciones que puedes usar, adaptar, y modificar para *tu* propia presentación! Esta construida por Cloud Advocates de Microsoft en colaboración con los Microsoft Learn Student Ambassadors.
 
 🚀 Presenta en 3 pasos sencillos:
-1. Encuentra un tema que está listo para usar de [Inteligencia Artificial/Machine Learning](#-inteligencia-artificial-y-machine-learning), [Datos](#-Datos-y-Ciencia-de-Datos), o [Desarrollo Web](#-Desarrollo-Web). Por ejemplo: [Introducción a Aplicaciones Web Estáticas](./short/intro-static-web-apps/README.md)
+1. Encuentra un tema que está listo para usar de [Inteligencia Artificial/Machine Learning](#-inteligencia-artificial-y-machine-learning), [Datos](#-Datos-y-Ciencia-de-Datos), [Desarrollo Web](#-Desarrollo-Web), o [Habilidades Blandas](#-habilidades-blandas). Por ejemplo: [Introducción a Aplicaciones Web Estáticas](./short/intro-static-web-apps/README.md)
 1. Haz clic en el enlace para encontrar todos los recursos en una sola página incluyendo una presentación opcional de PowerPoint.
-1. Selecciona y modifica el contenido acorde a tus necesidades y ¡preséntalo a tu audiencia! 
+1. Selecciona y modifica el contenido acorde a tus necesidades y ¡preséntalo a tu audiencia!
 
 ## 🧐 Suena interesante, ¿qué necesito hacer?
 
@@ -20,7 +20,7 @@ Mira este video corto que explica como tú puedes utilizar estas presentaciones.
 
 ## 🧠 Inteligencia Artificial y Machine Learning
 
-Desde construir modelos de Machine Learning utilizando Custom Vision hasta la creación de una aplicación web con Flask, esta categoría está llena de recursos útiles relacionados con Inteligencia Artificial y Machine Learning que puedes presentar. A continuación, haz clic en las presentaciones disponibles 👇: 
+Desde construir modelos de Machine Learning utilizando Custom Vision hasta la creación de una aplicación web con Flask, esta categoría está llena de recursos útiles relacionados con Inteligencia Artificial y Machine Learning que puedes presentar. A continuación, haz clic en las presentaciones disponibles 👇:
 
 
   <details>
@@ -96,6 +96,21 @@ Si te gusta el desarrollo web, entonces ¡estas presentaciones listas para usar 
    - [Introducción a Django](./full/django-get-started/README.md)
    - [Crea una aplicación web progresiva de Mood Journal](./full/mood-journal-progressive-web-app/README.md)
 -->
+
+
+## 🦉 Habilidades Blandas
+A veces necesitas mas que experiencia tecnica para dar presentaciones utiles. En esta seccion encontraras recursos para mejorar tus habilidades blandas como tecnicas para hablar en publico 👇
+
+  <details>
+    <summary>Principiante</summary>
+
+  <ul>
+      <li>
+        <a href="../short/public-speaking/translations/es/">Técnicas para hablar en público</a>
+      </li>
+  </ul>
+
+  </details>
 
 ## 🤩 Contribuciones y otros recursos
 
