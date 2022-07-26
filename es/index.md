@@ -99,7 +99,8 @@ Si te gusta el desarrollo web, entonces ¡estas presentaciones listas para usar 
 
 
 ## 🦉 Habilidades Blandas
-A veces necesitas mas que experiencia tecnica para dar presentaciones utiles. En esta seccion encontraras recursos para mejorar tus habilidades blandas como tecnicas para hablar en publico 👇
+A veces necesitas más que experiencia técnica para dar presentaciones útiles. En esta sección encontraras recursos para mejorar tus habilidades blandas como técnicas para hablar en público👇
+
 
   <details>
     <summary>Principiante</summary>
