@@ -15,7 +15,8 @@ Lo único que necesitas es: encontrar un título disponible de un tema que te gu
 Mira este video corto que explica como tú puedes utilizar estas presentaciones.
 
 > 🎥 Haz clic en la imagen inferior para aprender como presentar un taller de esta librería
-[![Workshop Library overview ](/images/how-to.gif)](https://youtu.be/tylrSBnjHGo "Workshop Library overview - Click to Watch!")
+[![Descripción general de la biblioteca del taller](../images/workshop.gif)](https://youtu.be/tylrSBnjHGo "Descripción general de la biblioteca del taller - ¡Haz clic para ver este video!")
+
 
 ## 🧠 Inteligencia Artificial y Machine Learning
 
@@ -25,9 +26,15 @@ Desde construir modelos de Machine Learning utilizando Custom Vision hasta la cr
   <details>
     <summary>Avanzado</summary>
 
-   - [Usa TensorFlow y Keras para el procesamiento del lenguaje natural](../full/intro-nlp-tensorflow/translations/es/README.es.md)
+  <ul>
+      <li>
+        <a href="../full/intro-nlp-tensorflow/translations/es/">Utiliza TensorFlow y Keras para el procesamiento del lenguaje natural</a>
+      </li>
+  </ul>
 
   </details>
+
+
 
 
 ## 💿 Datos y Ciencia de Datos
@@ -46,9 +53,14 @@ Si te interesan los datos o ciencia de datos, ¡encontraras estas interesantes e
 <details>
   <summary>Intermedio</summary>
 
- - [Lectura y escritura de datos con Azure DataBricks](../full/intro-databricks/translations/es/README.es.md)
+  <ul>
+      <li>
+        <a href="../full/intro-databricks/translations/es/">Lectura y escritura de datos con Azure DataBricks</a>
+      </li>
+  </ul>
 
 </details>
+
 
 
 
@@ -58,27 +70,33 @@ Si te gusta el desarrollo web, entonces ¡estas presentaciones listas para usar 
   <details>
     <summary>Principiante</summary>
 
+  <ul>
+      <li>
+        <a href="../short/intro-github-dev/translations/es/">Introducción a GitHub usando GitHub.dev</a>
+      </li>
+      <li>
+        <a href="../short/intro-static-web-apps/translations/es/">Introducción a Azure Static Web Apps</a>
+      </li>
+      <li>
+        <a href="../full/build-resume-website/translations/es/">Crea un sitio web para mostrar tu currículum</a>
+      </li>
+      <li>
+        <a href="../full/power-platform-canvas-app/translations/es/">Construye una aplicación sin código con Microsoft Power Platform</a>
+      </li>
+  </ul>
 
-   - [Introducción a GitHub usando GitHub.dev](../short/intro-github-dev/translations/es/intro-Github.md)
-   - [Introducción a Azure Static Web Apps](../short/intro-static-web-apps/translations/es/README.es.md)
-   - [Crea un sitio web para mostrar tu currículum](../full/build-resume-website/translations/es/README.md)
-   - [Construye una aplicación sin código con Microsoft Power Platform](../full/power-platform-canvas-app/translations/es/README.es.md)
 
   </details>
 <!--
   <details>
     <summary>Intermedio</summary>
-
-
    - [Crea una API mínima con .NET 6](./full/intro-minapi/README.md)
    - [Introducción a React](./full/intro-react/README.md)
    - [Creación de lógica sin servidor con Azure Functions](./full/azure-functions/README.md)
    - [Introducción a Django](./full/django-get-started/README.md)
    - [Crea una aplicación web progresiva de Mood Journal](./full/mood-journal-progressive-web-app/README.md)
-
-  </details>
-
 -->
+
 ## 🤩 Contribuciones y otros recursos
 
 ¿Estás buscando colaborar con una presentación o deseas obtener más información sobre la presentación y como presentarla a tu audiencia? ¡En esta sección encontraras más sobre ello!
