@@ -1,0 +1,19 @@
+// Place your key bindings in this file to override the defaults
+// Keyboard shortcuts for common R operators
+[ 
+  // Add assignment operator
+  {
+      "key": "Alt+-",
+      "command": "type",
+      "args": { "text": " <- " }
+      //"when": "editorTextFocus && editorLangId == r"
+    },
+
+  // Add pipe
+
+    {
+      "key": "Ctrl+Shift+m",
+      "command": "type",
+      "args": { "text": " %>% " }
+      //"when": "editorTextFocus && editorLangId == r"
+    }
