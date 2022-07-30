@@ -1,2 +1,2 @@
-## PR your ideas on great workshop topics here!
-How to create 
+## PR your ideas on great workshop topics here
+How to create a model
