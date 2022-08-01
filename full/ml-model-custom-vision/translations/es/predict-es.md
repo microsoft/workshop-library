@@ -114,7 +114,7 @@ La mayoría de las aplicaciones de Python comienzan importando las bibliotecas r
     from msrest.authentication import ApiKeyCredentials
     # dotenv para cargar la clave
     from dotenv import load_dotenv
-    # Importar el sistema operativo para leer variables de entorno
+    # Importar el módulo os para leer las variables de entorno
     import os
     ```
 
