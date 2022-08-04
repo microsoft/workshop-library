@@ -11,8 +11,8 @@ En el transcurso de este taller construirá un modelo para detectar razas de per
 | **¿Qué aprenderás?**       |El uso de imágenes para entrenar un modelo capaz de realizar inferencias para clasificar imágenes. |
 | **¿Qué necesitarás?**          | Python 3.8+, Visual Studio Code, Git |
 | **Duración**                  | 1 hora                                                                |
-| **¿Quieres ver el resultado?** | [Solución](./solution)                         |
-| **Slides** | [Powerpoint](slides.pptx)
+| **¿Quieres ver el resultado?** | [Solución](../../solution)                         |
+| **Slides** | [Powerpoint](./slides_ES.pptx)
 | **Autor** | [Christopher Harrison](https://geektrainer.dev)
 
 ## Video Tutorial
