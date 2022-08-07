@@ -11,13 +11,12 @@ In this workshop, you will learn how to leverage VS Code source control tab to p
 | **Goal**                                          | **Description**                                                                                                       |
 | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | **What will you learn**                           | Students will be skilled at creating using VS Code Source Control to create, rename, switch and merge branches, add, commit and even publish to GitHub                                                          |
-| **What you'll need**                              | [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-56602-chrhar) and [Git](https://git-scm.com/) |
-| **Just want to try the app or see the solution?** | [Solution files](solution)                                             |
+| **What you'll need**                              | [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-56602-chrhar) and [Git](https://git-scm.com/) |                                           |
 | **Slides**                                        | [Powerpoint](./slides.pptx)                                                                                             |
 
 ## Video walk-through
 
-[![workshop walk-through](./images/promo.png)](https://youtu.be/_id4QTDI5yg "workshop walk-through")
+[![workshop walk-through](./images/promo.png)](https://youtu.be/_6B7Qa6-8j4 "workshop walk-through")
 > 🎥 Click this image to watch Rasheed walk you through the workshop in real life workshop
 
 
