@@ -6,7 +6,7 @@
 
 ## Stage 1: Desired Results
 
-Students will be skilled at creating React components, adding style, and using JSX.
+Students will be skilled at creating using VS Code Source Control to create, rename, switch and merge branches, add, commit and even publish to GitHub
 
 ## Stage 2: Evidence
 
