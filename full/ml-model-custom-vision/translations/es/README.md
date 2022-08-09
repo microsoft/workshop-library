@@ -59,3 +59,8 @@ Para realizar este taller necesitaras [Visual Studio Code](https://code.visualst
 Asegúrate de dejar tu [feedback acerca de este taller](https://forms.office.com/r/MdhJWMZthR)!
 
 [Código de Conducta](../../../../CODE_OF_CONDUCT.md)
+
+## Agradecimientos ❤️ 
+
+¡Muchísimas gracias a Nicolas Chávez @NikoMagafi por haber traducido todo este contenido a español! ❤️ 🚀 ✨  
+
