@@ -24,6 +24,17 @@ Desde construir modelos de Machine Learning utilizando Custom Vision hasta la cr
 
 
   <details>
+    <summary>Intermedio</summary>
+
+  <ul>
+      <li>
+        <a href="../full/ml-model-custom-vision/translations/es">Construye un modelo de Machine Learning utilizando Azure Custom Vision</a>
+      </li>
+  </ul>
+
+  </details>
+
+  <details>
     <summary>Avanzado</summary>
 
   <ul>
