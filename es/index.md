@@ -22,6 +22,16 @@ Mira este video corto que explica como tú puedes utilizar estas presentaciones.
 
 Desde construir modelos de Machine Learning utilizando Custom Vision hasta la creación de una aplicación web con Flask, esta categoría está llena de recursos útiles relacionados con Inteligencia Artificial y Machine Learning que puedes presentar. A continuación, haz clic en las presentaciones disponibles 👇:
 
+  <details>
+    <summary>Intermedio</summary>
+
+  <ul>
+      <li>
+        <a href="../full/ml-model-custom-vision/translations/es">Construye un modelo de Machine Learning utilizando Azure Custom Vision</a>
+      </li>
+  </ul>
+
+  </details>
 
   <details>
     <summary>Avanzado</summary>
