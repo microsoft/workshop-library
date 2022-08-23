@@ -10,7 +10,7 @@
 
 | **Objetivo**                      | Descripción                                    |
 | ----------------------------- | -----------------------------------------------|
-| **¿Qué aprenderás?**       | Cómo usar R para exploración y análisis de datos          |
+| **¿Qué aprenderás?**       | Aprenderás a cómo utilizar R para exploración y análisis de datos          |
 | **Lo qué necesitarás**          | [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-59300-cacaste), [Docker Desktop](https://www.docker.com/products/docker-desktop), [Remote Developer Extension](https://aka.ms/vscode-remote/download/extension) y [Git](https://git-scm.com/downloads) |
 | **Duración**                  | 2 horas                                      |
 | **Diapositivas**                    | [Powerpoint](./slides.pptx)                                |
