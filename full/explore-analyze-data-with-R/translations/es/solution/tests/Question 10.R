@@ -24,7 +24,7 @@ test = list(
       success_message = "Great job! You now have yourself a beautiful and informative box plot chart. As you can see, flights with a delayed departure have a higher median value for their arrival delay times. Indeed late departures tend to result in longer arrival delays. ",
       failure_message = "Let's give it another try. Ensure you have mapped the x aesthetic to **DepDel15**, y aesthetic to **ArrDelay** and fill aesthetic to **DepDel15**.",
       code = {
-        ## Test ##
+        ## Prueba ##
         
         test_that('plot has expected aesthetic mappings', {
           
