@@ -8,7 +8,7 @@ test = list(
       success_message = "That's a great start! You have successfully encoded **DepDel15** as a categorical variable.",
       failure_message = "Almost there. Ensure you modified **DepDel15** column to a factor/category variable.",
       code = {
-        ## Test ##
+        ## Prueba ##
         test_that('DepDel15 is a factor variable', {
           
           expect_equal(class(df_flights$DepDel15), "factor")
