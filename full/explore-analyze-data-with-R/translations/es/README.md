@@ -18,7 +18,10 @@
 ## Video
 
 ¡Vídeo próximamente!
+<!--- 
+🎥 Haga clic en esta imagen para ver a Carlotta guiarlo a través del material del taller y para obtener algunos consejos sobre cómo impartir este mismo.
 
+---> 
 ## Pre-aprendizaje
 
 Este taller nos permite aplicar las habilidades aprendidas en el módulo [Exploración y análisis de datos con R](https://docs.microsoft.com/es-es/learn/modules/explore-analyze-data-with-r/?WT.mc_id=academic-59300-cacaste) para realizar análisis y visualización de datos. Como tal, se alienta a las personas a realizar el módulo de antemano para familiarizarse con algunos de los conceptos cubiertos en este taller.
