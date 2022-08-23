@@ -1,7 +1,7 @@
 # Exploración y análisis de datos con R
 
 ## Módulo de referencia
-[Exploración y análisis de datos con R](https://docs.microsoft.com/en-us/learn/modules/explore-analyze-data-with-r/?WT.mc_id=academic-59300-cacaste)
+[Exploración y análisis de datos con R](https://docs.microsoft.com/es-es/learn/modules/explore-analyze-data-with-r/?WT.mc_id=academic-59300-cacaste)
 
 ## Etapa 1: Resultados esperados
 
