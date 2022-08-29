@@ -9,7 +9,7 @@
     - Limpiar datos del mundo real
     - Realizar análisis de datos exploratorios (EDA) a través de paquetes de R Tidyverse 
 2. Los estudiantes podrán utilizar su aprendizaje de forma independiente para:
-    - Generar preguntas por sí mismas para guiar un proceso de EDA
+    - Generar preguntas por sí mismos para guiar un proceso de EDA
     - Responder estas preguntas usando las habilidades de visualización y transformación de datos adquiridas en este módulo
 
 ## Etapa 2: Evidencia
