@@ -24,7 +24,7 @@ test = list(
       name = NA,
       points = 0.5,
       success_message = "¡Fantástico! Ha agrupado _(grouped_by)_, resumido y organizado con éxito las observaciones en orden descendente de sus tiempos medios de retraso de llegada.",
-      failure_message = "Almost there. Ensure the tibble is arranged in descending order of their mean delay time.",
+      failure_message = "Casi allí. Asegúrate de que el tibble esté dispuesto en orden descendente de su tiempo medio de retraso.",
       code = {
         ## Test ##
         
