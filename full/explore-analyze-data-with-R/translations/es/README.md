@@ -42,7 +42,7 @@ Sigue estos pasos para abrir este taller en un Codespace:
 Para más información, consulta la [documentación de GitHub](https://docs.github.com/en/free-pro-team@latest/github/developing-online-with-codespaces/creating-a-codespace#creating-a-codespace).
 
 #### Binder
-Este taller también está disponible en Binder. Para abrir el notebook en un entorno de Binder, haga clic en el botón que se encuentra a continuación.
+Este taller también está disponible en Binder. Para abrir el notebook en un entorno de Binder, haz clic en el botón que se encuentra a continuación.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carlotta94c/workshop-library/workshop-binding?labpath=%2Ffull%2Fexplore-analyze-data-with-R%2Fsolution%2Fchallenge-Data_Exploration.ipynb)
 
