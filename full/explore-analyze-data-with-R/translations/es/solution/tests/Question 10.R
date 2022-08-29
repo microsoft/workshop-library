@@ -22,7 +22,7 @@ test = list(
       name = NA,
       points = 0.5,
       success_message = "¡Gran trabajo! Ahora tienes un hermoso e informativo gráfico de diagrama de caja. Como puedes ver, los vuelos con una salida retrasada tienen un valor medio más alto para sus tiempos de retraso de llegada. De hecho, las salidas tardías tienden a dar lugar a retrasos de llegada más largos. ",
-      failure_message = "Let's give it another try. Ensure you have mapped the x aesthetic to **DepDel15**, y aesthetic to **ArrDelay** and fill aesthetic to **DepDel15**.",
+      failure_message = "Vamos a intentarlo de nuevo. Asegúrate de haber asignado la estética x a **DepDel15**, y la estética a **ArrDelay** y la estética de relleno a **DepDel15**.",
       code = {
         ## Prueba ##
         
