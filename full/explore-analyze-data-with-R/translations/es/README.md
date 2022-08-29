@@ -80,7 +80,7 @@ En esta sección:
 
 - Identificarás cualquier dato nulo o faltante e agregará valores de reemplazo apropiados.
 
-- Identificará y eliminará cualquier valor atípico en las columnas DepDelay y ArrDelay.
+- Identificarás y eliminará cualquier valor atípico en las columnas DepDelay y ArrDelay.
 
 ## Paso 2: Análisis exploratorio de datos (EDA)
 
