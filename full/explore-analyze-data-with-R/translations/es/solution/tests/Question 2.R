@@ -5,7 +5,7 @@ test = list(
       hidden = FALSE,
       name = NA,
       points = 0.5,
-      success_message = "Good job! No more missing values in column DepDel15.",
+      success_message = "¡Buen trabajo! No hay más valores faltantes en la columna DepDel15.",
       failure_message = "Almost there! Ensure you have replaced the missing values in the column DepDel15 with a 0. Perhaps try experimenting with **mutate** and **replace_na**.",
       code = {
         ## Test ##
