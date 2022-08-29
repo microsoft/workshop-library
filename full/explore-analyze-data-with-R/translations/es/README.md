@@ -52,7 +52,7 @@ También puede completar este desafío aprovechando el espacio asilado de Learn,
 #### Contenedores de VS Code Remotos
 Sigue estos pasos para abrir este taller en un contenedor usando la extensión VS Code _Remote - Containers_:
 
-1. Si es la primera vez que utiliza un contenedor de desarrollo, asegúrese de que su sistema cumpla con los requisitos previos (por ejemplo, tener instalado Docker) en la [guía de inicio](https://aka.ms/vscode-remote/containers/getting-started).
+1. Si es la primera vez que utilizas un contenedor de desarrollo, asegúrate de que tu sistema cumpla con los requisitos previos (por ejemplo, tener instalado Docker) en la [guía de inicio](https://aka.ms/vscode-remote/containers/getting-started).
 
 2. Presione <kbd>F1</kbd> y seleccione el comando **Add Development Container Configuration Files...** para **Remote-Containers** o **Codespaces**.
 
