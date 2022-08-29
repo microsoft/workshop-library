@@ -6,7 +6,7 @@ test = list(
       name = NA,
       points = 1.0,
       success_message = "¡Fantástico! Has encontrado con éxito el tiempo de atraso medio en las columnas **DepDelay** y **ArrDelay**.",
-      failure_message = "Let's give it another shot! Ensure that starting with **df_flights** you are creating a summary table which contains the mean across columns **DepDelay** and **ArrDelay**.",
+      failure_message = "¡Vamos a intentarlo de nuevo! Asegúrate de que a partir de **df_flights** estas creando una tabla de resumen que contiene la media entre las columnas **DepDelay** y **ArrDelay**.",
       code = {
         ## Test ##
         test_that('summary tibble has correct values', {
