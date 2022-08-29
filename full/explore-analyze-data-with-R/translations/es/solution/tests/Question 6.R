@@ -6,7 +6,7 @@ test = list(
       name = NA,
       points = 1.0,
       success_message = "¡Eso es todo! Tienes los valores correctos para los percentiles 1 y 90.",
-      failure_message = "Let's give it another try! Ensure your **DepDelay** quantiles correspond to a probability of 0.01 (1%) and 0.90 (90%)",
+      failure_message = "¡Vamos a intentarlo de nuevo! Asegúrate de que tus _quantiles_ **DepDelay** correspondan a una probabilidad de 0,01 (1%) y 0,90 (90%)",
       code = {
         ## Test ##
         test_that('quantile values are correct', {
