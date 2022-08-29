@@ -28,7 +28,7 @@ Este taller nos permite aplicar las habilidades aprendidas en el módulo [Explor
 
 ## Requisitos previos
 
-Para preparar, ejecutar y escribir código R en poco tiempo, hemos incluido en este taller un contenedor, de modo que tenga un entorno de codificación de R listo para utilizar.
+Para preparar, ejecutar y escribir código R en poco tiempo, hemos incluido en este taller un contenedor, de manera que tengas un entorno de programación de R listo para utilizar.
 
 ### Configuración del contenedor de desarrollo
 
