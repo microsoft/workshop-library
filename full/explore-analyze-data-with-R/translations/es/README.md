@@ -60,7 +60,7 @@ Sigue estos pasos para abrir este taller en un contenedor usando la extensión V
 
 3. Selecciona esta definición. También debes seleccionar **Show All Definitions...** para que aparezca.
 
-4. Finalmente, presione <kbd>F1</kbd> y ejecute **Remote-Containers: Reopen Folder in Container** para empezar a usar la definición.
+4. Finalmente, presiona <kbd>F1</kbd> y ejecute **Remote-Containers: Reopen Folder in Container** para empezar a usar la definición.
 
 Esta definición incluye un código de prueba que te ayudará a verificar que funciona correctamente en tu sistema. Abre la carpeta `all-systems-check` donde puede elegir ejecutar los scripts `.R`, `.Rmd` o `.ipynb`. Deberías ver "¡Hola, mundo remoto!" en una ventana de terminal R (para `.R` y `.Rmd`) o dentro de un Jupyter Notebook (para `.ipynb`) después de que se ejecute el script respectivo.
 
