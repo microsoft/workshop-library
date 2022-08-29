@@ -100,7 +100,7 @@ El objetivo de EDA es desarrollar una mejor comprensión de sus datos. La mayor�
 
 En esta sección:
 
-- Utilizará estadísticas, funciones agregadas y visualizaciones para responder las siguientes preguntas:
+- Utilizarás estadísticas, funciones agregadas y visualizaciones para responder las siguientes preguntas:
 
     - ¿Cuáles son los retrasos promedio (media) de salida y llegada?
 
