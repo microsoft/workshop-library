@@ -5,7 +5,7 @@ test = list(
       hidden = FALSE,
       name = NA,
       points = 0.5,
-      success_message = "That's a great start! You have successfully encoded **DepDel15** as a categorical variable.",
+      success_message = "¡Ese es un gran comienzo! Ha codificado correctamente **DepDel15** como variable categórica.",
       failure_message = "Almost there. Ensure you modified **DepDel15** column to a factor/category variable.",
       code = {
         ## Prueba ##
