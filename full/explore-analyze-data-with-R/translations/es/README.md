@@ -64,7 +64,7 @@ Sigue estos pasos para abrir este taller en un contenedor usando la extensión V
 
 Esta definición incluye un código de prueba que lo ayudará a verificar que funciona correctamente en su sistema. Abra la carpeta `all-systems-check` donde puede elegir ejecutar los scripts `.R`, `.Rmd` o `.ipynb`. Debería ver "¡Hola, mundo remoto!" en una ventana de terminal R (para `.R` y `.Rmd`) o dentro de un Jupyter Notebook (para `.ipynb`) después de que se ejecute el script respectivo.
 
-En algún momento, es posible que desee realizar cambios en su contenedor, como instalar un nuevo paquete. Deberá reconstruir su contenedor para que los cambios surtan efecto.
+En algún momento, es posible que desees realizar cambios en tu contenedor, como por ejemplo, instalar un nuevo paquete. Deberás reconstruir tu contenedor para que los cambios surtan efecto.
 
 ## Lo que vas a aprender
 
