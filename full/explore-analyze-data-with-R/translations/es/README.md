@@ -128,7 +128,7 @@ Hay otros talleres sobre el uso de R para Ciencia de Datos. En este taller, apre
 
 ## Práctica
 
-En este taller utilizó preguntas ya proporcionadas para guiar su EDA. A veces este no es el caso. Intente generar sus propias preguntas y responderlas utilizando las habilidades de transformación y visualización de datos que ha adquirido en este módulo. ¿Qué nueva información ha obtenido?
+En este taller utilizaste preguntas ya proporcionadas para guiar su EDA. A veces este no es el caso. Intenta generar tus propias preguntas y responderlas utilizando las habilidades de transformación y visualización de datos que had adquirido en este módulo. ¿Qué nueva información has obtenido?
 
 
 ## Feedback
