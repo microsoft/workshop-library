@@ -5,7 +5,7 @@ test = list(
       hidden = FALSE,
       name = NA,
       points = 0.5,
-      success_message = "Fantastic! You have successfully selected column **ArrDelay**",
+      success_message = "¡Fantástico! Has seleccionado correctamente la columna **ArrDelay**",
       failure_message = "Almost there! Ensure you have selected column **ArrDelay**",
       code = {
         ## Test ##
