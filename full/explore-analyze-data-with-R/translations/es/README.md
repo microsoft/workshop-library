@@ -89,7 +89,7 @@ El análisis exploratorio de datos, conocido popularmente como EDA, es utilizado
 
 En esta sección:
 
-- Observará las estadísticas de resumen para los campos numéricos en el conjunto de datos.
+- Observarás las estadísticas de resumen para los campos numéricos en el conjunto de datos.
 
 - Determinarás la distribución de las columnas DepDelay y ArrDelay.
 
