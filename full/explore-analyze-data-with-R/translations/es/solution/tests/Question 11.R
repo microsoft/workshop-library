@@ -5,7 +5,7 @@ test = list(
       hidden = FALSE,
       name = NA,
       points = 0.5,
-      success_message = "That's a great start! Your tibble dimensions are looking great!",
+      success_message = "¡Ese es un gran comienzo! ¡Tus dimensiones tibble se ven geniales!",
       failure_message = "Casi allí. Revisemos de nuevo las dimensiones de tibble. El tibble de salida debe tener las columnas **Route** y **ArrDelay**.",
       code = {
         ## Test ##
