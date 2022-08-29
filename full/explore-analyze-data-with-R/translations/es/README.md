@@ -39,7 +39,7 @@ Sigue estos pasos para abrir este taller en un Codespace:
 1. Haga clic en el menú desplegable Código y seleccione la opción **Open with Codespaces** .
 2. Selecciona **+ New codespace** en la parte inferior del panel.
 
-Para más información, consulte la [documentación de GitHub](https://docs.github.com/en/free-pro-team@latest/github/developing-online-with-codespaces/creating-a-codespace#creating-a-codespace).
+Para más información, consulta la [documentación de GitHub](https://docs.github.com/en/free-pro-team@latest/github/developing-online-with-codespaces/creating-a-codespace#creating-a-codespace).
 
 #### Binder
 Este taller también está disponible en Binder. Para abrir el notebook en un entorno de Binder, haga clic en el botón que se encuentra a continuación.
