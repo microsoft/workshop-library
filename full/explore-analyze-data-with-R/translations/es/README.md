@@ -58,7 +58,7 @@ Sigue estos pasos para abrir este taller en un contenedor usando la extensión V
 
    > **Nota:** Si es necesario, puedes arrastrar y soltar la carpeta `.devcontainer` desde esta subcarpeta en una copia clonada localmente de este repositorio en el explorador de archivos de VS Code en lugar de usar el comando.
 
-3. Seleccione esta definición. También debe seleccionar **Show All Definitions...** para que aparezca.
+3. Selecciona esta definición. También debes seleccionar **Show All Definitions...** para que aparezca.
 
 4. Finalmente, presione <kbd>F1</kbd> y ejecute **Remote-Containers: Reopen Folder in Container** para empezar a usar la definición.
 
