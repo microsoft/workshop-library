@@ -24,7 +24,7 @@ test = list(
       hidden = FALSE,
       name = NA,
       points = 0.5,
-      success_message = "Fantastic. Your tibble dimensions are also correct.",
+      success_message = "¡Fantástico! Sus dimensiones tibble también son correctas.",
       failure_message = "Almost there! Ensure you have selected columns **DepDelay** and **DepDel15** and then filtered the data set to only include rows where the the value for **DepDel15** is NA.",
       code = {
         suppressPackageStartupMessages({
