@@ -19,7 +19,7 @@ test = list(
       hidden = FALSE,
       name = NA,
       points = 0.5,
-      success_message = "Great job! You now have yourself a beautiful box plot chart. As you can see, there doesn't seem to be a great variation of departure delay among different days of the week.",
+      success_message = "¡Gran trabajo! Ahora tienes un hermoso gráfico de caja. Como puedes ver, no parece haber una gran variación de retraso de salida entre los diferentes días de la semana.",
       failure_message = "Let's give it another try. Ensure you have mapped the x aesthetic to **DayOfWeek** and y aesthetic to **DepDelay**.",
       code = {
         ## Test ##
