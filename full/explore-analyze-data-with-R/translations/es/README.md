@@ -68,7 +68,7 @@ En algún momento, es posible que desee realizar cambios en su contenedor, como 
 
 ## Lo que vas a aprender
 
-Supongamos que el Departamento de Transporte está considerando construir un nuevo aeropuerto. Como el increíble científico de datos que es, se le ha pedido que explores los datos existentes. Los resultados de su análisis pueden formar la base de un informe o un modo de aprendizaje automático.
+Supongamos que el Departamento de Transporte está considerando construir un nuevo aeropuerto. Como el increíble científico de datos que eres, se te ha pedido que explores los datos existentes. Los resultados de su análisis pueden formar la base de un informe o un modo de aprendizaje automático.
 
 En este desafío, explorará un conjunto de datos del mundo real que contiene datos de vuelos del Departamento de Transporte de EE. UU.
 
