@@ -5,7 +5,7 @@ test = list(
       hidden = FALSE,
       name = NA,
       points = 1.0,
-      success_message = "Fantastic! You have successfully found the mean Delay time across **DepDelay** and **ArrDelay** columns.",
+      success_message = "¡Fantástico! Has encontrado con éxito el tiempo de atraso medio en las columnas **DepDelay** y **ArrDelay**.",
       failure_message = "Let's give it another shot! Ensure that starting with **df_flights** you are creating a summary table which contains the mean across columns **DepDelay** and **ArrDelay**.",
       code = {
         ## Test ##
