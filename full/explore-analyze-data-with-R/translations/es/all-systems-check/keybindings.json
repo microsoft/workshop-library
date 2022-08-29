@@ -1,7 +1,7 @@
 // Coloque los enlaces de clave en este archivo para invalidar los valores predeterminados
 // Métodos abreviados de teclado para operadores de R comunes
 [ 
-  // Add assignment operator
+  // Agregar operador de asignación
   {
       "key": "Alt+-",
       "command": "type",
