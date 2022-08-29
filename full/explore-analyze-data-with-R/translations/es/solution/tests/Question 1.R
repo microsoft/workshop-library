@@ -25,7 +25,7 @@ test = list(
       name = NA,
       points = 0.5,
       success_message = "¡Fantástico! Sus dimensiones tibble también son correctas.",
-      failure_message = "Almost there! Ensure you have selected columns **DepDelay** and **DepDel15** and then filtered the data set to only include rows where the the value for **DepDel15** is NA.",
+      failure_message = "¡Casi allí! Asegúrate de haber seleccionado las columnas **DepDelay** y **DepDel15** y, a continuación, filtra el conjunto de datos para incluir solo filas donde el valor de **DepDel15** es NA.",
       code = {
         suppressPackageStartupMessages({
           library(testthat)
