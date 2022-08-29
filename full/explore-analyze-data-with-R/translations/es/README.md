@@ -91,7 +91,7 @@ En esta sección:
 
 - Observará las estadísticas de resumen para los campos numéricos en el conjunto de datos.
 
-- Determinará la distribución de las columnas DepDelay y ArrDelay.
+- Determinarás la distribución de las columnas DepDelay y ArrDelay.
 
 
 ### Más EDA
