@@ -130,7 +130,8 @@ Hay otros talleres sobre el uso de R para Ciencia de Datos. En este taller, apre
 
 En este taller utilizaste preguntas ya proporcionadas para guiar su EDA. A veces este no es el caso. Intenta generar tus propias preguntas y responderlas utilizando las habilidades de transformación y visualización de datos que had adquirido en este módulo. ¿Qué nueva información has obtenido?
 
-
+## Agradecimientos ❤️ 
+¡Muchísimas gracias a Felipe Flores (@FelFT) por haber traducido todo este contenido a español! 🚀 ✨ 
 ## Feedback
 
 Asegúrate de dejarnos tus [comentarios sobre este taller](https://forms.office.com/r/MdhJWMZthR). ¡Feliz aprendizaje!
