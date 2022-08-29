@@ -118,7 +118,7 @@ En esta sección:
 
 ## Prueba
 
-Evalúe sus conocimientos con [una breve prueba](https://docs.microsoft.com/en-us/learn/modules/explore-analyze-data-with-r/8-knowledge-check).
+Evalúa sus conocimientos con [una breve prueba](https://docs.microsoft.com/en-us/learn/modules/explore-analyze-data-with-r/8-knowledge-check).
 
 ## Próximos pasos
 
