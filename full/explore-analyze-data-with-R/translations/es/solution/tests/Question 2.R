@@ -19,7 +19,7 @@ test = list(
       hidden = FALSE,
       name = NA,
       points = 0.5,
-      success_message = "Fantastic. Your tibble dimensions are also correct.",
+      success_message = "Fantástico. Sus dimensiones tibble también son correctas.",
       failure_message = "Almost there! Ensure you are starting with tibble **df_flights** then replaced the missing values in the column **DepDel15** with a 0.",
       code = {
         ## Test ##
