@@ -6,7 +6,7 @@ test = list(
       name = NA,
       points = 0.5,
       success_message = "¡Fantástico! Has seleccionado correctamente la columna **ArrDelay**",
-      failure_message = "Almost there! Ensure you have selected column **ArrDelay**",
+      failure_message = "¡Casi allí! Asegúrate de haber seleccionado la columna **ArrDelay**",
       code = {
         ## Test ##
         test_that('df_col corresponds to ArrDelay', {
