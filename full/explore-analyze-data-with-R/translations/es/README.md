@@ -124,7 +124,7 @@ Evalúe sus conocimientos con [una breve prueba](https://docs.microsoft.com/en-u
 
 ¡Felicidades por finalizar este reto 🏅!
 
-Hay otros talleres sobre el uso de R para Ciencia de Datos. En este taller, aprendimos cómo limpiar, visualizar y transformar datos para obtener información. El siguiente conjunto de talleres le enseñará [cómo crear modelos de regresión](../../../intro-regression-R-tidymodels/), [cómo crear modelos de clasificación](../../../intro-classification-R-tidymodels/) y cómo crear modelos de agrupamiento (¡muy pronto!). ¡Asegúrate de echarles un vistazo!
+Hay otros talleres sobre el uso de R para Ciencia de Datos. En este taller, aprendimos cómo limpiar, visualizar y transformar datos para obtener información. El siguiente conjunto de talleres te enseñará [cómo crear modelos de regresión](../../../intro-regression-R-tidymodels/), [cómo crear modelos de clasificación](../../../intro-classification-R-tidymodels/) y cómo crear modelos de agrupamiento (¡muy pronto!). ¡Asegúrate de echarles un vistazo!
 
 ## Práctica
 
