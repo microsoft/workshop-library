@@ -6,7 +6,7 @@ test = list(
       name = NA,
       points = 0.5,
       success_message = "That's a great start! Your tibble dimensions are looking great!",
-      failure_message = "Almost there. Let's check the tibble dimensions again. The output tibble should have columns **Route** and **ArrDelay**.",
+      failure_message = "Casi allí. Revisemos de nuevo las dimensiones de tibble. El tibble de salida debe tener las columnas **Route** y **ArrDelay**.",
       code = {
         ## Test ##
         test_that('summary tibble has correct dimensions', {
