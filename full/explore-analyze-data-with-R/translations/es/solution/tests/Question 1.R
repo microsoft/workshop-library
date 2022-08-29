@@ -6,7 +6,7 @@ test = list(
       name = NA,
       points = 0.5,
       success_message = "Excelente. Ha seleccionado correctamente las columnas **DepDelay** y **DepDel15** y, a continuación, ha filtrado el conjunto de datos para incluir solo filas en las que el valor de **DepDel15** es NA.",
-      failure_message = "Oops! Let's give it another try. Ensure you have selected columns **DepDelay** and **DepDel15** and then filtered the data set to only include rows where the the value for **DepDel15** is NA.",
+      failure_message = "¡Vaya! Vamos a intentarlo de nuevo. Asegúrate de haber seleccionado las columnas **DepDelay** y **DepDel15** y, a continuación, filtrado el conjunto de datos para incluir solo filas donde el valor de **DepDel15** es NA.",
       code = {
         suppressPackageStartupMessages({
           library(testthat)
