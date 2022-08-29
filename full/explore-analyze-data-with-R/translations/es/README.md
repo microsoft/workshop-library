@@ -70,7 +70,7 @@ En algún momento, es posible que desees realizar cambios en tu contenedor, como
 
 Supongamos que el Departamento de Transporte está considerando construir un nuevo aeropuerto. Como el increíble científico de datos que eres, se te ha pedido que explores los datos existentes. Los resultados de su análisis pueden formar la base de un informe o un modo de aprendizaje automático.
 
-En este desafío, explorará un conjunto de datos del mundo real que contiene datos de vuelos del Departamento de Transporte de EE. UU.
+En este desafío, explorarás un conjunto de datos del mundo real que contiene datos de vuelos del Departamento de Transporte de EE. UU.
 
 ## Paso 1: Limpieza de datos
 
