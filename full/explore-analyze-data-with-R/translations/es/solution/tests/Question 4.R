@@ -21,7 +21,7 @@ test = list(
       hidden = FALSE,
       name = NA,
       points = 0.5,
-      success_message = "Your summary statistics are also looking great!",
+      success_message = "¡Tus estadísticas resumidas también se ven muy bien!",
       failure_message = "Almost there! Ensure that you selected column ArrDelay to obtain the desired summary statistics.",
       code = {
         ## Test ##
