@@ -6,7 +6,7 @@ test = list(
       name = NA,
       points = 0.5,
       success_message = "¡Ese es un gran comienzo! Ha codificado correctamente **DayOfWeek** como variable categórica.",
-      failure_message = "Almost there. Ensure you modified **DayOfWeek** column to a factor/category variable.",
+      failure_message = "Casi allí. Asegúrate de haber modificado la columna **DayOfWeek** a una variable de factor/categoría.",
       code = {
         ## Test ##
         test_that('DayOfWeek is a factor variable', {
