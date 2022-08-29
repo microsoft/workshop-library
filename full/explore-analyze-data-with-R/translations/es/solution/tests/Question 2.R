@@ -6,7 +6,7 @@ test = list(
       name = NA,
       points = 0.5,
       success_message = "¡Buen trabajo! No hay más valores faltantes en la columna DepDel15.",
-      failure_message = "Almost there! Ensure you have replaced the missing values in the column DepDel15 with a 0. Perhaps try experimenting with **mutate** and **replace_na**.",
+      failure_message = "¡Casi allí! Asegúrate de que has reemplazado los valores que faltan en la columna DepDel15 por un 0. Tal vez intenta experimentar con **mutate** y **replace_na**.",
       code = {
         ## Test ##
         test_that('data has no missing values', {
