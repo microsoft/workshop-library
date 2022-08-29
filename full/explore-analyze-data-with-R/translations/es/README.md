@@ -74,7 +74,7 @@ En este desafío, explorarás un conjunto de datos del mundo real que contiene d
 
 ## Paso 1: Limpieza de datos
 
-Rara vez encontramos datos en la forma correcta para el análisis. Como tal, una vez que haya importado sus datos, un buen lugar para comenzar su análisis es respondiendo a la pregunta: "_¿Son los datos precisos y apropiados para su análisis deseado?_". La limpieza de datos para resolver errores, valores faltantes y otros problemas vale la pena a largo plazo y permite un análisis exploratorio de datos más fácil y preciso.
+Rara vez encontramos datos en la forma correcta para el análisis. Como tal, una vez que hayas importado tus datos, un buen lugar para comenzar su análisis es respondiendo a la pregunta: "_¿Son los datos precisos y apropiados para el análisis deseado?_". La limpieza de datos para resolver errores, valores faltantes y otros problemas vale la pena a largo plazo y permite un análisis exploratorio de datos más fácil y preciso.
 
 En esta sección:
 
