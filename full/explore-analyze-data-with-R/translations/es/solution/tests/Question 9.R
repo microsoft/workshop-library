@@ -5,7 +5,7 @@ test = list(
       hidden = FALSE,
       name = NA,
       points = 0.5,
-      success_message = "That's a great start! You have successfully encoded **DayOfWeek** as a categorical variable.",
+      success_message = "¡Ese es un gran comienzo! Ha codificado correctamente **DayOfWeek** como variable categórica.",
       failure_message = "Almost there. Ensure you modified **DayOfWeek** column to a factor/category variable.",
       code = {
         ## Test ##
