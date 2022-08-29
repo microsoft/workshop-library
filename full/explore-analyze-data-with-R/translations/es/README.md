@@ -32,7 +32,7 @@ Para preparar, ejecutar y escribir código R en poco tiempo, hemos incluido en e
 
 ### Configuración del contenedor de desarrollo
 
-Un **contenedor de desarrollo** es un contenedor de [Docker](https://www.docker.com) en ejecución que incluye herramientas y tiempos de ejecución bien definidos así como los requisitos previos. Puede probar contenedores de desarrollo con **[GitHub Codespaces](https://github.com/features/codespaces)**, **[Binder](https://mybinder.org/)** o **[Visual Studio Code Remote - Containers](https://aka.ms/vscode-remote/containers)**.
+Un **contenedor de desarrollo** es un contenedor de [Docker](https://www.docker.com) en ejecución que incluye herramientas y tiempos de ejecución bien definidos así como los requisitos previos. Puedes probar contenedores de desarrollo con **[GitHub Codespaces](https://github.com/features/codespaces)**, **[Binder](https://mybinder.org/)** o **[Visual Studio Code Remote - Containers](https://aka.ms/vscode-remote/containers)**.
 
 #### GitHub Codespaces
 Sigue estos pasos para abrir este taller en un Codespace:
