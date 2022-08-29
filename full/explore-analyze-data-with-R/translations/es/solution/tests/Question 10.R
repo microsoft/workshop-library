@@ -6,7 +6,7 @@ test = list(
       name = NA,
       points = 0.5,
       success_message = "¡Ese es un gran comienzo! Ha codificado correctamente **DepDel15** como variable categórica.",
-      failure_message = "Almost there. Ensure you modified **DepDel15** column to a factor/category variable.",
+      failure_message = "Casi allí. Asegúrate de haber modificado la columna **DepDel15** a una variable de factor/categoría.",
       code = {
         ## Prueba ##
         test_that('DepDel15 is a factor variable', {
