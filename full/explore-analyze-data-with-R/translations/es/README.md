@@ -47,7 +47,7 @@ Este taller también está disponible en Binder. Para abrir el notebook en un en
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carlotta94c/workshop-library/workshop-binding?labpath=%2Ffull%2Fexplore-analyze-data-with-R%2Fsolution%2Fchallenge-Data_Exploration.ipynb)
 
 #### Espacio aislado de Aprendizaje
-También puede completar este desafío aprovechando el espacio asilado de Learn, que se encuentra en la [unidad 9](https://docs.microsoft.com/es-es/learn/modules/explore-analyze-data-with-r/9-challenge-data-exploration) del módulo de Microsoft Learn -  Exploración y análisis de datos con R. Solo inicie sesión con su cuenta de Microsoft o GitHub y haga clic en **Activar el espacio aislado** para iniciar.
+También puedes completar este desafío aprovechando el espacio asilado de Learn, que se encuentra en la [unidad 9](https://docs.microsoft.com/es-es/learn/modules/explore-analyze-data-with-r/9-challenge-data-exploration) del módulo de Microsoft Learn -  Exploración y análisis de datos con R. Solo necesitas iniciar sesión con tu cuenta de Microsoft o GitHub y hacer clic en **Activar el espacio aislado** para iniciar.
 
 #### Contenedores de VS Code Remotos
 Sigue estos pasos para abrir este taller en un contenedor usando la extensión VS Code _Remote - Containers_:
