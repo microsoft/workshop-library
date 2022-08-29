@@ -49,7 +49,7 @@ Este taller también está disponible en Binder. Para abrir el notebook en un en
 #### Espacio aislado de Aprendizaje
 También puede completar este desafío aprovechando el espacio asilado de Learn, que se encuentra en la [unidad 9](https://docs.microsoft.com/es-es/learn/modules/explore-analyze-data-with-r/9-challenge-data-exploration) del módulo de Microsoft Learn -  Exploración y análisis de datos con R. Solo inicie sesión con su cuenta de Microsoft o GitHub y haga clic en **Activar el espacio aislado** para iniciar.
 
-#### VS Code Remote - Containers
+#### Contenedores de VS Code Remotos
 Sigue estos pasos para abrir este taller en un contenedor usando la extensión VS Code Remote - Containers:
 
 1. Si es la primera vez que utiliza un contenedor de desarrollo, asegúrese de que su sistema cumpla con los requisitos previos (por ejemplo, tener instalado Docker) en la [guía de inicio](https://aka.ms/vscode-remote/containers/getting-started).
