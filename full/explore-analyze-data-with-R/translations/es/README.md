@@ -133,6 +133,6 @@ En este taller utilizaste preguntas ya proporcionadas para guiar su EDA. A veces
 
 ## Feedback
 
-Asegúrese de dejarnos [comentarios sobre este taller](https://forms.office.com/r/MdhJWMZthR). ¡Feliz aprendizaje!
+Asegúrate de dejarnos tus [comentarios sobre este taller](https://forms.office.com/r/MdhJWMZthR). ¡Feliz aprendizaje!
 
 [Código de conducta](../../../../CODE_OF_CONDUCT.md)
