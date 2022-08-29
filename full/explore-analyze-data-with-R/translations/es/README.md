@@ -78,7 +78,7 @@ Rara vez encontramos datos en la forma correcta para el análisis. Como tal, una
 
 En esta sección:
 
-- Identificará cualquier dato nulo o faltante e agregará valores de reemplazo apropiados.
+- Identificarás cualquier dato nulo o faltante e agregará valores de reemplazo apropiados.
 
 - Identificará y eliminará cualquier valor atípico en las columnas DepDelay y ArrDelay.
 
