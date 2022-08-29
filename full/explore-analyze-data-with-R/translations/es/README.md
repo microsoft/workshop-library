@@ -56,7 +56,7 @@ Sigue estos pasos para abrir este taller en un contenedor usando la extensión V
 
 2. Presiona <kbd>F1</kbd> y selecciona el comando **Add Development Container Configuration Files...** para **Remote-Containers** o **Codespaces**.
 
-   > **Nota:** Si es necesario, puede arrastrar y soltar la carpeta `.devcontainer` desde esta subcarpeta en una copia clonada localmente de este repositorio en el explorador de archivos de VS Code en lugar de usar el comando.
+   > **Nota:** Si es necesario, puedes arrastrar y soltar la carpeta `.devcontainer` desde esta subcarpeta en una copia clonada localmente de este repositorio en el explorador de archivos de VS Code en lugar de usar el comando.
 
 3. Seleccione esta definición. También debe seleccionar **Show All Definitions...** para que aparezca.
 
