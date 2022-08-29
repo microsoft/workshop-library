@@ -20,7 +20,7 @@ test = list(
       name = NA,
       points = 0.5,
       success_message = "Fantástico. Sus dimensiones tibble también son correctas.",
-      failure_message = "Almost there! Ensure you are starting with tibble **df_flights** then replaced the missing values in the column **DepDel15** with a 0.",
+      failure_message = "¡Casi allí! Asegurate de que está comenzando con tibble **df_flights** y luego reemplazó los valores que faltan en la columna **DepDel15** con un 0.",
       code = {
         ## Test ##
         test_that('data dimensions correct', {
