@@ -21,7 +21,7 @@ test = list(
       hidden = FALSE,
       name = NA,
       points = 0.5,
-      success_message = "Your summary statistics are also looking great!",
+      success_message = "¡Sus estadísticas resumidas también se ven muy bien!",
       failure_message = "Almost there! Ensure that you selected column DepDelay to obtain the desired summary statistics.",
       code = {
         ## Test ##
