@@ -21,6 +21,6 @@
 
 - Introducción 
 - Análisis exploratorio de datos
-- Examen de datos del mundo real
+- Examinar datos del mundo real
 - Desafío - Exploración de datos
 - Prueba de conocimientos
