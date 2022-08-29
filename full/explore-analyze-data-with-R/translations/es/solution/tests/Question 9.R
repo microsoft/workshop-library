@@ -20,7 +20,7 @@ test = list(
       name = NA,
       points = 0.5,
       success_message = "¡Gran trabajo! Ahora tienes un hermoso gráfico de caja. Como puedes ver, no parece haber una gran variación de retraso de salida entre los diferentes días de la semana.",
-      failure_message = "Let's give it another try. Ensure you have mapped the x aesthetic to **DayOfWeek** and y aesthetic to **DepDelay**.",
+      failure_message = "Vamos a intentarlo de nuevo. Asegúrate de haber asignado la estética _x_ a **DayOfWeek** y la estética _y_ a **DepDelay**.",
       code = {
         ## Test ##
         
