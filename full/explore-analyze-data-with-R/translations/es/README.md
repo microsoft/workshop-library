@@ -24,7 +24,7 @@
 ---> 
 ## Pre-aprendizaje
 
-Este taller nos permite aplicar las habilidades aprendidas en el módulo [Exploración y análisis de datos con R](https://docs.microsoft.com/es-es/learn/modules/explore-analyze-data-with-r/?WT.mc_id=academic-59300-cacaste) para realizar análisis y visualización de datos. Como tal, se alienta a las personas a realizar el módulo de antemano para familiarizarse con algunos de los conceptos cubiertos en este taller.
+Este taller nos permite aplicar las habilidades aprendidas en el módulo [Exploración y análisis de datos con R](https://docs.microsoft.com/es-es/learn/modules/explore-analyze-data-with-r/?WT.mc_id=academic-59300-cacaste) para realizar análisis y visualización de datos. Por lo tanto, se les invita a que finalicen el módulo de Microsoft Learn antes de comenzar este taller para familiarizarse con algunos de los conceptos que veremos más adelante.
 
 ## Requisitos previos
 
