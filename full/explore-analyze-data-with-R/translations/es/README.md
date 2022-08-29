@@ -5,7 +5,7 @@
 
 ## Objetivos
 
-¡Hola! Te damos la bienvenida a esta aventura de aprendizaje. En esta carpeta, encontraras un notebook de exploración de datos. ¡Es un notebook de evaluación guiada de calificación automática que te ayudará a probar tus conocimientos en R para explorar y analizar datos! Esperamos que puedas notar que R, es en esencia, un lenguaje hermoso y elegante para la Ciencia de Datos.
+¡Hola! Te damos la bienvenida a esta aventura de aprendizaje. En esta carpeta, encontrarás un notebook de exploración de datos. ¡Es un notebook de evaluación guiada de calificación automática que te ayudará a probar tus conocimientos en R para explorar y analizar datos! Esperamos que puedas notar que R, es en esencia, un lenguaje hermoso y elegante para la Ciencia de Datos.
 
 
 | **Objetivo**                      | Descripción                                    |
