@@ -1,0 +1,25 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+Este es un notebook [R Markdown](http://rmarkdown.rstudio.com). Cuando ejecuta código dentro del notebook, los resultados aparecen debajo del código.
+
+Intente ejecutar este fragmento haciendo clic en el botón *Ejecutar* dentro del fragmento o colocando el cursor dentro de él y presionando *Ctrl+Shift+Enter*.
+
+```{r}
+plot(cars)
+```
+
+¿Quiere probar una función también?
+```{r}
+# Función que devuelve un mensaje impresionante
+say_hello <- function(name) {
+  message(paste0("Hola, ", name, ":) En este módulo, aprenderemos a explorar
+  y analizar datos con R."))
+}
+
+say_hello("mundo remoto")
+
+```
+

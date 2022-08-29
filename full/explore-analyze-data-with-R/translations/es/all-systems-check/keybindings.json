@@ -1,0 +1,19 @@
+// Coloque los enlaces de clave en este archivo para invalidar los valores predeterminados
+// Métodos abreviados de teclado para operadores de R comunes
+[ 
+  // Agregar operador de asignación
+  {
+      "key": "Alt+-",
+      "command": "type",
+      "args": { "text": " <- " }
+      //"when": "editorTextFocus && editorLangId == r"
+    },
+
+  // Agregar pipe
+
+    {
+      "key": "Ctrl+Shift+m",
+      "command": "type",
+      "args": { "text": " %>% " }
+      //"when": "editorTextFocus && editorLangId == r"
+    }
