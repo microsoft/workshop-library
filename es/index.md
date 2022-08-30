@@ -52,16 +52,16 @@ Desde construir modelos de Machine Learning utilizando Custom Vision hasta la cr
 ## 💿 Datos y Ciencia de Datos
 Si te interesan los datos o ciencia de datos, ¡encontraras estas interesantes estas presentaciones! esta categoría cubre notebooks (cuadernos), manipulación de datos, exploración de datos y ¡mucho más! A continuación, haz clic en las presentaciones disponibles 👇:
 
-<!-- -
+
 <details>
     <summary>Principiante</summary>
-
-
- - [Explore y analice datos con R](../full/explore-analyze-data-with-R/README.md)
-
-
+    <ul>
+        <li>
+          <a href="../full/explore-analyze-data-with-R/translations/es/">Explora y analiza datos con R</a>
+        </li>
+    </ul>
 </details>
--->
+
 <details>
   <summary>Intermedio</summary>
 
