@@ -15,10 +15,10 @@
 | **Duración**                  | 2 horas                                      |
 | **Diapositivas**                    | [Powerpoint](./slides.pptx)                                |
 
-## Video
+<!--- ## Video
 
 ¡Vídeo próximamente!
-<!--- 
+
 🎥 Haga clic en esta imagen para ver a Carlotta guiarlo a través del material del taller y para obtener algunos consejos sobre cómo impartir este mismo.
 
 ---> 
@@ -118,7 +118,7 @@ En esta sección:
 
 ## Prueba
 
-Evalúa sus conocimientos con [una breve prueba](https://docs.microsoft.com/en-us/learn/modules/explore-analyze-data-with-r/8-knowledge-check).
+Evalúa sus conocimientos con [una breve prueba](https://docs.microsoft.com/es-es/learn/modules/explore-analyze-data-with-r/8-knowledge-check).
 
 ## Próximos pasos
 
