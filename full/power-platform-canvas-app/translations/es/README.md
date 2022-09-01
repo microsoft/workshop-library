@@ -9,7 +9,7 @@
 En este taller, abordaremos como construir una aplicación sin código con _low code_ gracias a la plataforma de Power Apps.
 
 | **Objetivo**                                          | Descripción                                                                                                    |
-| ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| ------------------------------------------------| -------------------------------------------------------------------------------------------------------------- |
 | **¿Qué aprenderás?**                           | Aprenderás a cómo construir y personalizar una aplicación con Power Apps y aprenderás sobre todos sus elementos|
 | **¿Qué vas a necesitar?**                              | [Suscripción M365](https://developer.microsoft.com/es-ES/microsoft-365/dev-program)                                          |
 | **Duración**                                      | 1 hora |
