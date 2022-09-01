@@ -1,6 +1,6 @@
 # Introdução aos Aplicativos Web Estáticos
 
-## Modulo Origem
+## Módulo Origem
 
 [Publicar um aplicativo Angular, React, Svelte ou Vue JavaScript com os Aplicativos Web Estáticos](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/?WT.mc_id=academic-56895-chnoring)
 
@@ -22,37 +22,37 @@ Neste workshop, você aprenderá a implantar seus arquivos estáticos no Azure, 
 
 ## O que você vai aprender
 
-Você é um desenvolvedor web e criou um aplicativo web. Geralmente um aplicativo web consiste em arquivos HTML, JavaScript ou CSS e podem ser criados manualmente ou utilizar um framework para tal.
+Você é um desenvolvedor web e criou um aplicativo web. Geralmente, um aplicativo web consiste de arquivos HTML, JavaScript ou CSS que podem ser criados manualmente ou por meio de um framework.
 
-Você gostaria de poder implantar ou publicar seu site no Azure para poder mostrar para seus amigos.
+Você gostaria de poder implementar ou publicar seu site no Azure para mostrar a seus amigos?
 
 Neste workshop você vai aprender:
 
-- Usar o serviço de Aplicativos Web Estáticos.
+- Usar o Serviço de Aplicativos Estáticos de Web (Static Web Apps).
 - Publicar o aplicativo web no Azure utilizando este serviço. 
 
-## Introdução ao Serviço do Aplicativo Web Estático do Azure
+## Introdução ao Serviço de Aplicativos Estáticos de Web do Azure
 
-Leia sobre o serviço[nessa introdução](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/1-introduction?pivots=angular&WT.mc_id=academic-56895-chnoring).
+Leia sobre o serviço [nessa introdução](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/1-introduction?pivots=angular&WT.mc_id=academic-56895-chnoring).
 
 ## Criar um aplicativo web
 
 Antes de você publicar o aplicativo no Azure, você precisará criá-lo.
 
 - Criar o repositório através de um template
-- Rodar o aplicativo localmente e vê-lo via navegador.
+- Executar o aplicativo localmente e visualizá-lo no navegador.
 
 [Vamos criar o repositório](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/2-exercise-get-started?pivots=angular&WT.mc_id=academic-56895-chnoring)!
 
-## Planeje seu Aplicativo Web Estático
+## Planeje seu Aplicativo Estático de Web
 
-Para publicar seu aplicativo no Azure, você precisa provisionar um recurso de Web Estático do Azure. Esse recurso precisa de alguns campos a serem preenchidos. Seu repositório do GitHub possui um conceito chamado ações que é capaz de fazer muitas coisas, como testar o código, publicá-lo e mais. As ações do GitHub são a tecnologia subjacente na qual os Aplicativos Web Estáticos do Azure dependem para publicar seu aplicativo na nuvem.
+Para publicar seu aplicativo no Azure, é preciso provisionar um recurso estático de web do Azure. A configuração desse recurso exige que alguns campos sejam preenchidos com informações adicionais, que serão descritas mais abaixo. Seu repositório do GitHub possui uma funcionalidade chamada Ações (GitHub Actions), que permite automatizações tais como teste de código, publicação no Azure, e muito mais. O GitHub Ações (GitHub Actions) é a tecnologia subjacente da qual os Aplicativos Estáticos de Web dependem para sua publicação na nuvem.
 
-Saiba mais sobre os Aplicativos Web Estáticos do Azure e seus campos, assim como as ações do GitHub. [Leia mais sobre esses campos aqui](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/3-static-web-apps?pivots=angular&WT.mc_id=academic-56895-chnoring)
+Para saber mais sobre os Aplicativos Web Estáticos do Azure e seus campos, assim como as ações do GitHub, [clique aqui](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/3-static-web-apps?pivots=angular&WT.mc_id=academic-56895-chnoring).
 
 ## Criar um Aplicativo Estático no Azure
 
-Para simplificar seu desenvolvimento para o Azure, você pode usar a extensão do Visual Studio Code publicada pela equipe do Aplitivo Estático do Azure. Usando essa extensão, ela criará os recursos de nuvem que o Aplicativo Web Estático do Azure precisa. Então isso vai funcionar para publicar seu aplicativo. Saiba mais sobre [criando o aplicativo](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/4-exercise-static-web-apps?pivots=angular&WT.mc_id=academic-56895-chnoring).
+É possível utilizar a extensão Azure do Visual Studio Code para simplificar o processo de desenvolvimento para web. Esta extensão, publicada pela equipe Microsoft de Aplicativos Estáticos do Azure, permite a criação dos recursos de nuvem necessários ao aplicativo web. Isso facilita muito a publicação do seu aplicativo. Saiba mais sobre [este processo aqui](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/4-exercise-static-web-apps?pivots=angular&WT.mc_id=academic-56895-chnoring).
 
 ## Próximos passos
 
