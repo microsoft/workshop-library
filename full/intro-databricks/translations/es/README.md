@@ -13,9 +13,9 @@ En este taller, utilizarás Databricks, una poderosa plataforma para trabajar co
 | **Objetivo** | Descripción |
 | -------------------------------------------- | ---------------------------------------------------------------------- |
 | **Qué aprenderás** | Lee y escribe diferentes tipos de datos en Azure Databricks |
-| **Lo que necesitarás** | Una suscripción de Azure: <ul><li>[Prueba gratuita de Azure](https://azure.microsoft.com/free/?WT.mc_id=academic-56680-alfredodeza)</li><li>[Azure para estudiantes ](https://azure.microsoft.com/free/students/?WT.mc_id=academic-56680-alfredodeza)</li></ul> |
+| **Lo que necesitarás** | Una suscripción de Azure: [Prueba gratuita de Azure](https://azure.microsoft.com/free/?WT.mc_id=academic-56680-alfredodeza) y [Azure para estudiantes ](https://azure.microsoft.com/free/students/?WT.mc_id=academic-56680-alfredodeza) |
 | **Duración** | 1 hora |
-| **Diapositivas** | [Powerpoint](diapositivas.pptx) |
+| **Diapositivas** | [Powerpoint](./diapositivas.pptx) |
 
 ## Video
 
