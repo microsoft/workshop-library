@@ -1,8 +1,26 @@
 # Introducción a GitHub con GitHub.dev
 
-## Módulo de referencia
+Imagina que encuentras repositorio de Github increíble y sientes que podrías agregarle algunas partes que hagan falta. ¿Cómo harías esto? En este taller, aprenderás a:
 
-[Introducción a Github](https://docs.microsoft.com/learn/modules/introduction-to-github/?WT.mc_id=academic-55780-jelooper)
+- Abrir un repositorio mediante GitHub.dev
+- Crear una rama
+- Confirmar cambios en la rama
+- Crear a pull request
+- Fusionar el pull request
+- Eliminar la rama
+
+## Requisitos previos
+
+1. Asegúrese de tener una [cuenta de GitHub](https://github.com) e inicie sesión.
+
+1. Desplácese hasta el  [repositorio de la biblioteca del taller](https://github.com/microsoft/workshop-library).
+
+1. Bifurca el repositorio dando clic sobre el botón **Fork** en la parte superior derecha de la página. Esto creara un nuevo repositorio en su cuenta para la practica.
+
+- Lee [esta introducción a GitHub](https://docs.microsoft.com/learn/modules/introduction-to-github/1-introduction/?WT.mc_id=academic-55780-jelooper).
+
+- Lee [esta explicación del flujo de trabajo de GitHub](https://docs.microsoft.com/learn/modules/introduction-to-github/2-what-is-github/?WT.mc_id=academic-55780-jelooper).
+
 
 ## Objetivos
 
@@ -13,41 +31,14 @@ En este taller, aprenderá a usar Github.dev para administrar tareas básicas en
 | **Lo que aprenderás**       | Cómo usar Github.dev para hacer cambios en Github                        |
 | **Lo que vas a necesitar**          | Una [cuenta de GitHub](https://github.com) |
 | **Duración**                  | 20 minutos                                                                |
-| **Diapositivas**                  | [Powerpoint](./slides.pptx)                                                           |
+| **Diapositivas**                  | [Powerpoint](../../slides.pptx)                                                           |
 
 ## Video
-
-[![Recorrido por el taller](../../images/promo.png)](https://youtu.be/QJHd4jf4ekI "workshop walk-through")
-> 🎥 Haga clic en esta imagen para ver a Jen dar un recorrido a través del taller a partir de 0:04:15
-
-
-## Pre-aprendizaje
-
-- Lea [esta introducción a GitHub](https://docs.microsoft.com/learn/modules/introduction-to-github/1-introduction/?WT.mc_id=academic-55780-jelooper).
-
-- Lea [esta explicación del flujo de trabajo de GitHub](https://docs.microsoft.com/learn/modules/introduction-to-github/2-what-is-github/?WT.mc_id=academic-55780-jelooper).
-
-## Requisitos previos
-
-1. Asegúrese de tener una [cuenta de GitHub](https://github.com) e inicie sesión.
-
-1. Desplácese hasta el  [repositorio de la biblioteca del taller](https://github.com/microsoft/workshop-library).
+> 🎥 Haz clic en esta imagen para ver a Jen dar un recorrido de este taller a partir de 0:04:15
+[![Recorrido por el taller](../../images/video.gif)](https://youtu.be/QJHd4jf4ekI "workshop walk-through")
 
 
-1. Bifurca el repositorio dando clic sobre el botón **Fork** en la parte superior derecha de la página. Esto creara un nuevo repositorio en su cuenta para la practica.
-
-## Lo que aprenderá
-
-Imagina que encuentras repositorio de Github increíble y sientes que podrías agregarle algunas partes que hagan falta. ¿Cómo haría esto? En este taller, aprenderá a:
-
-- Abrir un repositorio mediante GitHub.dev
-- Crear una rama
-- Confirmar cambios en la rama
-- Crear a pull request
-- Fusionar el pull request
-- Eliminar la rama
-
-## Abra el repositorio bifurcado en GitHub.dev
+## Abre el repositorio bifurcado en GitHub.dev
 
 Desplázate hasta la copia del repositorio del taller de su cuenta. 
 
@@ -94,9 +85,9 @@ En la última pantalla, siga las instrucciones para eliminar la rama remota en l
 
 > ¿Qué sucedió? El pequeño cambio que realizó en su rama fue copiado en la rama principal de su repositorio. Puede utilizar está técnica para contribuir a un proyecto de código abierto que acepte pull requests. Revisa la pestaña de issues de este repositorio para ver si hay algo que este marcado como abierto para contribuir.
 
-## ¡Pruebe sus conocimientos!
+## ¡Prueba sus conocimientos!
 
-[Realiza una prueba](https://docs.microsoft.com/learn/modules/introduction-to-github/4-knowledge-check/?WT.mc_id=academic-55780-jelooper)!
+En un modulo de Microsoft Learn, haras una pequeño examen que pondra a prueba los conocimientos que aprendiste en este taller, [haz clic aqui.](https://docs.microsoft.com/learn/modules/introduction-to-github/4-knowledge-check/?WT.mc_id=academic-55780-jelooper)
 
 ## Pasos siguientes
 
@@ -108,9 +99,17 @@ Si quiere sugerir el cambio realizado en el repositorio original que bifurco, re
 
 Ahora sabe como crear ramas y hacer pull requests, encuentra un repositorio de código abierto que busque contribuciones. ¿Hay alguna forma de que usted pueda contribuir a este proyecto?
 
+## Agradecimientos 💖
+
+¡Muchisimas gracias a [Julia Muiruri](https://developer.microsoft.com/en-us/advocates/julia-muiruri) por haber realizado las ilustraciones del [memorama](./recursos/memoramas.pdf) de este taller! 
+
 ## Retroalimentación
 
-Asegúrese de dar [retroalimentación a este taller](https://forms.office.com/r/MdhJWMZthR)!
+Asegurate de dar [retroalimentación a este taller](https://forms.office.com/r/MdhJWMZthR)!
 
-[Guía de conducta](../../CODE_OF_CONDUCT.md)
+## [Codigo de conducta](../../CODE_OF_CONDUCT.md)
+
+## Módulo de referencia
+
+[Introducción a Github](https://docs.microsoft.com/learn/modules/introduction-to-github/?WT.mc_id=academic-55780-jelooper)
 
