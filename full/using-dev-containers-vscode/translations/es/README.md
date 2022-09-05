@@ -70,6 +70,9 @@ Hasta ahora has aprendido a como añadir un contenedor de desarrollo preconfigur
 
 Prueba tu conocimiento, intenta crear tu propio contenedor de desarrollo lleno de tus herramientas de desarrollo favoritas. ¡Compártelo con un amigo!
 
+## Agradecimientos 💖 
+¡Muchísimas gracias a [Alfonso Amaya](https://www.linkedin.com/in/alfonso-camargo/) @Alfonso-AmayaC por habernos ayudado a traducir todo este contenido a español! 
+
 ## Feedback
 
 ¡Asegúrate de dejarnos [comentarios sobre este taller](https://forms.office.com/r/MdhJWMZthR)!
