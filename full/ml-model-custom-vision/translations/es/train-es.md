@@ -24,7 +24,7 @@ Una vez que nuestro proyecto ha sido creado, es el momento de subir nuestras im�
 
 
 1. Selecciona **Agregar imágenes**
-3. Ve a **Imágenes de entrenamiento**
+3. Ve a [**Imágenes de entrenamiento**](../../training-images/)
 4. Selecciona todas las imágenes marcadas como **american-staffordshire-terrier** en la carpeta, y seleccione **Abrir**
 5. Escribe **american-staffordshire-terrier** en la etiqueta y selecciona **Subir 8 archivos**
 6. Selecciona **Hecho**
