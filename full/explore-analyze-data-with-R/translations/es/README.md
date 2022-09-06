@@ -18,6 +18,7 @@
 ## Video
 
 ¡Vídeo próximamente!
+
 <!--- 
 🎥 Haga clic en esta imagen para ver a Carlotta guiarlo a través del material del taller y para obtener algunos consejos sobre cómo impartir este mismo.
 
@@ -118,7 +119,7 @@ En esta sección:
 
 ## Prueba
 
-Evalúa sus conocimientos con [una breve prueba](https://docs.microsoft.com/en-us/learn/modules/explore-analyze-data-with-r/8-knowledge-check).
+Evalúa tus conocimientos con [una breve prueba](https://docs.microsoft.com/es-es/learn/modules/explore-analyze-data-with-r/8-knowledge-check).
 
 ## Próximos pasos
 
@@ -131,7 +132,8 @@ Hay otros talleres sobre el uso de R para Ciencia de Datos. En este taller, apre
 En este taller utilizaste preguntas ya proporcionadas para guiar su EDA. A veces este no es el caso. Intenta generar tus propias preguntas y responderlas utilizando las habilidades de transformación y visualización de datos que had adquirido en este módulo. ¿Qué nueva información has obtenido?
 
 ## Agradecimientos ❤️ 
-¡Muchísimas gracias a Felipe Flores (@FelFT) por haber traducido todo este contenido a español! 🚀 ✨ 
+¡Muchísimas gracias a [Felipe Flores](https://www.linkedin.com/in/felipe-florest/) (@FelFT) por haber traducido todo este contenido a español! 🚀 ✨ 
+
 ## Feedback
 
 Asegúrate de dejarnos tus [comentarios sobre este taller](https://forms.office.com/r/MdhJWMZthR). ¡Feliz aprendizaje!
