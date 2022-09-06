@@ -6,7 +6,7 @@
 
 ## Metas
 
-Nesse workshop, nós iremos aprender como treinar um **modelo deregressão** - modelo de Aprendizado de Máquina que prevê valores numéricos. Neste módulo iremos focar na predição de **preços de carros**, mas você pode tentar usar a mesma abordagem para prever, por exemplo, **números de likes no Instagram**.
+Nesse workshop, nós iremos aprender como treinar um **modelo de regressão** - modelo de Aprendizado de Máquina que prevê valores numéricos. Neste módulo iremos focar na predição de **preços de carros**, mas você pode tentar usar a mesma abordagem para prever, por exemplo, **números de likes no Instagram**.
 
 
 | **Metas do Projeto**              | Aprenda como prever preço de carro / likes do instagram baseado em dados |
@@ -20,7 +20,7 @@ Nesse workshop, nós iremos aprender como treinar um **modelo deregressão** - m
 
 ## Video passo-a-passo
 
-*em breve*
+*Em breve*
 
 ## O que estudantes irão aprender
 
@@ -137,10 +137,10 @@ Depois de criar o conjunto de dados, vá para **Designer** e contrua o experimen
 
 Treine o modelo e veja se consegue previsões razoavelmente precisas.
 
-Você também pode explorar alguns outros conjuntos de dados do[Kaggle](http://kaggle.com/datasets), por exemplo:
+Você também pode explorar alguns outros conjuntos de dados do [Kaggle](http://kaggle.com/datasets), por exemplo:
 * Um [dataset de Gambás](https://www.kaggle.com/datasets/abrambeyer/openintro-possum) com características físicas. Você pode tentar prever a idade de um gambá com base no comprimento da cabeça, largura do crânio, comprimento total, etc.
 * Um conjunto de dados de [custos de seguro médico](https://www.kaggle.com/datasets/mirichoi0218/insurance), onde você pode tentar prever os custos de seguro com base em diferentes parâmetros.
-* Previsão de [preços imobiliários](https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction).
+* Um conjunto de dados para a predição de [preços imobiliários](https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction).
 
 ## Objetivo 7: Limpeza
 
