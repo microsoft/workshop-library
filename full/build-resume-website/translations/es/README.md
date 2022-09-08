@@ -15,6 +15,10 @@ Usando el poder de github.dev, un servicio que nos permitirá trabajar con archi
 | **Slides** | [Powerpoint](../../slides.pptx)
 | **Autor/a**| [Ornella Altunyan](https://aka.ms/ornelladotcom)
 
+## Prerrequisitos
+Para crear la página web de tu currículum, necesitarás descargar un navegador moderno como [Microsoft Edge](https://www.microsoft.com/edge?WT.mc_id=academic-51109-ornella) o [Google Chrome](https://www.google.com/chrome/). También necesitarás tener una [cuenta de GitHub](https://github.com/join).
+
+
 <br>
 
 ## Video Tutorial
@@ -23,8 +27,6 @@ Usando el poder de github.dev, un servicio que nos permitirá trabajar con archi
 
 <br>
 
-## Prerrequisitos
-Para crear la página web de tu currículum, necesitarás descargar un navegador moderno como [Microsoft Edge](https://www.microsoft.com/edge?WT.mc_id=academic-51109-ornella) o [Google Chrome](https://www.google.com/chrome/). También necesitarás tener una [cuenta de GitHub](https://github.com/join).
 
 ## Proyecto Final
 Cuando termines este taller, deberás crear una página para tu currículum que se vea como esta:
