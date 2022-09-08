@@ -2,7 +2,7 @@
 
 As you might expect, the first step to getting started with any new technology is setting up a couple of tools. While it is possible to create HTML and CSS with any text editor, using a code editor will offer features to make your life easier.
 
-We'll be using [github.dev](github.dev), a free, online code editor, for this workshop. If you've ever used [Visual Studio Code](code.visualstudio.com), this code editor may look familiar to you. One of the awesome things about using github.dev is that you'll be coding directly in the browser. You'll also add the [CodeSwing](https://marketplace.visualstudio.com/items?itemName=codespaces-Contrib.codeswing) extension, which allows you to make edits to the HTML and CSS and see the results immediately.
+We'll be using [github.dev](https://github.dev/github/dev), a free, online code editor, for this workshop. If you've ever used [Visual Studio Code](code.visualstudio.com), this code editor may look familiar to you. One of the awesome things about using github.dev is that you'll be coding directly in the browser. You'll also add the [CodeSwing](https://marketplace.visualstudio.com/items?itemName=codespaces-Contrib.codeswing) extension, which allows you to make edits to the HTML and CSS and see the results immediately.
 
 ## Creating a repository and opening it in github.dev
 
@@ -10,7 +10,7 @@ Let's start by creating a new repository for this project on GitHub, and then op
 
 1. If you don't have a GitHub account, go ahead and [join GitHub](https://github.com/join). Then, [create a new public repository](https://github.com/new) named **resume**. If you've never made a GitHub repository before, check out the [documentation](https://docs.github.com/get-started/quickstart/create-a-repo) for more information. Make sure to select **Public** and to initialize the repository with a **README**.
 1. Navigate to your new repository on GitHub.
-1. Open the repository in github.dev by pressing the `.` key from the repository page, or swap `.com` with `.dev` in the URL. This will set up a [VS Code](code.visualstudio.com) environment in your browser.
+1. Open the repository in github.dev by pressing the `.` key from the repository page, or swap `.com` with `.dev` in the URL. This will set up a [VS Code](https://code.visualstudio.com/) environment in your browser.
 
 ## Install CodeSwing
 

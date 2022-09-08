@@ -104,7 +104,7 @@ Esto separará el elemento `main` en dos columnas. El primer elemento debajo de 
 
 CSS usa lo que es conocido como el modelo de caja. El modelo de caja controla cómo la información puede ser desplegada en un elemento, y que tan cerca unos de otros pueden estar situados. Existen tres propiedades claves - `margin`, `border`, y `padding`. El siguiente diagrama explica como controlan el situado de contenido.
 
-![El modelo de caja con un Hola mundo en el medio, el relleno (padding) indicado entre ek texto y el borde, y el margen indicado entre el borde y la parte de afuera](./images/box-model.png)
+![El modelo de caja con un Hola mundo en el medio, el relleno (padding) indicado entre ek texto y el borde, y el margen indicado entre el borde y la parte de afuera](../../images/box-model.png)
 
 En este diagrama, el contenido es **Hello, world**. `padding` es el espacio entre el texto y el borde negro `border`. Y `margin` es el espacio entre `border` y el elemento siguiente.
 
@@ -178,6 +178,6 @@ Una fuente de íconos es aquella que contiene símbolos y glifos. En otras palab
 
 Has añadido de forma exitosa estilos a tu currículum. ¡Aprendiste a usar selectores, tamaños, grillas, espaciados y fuentes de íconos para que tu currículum resalte!
 
-![Screenshot of the final page](./images/final-result.png)
+![Screenshot of the final page](../../images/final-result.png)
 
 Para completar tu currículum, [aprenderás como hostear o alojarlo en una página web](./4-creando-una-pagina-web.md).

@@ -1,6 +1,6 @@
 # Añadiendo contenido a una página HTML
 
-[Previamente](./1-create-html.md), viste como crear la estructura de una página HTML. Ahora es el momento de añadir más contenido a tu currículum. Probablemente te gustaría adicionar una dirección de correo electrónico, links a tus redes sociales, tu educación y tu experiencia laboral.
+[Previamente](./1-crear-html.md), viste como crear la estructura de una página HTML. Ahora es el momento de añadir más contenido a tu currículum. Probablemente te gustaría adicionar una dirección de correo electrónico, links a tus redes sociales, tu educación y tu experiencia laboral.
 
 ## Actualiza el Header
 
