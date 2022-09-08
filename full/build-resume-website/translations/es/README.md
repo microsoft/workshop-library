@@ -2,7 +2,7 @@
 
 ## Descripción
 
-¿Quieres hacer que tu aplicación resalte para los reclutadores y además aprender nuevas habilidades? En este taller te introducirás a cómo programar una página web para tu currículum. Lo mejor de esto es que no necesitarás descargar ninguna herramienta de programación o conocer algún lenguaje de programación para comenzar. 
+**¿Quieres hacer que tu aplicación resalte para los reclutadores y además aprender nuevas habilidades?** En este taller te aprenderas a cómo programar una página web para tu currículum. Lo mejor de esto es que **no necesitarás descargar ninguna herramienta de programación o conocer algún lenguaje de programación para comenzar**. 
 
 Usando el poder de github.dev, un servicio que nos permitirá trabajar con archivos en GitHub, y GitHub Pages, programarás una página web para tu currículum usando únicamente la ventana de tu navegador. Al completar el taller, podrás enviar a cualquier persona un link donde podrán visualizar tu currícuclum en línea. 
 
@@ -12,15 +12,16 @@ Usando el poder de github.dev, un servicio que nos permitirá trabajar con archi
 | **¿Qué necesitarás?**         | Un navegador moderno como [Microsoft Edge](https://www.microsoft.com/edge?WT.mc_id=academic-51109-ornella) o [Google Chrome](https://www.google.com/chrome/) y una [cuenta de GitHub.](https://github.com) |
 | **Duración**                  | 1 - 1.5 hora(s)                                                                |
 | **¿Quieres ver el resultado?**               | [Solución](../../solution)                         |
-
-| **Slides** | [Powerpoint](slides.pptx)
+| **Slides** | [Powerpoint](../../slides.pptx)
 | **Autor/a**| [Ornella Altunyan](https://aka.ms/ornelladotcom)
 
-## Video Tutorial
+<br>
 
+## Video Tutorial
+> 🎥 Haz click en la imagen para ver a Ornella y Burke explicando paso a paso este taller.
 [![workshop walk-through](../../images/promo.png)](https://youtu.be/M2IrPFMFwx8 "workshop walk-through")
 
-> 🎥 Haz click en la imagen para ver a Ornella y Burke explicando paso a paso este taller.
+<br>
 
 ## Prerrequisitos
 Para crear la página web de tu currículum, necesitarás descargar un navegador moderno como [Microsoft Edge](https://www.microsoft.com/edge?WT.mc_id=academic-51109-ornella) o [Google Chrome](https://www.google.com/chrome/). También necesitarás tener una [cuenta de GitHub](https://github.com/join).
