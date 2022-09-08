@@ -10,7 +10,7 @@ Este contenido te enseñará a cómo mejorar tu presentación cuando estés enfr
 | **¿Qué aprenderás?** | A mejorar tus habilidades para hablar en público |
 | **Lo que necesitarás** | ¡Una mente abierta y estar motivado para aprender algunos consejos y trucos! |
 | **Duración** | 20 minutos |
-| ** Diapositivas ** | [diapositivas](./diapositivas.pptx) |
+| **Diapositivas** | [diapositivas](../../slides.pptx) |
 
 ## Video
 
@@ -91,4 +91,4 @@ Practica siempre frente a otra persona, o si no tienes a alguien para practicar 
 
 ¡Asegúrate de dar tus [comentarios sobre este taller](https://forms.office.com/r/MdhJWMZthR)!
 
-[Código de conducta](../../CODE_OF_CONDUCT.md)
+[Código de conducta](../../../../CODE_OF_CONDUCT.md)
