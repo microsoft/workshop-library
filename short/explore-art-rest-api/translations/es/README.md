@@ -61,7 +61,7 @@ Explora más sobre las maneras de crear y usar APIs con [los otros elementos](ht
 
 ¡Asegúrate de [dar una retroalimentación de este taller](https://forms.office.com/r/MdhJWMZthR)!
 
-[Código de conducta](../../CODE_OF_CONDUCT.md)
+[Código de conducta](../../../../CODE_OF_CONDUCT.md)
 
 ## Agradecimientos ❤️ 
 
