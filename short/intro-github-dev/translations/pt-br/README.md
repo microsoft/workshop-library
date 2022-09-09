@@ -95,11 +95,11 @@ Na última tela, siga os prompts para excluir a *branch* remota onde você fez s
 
 [Responda a um questionário](https://docs.microsoft.com/pt-br/learn/modules/introduction-to-github/4-knowledge-check/?WT.mc_id=academic-55780-jelooper)!
 
-## Next steps
+## Próximos Passos
 
-If you want to suggest the change you made to the original repository that you forked, repeat the PR process back to the original repository.
+Se quiser sugerir a alteração que você fez no repositório original no qual você fez o *fork*, repita o processo de *Pull Request* para o repositório original.
 
-[Read more about how to extend your knowledge of GitHub and its workflows](https://docs.microsoft.com/pt-br/learn/modules/contribute-open-source/5-next-steps/?WT.mc_id=academic-55780-jelooper).
+[Leia mais para aprender mais sobre o GitHub e seus workflows](https://docs.microsoft.com/pt-br/learn/modules/contribute-open-source/5-next-steps/?WT.mc_id=academic-55780-jelooper).
 
 ## Pratique
 
