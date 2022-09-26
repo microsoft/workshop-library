@@ -72,12 +72,12 @@ Vamos assumir que você está apresentando sobre a história dos três porquinho
 Utilize duas ou três sentenças para recapitular o que acabou de acontecer. Por exemplo: o lobo mau foi fácil, afinal levou apenas alguns golpes e quase pegou o porquinho.
 Resumir permite manter uma audiência no caminho certo.
 
-1. **Repeat to Connect**
+1. **Repetir para Conectar**
 
 Encontre elementos que você pode repetir então a história ou apresentação se conecta. Por exemplo, você mencionar no início que o lobo estava com muita fome. No final, você pode dizer "agora esse lobo está ainda mais faminto". 
 Isso ajuda a encadear os eventos de uma maneira que o público pode se relacionar.
 
-1. **Enfatize a ideia unica**
+1. **Enfatize a ideia única**
 
 Tem que haver *uma* lição importante para seu público. Use essa dica toda vez que puder e enfatize-a: "O trabalho duro comprensa [...]. Os três porquinhos foram beneficiados do trabalho duro na casa mais forte"
 
@@ -89,9 +89,9 @@ Agora que você tem um novo conjunto de ferramentas para falar em público, tent
 
 Sempre pratique na frente de outra pessoa ou se você não tiver ninguém para praticar como platéia, tente gravar você mesmo durante alguns minutos e assista a gravação para ver onde você pode melhorar.
 
-## Feedback
+## Comentários
 
-Certifique-se de dar [feedback sobre este workshop](https://forms.office.com/r/MdhJWMZthR)!
+Certifique-se de dar [comentários sobre este workshop](https://forms.office.com/r/MdhJWMZthR)!
 
 [Código de Conduta](../../CODE_OF_CONDUCT.md)
 
