@@ -11,13 +11,13 @@ En el transcurso de este taller construirá un modelo para detectar razas de per
 | **¿Qué aprenderás?**       |El uso de imágenes para entrenar un modelo capaz de realizar inferencias para clasificar imágenes. |
 | **¿Qué necesitarás?**          | Python 3.8+, Visual Studio Code, Git |
 | **Duración**                  | 1 hora                                                                |
-| **¿Quieres ver el resultado?** | [Solución](../../solution)                         |
+| **¿Quieres ver el resultado?** | [Solución](./solucion/)                         |
 | **Slides** | [Powerpoint](./slides_ES.pptx)
 | **Autor** | [Christopher Harrison](https://geektrainer.dev)
 
 ## Video Tutorial
 🎥 Haz click en la imagen para ver a Christopher explicar paso a paso el taller. 
-[![Recorrido del taller](../../images/promo.png)](https://youtu.be/YWTDxcHAfkA "workshop walk-through")
+[![Recorrido del taller](../../images/video.gif)](https://youtu.be/YWTDxcHAfkA "workshop walk-through")
 
 ## Lo que vas a construir con CustomVision.ai
 
