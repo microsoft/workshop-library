@@ -191,5 +191,9 @@ h1, h2, h3 {
 7. Head back to your project on github and observe under the 'GitHub Actions' tab. After the action runs succesfully and you get a green check mark, navigate back to the site and refresh
 8. Congratulations!! You have created your resume website and deployed it to a Static Web App
 
+## Next Steps
+Finish creating your resume website and deploy it on Azure for free. Share a link to your resume site on social media and tag us 😉:
+- @juliamuiruri4 (Twitter) & @juliamuiruri (LinkedIn)
+- #MSFTStudentSummit
 
 See [full workshop](https://github.com/microsoft/workshop-library/blob/main/full/build-resume-website/README.md/?WT.mc_id=academic-70942-juliamuiruri) to learn more
