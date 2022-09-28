@@ -203,4 +203,8 @@ _"There is nothing that speaks more dev than having a recruiter ask for your res
 1. **Congratulations!! You have created your resume website and deployed it to a Static Web App**
 
 ## Next Steps
-See [full workshop](https://github.com/microsoft/workshop-library/blob/main/full/build-resume-website/README.md/) to learn more
+- See [full resume website workshop](https://github.com/microsoft/workshop-library/blob/main/full/build-resume-website/README.md/)
+
+- Learn more about [Building & Deploying Applications to Azure using GitHub Actions](https://learn.microsoft.com/en-us/training/modules/github-actions-cd/?WT.mc_id=academic-0000-juliamuiruri)
+
+- Check out this [Guided Tour of GitHub](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/?WT.mc_id=academic-0000-juliamuiruri)
