@@ -41,7 +41,7 @@ def index_post():
         'X-ClientTraceId': str(uuid.uuid4())
     }
 
-    # Creamos el "body" del request con el texto a traducir
+    # Creamos el "body" de la solicitud con el texto a original
     body = [{'text': original_text}]
 
     # Hacemos la llamada usando POST
