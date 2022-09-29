@@ -1,72 +1,73 @@
-# Build an AI web app to translate text with Flask
+# Compilación de una aplicación web de IA mediante Python y Flask
 
-## Learn module
+## Módulo de Aprendizaje
 
-[Build an AI web app by using Python and Flask](https://docs.microsoft.com/learn/modules/python-flask-build-ai-web-app/?WT.mc_id=academic-56258-chrhar)
+[Compilación de una aplicación web de IA mediante Python y Flask](https://learn.microsoft.com/es-mx/training/modules/python-flask-build-ai-web-app/?WT.mc_id=academic-56258-chrhar)
 
-## Goals
+## Objetivos
 
-In this workshop, we will discuss how to use a Cognitive Service to access text translation in a web app.
+En este taller, discutiremos cómo usar Cognitive Service para acceder a la traducción de texto en una aplicación web.
 
-| **Goal**                                          | Description                                                                                                    |
+| **Objetivo**                                          | Descripción                                                                                                    |
 | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| **What will you learn**                           | How to create a Flask application, create a Translator service on Azure, and use requests to call the service. |
-| **What you'll need**                              | [Python](https://docs.microsoft.com/learn/modules/python-install-vscode/?WT.mc_id=academic-56258-chrhar) and [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-56258-chrhar)                                          |
-| **Duration**                                      | Roughly 1 hour |
-| **Slides**                                        | [Powerpoint](slides.pptx)                                                                                      |
+| **¿Qué aprenderás?**                           | Cómo crear una aplicación Flask, crear un servicio de traducción en Azure y usar solicitudes para llamar al servicio. |
+| **¿Qué necesitarás**                              | [Python](https://learn.microsoft.com/es-mx/training/modules/python-install-vscode/?WT.mc_id=academic-56258-chrhar) y [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-56258-chrhar)                                          |
+| **Duración**                                      | Aproximadamente 1 hora |
+| **Presentación**                                        | [Powerpoint](slides.pptx)                                                                                      |
 
-## Video walk-through
+## Vídeo Tutorial
+
+> 🎥 Haz clic en la imagen para ver a Christopher guiarte a través del taller.
 
 [![workshop walk-through](./images/promo.png)](https://youtu.be/h7GbZzmjJRE "workshop walk-through")
-> 🎥 Click this image to watch Christopher walk you through the workshop
 
 
-## Pre-Learning
+## Pre-Aprendizaje
 
-- [Install Python](https://docs.microsoft.com/learn/modules/python-install-vscode/?WT.mc_id=academic-56258-chrhar)
-- [Build an AI web app by using Python and Flask](https://docs.microsoft.com/learn/modules/python-flask-build-ai-web-app/?WT.mc_id=academic-56258-chrhar)
+- [Instalar Python](https://docs.microsoft.com/learn/modules/python-install-vscode/?WT.mc_id=academic-56258-chrhar)
+- [Compilación de una aplicación web de IA mediante Python y Flask](https://learn.microsoft.com/es-mx/training/modules/python-flask-build-ai-web-app/?WT.mc_id=academic-56258-chrhar)
 
-## Prerequisites
+## Pre-requisitos
 
-- [Python](https://docs.microsoft.com/learn/modules/python-install-vscode/?WT.mc_id=academic-56258-chrhar)
+- [Python](https://learn.microsoft.com/es-mx/training/modules/python-install-vscode/?WT.mc_id=academic-56258-chrhar)
 - [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-56258-chrhar)
 
-## What students will learn
+## ¿Qué aprenderán los estudiantes?
 
-Have you ever wanted to incorporate artificial intelligence into a website? Do you want to be able to translate text in your web apps? With Cognitive Services and Flask you can create a website to translate text with a small amount of code.
+¿Alguna vez has querido incorporar la inteligencia artificial en un sitio web? ¿Quieres poder traducir texto en tus aplicaciones web? Con Cognitive Services y Flask puedes crear un sitio web para traducir texto con una pequeña cantidad de código.
 
-![Screenshot of final project](images/project.png)
+![Captura del proyecto final](images/project.png)
 
-## Workshop flow
+## Flujo del Taller
 
-### Setup your environment
+### Configura tu entorno
 
-Attendees will start by [configuring their environments](https://docs.microsoft.com/learn/modules/python-flask-build-ai-web-app/1-exercise-set-up-environment?WT.mc_id=academic-56258-chrhar). They will install the necessary tooling, create the folder for their project, and setup the necessary Python libraries.
+Los asistentes comenzarán [configurando el entorno](https://learn.microsoft.com/es-mx/training/modules/python-flask-build-ai-web-app/1-exercise-set-up-environment?WT.mc_id=academic-56258-chrhar). Instalarán las herramientas necesarias, crearán la carpeta para su proyecto y configurarán las bibliotecas de Python necesarias.
 
-### Create the app
+### Crea la aplicación
 
-After setting up the environment, attendees will [create the project](https://docs.microsoft.com/learn/modules/python-flask-build-ai-web-app/3-exercise-create-app?WT.mc_id=academic-56258-chrhar). They will create the template for the landing page and test their application is running correctly.
+Después de configurar el entorno, los asistentes [crearán el proyecto](https://learn.microsoft.com/es-mx/training/modules/python-flask-build-ai-web-app/1-exercise-set-up-environment?WT.mc_id=academic-56258-chrhar). Crearán la plantilla para la página seleccionada y probarán que su aplicación se está ejecutando correctamente.
 
-### Create the Translator service
+### Crea el servicio de traducción
 
-Once the project is up and running, the attendee will [create the necessary services on Azure](https://docs.microsoft.com/learn/modules/python-flask-build-ai-web-app/5-exercise-create-translator-service?WT.mc_id=academic-56258-chrhar). They'll obtain the necessary keys to call the service, and properly store them in a **.env** file.
+Una vez que el proyecto esté en funcionamiento, los asistentes [crearán los servicios necesarios en Azure](https://learn.microsoft.com/es-mx/training/modules/python-flask-build-ai-web-app/5-exercise-create-translator-service?WT.mc_id=academic-56258-chrhar). Obtendrán las claves necesarias para llamar al servicio y almacenarlas correctamente en un archivo **.env**.
 
-### Call the service from the app
+### Llamar al servicio desde la aplicación.
 
-To close out the workshop, attendees will [add the code to call the Translator service](https://docs.microsoft.com/learn/modules/python-flask-build-ai-web-app/6-exercise-call-translator?WT.mc_id=academic-56258-chrhar). They'll finish by testing their application and seeing text translated in their app!
+Para cerrar el taller, los asistentes [Agregarán el código para llamar al servicio Traductor](https://learn.microsoft.com/es-mx/training/modules/python-flask-build-ai-web-app/6-exercise-call-translator?WT.mc_id=academic-56258-chrhar). ¡Terminarán probando su aplicación y viendo el texto traducido en su App!
 
-## Next steps
+## Siguientes Pasos
 
-- [Deploy a website to App Services](https://docs.microsoft.com/azure/developer/python/tutorial-deploy-app-service-on-linux-01?WT.mc_id=academic-56258-chrhar)
-- [Connecting IoT devices to Cognitive Services using Azure Functions](https://docs.microsoft.com/learn/modules/connecting-iot-devices-cognitive-services-azure-functions/?WT.mc_id=academic-56258-chrhar)
-- [Create machine learning models](https://docs.microsoft.com/learn/paths/create-machine-learn-models/?WT.mc_id=academic-56258-chrhar)
+- [Desplegar un sitio web en App Services](https://learn.microsoft.com/es-mx/azure/developer/python/configure-python-web-app-local-environment?WT.mc_id=academic-56258-chrhar&tabs=terminal-bash%2Cdjango)
+- [Conexión de dispositivos IoT a Cognitive Services mediante Azure Functions](https://learn.microsoft.com/es-mx/training/modules/connecting-iot-devices-cognitive-services-azure-functions/?WT.mc_id=academic-56258-chrhar)
+- [Creación de modelos de Machine Learning](https://learn.microsoft.com/es-mx/training/paths/create-machine-learn-models/?WT.mc_id=academic-56258-chrhar)
 
-## Practice
+## Practica
 
-Now that you know how to make a web app that can translate text, what other apps can you build? Think of a use case for these translations and see how you can enhance this app. Can you add a voice element to the app, so that you can speak into a microphone, have it transcribed, and then translated using the dropdown?
+Ahora que sabes cómo crear una aplicación web que puede traducir texto, ¿qué otras aplicaciones puedes crear? Piensa en un caso de uso para estas traducciones y vea cómo puede mejorar esta aplicación. ¿Puede agregar un elemento de voz a la aplicación para que pueda hablar en un micrófono, transcribirlo y luego traducirlo usando un menú desplegable?
 
-## Feedback
+## Retroalimentación
 
-Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)!
+¡Asegurate de [dar tu comentario sobre este taller](https://forms.office.com/r/MdhJWMZthR)!
 
-[Code of Conduct](../../CODE_OF_CONDUCT.md)
+[Código de Conducta](../../../../CODE_OF_CONDUCT.md)
