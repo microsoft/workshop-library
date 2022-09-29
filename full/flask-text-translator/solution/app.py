@@ -17,23 +17,23 @@ def index():
 
 @app.route('/', methods=['POST'])
 def index_post():
-    # Lee los valores del Formulario
+    # Read the values from the form
     original_text = request.form['text']
     target_language = request.form['language']
 
-    # Carga los valores de .env
+    # Load the values from .env
     key = os.environ['KEY']
     endpoint = os.environ['ENDPOINT']
     location = os.environ['LOCATION']
 
-    # Indicar lo que queremos traducir, la versión de la API (3.0) y el idioma seleccionado
+    # Indicate that we want to translate and the API version (3.0) and the target language
     path = '/translate?api-version=3.0'
-    # Agregamos el parametro del idioma seleccionado
+    # Add the target language parameter
     target_language_parameter = '&to=' + target_language
-    # Creamos la URL Completa
+    # Create the full URL
     constructed_url = endpoint + path + target_language_parameter
 
-    # Configurar la información del "header", que incluye nuestra clave de suscripción
+    # Set up the header information, which includes our subscription key
     headers = {
         'Ocp-Apim-Subscription-Key': key,
         'Ocp-Apim-Subscription-Region': location,
@@ -41,19 +41,19 @@ def index_post():
         'X-ClientTraceId': str(uuid.uuid4())
     }
 
-    # Creamos el "body" del request con el texto a traducir
+    # Create the body of the request with the text to be translated
     body = [{'text': original_text}]
 
-    # Hacemos la llamada usando POST
+    # Make the call using post
     translator_request = requests.post(
         constructed_url, headers=headers, json=body)
-    # Obtenemos la respuesta en JSON
+    # Retrieve the JSON response
     translator_response = translator_request.json()
-    # Obtenemos la traduccion
+    # Retrieve the translation
     translated_text = translator_response[0]['translations'][0]['text']
 
-    # Llamamos el Render Template, pasando el texto traducido,
-    # el texto original e idioma seleccionado del Template
+    # Call render template, passing the translated text,
+    # original text, and target language to the template
     return render_template(
         'results.html',
         translated_text=translated_text,
