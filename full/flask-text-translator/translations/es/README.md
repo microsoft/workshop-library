@@ -19,7 +19,7 @@ En este taller, discutiremos cómo usar Cognitive Service para acceder a la trad
 
 > 🎥 Haz clic en la imagen para ver a Christopher guiarte a través del taller.
 
-[![workshop walk-through](./images/promo.png)](https://youtu.be/h7GbZzmjJRE "workshop walk-through")
+[![workshop walk-through](./imagenes/promo.png)](https://youtu.be/h7GbZzmjJRE "workshop walk-through")
 
 
 ## Pre-Aprendizaje
@@ -36,7 +36,7 @@ En este taller, discutiremos cómo usar Cognitive Service para acceder a la trad
 
 ¿Alguna vez has querido incorporar la inteligencia artificial en un sitio web? ¿Quieres poder traducir texto en tus aplicaciones web? Con Cognitive Services y Flask puedes crear un sitio web para traducir texto con una pequeña cantidad de código.
 
-![Captura del proyecto final](images/project.png)
+![Captura del proyecto final](imagenes/project.png)
 
 ## Flujo del Taller
 
