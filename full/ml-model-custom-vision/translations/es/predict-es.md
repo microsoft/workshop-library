@@ -7,7 +7,7 @@ Veamos que tan bien funciona nuestro modelo. Es importante usar imágenes que no
 
 1. Selecciona **Quick Test**
 2. Selecciona  **Buscar en archivos locales**
-4. Navega a **imagenes de prueba** y selecciona una de las imágenes de perros
+4. Navega a [**imagenes de prueba**](../../testing-images/) y selecciona una de las imágenes de perros
 5. Selecciona **Abrir**
 6. Observe las puntuaciones de **Etiqueta/Categoria** _tag_ y **Probabilidad**
 
@@ -137,7 +137,7 @@ Anteriormente configuramos algunas variables de entorno como nuestra clave y end
 
 ### Realiza la predicción
 
-¡Ahora podemos realizar nuestra predicción! Usaremos una de las imágenes de la carpeta de prueba.
+¡Ahora podemos realizar nuestra predicción! Usaremos una de las [imágenes de la carpeta de prueba](../../testing-images/).
 
 
 1. Al final de **predict.py**, agrega el siguiente código para realizar la predicción de una raza de perro
