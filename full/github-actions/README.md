@@ -2,7 +2,7 @@
 
 ## Module Source
 
-[Introduction to GitHub Actions](https://docs.microsoft.com/learn/modules/create-serverless-logic-with-azure-functions/?WT.mc_id=academic-56400-ornella)
+[Introduction to GitHub Actions]([https://docs.microsoft.com/learn/modules/create-serverless-logic-with-azure-functions/?WT.mc_id=academic-56400-ornella](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions))
 
 ## Goals
 
@@ -21,11 +21,12 @@ In this workshop, you will learn about DevOps Automation and GitHub Actions and 
 
 ## Prerequisites
 
-This workshop will use the Azure sandbox environment within Microsoft Learn. In order to access the sandbox environment, you'll need to create a free [Microsoft account](https://account.microsoft.com?WT.mc_id=academic-56400-ornella) and sign in when prompted.
+This workshop will use GitHub for demonstrating the Hand-on part of the workshop. Make sure to have an active GitHub account and preferably get a GitHub Student's developer pack.
 
 ## What students will learn
 
-Say you're working on an IoT project where you want to figure out how many people sit at each table in your school's cafeteria. You want to use infrared sensors at each table that provide you with data from all of the locations, and you want to develop a reusable service that can process the data from all of the different sources. With *serverless computing*, you can use a cloud provider, like Azure, to manage the infrastructure of your project. Azure Functions is a key component of the serverless computing offering from Azure that enables you to run pieces of code, or *functions*, written in the programming language of your choice, in the cloud.
+This workshop primiralily focuses on GitHub Actions, but will start from absolute begining. We first introduce the audience about Git and it's purpose ##(this part is optional, you may ignore this part to reduce session length)##. Then we will move to GitHub and display basic functionality of GitHub. After demonstrating GitHub, we will introduce audience about DevOps Automation, why it is required and how they can make use of it in their projects. Now we'll move on to GitHub Actions and introduce different components of GitHub Workflow. 
+Finally we'll end with a hands-on live coding part, where we will create a simple GitHub Workflow.
 
 ![image of completed project](images/code-and-test.png)
 
@@ -47,7 +48,7 @@ Finally, we'll [add logic to the function app](https://docs.microsoft.com/learn/
 
 ## Quiz
 
-[Summary and knowledge check](https://docs.microsoft.com/learn/modules/create-serverless-logic-with-azure-functions/6-summary?WT.mc_id=academic-56400-ornella)
+[A simple quiz on GitHub Actions can be conducted to check knowledge and make the session interactive : )](https://docs.microsoft.com/learn/modules/create-serverless-logic-with-azure-functions/6-summary?WT.mc_id=academic-56400-ornella)
 
 ## Next steps
 
