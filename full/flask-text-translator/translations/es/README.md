@@ -1,4 +1,4 @@
-# Compilación de una aplicación web de IA mediante Python y Flask
+# Crea una aplicación web de Inteligencia Artificial mediante Python y Flask
 
 ## Objetivos
 
@@ -67,9 +67,7 @@ Ahora que sabes cómo crear una aplicación web que puede traducir texto, ¿qué
 
 ¡Asegurate de [dar tu comentario sobre este taller](https://forms.office.com/r/MdhJWMZthR)!
 
-[Código de Conducta](../../../../CODE_OF_CONDUCT.md)
-
-# Compilación de una aplicación web de IA mediante Python y Flask
+## [Código de Conducta](../../../../CODE_OF_CONDUCT.md)
 
 ## Módulo de Aprendizaje
 
