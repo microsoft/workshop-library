@@ -9,7 +9,7 @@ En este taller, discutiremos cómo usar Cognitive Service para acceder a la trad
 | **¿Qué aprenderás?**                           | Cómo crear una aplicación Flask, crear un servicio de traducción en Azure y usar solicitudes para llamar al servicio. |
 | **¿Qué necesitarás?**                              | [Python](https://learn.microsoft.com/es-mx/training/modules/python-install-vscode/?WT.mc_id=academic-56258-chrhar) y [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-56258-chrhar)                                          |
 | **Duración**                                      | Aproximadamente 1 hora |
-| **Presentación**                                        | [Powerpoint](slides.pptx)                                                                                      |
+| **Presentación**                                        | [Powerpoint](./slides.pptx)                                                                                      |
 
 ## Vídeo Tutorial
 
