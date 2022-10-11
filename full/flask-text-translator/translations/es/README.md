@@ -63,6 +63,10 @@ Después de terminar este taller, la audiencia puede hacer los siguientes pasos 
 
 Ahora que sabes cómo crear una aplicación web que puede traducir texto, ¿qué otras aplicaciones puedes crear? Piensa en un caso de uso para estas traducciones y ve cómo puedes mejorar esta aplicación. ¿Puedes agregar un elemento de voz a la aplicación para que puedas hablar en un micrófono, transcribirlo y luego traducirlo usando un menú desplegable?
 
+## Agradecimientos
+
+¡Muchas gracias a Manuel Ortiz -  [@ManuOSMx](https://www.linkedin.com/in/manuosmx/) por haber traducido todo este material a Español!
+
 ## Retroalimentación
 
 ¡Asegurate de [dar tu comentario sobre este taller](https://forms.office.com/r/MdhJWMZthR)!
