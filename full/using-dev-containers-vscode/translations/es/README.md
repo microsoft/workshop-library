@@ -1,8 +1,9 @@
 # Introducción a los contenedores de desarrollo en VS Code
 
-## Módulo de referencia
+Digamos que estás trabajando en un proyecto de hackathon junto a tus compañeros de clases, utilizando Python y quieres asegurarte de que tu proyecto es compatible en múltiples máquinas. 
+**En este taller, aprenderás como puedes utilizar contenedores de desarrollo para trabajar en cualquier proyecto sin tener que instalar o configurar tu equipo**.
 
-[Uso de un contenedor de Docker como entorno de desarrollo con Visual Studio Code](https://docs.microsoft.com/gl-es/learn/modules/use-docker-container-dev-env-vs-code/?WT.mc_id=academic-55190-ornella)
+![Imagen del proyecto completado](../../images/remote-indicator.png)
 
 # Objetivos 
 
@@ -14,13 +15,7 @@ En este taller, aprenderás a como acceder, personalizar y añadir software a lo
 | **¿Qué aprenderás?**                           | Aprenderás a como cargar y conectarte a un proyecto remoto, personalizar la configuración cuando se trabaja con un contenedor de desarrollo y añadir software al entorno del contenedor. |
 | **Lo que necesitarás**                              | [Visual Studio Code](https://azure.microsoft.com/es-mx/products/visual-studio-code/), [Docker Desktop](https://www.docker.com/products/docker-desktop) y [Git](https://git-scm.com/downloads)                                          |
 | **Duración**                                      | 1 hora |
-| **Diapositivas**                                        | [Powerpoint](../../slides.pptx) |   
-
-# Video
-
-[![workshop walk-through](../../images/promo.png)](https://youtu.be/StzyJcGI0uo "Paso a paso del taller")
-
-> 🎥 Dale click a la imagen para ver como Ornella te da el paso a paso del taller
+| **Diapositivas**                                        | [Powerpoint](./slides.pptx) |   
 
 ## Pre-aprendizaje
 
@@ -28,11 +23,10 @@ En este taller, aprenderás a como acceder, personalizar y añadir software a lo
 - [Introducción a Git](https://docs.microsoft.com/gl-es/learn/modules/intro-to-git/?WT.mc_id=academic-55190-ornella)
 - [Uso de un contenedor de Docker como entorno de desarrollo con Visual Studio Code](https://docs.microsoft.com/gl-es/learn/modules/use-docker-container-dev-env-vs-code/?WT.mc_id=academic-55190-ornella)
 
-## Lo que aprenderán los estudiantes
+# Video
+> 🎥 Dale click a la imagen para ver como Ornella te da el paso a paso del taller
+[![workshop walk-through](../../images/video.gif)](https://youtu.be/StzyJcGI0uo "Paso a paso del taller")
 
-Digamos que estás trabajando en un proyecto de hackathon junto a tus compañeros de clases, utilizando Python y quieres asegurarte de que tu proyecto es compatible en múltiples máquinas. En este taller, aprenderás como puedes utilizar contenedores de desarrollo para trabajar en cualquier proyecto sin tener que instalar o configurar tu equipo.
-
-![Imagen del proyecto completado](../../images/remote-indicator.png)
 
 ## Prepara el proyecto
 
@@ -77,5 +71,8 @@ Prueba tu conocimiento, intenta crear tu propio contenedor de desarrollo lleno d
 
 ¡Asegúrate de dejarnos [comentarios sobre este taller](https://forms.office.com/r/MdhJWMZthR)!
 
-[Código de conducta](../../../../CODE_OF_CONDUCT.md)
+## [Código de conducta](../../../../CODE_OF_CONDUCT.md)
 
+## Módulo de referencia
+
+[Uso de un contenedor de Docker como entorno de desarrollo con Visual Studio Code](https://docs.microsoft.com/gl-es/learn/modules/use-docker-container-dev-env-vs-code/?WT.mc_id=academic-55190-ornella)

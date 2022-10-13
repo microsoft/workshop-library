@@ -1,8 +1,15 @@
 # Introducción a Azure Static Web Apps
 
-## Módulo de Referencia
+Eres un desarrollador web y ha construido una aplicación web. Por lo general, una aplicación web consta de archivos HTML, JavaScript o CSS y pueden ser creados de forma manual todos los archivos o utilizando un framework para hacerlo.
 
-[Publicación de una aplicación de JavaScript con Angular, React, Svelte o Vue con Azure Static Web Apps](https://docs.microsoft.com/es-mx/learn/modules/publish-app-service-static-web-app-api/?WT.mc_id=academic-56895-chnoring)
+Por lo cual, te gustaría poder implementar o publicar su sitio web en Azure para poder mostrárselo a sus amigos.
+
+## Lo que vas a aprender
+
+En este taller, aprenderás lo siguiente:
+
+- Utilizar el servicio de Azure Static web apps.
+- Desplegar una aplicación web en Azure con este servicio.
 
 ## Objetivos
 
@@ -18,17 +25,6 @@ En este taller, usted aprenderá a desplegar sus archivos estáticos en Azure, y
 ## Video
 
 Video próximamente
-
-## Lo que vas a aprender
-
-Usted es un desarrollador web y ha construido una aplicación web. Por lo general, una aplicación web consta de archivos HTML, JavaScript o CSS y pueden ser creados de forma manual todos los archivos o utilizando un framework para hacerlo.
-
-Le gustaría poder implementar o publicar su sitio web en Azure para poder mostrárselo a sus amigos.
-
-En este taller, usted aprenderá a:
-
-- Utilizar el servicio de Azure Static web apps.
-- Desplegar una aplicación web en Azure con este servicio.
 
 ## Introducción al servicio de Azure Static Web Apps
 
@@ -66,3 +62,7 @@ Ahora que conoces de Azure Static Web Apps, aprende a cómo [publicar una API](h
 ¡Asegúrate de dejarnos [comentarios sobre este taller](https://forms.office.com/r/MdhJWMZthR)!
 
 [Código de Conducta](../../../../CODE_OF_CONDUCT.md)
+
+## Módulo de Referencia
+
+[Publicación de una aplicación de JavaScript con Angular, React, Svelte o Vue con Azure Static Web Apps](https://docs.microsoft.com/es-mx/learn/modules/publish-app-service-static-web-app-api/?WT.mc_id=academic-56895-chnoring)

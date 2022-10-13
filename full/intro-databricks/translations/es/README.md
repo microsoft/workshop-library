@@ -2,10 +2,6 @@
 
 Databricks es una plataforma para trabajar con _big data_. Azure tiene una integración sólida con Databricks, lo que facilita la configuración y el trabajo con _datasets_.
 
-## Módulo de referencia
-
-[Leer y escribir datos en Azure Databricks](https://docs.microsoft.com/es-es/learn/modules/read-write-data-azure-databricks/?WT.mc_id=academic-56680-alfredodeza)
-
 ## Objetivos
 
 En este taller, utilizarás Databricks, una poderosa plataforma para trabajar con big data. Repasaremos la lectura y escritura de diferentes tipos de datos en Azure Databricks como JSON, Parquet y CSV. También aprenderás a leer y operar con datos almacenados en Databricks.
@@ -13,9 +9,9 @@ En este taller, utilizarás Databricks, una poderosa plataforma para trabajar co
 | **Objetivo** | Descripción |
 | -------------------------------------------- | ---------------------------------------------------------------------- |
 | **Qué aprenderás** | Lee y escribe diferentes tipos de datos en Azure Databricks |
-| **Lo que necesitarás** | Una suscripción de Azure: <ul><li>[Prueba gratuita de Azure](https://azure.microsoft.com/free/?WT.mc_id=academic-56680-alfredodeza)</li><li>[Azure para estudiantes ](https://azure.microsoft.com/free/students/?WT.mc_id=academic-56680-alfredodeza)</li></ul> |
+| **Lo que necesitarás** | Una suscripción de Azure: <br> - [Prueba gratuita de Azure](https://azure.microsoft.com/free/?WT.mc_id=academic-56680-alfredodeza) <br> - [Azure para estudiantes ](https://azure.microsoft.com/free/students/?WT.mc_id=academic-56680-alfredodeza)</li></ul> |
 | **Duración** | 1 hora |
-| **Diapositivas** | [Powerpoint](diapositivas.pptx) |
+| **Diapositivas** | [Powerpoint](../../slides.pptx) |
 
 ## Video
 
@@ -78,7 +74,7 @@ Trabaja con el siguiente cuaderno (_3. Lectura de datos - Parquet_) para cargar 
 
 ## Paso 4: leer datos almacenados en tablas y vistas
 
-Carga el siguiente cuaderno (_4.Lectura de datos: tablas y vistas_) en Databricks para leer los datos almacenados en tablas y vistas. En esta sección verás cómo registrar tablas y leer desde una tabla o vista, estos incluirán:
+Carga el siguiente cuaderno _4.Lectura de datos: tablas y vistas_ en Databricks para leer los datos almacenados en tablas y vistas. En esta sección verás cómo registrar tablas y leer desde una tabla o vista, estos incluirán:
 
 - Registrar una tabla en Databricks
 - Use un archivo TSV para crear una nueva tabla
@@ -95,7 +91,7 @@ Verifiqua tus conocimientos con [una breve prueba](https://docs.microsoft.com/es
 
 ## Próximos pasos
 
-Hay una ruta de aprendizaje un poco más avanzada y complicada que cubre [Ingeniería de datos con Azure Databricks](https://docs.microsoft.com/es-es/learn/paths/data-engineer-azure-databricks/?WT.mc_id=academic-56680 -alfredodeza).
+Hay una ruta de aprendizaje un poco más avanzada y complicada que cubre [Ingeniería de datos con Azure Databricks](https://docs.microsoft.com/es-es/learn/paths/data-engineer-azure-databricks/?WT.mc_id=academic-56680-alfredodeza).
 
 ## Práctica
 
@@ -106,3 +102,7 @@ En este taller usaste pequeños conjuntos de datos con los que es fácil trabaja
 ¡Asegúrese de dar [comentarios sobre este taller](https://forms.office.com/r/MdhJWMZthR)!
 
 [Código de conducta](../../CODE_OF_CONDUCT.md)
+
+## Módulo de referencia
+
+[Leer y escribir datos en Azure Databricks](https://docs.microsoft.com/es-es/learn/modules/read-write-data-azure-databricks/?WT.mc_id=academic-56680-alfredodeza)

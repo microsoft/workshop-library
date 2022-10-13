@@ -1,9 +1,5 @@
 # Introducción a NLP con TensorFlow
 
-## Módulo de referencia
-
-[Introducción a NLP con TensorFlow](https://docs.microsoft.com/es-es/learn/modules/intro-natural-language-processing-tensorflow/?WT.mc_id=academic-56322-alfredodeza)
-
 ## Objetivos
 
 En este taller, cubriremos cómo procesar texto usando TensorFlow, una plataforma popular para el aprendizaje automático.
@@ -13,11 +9,11 @@ En este taller, cubriremos cómo procesar texto usando TensorFlow, una plataform
 | **Qué aprenderás** | Analizar texto con TensorFlow |
 | **Lo que necesitarás** | <ul><li>[Python](https://docs.microsoft.com/es-es/learn/modules/python-install-vscode/?WT.mc_id=academic-56322-alfredodeza)</li> <li>[Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-56322-alfredodeza)</li><li>[Configurar VSCode para Data Science](https://youtu.be/yyQM70vi7V8)</li></ul> |
 | **Duración** | 1 hora |
-| ** Diapositivas ** | [Powerpoint](./diapositivas.pptx) |
+| **Diapositivas** | [Powerpoint](../../slides.pptx) |
 
 ## Video
 
-Vídeo próximamente!
+¡Vídeo próximamente!
 
 ## Pre-aprendizaje
 
@@ -42,11 +38,12 @@ $ wget -q -O - https://mslearntensorflowlp.blob.core.windows.net/data/tfds-ag-ne
 TensorFlow es una plataforma de aprendizaje automático muy popular que permite muchos flujos de trabajo y operaciones para el aprendizaje automático en Python. En este taller, aprenderás cómo procesar y analizar texto, para que puedas generar texto o responder preguntas según el contexto.
 
 ![Imagen del texto generado](../../images/generate.png)
-![Imagen de entrenamiento secuencial](../../images/secuencial.png)
+![Imagen de entrenamiento secuencial](../../images/sequential.png)
 
 ## Paso 1: representar texto como tensores
 
-Completa el [Notebook de Jupyter de espacio aislado](https://docs.microsoft.com/es-es/learn/modules/intro-natural-language-processing-tensorflow/2-represent-text-as-tensors?WT.mc_id=academic-56322- alfredodeza) que cubrirá lo siguiente:
+Completa el [Notebook de Jupyter de espacio aislado](https://docs.microsoft.com/es-es/learn/modules/intro-natural-language-processing-tensorflow/2-represent-text-as-tensors?WT.mc_id=academic-56322-alfredodeza) que cubrirá lo siguiente:
+
 
 - Realiza una tarea de clasificación de texto utilizando el conjunto de datos AG NEWS
 - Convierte texto en números que se puedan representar como tensores
@@ -71,7 +68,7 @@ Completa el [Notebook de Jupyter de espacio aislado](https://docs.microsoft.com/
 
 El cuaderno pasará por los siguientes elementos:
 
-- Cargua el conjunto de datos AG News y entrénalo con TensorFlow
+- Carga el conjunto de datos AG News y entrénalo con TensorFlow
 - Usa enmascaramiento para minimizar la cantidad de relleno
 - Usa LSTM para aprender relaciones entre tokens distantes
 
@@ -92,11 +89,15 @@ Verifica tus conocimientos con [una breve prueba](https://docs.microsoft.com/es-
 
 ## Próximos pasos
 
-Hay otros módulos de aprendizaje para TensorFlow que se agrupan en [la ruta de aprendizaje de los fundamentos de TensorFlow] (https://docs.microsoft.com/es-es/learn/paths/tensorflow-fundamentals/?WT.mc_id=academic-56322-alfredodeza)
+Hay otros módulos de aprendizaje para TensorFlow que se agrupan en [la ruta de aprendizaje de los fundamentos de TensorFlow](https://docs.microsoft.com/es-es/learn/paths/tensorflow-fundamentals/?WT.mc_id=academic-56322-alfredodeza)
 
 ## Práctica
 
 En este taller utilizaste modelos previamente entrenados que pueden producir resultados limitados. Intenta usar otras fuentes de datos para entrenar su propio modelo. ¿Qué puedes descubrir?
+
+## Módulo de referencia
+
+[Introducción a NLP con TensorFlow](https://docs.microsoft.com/es-es/learn/modules/intro-natural-language-processing-tensorflow/?WT.mc_id=academic-56322-alfredodeza)
 
 ## Feedback
 
