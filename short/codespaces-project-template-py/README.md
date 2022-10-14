@@ -8,7 +8,7 @@ By opening this template respository in Codespaces, you can quickly get hands-on
 
 [![Python development environment with Codespaces](./images/banner.gif)](https://youtu.be/_i9Pywj3rSg "Python Development environment with Codespaces")
 
-# About Codespaces
+## About Codespaces
 
 Using Codespaces, you get [Visual Studio Code](https://visualstudio.microsoft.com/?WT.mc_id=academic-77460-alfredodeza) in the cloud, using a ["development container"](https://containers.dev/). Like a locally running version of [Visual Studio Code](https://visualstudio.microsoft.com/?WT.mc_id=academic-77460-alfredodeza), the cloud version also allows you to install extensions and use a terminal.
 
