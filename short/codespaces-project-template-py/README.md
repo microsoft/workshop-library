@@ -17,15 +17,9 @@ By opening this template respository in Codespaces, you can quickly get hands-on
 | **Duration**                  | 35 minutes                                                                |
 | **Slides**                  | [slides](./slides.pptx) |
 
-## Video
-
-[![workshop walk-through](./images/promo.png)](https://youtu.be/QJHd4jf4ekI "workshop walk-through")
-> 🎥 Click this image to watch Jen walk you through the workshop starting at at 0:04:15
-
-
 ## Link for this template and it's resources
 
-Read [this introduction to GitHub](https://docs.microsoft.com/learn/modules/introduction-to-github/1-introduction/?WT.mc_id=academic-55780-jelooper).
+This template [Python HTTP API for use with GitHub Codespaces](https://github.com/microsoft/codespaces-project-template-py) includes all the resources you **will need in order to demonstrate the full presentation to your audience**.
 
 ## 🚀 Next steps
 
