@@ -10,7 +10,7 @@ Podrás centrarse en trabajar con el proyecto en lugar de la instalación y la c
 
 [![Video de Entorno de desarrollo Python con Codespaces](../../images/banner.gif)](https://youtu.be/_i9Pywj3rSg "Entorno de desarrollo Python con Codespaces")
 
-# Sobre Codespaces
+## Sobre Codespaces
 
 Al utilizar Codespaces, tu tendrás [Visual Studio Code](https://visualstudio.microsoft.com/?WT.mc_id=academic-77460-alfredodeza) en la nube, utilizando un ["contenedor para desarrolladores"](https://containers.dev/). Como una versión local de [Visual Studio Code](https://visualstudio.microsoft.com/?WT.mc_id=academic-77460-alfredodeza), la versión en la nube también te permite instalar extensiones y usar un terminal.
 
