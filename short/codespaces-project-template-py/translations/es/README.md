@@ -1,16 +1,35 @@
-[![Abre en GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=526682400)
-
 # Python HTTP API para utilizar con GitHub Codespaces
 
-_Ejecute una API de Python en este repositorio listo para usar en minutos_
+_Ejecuta una API de Python con este repositorio listo para usar en minutos_
 
 Al abrir este repositorio de plantillas en Codespaces, puedes iniciar rápidamente con una aplicación web de Python que sirve a una API HTTP mediante  [FastAPI](https://fastapi.tiangolo.com/) framework. 
 Podrás centrarse en trabajar con el proyecto en lugar de la instalación y la configuración.
 
+
 🤔 ¿Curioso? Mira el siguiente vídeo donde te explicamos todos los detalles:
 
-[![Video de Entorno de desarrollo Python con Codespaces](../../images/video-banner.gif)](https://youtu.be/_i9Pywj3rSg "Entorno de desarrollo Python con Codespaces")
+[![Video de Entorno de desarrollo Python con Codespaces](../../images/banner.gif)](https://youtu.be/_i9Pywj3rSg "Entorno de desarrollo Python con Codespaces")
 
+# Sobre Codespaces
+
+Al utilizar Codespaces, tu tendrás [Visual Studio Code](https://visualstudio.microsoft.com/?WT.mc_id=academic-77460-alfredodeza) en la nube, utilizando un ["contenedor para desarrolladores"](https://containers.dev/). Como una versión local de [Visual Studio Code](https://visualstudio.microsoft.com/?WT.mc_id=academic-77460-alfredodeza), la versión en la nube también te permite instalar extensiones y usar un terminal.
+
+También puedes configurar el contenedor de desarrolladores para que ejecutes un runtime específico y haga que arranque con tus extensiones favoritas.
+
+## Lo que aprenderás y los requisitos para este taller
+
+| **Objetivos**              | Descripción                                    |
+| ----------------------------- | --------------------------------------------------------------------- |
+| **Lo que vas a aprender**       | you will customize your environment in codespaces and manage APIs               |
+| **Requisitos:**          | Una cuenta de [GitHub](https://github.com), acceso a [Codespaces](https://github.com/features/codespaces) y el [FastAPI framework](https://fastapi.tiangolo.com/) |
+| **Duración**                  | 35 minutes                                                                |
+| **Diapositivas**                  | [slides](./slides_es.pptx) |
+
+## Enlace para esta plantilla y sus recursos
+
+En esta plantilla [Python HTTP API para usar con GitHub Codespaces](https://github.com/microsoft/codespaces-project-template-py) se encuentran todos los recursos que **necesitas para hacer la presentación completa a su audiencia**.
+
+Esta plantilla también está lista para ser utilizada con [Codespaces](https://github.com/features/codespaces), un entorno para desarrolladores que se ejecuta en la nube con [Visual Studio Code](https://visualstudio.microsoft.com/?WT.mc_id=academic-77460-alfredodeza).
 
 <details>
    <summary><strong>Aprende más sobre las APIs</strong></summary>
@@ -20,157 +39,6 @@ Podrás centrarse en trabajar con el proyecto en lugar de la instalación y la c
 
    Las API HTTP a menudo proporcionan datos o funcionalidad que es exclusiva de un servicio, como la API de ejemplo para el sitio web meteorológico. Un sitio web meteorológico podría proporcionar endpoints de API adicionales para otras funciones relacionadas con el clima, como próximos pronósticos o datos históricos. Cualquier sitio web puede decidir ofrecer una API si cree que tiene una funcionalidad útil para compartir con otras computadoras. **En este proyecto, ejecutarás una API HTTP que genera un token aleatorio.**
 
-
-</details>
-
-Esta plantilla también está lista para ser utilizada con [Codespaces](https://github.com/features/codespaces), un entorno para desarrolladores que se ejecuta en la nube con [Visual Studio Code](https://visualstudio.microsoft.com/?WT.mc_id=academic-77460-alfredodeza).
-
-<details>
-   <summary><b>🎥 Ve este video tutorial para obtener más información sobre Codespaces</b></summary>
-
-   [![Codespaces Tutorial](https://img.youtube.com/vi/ozuDPmcC1io/0.jpg)](https://aka.ms/CodespacesVideoTutorial "Codespaces Tutorial")
-</details>
-
-## Para estudiantes y desarrolladores
-
-Al utilizar Codespaces, tu tendrás [Visual Studio Code](https://visualstudio.microsoft.com/?WT.mc_id=academic-77460-alfredodeza) en la nube, utilizando un ["contenedor para desarrolladores"](https://containers.dev/). Como una versión local de [Visual Studio Code](https://visualstudio.microsoft.com/?WT.mc_id=academic-77460-alfredodeza), la versión en la nube también te permite instalar extensiones y usar un terminal.
-
-También puedes configurar el contenedor de desarrolladores para que ejecutes un runtime específico y haga que arranque con tus extensiones favoritas.
-
-Estos son los archivos y carpetas clave que lo hacen posible:
-
-- [webapp/](./.webapp): El código de la API HTTP, creado con el marco FastAPI.
-- [.devcontainer/Dockerfile](./.devcontainer/Dockerfile): Archivo de configuración utilizado por Codespaces para determinar el sistema operativo y otros detalles.
-- [.devcontainer/devcontainer.json](./.devcontainer/devcontainer.json), un archivo de configuración utilizado por Codespaces para tanto modificar la configuración de [Visual Studio Code](https://visualstudio.microsoft.com/?WT.mc_id=academic-77460-alfredodeza), como habilitar extensiones adicionales. 
-
-## 🧐 ¡Pruébalo!
-
-Prueba este repositorio de plantillas con Codespaces siguiendo estos pasos:
-
-1. Crea un repositorio desde esta plantilla. Utiliza este link [crea un repositorio](https://github.com/microsoft/codespaces-project-template-py/generate). Puedes hacer que tu repositorio sea privado o público, esto depende de ti.
-1. Ve a la página principal del repositorio recién creado.
-1. Debajo del nombre del repositorio, usa el menú desplegable de _Code_ y, en la pestaña Codespaces, selecciona "Crear Codespace en main".
-   ![Crea el Codespace](https://docs.github.com/assets/cb-138303/images/help/codespaces/new-codespace-button.png)
-1. Espera mientras GitHub inicia el Codespace: 
-   ![Creando el Codespace](https://github.com/microsoft/codespaces-teaching-template-py/raw/main/images/Codespace_build.png)
-
-### Inspeccionar el entorno de Codespaces
-
-Lo que tienes en este momento es un entorno preconfigurado donde todos los runtimes y bibliotecas que necesitas ya están instalados - esto es una experiencia de configuración cero.
-
-
-## Ejecuta la App
-
-Esta aplicación de Python está utilizando FastAPI, un potente framework que auto documenta sus endpoints de API. La API solo tiene un extremo que genera una cadena pseudoaleatoria única que se puede usar como token.
-
-![FastAPI Ejecutandose](../../images/api-running.png)
-
-
-<details>
-<summary><b>Ejecuta FastAPI dentro del Codespace</b></summary>
-
-La API incluida en este repositorio de plantillas tiene un único extremo que genera un token. Pon lo en marcha siguiendo estos pasos:
-
-1. Abre una terminal utilizando estos comandos (Ctrl-Shift-P o Cmd-Shift-P) y luego selecciona el comando "Abrir nueva terminal".
-1. Ejecuta `uvicorn` en la consola para iniciar la aplicación de API:
-
-    ```console
-    uvicorn --host 0.0.0.0 webapp.main:app --reload
-    ```
-
-    Deberías ver una salida similar a:
-
-    ```output
-    INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
-    INFO:     Started reloader process [28720]
-    INFO:     Started server process [28722]
-    INFO:     Waiting for application startup.
-    INFO:     Application startup complete.
-    ```
-
-    Aparecerá una ventana que dice que tu aplicación está disponible en el puerto 8000. Haz clic en el botón para abrirlo en el navegador.
-
-1. Una vez que se cargue el sitio, haz clic en el botón _Try it Out_ o agregue `/docs` a la URL en la barra de direcciones. La documentación autogenerada de la API debería cargarse y tener este aspecto:
-
-   ![Documentos de OpenAPI](../../images/fast-api.png)
-
-1. Finalmente, intenta interactuar con la API enviando una solicitud utilizando la página autodocumentada. Haz clic en el botón _POST_ y luego en el botón _Try it Out_:
-
-   ![Try a POST request](../../images/try-it-out.png)
-
-🔒 ¿Ves el candado junto a la URL del sitio web en el navegador? Esto indica que el sitio web esta interactuando a través de una conexión HTTPS segura que cifra las respuestas HTTP. Es muy importante siempre que una API pueda recibir datos confidenciales o responder con datos confidenciales (como una contraseña).
-
-</details>
-
-## Personaliza tu Codespace
-
-Puedes cambiar tu entorno y el editor de texto para que la próxima vez que crees (o reconstruyas) el entorno, todo se establecerá automáticamente. Repasemos dos retos diferentes que es probable que desees hacer:
-
-1. Cambiar la versión de Python instalada
-1. Agrega o modifica una extensión de editor preinstalada
-
-
-<details>
-
-### Paso 1: Cambiar el entorno de Python
-
-Digamos que deseas cambiar la versión de Python que está instalada. Esto es algo que puedes controlar.
-
-Abre [.devcontainer/devcontainer.json](./.devcontainer/devcontainer.json)  y reemplaza la siguiente sección:
-
-```json
-"VARIANT": "3.8-bullseye"
-```
-
-con las siguientes instrucciones:
-
-```json
-"VARIANT": "3.9-bullseye"
-```
-
-Este cambio le indica a Codespaces que ahora debe usar Python 3.9 en lugar de 3.8.
-
-Si realiza algún cambio de configuración en `devcontainer.json`, aparecerá un cuadro después de guardar.
-
-![Recreando el Codespace](https://github.com/microsoft/codespaces-teaching-template-py/raw/main/images/Codespace_rebuild.png)
-
-Haz clic en reconstruir. Espera a que Codespace vuelva a generar el entorno de VS Code.
-
-### Paso 2: Añade una extensión
-
-Tu entorno viene con extensiones preinstaladas. Puedes cambiar con qué extensiones comienza tu entorno de Codespaces, a continuación, te indicamos cómo:
-
-1.  Abre el archivo [.devcontainer/devcontainer.json](./.devcontainer/devcontainer.json)  y busca el siguiente elemento JSON **extensions**:
-
-   ```json
-   "extensions": [
-    "ms-python.python",
-    "ms-python.vscode-pylance"
-   ]
-   ```
-
-1. Agrega  _"ms-python.black-formatter"_ a la lista de extensiones. Debería terminar pareciéndose a lo siguiente:
-
-   ```json
-   "extensions": [
-    "ms-python.python",
-    "ms-python.vscode-pylance",
-    "ms-python.black-formatter"
-   ]
-   ```
-
-   Esa cadena es el identificador único de [Black Formatter](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter&WT.mc_id=academic-77460-alfredodeza), una extensión popular para formatear el código Python de acuerdo con las mejores prácticas. Al añadir el identificador _"ms-python.black-formatter"_ a la lista, le permite a Codespaces saber que esta extensión debe estar preinstalada al iniciarse.
-
-   Recuerda: Cuando cambies cualquier configuración en el json, aparecerá un cuadro después de guardar.
-
-   ![Recreating Codespace](https://github.com/microsoft/codespaces-teaching-template-py/raw/main/images/Codespace_rebuild.png)
-
-   Haz clic en reconstruir. Espera a que el espacio de código vuelva a generar el entorno de VS Code.
-
-Para encontrar el identificador único de una extensión:
-
-- Ingresa a la página web de la extensión, por ejemplo [https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter&WT.mc_id=academic-77460-alfredodeza)
-- Localiza el campo *Unique Identifier* bajo la sección **More info** en tu lado derecho.
 
 </details>
 
@@ -285,11 +153,16 @@ Actualice ambas variables para que coincidan con tu entorno.
 
 </details>
 
+
 ## Otros recursos
 
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [Codespaces](https://github.com/features/codespaces)
 - [Usar contenedores de desarrollo localmente](https://github.com/Microsoft/vscode-remote-try-python)
 
-### 🔎 ¿Has encontrado un problema o tienes una idea para mejorar? 
-Ayúdanos a mejorar este repositorio de plantillas al [¡abrir un issue!](/../../issues/new).
+
+## Comentarios y sugerencias
+
+¡Asegurate de compartir tus comentarios sobre este taller [aquí!](https://forms.office.com/r/MdhJWMZthR)!
+
+[Código de conducta](../../CODE_OF_CONDUCT.md)

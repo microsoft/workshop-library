@@ -8,6 +8,12 @@ By opening this template respository in Codespaces, you can quickly get hands-on
 
 [![Python development environment with Codespaces](./images/banner.gif)](https://youtu.be/_i9Pywj3rSg "Python Development environment with Codespaces")
 
+# About Codespaces
+
+Using Codespaces, you get [Visual Studio Code](https://visualstudio.microsoft.com/?WT.mc_id=academic-77460-alfredodeza) in the cloud, using a ["development container"](https://containers.dev/). Like a locally running version of [Visual Studio Code](https://visualstudio.microsoft.com/?WT.mc_id=academic-77460-alfredodeza), the cloud version also allows you to install extensions and use a terminal.
+
+You can also configure your development container to run a specific runtime and have it boot up with your favorite extensions.
+
 ## What you will learn and requirements for this workshop
 
 | **Goal**              | Description                                    |
@@ -17,9 +23,12 @@ By opening this template respository in Codespaces, you can quickly get hands-on
 | **Duration**                  | 35 minutes                                                                |
 | **Slides**                  | [slides](./slides.pptx) |
 
+
 ## Link for this template and it's resources
 
 This template [Python HTTP API for use with GitHub Codespaces](https://github.com/microsoft/codespaces-project-template-py) includes all the resources you **will need in order to demonstrate the full presentation to your audience**.
+
+This template is also ready to be used with [Codespaces](https://github.com/features/codespaces), a developer environment running in the cloud with [Visual Studio Code](https://visualstudio.microsoft.com/?WT.mc_id=academic-77460-alfredodeza).
 
 ## 🚀 Next steps
 
