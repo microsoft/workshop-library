@@ -3,8 +3,6 @@
 Digamos que estás trabajando en un proyecto de hackathon junto a tus compañeros de clases, utilizando Python y quieres asegurarte de que tu proyecto es compatible en múltiples máquinas. 
 **En este taller, aprenderás como puedes utilizar contenedores de desarrollo para trabajar en cualquier proyecto sin tener que instalar o configurar tu equipo**.
 
-![Imagen del proyecto completado](../../images/remote-indicator.png)
-
 # Objetivos 
 
 En este taller, aprenderás a como acceder, personalizar y añadir software a los contenedores de desarrollo en Visual Studio Code con la finalidad de que puedas trabajar con facilidad entre máquinas y entornos de desarrollo.
