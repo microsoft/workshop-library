@@ -132,7 +132,10 @@ Ahora sabe como crear ramas y hacer pull requests, encuentra un repositorio de c
 
 ## Agradecimientos 💖
 
+¡Muchisimas gracias a [Daniela Morales](https://www.linkedin.com/in/daniela-morales-sixto) @DaniMSix por habernos ayudado a traducir este contenido a Español!
+
 ¡Muchisimas gracias a [Julia Muiruri](https://developer.microsoft.com/en-us/advocates/julia-muiruri) por haber realizado las ilustraciones del [memorama](./recursos/memoramas.pdf) de este taller! 
+
 
 
 ## Retroalimentación
