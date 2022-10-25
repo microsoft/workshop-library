@@ -10,7 +10,7 @@ Built to be a "choose your own adventure" template repository portfolio, we have
 
 ## About Codespaces
 
-Using Codespaces, you get [Visual Studio Code](https://visualstudio.microsoft.com/?WT.mc_id=academic-77460-alfredodeza) in the cloud, using a ["development container"](https://containers.dev/). Like a locally running version of [Visual Studio Code](https://visualstudio.microsoft.com/?WT.mc_id=academic-77460-alfredodeza), the cloud version also allows you to install extensions and use a terminal.
+Using Codespaces, you get [Visual Studio Code](https://visualstudio.microsoft.com/?WT.mc_id=academic-80067-sagibbon) in the cloud, using a ["development container"](https://containers.dev/). Like a locally running version of [Visual Studio Code](https://visualstudio.microsoft.com/?WT.mc_id=academic-80067-sagibbon), the cloud version also allows you to install extensions and use a terminal.
 
 You can also configure your development container to run a specific runtime and have it boot up with your favorite extensions.
 
@@ -19,7 +19,7 @@ You can also configure your development container to run a specific runtime and 
 | **Goal**              | Description                                    |
 | ----------------------------- | --------------------------------------------------------------------- |
 | **What will you learn**       | customizing Codespaces, web development, and web application deployment              |
-| **What you'll need**          | <ul><li>[GitHub account](https://github.com)</li><li>access to [Codespaces](https://github.com/features/codespaces)</li><li> optional [Azure for Students](https://azure.microsoft.com/en-us/free/students/) or [Azure](https://azure.microsoft.com/en-us/free/search/) account for deployment</li></ul> |
+| **What you'll need**          | <ul><li>[GitHub account](https://github.com)</li><li>access to [Codespaces](https://github.com/features/codespaces)</li><li> optional [Azure for Students](https://azure.microsoft.com/free/students/?WT.mc_id=academic-80067-sagibbon) or [Azure](https://azure.microsoft.com/free/search/?WT.mc_id=academic-80067-sagibbon) account for deployment</li></ul> |
 | **Duration**                  | 35 minutes                                                                |
 | **Slides**                  | [slides](./slides.pptx) |
 
@@ -40,16 +40,16 @@ Follow the [getting started instructions](https://github.com/microsoft/codespace
 
 ## 🏃 Deploy your web application
 
-Project includes the setup needed for you to deploy **free** to both <a href="https://azure.microsoft.com/en-in/products/app-service/static/" target="_blank">Azure Static Web Apps</a> and <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+Project includes the setup needed for you to deploy **free** to both <a href="https://azure.microsoft.com/products/app-service/static/?WT.mc_id=academic-80067-sagibbon" target="_blank">Azure Static Web Apps</a> and <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 ### Azure Static Web Apps
 
-<a href="https://azure.microsoft.com/en-in/products/app-service/static/" target="_blank">Azure Static Web Apps</a> is Microsoft's hosting solution for static sites (or sites that are rendered in the user's browser, not on a server) through Azure. This service provides additional opportunities to expand your site through Azure Functions, authentication, staging versions and more.
+<a href="https://azure.microsoft.com/products/app-service/static/?WT.mc_id=academic-80067-sagibbon" target="_blank">Azure Static Web Apps</a> is Microsoft's hosting solution for static sites (or sites that are rendered in the user's browser, not on a server) through Azure. This service provides additional opportunities to expand your site through Azure Functions, authentication, staging versions and more.
 
 You'll need both Azure and GitHub accounts to deploy your web application. If you don't yet have an Azure account you can create it from within during the deploy process, or from below links:
 
-* [Create a (no Credit Card required) Azure For Students account](https://azure.microsoft.com/free/students/)
-* [Create a new Azure account](https://azure.microsoft.com/en-US/)
+* [Create a (no Credit Card required) Azure For Students account](https://azure.microsoft.com/free/students/?WT.mc_id=academic-80067-sagibbon)
+* [Create a new Azure account](https://azure.microsoft.com/?WT.mc_id=academic-80067-sagibbon)
 
 With your project open in Codespaces:
 
@@ -86,7 +86,8 @@ With your project open in Codespaces:
 
 ## 📚 Resources
 
-- [Codespaces](https://github.com/features/codespaces)
+* [🎥 Codespaces Tutorial](https://aka.ms/CodespacesVideoTutorial)
+* [Codespaces](https://github.com/features/codespaces)
 * [GitHub Codespaces docs overview](https://docs.github.com/codespaces/overview)
 * [Use dev containers locally with VS Code and Docker](https://github.com/microsoft/vscode-remote-try-node#vs-code-dev-containers)
 
@@ -100,6 +101,6 @@ With your project open in Codespaces:
 
 ## 🔎 Feedback
 
-Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)!
+Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR/?WT.mc_id=academic-80067-sagibbon)!
 
 [Code of Conduct](../../CODE_OF_CONDUCT.md)
