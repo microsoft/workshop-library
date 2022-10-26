@@ -44,8 +44,12 @@ En este taller aprenderás:
 
 ¡Comencemos!
 
+## Agradecimientos 💖
+¡Muchas gracias a [Anahi Sanabria](https://www.linkedin.com/in/anah%C3%AD-sanabria-ugarte-5225a0211/) @AnahiSU por habernos ayudado a traducir todo este contenido a español!
+
+
 ## Feedback
 
 Asegúrate de dejar tu [feedback acerca de este taller.](https://forms.office.com/r/MdhJWMZthR)!
 
-[Código de conducta](../../../../CODE_OF_CONDUCT.md)
+## [Código de conducta](../../../../CODE_OF_CONDUCT.md)

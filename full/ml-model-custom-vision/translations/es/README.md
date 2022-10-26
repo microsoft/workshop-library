@@ -54,13 +54,13 @@ Para realizar este taller necesitaras [Visual Studio Code](https://code.visualst
 - [Parte 1: Entrenar tu modelo](./train-es.md)
 - [Parte 2: Probar tu modelo](./predict-es.md)
 
+
+## Agradecimientos ❤️ 
+
+¡Muchísimas gracias a [Nicolas Chávez](https://www.linkedin.com/in/nicolaschavezc/) @NikoMagafi por haber traducido todo este contenido a español! ❤️ 🚀 ✨  
+
 ## Feedback
 
 Asegúrate de dejar tu [feedback acerca de este taller](https://forms.office.com/r/MdhJWMZthR)!
 
-[Código de Conducta](../../../../CODE_OF_CONDUCT.md)
-
-## Agradecimientos ❤️ 
-
-¡Muchísimas gracias a Nicolas Chávez @NikoMagafi por haber traducido todo este contenido a español! ❤️ 🚀 ✨  
-
+## [Código de Conducta](../../../../CODE_OF_CONDUCT.md)
