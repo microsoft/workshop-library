@@ -19,7 +19,7 @@
 1. Όταν ανοίξει το νέο αποθετήριο, επιλέξτε **Code**
 1. Επιλέξτε την καρτέλα **Local** και μετά το κουμπί **Copy**
 
-    ![Copy icon](https://github.com/microsoft/workshop-library/blob/main/full/ml-model-custom-vision/images/copy.png)
+    ![Copy icon](../../images/copy.png)
 
 1. Ανοίξτε ένα τερματικό ή γραμμή εντολών και εκτελέστε τον ακόλουθο κώδικα, αντικαθιστώντας το \<URL\> με το URL που αντιγράψατε στο προηγούμενο βήμα
 
