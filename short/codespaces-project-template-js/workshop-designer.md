@@ -3,7 +3,7 @@
 
 ## Workshop Source
 
-https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/
+https://github.com/microsoft/codespaces-project-template-js
 
 ## Stage 1: Desired Results
 
