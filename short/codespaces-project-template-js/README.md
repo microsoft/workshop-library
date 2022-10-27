@@ -40,11 +40,11 @@ Follow the [getting started instructions](https://github.com/microsoft/codespace
 
 ## 🏃 Deploy your web application
 
-Project includes the setup needed for you to deploy **free** to both <a href="https://azure.microsoft.com/products/app-service/static/?WT.mc_id=academic-80067-sagibbon" target="_blank">Azure Static Web Apps</a> and <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+Project includes the setup needed for you to deploy **free** to both [Azure Static Web Apps](https://azure.microsoft.com/products/app-service/static/?WT.mc_id=academic-80067-sagibbon) and [GitHub Pages](https://pages.github.com/).
 
 ### Azure Static Web Apps
 
-<a href="https://azure.microsoft.com/products/app-service/static/?WT.mc_id=academic-80067-sagibbon" target="_blank">Azure Static Web Apps</a> is Microsoft's hosting solution for static sites (or sites that are rendered in the user's browser, not on a server) through Azure. This service provides additional opportunities to expand your site through Azure Functions, authentication, staging versions and more.
+[Azure Static Web Apps](https://azure.microsoft.com/products/app-service/static/?WT.mc_id=academic-80067-sagibbon) is Microsoft's hosting solution for static sites (or sites that are rendered in the user's browser, not on a server) through Azure. This service provides additional opportunities to expand your site through Azure Functions, authentication, staging versions and more.
 
 You'll need both Azure and GitHub accounts to deploy your web application. If you don't yet have an Azure account you can create it from within during the deploy process, or from below links:
 
@@ -68,7 +68,7 @@ With your project open in Codespaces:
 
 ### GitHub Pages
 
-<a href="https://pages.github.com/" target="_blank">GitHub Pages</a> allows you to host websites directly from your GitHub repository. This project is already set up for you to get your portfolio deployed to GitHub pages with minimal steps.
+[GitHub Pages](https://pages.github.com/) allows you to host websites directly from your GitHub repository. This project is already set up for you to get your portfolio deployed to GitHub pages with minimal steps.
 
 With your project open in Codespaces:
 
