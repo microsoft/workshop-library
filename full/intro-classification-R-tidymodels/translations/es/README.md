@@ -1,15 +1,12 @@
 # Introducción a los modelos de regresión mediante R y tidymodels
 
-## Módulo de referencia
-[Introducción a los modelos de regresión mediante R y tidymodels](https://docs.microsoft.com/es-mx/learn/modules/introduction-regression-models/?WT.mc_id=academic-59300-cacaste)
-
 ## Objetivos
-¡Hola y bienvenida(o) a este viaje lleno de aprendizaje! Aquí encontrarás una serie de desafíos de modelos de regresión. Estos se encuentran en unas notebooks que se evalúan automáticamente y que te ayudarán a conocer tu nivel de comprensión en el uso de R para crear modelos capaces de predecir valores cuantificable como precios, tamaños u otros números escalares.
+¡Estas a punto de comenzar este viaje lleno de aprendizaje! Aquí encontrarás una serie de desafíos de modelos de regresión. Estos se encuentran en unas notebooks que se evalúan automáticamente y que te ayudarán a conocer tu nivel de comprensión en el uso de R para crear modelos capaces de predecir valores cuantificables como precios, tamaños u otros números escalares.
 
 | **Objetivo**                  | Descripción                                    |
 | ----------------------------- | -----------------------------------------------|
-| **Qué aprenderás**            | Cómo crear modelos de regresión en R           |
-| **Qué necesitarás**           | [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-59300-cacaste), [Docker Desktop](https://www.docker.com/products/docker-desktop), [Remote Developer Extension](https://aka.ms/vscode-remote/download/extension) y [Git](https://git-scm.com/downloads) |
+| **¿Qué aprenderás?**            | Cómo crear modelos de regresión en R           |
+| **¿Qué necesitarás?**           | [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-59300-cacaste), [Docker Desktop](https://www.docker.com/products/docker-desktop), [Remote Developer Extension](https://aka.ms/vscode-remote/download/extension) y [Git](https://git-scm.com/downloads) |
 | **Duración**                  | De 1.5 a 2 Horas                               |
 | **Diapositivas**              | [Powerpoint](./slides.pptx)                    |
 
@@ -29,11 +26,11 @@ En esta ocasión, hemos preparado un contenedor con el entorno preparado para qu
 
 ### Configuración del contenedor
 
-Un **contenedor de desarrollo** es un contenedor de Docker configurado de acuerdo a los prerequisitos.
+Un **contenedor de desarrollo** es un contenedor de Docker configurado de acuerdo a los prerrequisitos.
 Puede probar los contenedores con **[GitHub Codespaces](https://github.com/features/codespaces)**, **[Binder](https://mybinder.org/)** o **[Visual Studio Code Remote - Containers](https://aka.ms/vscode-remote/containers)**.
 
 #### GitHub Codespaces
-Siga estos pasos para abrir este taller en Codespace:
+Sigue estos pasos para abrir este taller en Codespace:
 1. Haz clic en el menú desplegable "Code" y seleccione la opción **Abrir con Codespaces**.
 2. Seleccione **+ Nuevo codespace**, ubicado en la parte inferior del panel.
 
@@ -104,9 +101,9 @@ En esta sección:
 
 En esta sección, crearás una especificación de modelo con la siguiente información:
 
-- El `tipo` de modelo es `random forest`
+- El `tipo` de modelo es `random forest`.
 
-- El `modo` del modelo es `regression` (contrario a la clasificación, etc)
+- El `modo` del modelo es `regression` (contrario a la clasificación, etc).
 
 - el `motor` computacional es el nombre del paquete R, que en nuestro caso será el paquete `randomForest`.
 
@@ -163,7 +160,7 @@ En esta sección:
 
 ¡Felicidades por concluir el desafío 🏅!
 
-Existen otros talleres donde utilizar R para ciencia de datos. En este taller, aprendimos cómo se puede usar la regresión para crear un modelo de aprendizaje automático que predice valores numéricos. En el siguiente taller aprenderás a [crear modelos de clasificación](../intro-classification-R-tidymodels) y modelos de agrupación en clústeres (próximamente). ¡Asegúrate de echarles un vistazo!
+Existen otros talleres donde utilizar R para ciencia de datos. En este taller, aprendimos cómo se puede usar la regresión para crear un modelo de aprendizaje automático que predice valores numéricos. En el siguiente taller aprenderás a [crear modelos de clasificación](../../../intro-classification-R-tidymodels) y modelos de agrupación en clústeres (próximamente). ¡Asegúrate de echarles un vistazo!
 
 ## Práctica
 
@@ -173,4 +170,12 @@ En este taller entrenaste un modelo sencillo para predecir el precio de viviendo
 
 ¡Asegúrate de proporcionar una [retroalimentación de este taller](https://forms.office.com/r/MdhJWMZthR)! ¡Feliz aprendizaje!
 
-[Código de conducta](../../CODE_OF_CONDUCT.md)
+## [Código de conducta](../../../../CODE_OF_CONDUCT.md)
+
+## Módulo de referencia
+
+[Introducción a los modelos de regresión mediante R y tidymodels](https://docs.microsoft.com/es-mx/learn/modules/introduction-regression-models/?WT.mc_id=academic-59300-cacaste).
+
+## Agradecimientos ❤️ 🚀 ✨ 
+
+¡Muchísimas gracias a [Jonathan Castillo](https://www.linkedin.com/in/jona866/) @jona866 por haber traducido todo este contenido a español!
