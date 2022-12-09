@@ -17,8 +17,8 @@ Próximamente
 
 ## Pre-Aprendizaje
 
-En este taller aplicarás lo aprendido en el módulo [Introducción a los modelos de regresión mediante R y tidymodels](https://docs.microsoft.com/es-mx/learn/modules/introduction-regression-models/?WT.mc_id=academic-59300-cacaste). Es recomendable primero cursar el módulo anterior para familiarizarse con los conceptos que se abordarán en este taller.
-Este, es el segundo taller de una serie diseñada para introducirse a la ciencia de datos en R. Si te interesa aprender sobre el análisis exploratorio de datos, entonces echa un vistazo al [primer](../explore-analyze-data-with-R) taller de esta serie.
+En este taller aplicarás lo aprendido en el módulo [Introducción a los modelos de regresión mediante R y tidymodels](https://docs.microsoft.com/es-mx/learn/modules/introduction-regression-models/?WT.mc_id=academic-59300-cacaste). Es recomendable que primero finalices el módulo anterior para que estes familiarizado con los conceptos que se abordarán en este taller.
+Este, es el segundo taller de una serie diseñada para introducirse a la ciencia de datos en R. Si te interesa aprender sobre el análisis exploratorio de datos, entonces echa un vistazo al [primer](../../explore-analyze-data-with-R) taller de esta serie.
 
 ## Requisitos previos
 
@@ -34,10 +34,10 @@ Sigue estos pasos para abrir este taller en Codespace:
 1. Haz clic en el menú desplegable "Code" y seleccione la opción **Abrir con Codespaces**.
 2. Seleccione **+ Nuevo codespace**, ubicado en la parte inferior del panel.
 
-Para mayor información, revise la [documentación de GitHub](https://docs.github.com/es/codespaces/developing-in-codespaces/creating-a-codespace).
+Para más información, revisa la [documentación de GitHub](https://docs.github.com/es/codespaces/developing-in-codespaces/creating-a-codespace).
 
 #### Binder
-Este taller también se encuentra disponible en Blinder. Para abrir el notebook en un entorno de Binder, haga clic en el botón de abajo.
+Este taller también se encuentra disponible en Blinder. Para abrir el notebook en un entorno de Binder, haz clic en el botón de abajo.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carlotta94c/workshop-library/introToRegressionR%26Tidymodels?labpath=full%2Fintro-regression-R-tidymodels%2Fsolution%2FChallenge-regression.ipynb)
 
@@ -48,10 +48,10 @@ También puedes realizar estos desafíos utilizando en espacio aislado, disponib
 #### VS Code Remote - Containers
 Realiza lo siguiente para abrir este taller en un contenedor, utilizando la extensión VS Code Remote - Containers:
 
-1. Si es su primera vez utilizando un contenedor, por favor, asegúrese que su sistema cumpla con los requisitos previos (tener instalado Docker) [en la configuración inicial](https://aka.ms/vscode-remote/containers/getting-started).
+1. Si es tu primera vez utilizando un contenedor, por favor, asegúrate que tu sistema cumpla con los requisitos previos (tener instalado Docker) [en la configuración inicial](https://aka.ms/vscode-remote/containers/getting-started).
 
-2. Presione <kbd>F1</kbd>, seleccione **Add Development Container Configuration Files...** para **Remote-Containers** o **Codespaces**.
-   > **Nota:** Si es necesario, en lugar de usar el comando, puede arrastrar y soltar la carpeta `.devcontainer` desde esta subcarpeta en una copia clonada localmente de este repositorio en el explorador de archivos de VS Code
+2. Presiona <kbd>F1</kbd>, y luego selecciona **Add Development Container Configuration Files...** para **Remote-Containers** o **Codespaces**.
+   > **Nota:** _Solo si es necesario, en lugar de usar el comando_, puedes arrastrar y soltar la carpeta `.devcontainer` desde esta subcarpeta en una copia clonada localmente de este repositorio en el explorador de archivos de VS Code.
 
 3. Seleccione esta definición. Es posible que también deba seleccionar **Show All Definitions...** para que aparezca.
 
@@ -59,13 +59,13 @@ Realiza lo siguiente para abrir este taller en un contenedor, utilizando la exte
 
 Esta definición incluye un código de prueba que lo ayudará a verificar que funciona como se espera en su sistema. Abre la carpeta `all-systems-check`donde podrás elegir ejecutar el script `.R`, `.Rmd` o `.ipynb`. Deberías ver "Hello, remote world!" en una ventana de terminal de R (para .R y .Rmd) o dentro de un Jupyter Notebook (para .ipynb) después de que se ejecute el script respectivo.
 
-En algún momento, es posible que desee realizar cambios en su contenedor, como instalar un nuevo paquete. Deberá reconstruir su contenedor para que los cambios surtan efecto.
+En algún momento, es posible que desees realizar cambios en su contenedor, como instalar un nuevo paquete. Deberás reconstruir tu contenedor para que se hagan los cambios.
 
 ## Qué aprenderás
 
-Digamos que somos un(a) agente de bienes raíces y nos acaban de entregar un par de casas nuevas en diferentes lugares de una ciudad. No sabemos el precio de venta, y queremos obtener una estimación del mismo comparándolo con el de otras casas en el lugar.
+Digamos que somos un(a) agente de bienes raíces y nos acaban de entregar un par de casas nuevas en diferentes lugares de una ciudad. No sabemos el precio de venta, y queremos obtener una estimación de las mismas al compararlas con otras casas en el lugar.
 
-En este desafío, utilizarás un conjunto de datos de transacciones de ventas de bienes raíces para predecir el precio por unidad de una propiedad en función de características como la antigüedad de la propiedad, la disponibilidad de servicios locales y la ubicación.
+En este desafío, utilizarás un conjunto de datos de transacciones de ventas de bienes raíces para predecir el precio por unidad de una propiedad en base a sus características como la antigüedad de la propiedad, la disponibilidad de servicios locales y la ubicación.
 
 ## Paso 1: Exploración de los datos 🕵️‍️
 
@@ -73,19 +73,17 @@ El primer paso en cualquier proyecto de aprendizaje automático suele ser explor
 
 En esta sección:
 
-- Importe los datos e identifique las `características` (predictores) y las variables de `etiqueta` (resultado) con las que trabajarás.
+- Importa los datos e identifica las `características` (predictores) y las variables de `etiqueta` (resultado) con las que trabajarás.
 
-- Examine el resumen estadístico y grafique la distribución de la variable de salida, en nuestro caso: precio de una casa.
+- Examina el resumen estadístico y grafica la distribución de la variable de salida, en nuestro caso: precio de una casa.
 
-- Pruebe con valores atípicos.
+- Prueba con valores atípicos.
 
-- Examine la relación aparente entre las características numéricas y el precio de una casa utilizando la estadística de correlación y los diagramas de dispersión. 
+- Examina la relación aparente entre las características numéricas y el precio de una casa utilizando la estadística de correlación y los diagramas de dispersión. 
 
-- Examine la distribución del precio de la vivienda para cada característica categórica mediante diagramas de caja.
+- Examina la distribución del precio de la vivienda para cada característica categórica mediante diagramas de caja.
 
-- Examine the distribution of the house price for each categorical feature using boxplots.
-
-Ahora que ha explorado los datos, es tiempo de utilizarlo para entrenar un modelo de regresión que utilice las característica que identificamos como potencialmente predictivas para la etiqueta de alquilires.
+Ahora que has explorado los datos, es tiempo de utilizarlos para entrenar un modelo de regresión que utilice las características que identificamos como potencialmente predictivas para la etiqueta de alquileres.
 
 ## Paso 2: Gestión de los datos
 
@@ -95,7 +93,7 @@ En esta sección:
 
 - Establezca la partición de los datos en dos conjuntos, uno que se destine al entrenamiento y otro que se destine a la evaluación.
 
-- Extraiga los conjuntos de entrenamiento y prueba.
+- Extrae los conjuntos de entrenamiento y prueba.
 
 ## Paso 3: Crear una especificación de modelo de bosque aleatorio
 
@@ -115,9 +113,9 @@ En esta sección, establecerá una receta que:
 
 - Remueva la característica transaction_date.
 
-- Transforme la característica local_convenience_stores en categórica (factor).
+- Transforma la característica local_convenience_stores a categórica (factor).
 
-- Centre y escale todos los predictores numéricos.
+- Centra y escala todos los predictores numéricos.
 
 ## Paso 5: Crear un flujo de trabajo para el modelo y para su entrenamiento
 
@@ -125,27 +123,27 @@ Un flujo de trabajo de modelo permite al usuario unir objetos de modelado y prep
 
 En esta sección:
 
-- Cree un flujo de trabajo para el modelo.
+- Crea un flujo de trabajo para el modelo.
 
-- Entrene el modelo de random forest.
+- Entrena el modelo de random forest.
 
 ## Paso 6: Evaluar el rendimiento del modelo
 
-Una vez el modelo ha sido entrenado, querrá evaluar qué tan bien (o no) funcionará con nuevos datos. 
+Una vez el modelo ha sido entrenado, vas a querer evaluar qué tan bien (o no) funcionará con nuevos datos. 
 
 En esta sección:
 
-- Use el modelo entrenado para hacer predicciones en el `conjunto de prueba`.
+- Usa el modelo entrenado para hacer predicciones en el `conjunto de prueba`.
 
-- Evalúe las predicciones del modelo utilizando métricas como `rmse` y `R^2`.
+- Evalúa las predicciones del modelo utilizando métricas como `rmse` y `R^2`.
 
 ## Paso 7: Utilizar el modelo entrenado
 
-Si el rendimiento del modelo es el esperado, puede guardarlo para utilizarlo más adelante. Luego puede cargarlo cuando lo necesite y usarlo para predecir etiquetas para nuevos datos. Esto a menudo se llama puntuación o inferencia.
+Si el rendimiento del modelo es el esperado, puedes guardarlo para utilizarlo más adelante. Luego puedes cargarlo cuando lo necesites y usarlo para predecir etiquetas para nuevos datos. Esto a menudo se llama **puntuación o inferencia**.
 
 En esta sección:
 
-- Guarde su modelo entrenado y luego utilícelo para predecir el precio por unidad para las siguientes transacciones de bienes raíces:
+- Guarda tu modelo entrenado y luego utilízalo para predecir el precio por unidad para las siguientes transacciones de bienes raíces:
 
  | **transaction_date** | **house_age** | **transit_distance** | **local_convenience_stores** | **latitude** | **longitude** |
 |---------------------|----------------|--------------|--------|-------|------|
@@ -164,7 +162,7 @@ Existen otros talleres donde utilizar R para ciencia de datos. En este taller, a
 
 ## Práctica
 
-En este taller entrenaste un modelo sencillo para predecir el precio de viviendo en función de sus características. A veces, un profesiona de datos necesita probar diferentes modelos. Intente utilizar otros modelos mencionados en este taller. E intente ajustar algunos hiperparámetros mientras lo intenta. ¿Obtiene mejores resultados? 
+En este taller entrenaste un modelo sencillo para predecir el precio de viviendo en base a sus características. A veces, un profesional de datos necesita probar diferentes modelos. Intente utilizar otros modelos mencionados en este taller. E intente ajustar algunos hiperparámetros mientras lo intenta. ¿Obtiene mejores resultados? 
 
 ## Retroalimentación
 
