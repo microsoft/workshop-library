@@ -1,4 +1,4 @@
-[⏮️ Ir a el paso anterior](0-instalacion.md)
+[⏮️ Ir a el paso anterior](0-instalación.md)
 
 [⏭️ Ir al siguiente paso](2-agregar-contenido.md)
 
