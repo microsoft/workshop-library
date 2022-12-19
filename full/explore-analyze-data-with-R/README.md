@@ -36,7 +36,7 @@ Follow these steps to open this workshop in a Codespace:
 1. Click the Code drop-down menu and select the **Open with Codespaces** option.
 2. Select **+ New codespace** at the bottom on the pane.
 
-For more info, check out the [GitHub documentation](https://docs.github.com/en/free-pro-team@latest/github/developing-online-with-codespaces/creating-a-codespace#creating-a-codespace).
+For more info, check out the [GitHub documentation](https://docs.github.com/en/free-pro-team@latest/github/developing-online-with-codespaces/creating-a-codespace#creating-a-codespace?WT.mc_id=academic-59300-cacaste).
 
 #### Binder
 This workshop is also available on Binder. To open the notebook in a Binder environment, just click the button below.
@@ -44,7 +44,7 @@ This workshop is also available on Binder. To open the notebook in a Binder envi
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carlotta94c/workshop-library/workshop-binding?labpath=%2Ffull%2Fexplore-analyze-data-with-R%2Fsolution%2Fchallenge-Data_Exploration.ipynb)
 
 #### Learn Sandbox
-You can go through this challenge also leveraging on the Learn Sandbox environment, provided by [Unit 9](https://docs.microsoft.com/en-us/learn/modules/explore-analyze-data-with-r/9-challenge-data-exploration) of the MS Learn module -  Explore and analyze data with R. Just sign in with your Microsoft or GitHub account and click on **Activate sandbox** to start.
+You can go through this challenge also leveraging on the Learn Sandbox environment, provided by [Unit 9](https://docs.microsoft.com/en-us/learn/modules/explore-analyze-data-with-r/9-challenge-data-exploration?WT.mc_id=academic-59300-cacaste) of the MS Learn module -  Explore and analyze data with R. Just sign in with your Microsoft or GitHub account and click on **Activate sandbox** to start.
 
 #### VS Code Remote - Containers
 Follow these steps to open this workshop in a container using the VS Code Remote - Containers extension:
@@ -115,7 +115,7 @@ In this section, you will:
 
 ## Quiz
 
-Test your knowledge with [a short quiz](https://docs.microsoft.com/en-us/learn/modules/explore-analyze-data-with-r/8-knowledge-check)!
+Test your knowledge with [a short quiz](https://docs.microsoft.com/en-us/learn/modules/explore-analyze-data-with-r/8-knowledge-check?WT.mc_id=academic-59300-cacaste)!
 
 ## Next steps
 
