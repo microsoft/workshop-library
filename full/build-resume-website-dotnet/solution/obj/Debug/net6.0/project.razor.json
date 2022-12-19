@@ -1,0 +1,76 @@
+{
+  "FilePath": "c:\\Users\\kasavage\\repos\\workshop-library\\full\\build-resume-website-dotnet\\solution\\blazor-resume.csproj",
+  "Configuration": {
+    "ConfigurationName": "Default",
+    "LanguageVersion": "6.0",
+    "Extensions": []
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1000
+  },
+  "RootNamespace": "blazor-resume",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\kasavage\\repos\\workshop-library\\full\\build-resume-website-dotnet\\solution\\Shared\\NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\kasavage\\repos\\workshop-library\\full\\build-resume-website-dotnet\\solution\\Shared\\MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\kasavage\\repos\\workshop-library\\full\\build-resume-website-dotnet\\solution\\Pages\\Skill.razor",
+      "TargetPath": "Pages\\Skill.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\kasavage\\repos\\workshop-library\\full\\build-resume-website-dotnet\\solution\\Pages\\Index.razor",
+      "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\kasavage\\repos\\workshop-library\\full\\build-resume-website-dotnet\\solution\\Pages\\Education.razor",
+      "TargetPath": "Pages\\Education.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\kasavage\\repos\\workshop-library\\full\\build-resume-website-dotnet\\solution\\App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\kasavage\\repos\\workshop-library\\full\\build-resume-website-dotnet\\solution\\Pages\\FetchData.razor",
+      "TargetPath": "Pages\\FetchData.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\kasavage\\repos\\workshop-library\\full\\build-resume-website-dotnet\\solution\\Pages\\Resume.razor",
+      "TargetPath": "Pages\\Resume.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\kasavage\\repos\\workshop-library\\full\\build-resume-website-dotnet\\solution\\Pages\\Counter.razor",
+      "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\kasavage\\repos\\workshop-library\\full\\build-resume-website-dotnet\\solution\\Pages\\Experience.razor",
+      "TargetPath": "Pages\\Experience.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\kasavage\\repos\\workshop-library\\full\\build-resume-website-dotnet\\solution\\Shared\\SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\kasavage\\repos\\workshop-library\\full\\build-resume-website-dotnet\\solution\\_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}

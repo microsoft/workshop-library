@@ -1,0 +1,12 @@
+@using Types
+
+<div class="experience">
+  <h3>@data?.Title</h3>
+  <h4>@data?.CompanyName (@data?.Tenure)</h4>
+  <div>@data?.Description</div>
+</div>
+
+@code {
+    [Parameter]
+  public ExperienceModel? data { get; set; }
+}
