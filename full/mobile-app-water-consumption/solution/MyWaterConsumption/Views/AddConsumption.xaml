@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyWaterConsumption.Views.AddConsumption"
+             Title="Add Consumption">
+    <Grid RowDefinitions="*,Auto" ColumnDefinitions="*,*,*" ColumnSpacing="5">
+        <TableView Intent="Data" Grid.Row="0" Grid.ColumnSpan="3">
+            <TableRoot>
+                <TableSection Title="Consumption Info">
+                    <EntryCell Label="ID" Text="{Binding id}" IsEnabled="False" />
+                    <EntryCell Label="Consumed" Text="{Binding consumption}" />
+                    <EntryCell Label="Date" Text="{Binding dateTime}" />
+
+                </TableSection>
+            </TableRoot>
+        </TableView>
+
+        <Button Text="Save" Grid.Row="1" Grid.Column="0"  Command="{Binding SaveCommand}" Margin="20,0"/>
+
+
+    </Grid>
+</ContentPage>

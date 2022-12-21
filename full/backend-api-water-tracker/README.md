@@ -49,6 +49,9 @@ For the full instructions go here: [.NET Conf Student Zone 2022: Backend APIs](h
 
 ## Next steps
 
+Continue the Water Consumption Tracking project by building a [Water Consumption Tracking Mobile App](../mobile-app-water-consumption).
+
+Or, learn more with an API-focused learning path:
 - [Tutorial Build a web API with minimal API, ASP.NET Core, and .NET 6](https://learn.microsoft.com/training/modules/build-web-api-minimal-api/?WT.mc_id=academic-78652-leestott)
 
 
