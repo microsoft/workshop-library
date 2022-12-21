@@ -56,7 +56,7 @@ Have you ever wanted to track the amount of water you drink each day? Let’s bu
 
 ## Next steps
 
-[.NET IoT Learning Path](https://aka.ms/dotnetIOT)
+Use the data collected in this workshop to build a Machine Learning project to make water consumption predications in the [ML.NET Water Consumption Predictions Workshop](../ml-dotnet-water-tracker/).
 
 ## Feedback
 

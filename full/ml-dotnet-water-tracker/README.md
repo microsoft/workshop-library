@@ -60,7 +60,7 @@ This session can be used as a "part 2" to the [Water Consumption Tracking Worksh
 
 ## Next steps
 
-[Take this ML.NET Learning Path](https://aka.ms/TrainMLdotnet)
+Use this data to build an API in the [Backend API Water Tracker Workshop](../backend-api-water-tracker/).
 
 ## Feedback
 
