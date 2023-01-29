@@ -1,4 +1,4 @@
-[⏮️ Ir al paso anterior](6-notificaciones.md)
+[⏮️ Ir al paso anterior](./6-notificaciones.md)
 
 # Auditoría y empaquetado de tu PWA para distribuir en tiendas de aplicaciones
 
@@ -50,7 +50,7 @@ Va a usar la Microsoft Store como ejemplo y ver cómo puede enviar su aplicació
 
 1. Regresa a tu [panel de control](https://aka.ms/learn-pwa/workshop/partner.microsoft.com/dashboard/home) en Partner Center y selecciona la lista que creaste de la lista.
 2. Haz clic en `Empezar tu envío` y selecciona la sección `Paquetes`. Arrastra y suelta los paquetes generados. Haz clic en `Guardar`.
-3. Rellena el resto de las secciones de envío de tu aplicación para finalizar el envío a la tienda. Tenga en cuenta que puede tardar hasta 48 horas en completarse el proceso de revisión.
+3. Llena el resto de las secciones de envío de tu aplicación para finalizar el envío a la tienda. Tenga en cuenta que puede tardar hasta 48 horas en completarse el proceso de revisión.
 
 ## Resumen y próximos pasos
 

@@ -1,6 +1,6 @@
-[⏮️ Ir al paso anterior](3-despliegue-en-Azure.md)
+[⏮️ Ir al paso anterior](./3-despliegue-en-Azure.md)
 
-[⏭️ Ir al siguiente paso](5-registrar-trabajador-de-servicio.md)
+[⏭️ Ir al siguiente paso](./5-registrar-trabajador-de-servicio.md)
 
 # Hacer que su PWA sea instalable - agregar un manifiesto de aplicación web
 
@@ -98,11 +98,11 @@ Los manifiestos de aplicaciones web se despliegan en páginas HTML usando un ele
 
 Después de guardar el archivo de manifiesto y desplegarlo en su aplicación web estática de Azure, debería ver este botón en la barra de direcciones del navegador:
 
-![Install Repose PWA](../../images/4-install.png)
+![Instala Repose PWA](../../images/4-install.png)
 
 ## Resumen y próximos pasos
 
-Ahora puede instalar Repose como una aplicación independiente en su dispositivo. A continuación, hablaremos sobre cómo 👉🏼 [registrar Service Worker para hacer que su aplicación sea independiente de la red más soporte sin conexión.](5-registrar-trabajador-de-servicio.md)
+Ahora puede instalar Repose como una aplicación independiente en su dispositivo. A continuación, hablaremos sobre cómo 👉🏼 [registrar Service Worker para hacer que su aplicación sea independiente de la red más soporte sin conexión.](./5-registrar-trabajador-de-servicio.md)
 
 ## Recursos
 - [30 Días de PWA: 1.3 Hacer PWA instalable.](https://aka.ms/learn-pwa/workshop/30days-1.3)

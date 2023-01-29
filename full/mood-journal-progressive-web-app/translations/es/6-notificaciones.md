@@ -67,9 +67,9 @@ Ahora, veamos cómo podemos 👉🏼 ¡[auditar la PWA y prepararla para la tien
 
 ## Recursos
 - [30 Días de PWA: 1.6 Hacer una PWA Competente.](https://aka.ms/learn-pwa/workshop/30days-1.6)
-- [30 Days of PWA: 2.7 Notificando a tus usuarios de actualizaciones.](https://aka.ms/learn-pwa/workshop/30days-2.7)
+- [30 Días de PWA: 2.7 Notificando a tus usuarios de actualizaciones.](https://aka.ms/learn-pwa/workshop/30days-2.7)
 - [Documentos de Microsoft Edge: Vuelve a atraer a los usuarios con insignias, notificaciones y mensajes push.](https://aka.ms/learn-pwa/workshop/docs.microsoft.com/microsoft-edge/progressive-web-apps-chromium/how-to/notifications-badges)
-- [30 Days of PWA: Capacidades avanzadas.](https://aka.ms/learn-pwa/workshop/30days-week2)
-- [30 Days of PWA: 3.3 Herramientas de depuración - Parte 1.](https://aka.ms/learn-pwa/workshop/30days-3.3)
-- [30 Days of PWA: 3.4 Herramientas de depuración - Parte 2.](https://aka.ms/learn-pwa/workshop/30days-3.4)
-- [30 Days of PWA: 4.2 Mejores prácticas para la participación de PWA.](https://aka.ms/learn-pwa/workshop/30days-4.2)
+- [30 Días de PWA: Capacidades avanzadas.](https://aka.ms/learn-pwa/workshop/30days-week2)
+- [30 Días de PWA: 3.3 Herramientas de depuración - Parte 1.](https://aka.ms/learn-pwa/workshop/30days-3.3)
+- [30 Días de PWA: 3.4 Herramientas de depuración - Parte 2.](https://aka.ms/learn-pwa/workshop/30days-3.4)
+- [30 Días de PWA: 4.2 Mejores prácticas para la participación de PWA.](https://aka.ms/learn-pwa/workshop/30days-4.2)

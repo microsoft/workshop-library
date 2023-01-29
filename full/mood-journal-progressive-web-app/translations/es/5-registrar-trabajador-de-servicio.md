@@ -1,6 +1,6 @@
-[⏮️ Ir al paso anterior](4-agregar-manifiesto-web.md)
+[⏮️ Ir al paso anterior](./4-agregar-manifiesto-web.md)
 
-[⏭️ Ir al siguiente paso](6-notificaciones.md)
+[⏭️ Ir al siguiente paso](./6-notificaciones.md)
 
 # Hacer que su PWA sea independiente de la red y funcione sin conexión - registrar un trabajador de servicio
 
@@ -8,17 +8,17 @@ En este paso, veremos cómo se registra el trabajador de servicio. Tenga en cuen
 
 ## ¿Qué es un trabajador de servicio?
 
-[Trabajadores de servicio](https://aka.ms/learn-pwa/workshop/docs.microsoft.com/microsoft-edge/progressive-web-apps-chromium/how-to/service-workers) son un tipo especial de trabajador web con la capacidad de interceptar, modificar y responder a todas las solicitudes de red utilizando la `API Fetch`. Los trabajadores de servicio pueden acceder a la `API Cache` y a los almacenes de datos asincrónicos del lado del cliente, como `IndexedDB`, para almacenar recursos.
+[Trabajadores de servicio](https://learn.microsoft.com/es-mx/microsoft-edge/progressive-web-apps-chromium/how-to/service-workers) son un tipo especial de trabajador web con la capacidad de interceptar, modificar y responder a todas las solicitudes de red utilizando la `API Fetch`. Los trabajadores de servicio pueden acceder a la `API Cache` y a los almacenes de datos asincrónicos del lado del cliente, como `IndexedDB`, para almacenar recursos.
 
 ## ¿Cómo funcionan los trabajadores de servicio?
 
 Desde el punto de vista del desarrollo, debe conocer dos conceptos:
 
-**[Registro de trabajador de servicio:](https://aka.ms/learn-pwa/workshop/docs.microsoft.com/microsoft-edge/progressive-web-apps-chromium/how-to/service-workers)**
+**[Registro de trabajador de servicio:](https://learn.microsoft.com/es-mx/microsoft-edge/progressive-web-apps-chromium/how-to/service-workers)**
 
 Como todos los trabajadores web, el trabajador de servicio debe ser escrito en su propio archivo. La ubicación de ese archivo (en relación con la raíz de la aplicación) define el ámbito de su autoridad. Los trabajadores de servicio solo pueden interceptar o administrar solicitudes a páginas dentro de su ámbito. Colocar el archivo en la raíz de su aplicación garantiza que su trabajador de servicio administre todas las páginas dentro de ella.
 
-**[Ciclo de vida del trabajador de servicio:](https://aka.ms/learn-pwa/workshop/docs.microsoft.com/microsoft-edge/progressive-web-apps-chromium/how-to/service-workers#the-service-worker-lifecycle)**
+**[Ciclo de vida del trabajador de servicio:](https://learn.microsoft.com/es-mx/microsoft-edge/progressive-web-apps-chromium/how-to/service-workers#the-service-worker-lifecycle)**
 
 1. Registro: El navegador registra el trabajador de servicio, iniciando el ciclo de vida del trabajador de servicio.
 2. Instalación: El navegador activa `install` como el primer evento al trabajador de servicio. Puede usar esto para pre-cachear recursos (por ejemplo, rellenar la caché con recursos de larga duración como logotipos o páginas sin conexión).

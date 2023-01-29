@@ -1,6 +1,6 @@
-[⏮️ Ir al paso anterior](1-crear-pwa.md)
+[⏮️ Ir al paso anterior](./1-crear-pwa.md)
 
-[⏭️ Ir al siguiente paso](3-despliegue-en-Azure.md)
+[⏭️ Ir al siguiente paso](./3-despliegue-en-Azure.md)
 
 # Agregar contenido a tu PWA
 
@@ -145,7 +145,7 @@ Ahora, agreguemos una sección de héroe - la primera cosa que ven las personas 
 
 Siempre que necesites agregar un nuevo componente reutilizable a tu aplicación, debes agregarlo a la carpeta `src/script/components`. Los componentes reutilizables comunes son: encabezado, navegación y pie de página. En Repose, agregaremos un nuevo componente reutilizable llamado `hero-decor`. Esta es la imagen del héroe que se mostrará como fondo en la página de inicio y en la página del diario.
 
-1. Crea un componente decorativo de héroe llamado `hero-decor.ts` en la carpeta `./src/script/components/` que se renderice como fondo de la sección del héroe. Importa este componente en el archivo `app-index.ts` con `import './script/components/hero-decor';` en la línea 8 después de la importación del componente de encabezado. Y copia el código de [este archivo hero-decor](../../solution/02-repose/src/script/components/hero-decor.ts) a él. Puedes usar tu propia imagen o diseño y agregar css personalizado para personalizarlo a tu manera.
+1. Crea un componente decorativo de héroe llamado `hero-decor.ts` en la carpeta `./src/script/components/` que se renderice como fondo de la sección del héroe. Importa este componente en el archivo `app-index.ts` con `import './script/components/hero-decor';` en la línea 8 después de la importación del componente de encabezado. Y copia el código de [este archivo hero-decor](../../solution/02-repose/src/script/components/hero-decor.ts) a él. Puedes usar tu propia imagen o diseño y agregar CSS para modificarlo a tu manera.
 
 ## Copiar archivos de recursos, estilos y otros
 
@@ -206,8 +206,8 @@ Hagamos un breve resumen de lo que hiciste en este paso:
 
 Algo que debes considerar para los próximos pasos si estás construyendo una aplicación lista para producción: en lugar de usar `localforage`, que almacena las entradas de registro en el indexDB del almacenamiento de tu navegador local, debes considerar usar una solución de almacenamiento más persistente.
 
-¡A continuación, hagamos que la aplicación Repose 👉🏼 [segura (paso 3)](3-despliegue-a-Azure.md), [instalable (paso 4)](4-agregar-manifiesto-web.md), [independiente de la red (paso 5) y funcione sin conexión (paso 5)](5-registrar-trabajador-de-servicio.md)!
+¡A continuación, hagamos que la aplicación Repose 👉🏼 [segura (paso 3)](./3-despliegue-en-Azure.md), [instalable (paso 4)](./4-agregar-manifiesto-web.md), [independiente de la red (paso 5) y funcione sin conexión (paso 5)](./5-registrar-trabajador-de-servicio.md)!
 
 ## Recursos
 - [Módulo de Microsoft Learn: Construye un sitio web simple usando HTML, CSS y JavaScript](https://aka.ms/learn-pwa/workshop/docs.microsoft.com/learn/modules/build-simple-website/)
-- [Workshop: Construye un sitio web para mostrar tu currículum](https://aka.ms/learn-pwa/workshop/github.com/microsoft/workshop-library/tree/main/full/build-resume-website)
+- [Taller: Construye un sitio web para mostrar tu currículum](https://aka.ms/learn-pwa/workshop/github.com/microsoft/workshop-library/tree/main/full/build-resume-website)

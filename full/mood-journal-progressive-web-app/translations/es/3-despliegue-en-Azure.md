@@ -1,6 +1,6 @@
-[⏮️ Ir al paso anterior](2-agregar-contenido.md)
+[⏮️ Ir al paso anterior](./2-agregar-contenido.md)
 
-[⏭️ Ir al siguiente paso](4-agregar-manifiesto-web.md)
+[⏭️ Ir al siguiente paso](./4-agregar-manifiesto-web.md)
 
 # Hacer que tu PWA sea segura - despliégala en un punto de acceso HTTPS
 
@@ -12,9 +12,9 @@ Empecemos hablando sobre los tres bloques de construcción principales para el d
 
 **[HTTPS](https://developer.mozilla.org/es/docs/Glossary/https)** - hace que tu PWA sea segura. En este paso, describiremos cómo desplegar nuestra PWA en un punto de acceso HTTPS.
 
-**[Manifiesto de aplicación web](https://aka.ms/learn-pwa/workshop/docs.microsoft.com/microsoft-edge/progressive-web-apps-chromium/how-to/web-app-manifests)** - hace que tu PWA sea instalable. En el [paso 4](./4-agregar-manifiesto-web.md), describiremos cómo agregar un manifiesto de aplicación web a la PWA.
+**[Manifiesto de aplicación web](https://learn.microsoft.com/es-mx/microsoft-edge/progressive-web-apps-chromium/how-to/web-app-manifests)** - hace que tu PWA sea instalable. En el [paso 4](./4-agregar-manifiesto-web.md), describiremos cómo agregar un manifiesto de aplicación web a la PWA.
 
-**[Trabajadores de servicio](https://aka.ms/learn-pwa/workshop/docs.microsoft.com/microsoft-edge/progressive-web-apps-chromium/how-to/service-workers)** - hace que tu PWA sea confiable e independiente de la red. En el [paso 5](./5-registrar-trabajador-de-servicio.md), describiremos cómo registrar un trabajador de servicio para la PWA.
+**[Trabajadores de servicio](https://learn.microsoft.com/es-mx/microsoft-edge/progressive-web-apps-chromium/how-to/service-workers)** - hace que tu PWA sea confiable e independiente de la red. En el [paso 5](./5-registrar-trabajador-de-servicio.md), describiremos cómo registrar un trabajador de servicio para la PWA.
 
 ## Opciones de HTTPS
 
@@ -37,7 +37,7 @@ Empecemos hablando sobre los tres bloques de construcción principales para el d
 
 ## Resumen y próximos pasos
 
-Ahora has desplegado Repose en un Azure Static Web App. Vamos a 👉🏼 [agregar todos los miembros necesarios al archivo de manifiesto de la aplicación web para que Repose sea instalable](4-agregar-manifiesto-web.md).
+Ahora has desplegado Repose en un Azure Static Web App. Vamos a 👉🏼 [agregar todos los miembros necesarios al archivo de manifiesto de la aplicación web para que Repose sea instalable](./4-agregar-manifiesto-web.md).
 
 ## Recursos
 - [30 Días de PWA: 1.4 Hacer PWA confiable.](https://aka.ms/learn-pwa/workshop/30days-1.4)

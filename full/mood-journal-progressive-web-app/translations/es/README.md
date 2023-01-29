@@ -11,8 +11,7 @@
 | **Lo que necesitarás** | Un navegador web moderno como [Microsoft Edge](https://aka.ms/learn-pwa/workshop/edge). Un editor de código como [Visual Studio Code](https://aka.ms/learn-pwa/workshop/vscode). [Git](https://git-scm.com/downloads). [Node.js](https://nodejs.org/en/). |
 | **Duración** | 1 - 1.5 horas |
 | **Temas de Microsoft Cloud que se enseñan** | Aplicaciones Web Estáticas de Azure |
-| **¿Solo quieres probar la aplicación o ver la solución?** | [Repose](https://gentle-mud-08de3661e.1.azurestaticapps.net/) |
-| **Diapositivas** | [Powerpoint](diapositivas.pptx) |
+| **Diapositivas** | [Powerpoint](./diapositivas.pptx) |
 | **Autor** | [Beth Pan](https://twitter.com/beth_panx) |
 
 ## Requisitos previos
@@ -32,14 +31,14 @@ Para el final de este taller, crearás un diario de estado de ánimo como aplica
 
 ## Pasos del taller
 
-0. [Configura tu entorno.](0-instalación.md)
-1. [Crea una nueva aplicación web progresiva usando PWA Studio.](1-crear-pwa.md) ([solución: 01-starter](../../solution/01-starter/))
-2. [Agrega funcionalidades como el seguimiento de estado de ánimo y el diario.](2-agregar-contenido.md) ([solución: 02-repose](../../solution/02-repose/))
-3. [Haz que la PWA sea segura - despliega la PWA en un punto final HTTPS.](3-despliegue-en-Azure.md) ([solución: 03-repose-PWA](../../solution/03-repose-PWA/))
-4. [Haz que la PWA sea instalable - agrega un manifiesto de aplicación web a la PWA.](4-agregar-manifiesto-web.md) ([solución: 03-repose-PWA](../../solution/03-repose-PWA/public/manifest.json))
-5. [Haz que la PWA sea independiente de la red y funcione sin conexión - registra un service worker para la PWA.](5-registrar-trabajador-de-servicio.md) ([solución: 03-repose-PWA](../../solution/03-repose-PWA/))
-6. [Haz que la PWA sea atractiva - habilita las notificaciones push.](6-notificaciones.md) ([solución: 04-notificaciones](../../solution/04-notifications/))
-7. [Audita y empaqueta la PWA para distribuirla en las tiendas de aplicaciones.](7-listo-para-la-tienda.md)
+0. [Configura tu entorno.](./0-instalación.md)
+1. [Crea una nueva aplicación web progresiva usando PWA Studio.](./1-crear-pwa.md) ([solución: 01-starter](../../solution/01-starter/))
+2. [Agrega funcionalidades como el seguimiento de estado de ánimo y el diario.](./2-agregar-contenido.md) ([solución: 02-repose](../../solution/02-repose/))
+3. [Haz que la PWA sea segura - despliega la PWA en un punto final HTTPS.](./3-despliegue-en-Azure.md) ([solución: 03-repose-PWA](../../solution/03-repose-PWA/))
+4. [Haz que la PWA sea instalable - agrega un manifiesto de aplicación web a la PWA.](./4-agregar-manifiesto-web.md) ([solución: 03-repose-PWA](../../solution/03-repose-PWA/public/manifest.json))
+5. [Haz que la PWA sea independiente de la red y funcione sin conexión - registra un service worker para la PWA.](./5-registrar-trabajador-de-servicio.md) ([solución: 03-repose-PWA](../../solution/03-repose-PWA/))
+6. [Haz que la PWA sea atractiva - habilita las notificaciones push.](./6-notificaciones.md) ([solución: 04-notificaciones](../../solution/04-notifications/))
+7. [Audita y empaqueta la PWA para distribuirla en las tiendas de aplicaciones.](./7-listo-para-la-tienda.md)
 
 ## Comentarios
 
