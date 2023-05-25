@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = blazor-resume
+build_property.RootNamespace = blazor-resume
+build_property.ProjectDir = c:\Users\kasavage\repos\workshop-library\full\build-resume-website-dotnet\solution\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\kasavage\repos\workshop-library\full\build-resume-website-dotnet\solution
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/kasavage/repos/workshop-library/full/build-resume-website-dotnet/solution/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/kasavage/repos/workshop-library/full/build-resume-website-dotnet/solution/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/kasavage/repos/workshop-library/full/build-resume-website-dotnet/solution/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/kasavage/repos/workshop-library/full/build-resume-website-dotnet/solution/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/kasavage/repos/workshop-library/full/build-resume-website-dotnet/solution/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/kasavage/repos/workshop-library/full/build-resume-website-dotnet/solution/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/kasavage/repos/workshop-library/full/build-resume-website-dotnet/solution/Pages/Education.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWR1Y2F0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-xfa40ljqdo
+
+[c:/Users/kasavage/repos/workshop-library/full/build-resume-website-dotnet/solution/Pages/Experience.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhwZXJpZW5jZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-ql6qvd5f90
+
+[c:/Users/kasavage/repos/workshop-library/full/build-resume-website-dotnet/solution/Pages/Resume.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzdW1lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-ef787q5r70
+
+[c:/Users/kasavage/repos/workshop-library/full/build-resume-website-dotnet/solution/Pages/Skill.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2tpbGwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-fdtsy5gxpv
+
+[c:/Users/kasavage/repos/workshop-library/full/build-resume-website-dotnet/solution/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-dzquth23sh
+
+[c:/Users/kasavage/repos/workshop-library/full/build-resume-website-dotnet/solution/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-n43x5fw5ul

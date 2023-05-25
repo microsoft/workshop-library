@@ -1,0 +1,12 @@
+@using Types
+
+<div class="skill">
+  <h3>@data?.Name</h3>
+  <span>@data?.EstimatedLevel</span> -
+  <span>@data?.EstimatedDescription</span>
+</div>
+
+@code {
+  [Parameter]
+  public SkillModel? data { get; set; }
+}

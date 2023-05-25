@@ -17,7 +17,7 @@ Ahora, necesitamos activar GitHub Pages para el repositorio de nuestro **curríc
 1. Navega por tu repositorio desde GitHub.com, y selecciona **Configuraciones**, al lado del ícono de un engranaje. 
 1. Selecciona **Pages** en el menú del lado izquierdo. 
 1. Debajo de **Fuente** selecciona la rama **principal o main** de tu repositorio para ser la fuente de tu nueva página web. Luego, selecciona **Guardar**. 
-![La configuración de GitHub Pages, mostrando la rama principal seleccionada como fuente.](./images/select-pages-source.png)
+![La configuración de GitHub Pages, mostrando la rama principal seleccionada como fuente.](../../images/select-pages-source.png)
 1. Después de seleccioanr tu fuente, serás notificado por tu correo sobre tu nueva página web. Ésta debería aparecer como *tu-usuario.github.io/currículum/*. ¡Navega por la página y revisa la página web de tu currículum desplegada!
 
 ## Quiz

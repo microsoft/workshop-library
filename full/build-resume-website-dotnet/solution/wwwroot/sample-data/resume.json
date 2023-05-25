@@ -1,0 +1,58 @@
+{
+  "about" : ".NET developer with a proven track record and with a growth mindset. Additional skills in HTML and JavaScript and CSS",
+  "experiences" : [{
+    "companyname": "Microsoft",
+    "title" : "Software developer",
+    "tenure" : "2020-2022",
+    "description" : "Software developer. As part of a team, built 2 services that served 20 000 users and improved the service's profit by 10%"
+  },
+  {
+    "companyname": "Microsoft",
+    "title" : "Gold Student Ambassador",
+    "tenure" : "2018-2020",
+    "description" : "As a student ambassador, delivered more than 40 workshops reaching 10 000 students"
+  },
+  {
+    "companyname": "Callcenter Ltd",
+    "title" : "Technical support",
+    "tenure" : "2018",
+    "description" : "Helping customers with technical issues using Microsoft products"
+  }],
+  "educations": [
+    {
+      "name": "Bachelor of Science in Computer Engineering",
+      "degreeyear": "2022",
+      "description": "Education covering algorithms, programming, operating systems and databases"
+    }
+  ],
+  "skills" : [{
+    "name" : "C#",
+    "estimatedlevel" : 5,
+    "estimateddescription" : "Excellent"
+  },
+  {
+    "name" : ".NET",
+    "estimatedlevel" : 5,
+    "estimateddescription" : "Excellent"
+  },
+  {
+    "name" : "ASP .NET",
+    "estimatedlevel" : 5,
+    "estimateddescription" : "Excellent"
+  },
+  {
+    "name" : "HTML",
+    "estimatedlevel" : 4,
+    "estimateddescription" : "Good"
+  },
+  {
+    "name" : "JavaScript",
+    "estimatedlevel" : 4,
+    "estimateddescription" : "Good"
+  },
+  {
+    "name" : "CSS",
+    "estimatedlevel" : 3,
+    "estimateddescription" : "Competent"
+  }]
+}
