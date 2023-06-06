@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyWaterConsumption.Views.History"
+             Title="History">
+    <VerticalStackLayout>
+        <Button Text="Add New Part" Margin="20, 10, 20, 10" Command="{Binding AddConsumptionCommand}" />
+        <RefreshView IsRefreshing="{Binding IsRefreshing}" x:Name="refreshView" 
+                     Command="{Binding LoadDataCommand}">
+            <CollectionView  Margin="30,20,30,30"
+                             ItemsSource="{Binding Consumptions}"                             
+                             >
+                <CollectionView.ItemsLayout>
+                    <LinearItemsLayout Orientation="Vertical" ItemSpacing="20" />
+                </CollectionView.ItemsLayout>
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <VerticalStackLayout Padding="15,10" Margin="10,5,10,5">
+                            <Label Text="{Binding id, StringFormat='ID: {0}'}" FontSize="Title" Margin="0,0,0,20" />
+                            <Label Text="{Binding consumption, StringFormat='Water Consumed: {0}'}" />
+                            <Label Text="{Binding dateTime, StringFormat='Date: {0}'}" />
+                        </VerticalStackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </RefreshView>
+    </VerticalStackLayout>
+</ContentPage>

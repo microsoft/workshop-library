@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="MyWaterConsumption.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:views="clr-namespace:MyWaterConsumption.Views"
+    xmlns:local="clr-namespace:MyWaterConsumption"
+    Shell.FlyoutBehavior="Disabled">
+
+    <TabBar>
+        <Tab Title="Home"
+           
+            Icon="icons8-history-book-50.png">
+
+            <ShellContent ContentTemplate="{DataTemplate local:MainPage}"
+                          Route="MainPage"/>
+        </Tab>
+        <Tab Title="History"
+             
+            Icon="icons8-history-book-50.png">
+            <ShellContent ContentTemplate="{DataTemplate views:History}"
+                          Route="History"/>
+
+        </Tab>
+
+        <Tab Title="Add"
+             FlyoutItemIsVisible="False">
+
+            <ShellContent 
+        Route="AddConsumption"
+        ContentTemplate="{DataTemplate views:AddConsumption}"/>
+
+        </Tab>
+    </TabBar>
+
+</Shell>
