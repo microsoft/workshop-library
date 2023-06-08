@@ -43,7 +43,7 @@ The current AI trends are coming with a lot of acronyms. A great way to get your
 
 Acronyms we use include: AI, NLP, LLM, GPT
 
-*(you can find all speaker notes, descriptions and delivery in the [Powerpoint](slides.pptx) and the [Video](https://www.youtube.com/watch?v=qaHNgr2CQ4o "workshop walk-through"))*
+*(you can find all speaker notes, descriptions + answers to acronym questions and delivery in the [Powerpoint](slides.pptx) and the [Video](https://www.youtube.com/watch?v=qaHNgr2CQ4o "workshop walk-through"))*
 
 We recommend creating your poll using [Microsoft Forms Poll feature](https://forms.microsoft.com/).
 Take a look at the places you could integrate the Forms Poll into your work no matter what platform you are presenting on - [4 Ways to use polls to make your meeting more engaging](https://techcommunity.microsoft.com/t5/microsoft-forms-blog/four-ways-to-use-polls-to-make-your-meetings-more-engaging/ba-p/2757267)
