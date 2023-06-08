@@ -37,7 +37,7 @@ In this workshop, attendees will learn about how AI has been infused across the 
 
 In this segment, we'll start by introducing what are the main innovations that are revolutionizing the AI landscape and their impact on societies.
 
-**Bonus: Audience interactivity**
+**Bonus: Audience Interactivity**
 
 The current AI trends are coming with a lot of acronyms. A great way to get your audience involved and active in your talk right away is to include a short quiz where they submit answers for acronyms.
 
