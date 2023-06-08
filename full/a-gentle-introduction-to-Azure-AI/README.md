@@ -26,7 +26,7 @@ In this workshop, we will discuss the reason behind the extraordinary media hype
 
 To replicate the demo included in the workshop on your own Azure subscription you'll need to:
 1.	Create an Azure Subscription. If you are a student claim your [Azure for Students benefit](https://azure.microsoft.com/free/students/?WT.mc_id=academic-97358-cacaste) (no credit card required), otherwise sign up for an [Azure free trial](https://azure.microsoft.com/pricing/offers/ms-azr-0044p/).
-2.  [Review the limited access policy](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/limited-access?context=%2Fazure%2Fcognitive-services%2Fopenai%2Fcontext%2Fcontext&WT.mc_id=academic-97358-cacaste) to Azure OpenAI service.
+2.  [Review the limited access policy](https://learn.microsoft.com/legal/cognitive-services/openai/limited-access?context=%2Fazure%2Fcognitive-services%2Fopenai%2Fcontext%2Fcontext&WT.mc_id=academic-97358-cacaste) to Azure OpenAI service.
 3.	[Apply for access to the Azure OpenAI Service](https://aka.ms/oai/access)
 
 ## What attendees will learn
