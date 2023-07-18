@@ -9,11 +9,11 @@ import BookmarkAdd from '@mui/icons-material/BookmarkAddOutlined';
 
 var today = new Date();
 var dd = String(today.getDate()).padStart(2, '0');
-var mm = String(today.getMonth() +1).padStart(2, '0');
+var mm = String(today.getMonth() + 1).padStart(2, '0');
 var yyyy = today.getFullYear();
 today = mm + '/' + dd + '/' + yyyy;
 
-export default function PriceTag() {
+export default function PriceTag({ itemsNo, totalCost }) {
   return (
     <Card variant="outlined" sx={{ width: 320 }}>
       <div>
@@ -42,13 +42,13 @@ export default function PriceTag() {
         <div>
           <Typography level="body3">Total price:</Typography>
           <Typography fontSize="lg" fontWeight="lg">
-            $--
+            ${totalCost}
           </Typography>
         </div>
         <div>
           <Typography level="body3">Total items:</Typography>
           <Typography fontSize="lg" fontWeight="lg">
-            --
+            {itemsNo}
           </Typography>
         </div>
         <Button
