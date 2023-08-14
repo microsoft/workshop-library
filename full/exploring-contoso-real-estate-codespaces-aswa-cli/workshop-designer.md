@@ -1,30 +1,31 @@
 
-# JavaScript Portfolio Site with GitHub Codespaces
+# Exploring Contoso Real Estate project with Codespaces and Azure Static Web Apps
 
 ## Workshop Source
 
-https://github.com/microsoft/codespaces-project-template-js
+https://github.com/microsoft/Reactors/tree/main/devops-devtools/contoso-real-estate
 
 ## Stage 1: Desired Results
 
-Students will be skilled on how to use Codespaces through using a template project to deploy their own portfolio web application in React.  
+Students will be skilled on how to use Codespaces, understand the Contoso Real Estate project, Azure Static Web App CLI and how to deploy to Azure Static Web Apps.
 
 Includes:
 
 * Utilizing Codespaces for development, using only web browser
-* Learn web development
-* Deploy to GitHub Pages
+* Understand composable architecture
+* Use basic Linux commands to manipulate files
+* Use Azure Static Web Apps CLI
 * Deploy to Azure Static Web Apps
 
 ## Stage 2: Evidence
 
-Students will have a customized and deployed portfolio web application they can continue to use to highlight their contributions as they complete additional projects. 
+Students will have to create a new `portal` component. Challenge them to customize the site, making few changes to the CSS and HTML using GitHub Copilot and deploy to Azure Static Web Apps.
 
 ## Stage 3: Learning Plan
 
-* Create own repository from template repository
+* Create a fork of the Contoso Real Estate project
 * Launch project within Codespaces
-* Customize site to their information within Codespaces
+* Customize site with GitHub Copilot
 * Run the web application within their Codespace
-* Deploy web application (portfolio site) to Azure Static Web Apps or GitHub pages
+* Deploy to Azure Static Web Apps
 * Browse the deployed app in a browser

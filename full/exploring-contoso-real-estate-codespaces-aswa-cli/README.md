@@ -12,7 +12,7 @@ The project demonstrates best development practices such as the use of monorepo 
 
 ## 📚 About this workshop
 - **Duration:**  60 minutes  
-- **Slides:** [slides](./slides.pptx)
+- **Slides:** [slides](https://github.com/microsoft/Reactors/tree/main/devops-devtools/contoso-real-estate/content/presentation)
 
 ### ⭐️ Learning objectives
 
@@ -45,8 +45,13 @@ You can also configure your development container to run a specific runtime and 
 
 This workshop includes the setup needed for you to deploy **free** to [Azure Static Web Apps](https://azure.microsoft.com/products/app-service/static/?WT.mc_id=academic-101248-cyzanon).
 
+## Video
 
-## 📚 Resources
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W_35cOyBexA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+> 🎥 Click to watch Cynthia and Glaucia walk you through the workshop material and to gain some tips about delivering this workshop.
+
+## 📚 Pre-learning Resources
 
 * [🎥 Codespaces Tutorial](https://aka.ms/CodespacesVideoTutorial)
 * [Codespaces](https://github.com/features/codespaces)
@@ -55,6 +60,6 @@ This workshop includes the setup needed for you to deploy **free** to [Azure Sta
 
 ## 🔎 Feedback
 
-Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR/?WT.mc_id=academic-80067-sagibbon)!
+Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)!
 
 [Code of Conduct](../../CODE_OF_CONDUCT.md)
