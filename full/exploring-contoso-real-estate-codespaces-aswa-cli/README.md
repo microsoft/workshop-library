@@ -13,6 +13,8 @@ The project demonstrates best development practices such as the use of monorepo 
 ## 📚 About this workshop
 - **Duration:**  60 minutes  
 - **Slides:** [slides](https://github.com/microsoft/Reactors/tree/main/devops-devtools/contoso-real-estate/content/presentation)
+- **Microsoft Learn module:** [Challenge project - Build a minigame console app with GitHub Copilot
+](https://learn.microsoft.com/en-us/training/modules/challenge-project-create-mini-game-with-copilot/?WT.mc_id=academic-101248-cyzanon)
 
 ### ⭐️ Learning objectives
 
