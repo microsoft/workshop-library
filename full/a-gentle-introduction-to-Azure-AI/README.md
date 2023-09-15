@@ -10,7 +10,7 @@ In this workshop, we will discuss the reason behind the extraordinary media hype
 | **What you'll need**          | *[Azure subscription](https://azure.microsoft.com), [Azure OpenAI service access](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu), [GitHub](https://github.com/)* |
 | **Duration**                  | *1h*                                                                |
 | **Microsoft Cloud Topics taught**                  | *Azure Cognitive Services*                                                                |
-| **Just want to try the app or see the solution?** | *https://github.com/Azure-Samples/azure-search-openai-demo/*                          |
+| **Just want to try the app or see the solution?** | *[github.com/Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo/?WT.mc_id=academic-97358-cacaste)*                          |
 | **Slides** | [Powerpoint](slides.pptx) 
                          
 ## Video
@@ -27,7 +27,7 @@ In this workshop, we will discuss the reason behind the extraordinary media hype
 To replicate the demo included in the workshop on your own Azure subscription you'll need to:
 1.	Create an Azure Subscription. If you are a student claim your [Azure for Students benefit](https://azure.microsoft.com/free/students/?WT.mc_id=academic-97358-cacaste) (no credit card required), otherwise sign up for an [Azure free trial](https://azure.microsoft.com/pricing/offers/ms-azr-0044p/).
 2.  [Review the limited access policy](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/limited-access?context=%2Fazure%2Fcognitive-services%2Fopenai%2Fcontext%2Fcontext&WT.mc_id=academic-97358-cacaste) to Azure OpenAI service.
-3.	[Apply for access to the Azure OpenAI Service](https://aka.ms/oai/access)
+3.	[Apply for access to the Azure OpenAI Service](https://aka.ms/oai/access). Note that if your application doesn't match the [acceptance criteria](https://learn.microsoft.com/legal/cognitive-services/openai/limited-access?context=%2Fazure%2Fcognitive-services%2Fopenai%2Fcontext%2Fcontext&WT.mc_id=academic-97358-cacaste), you can rely on the [OpenAI public APIs](https://platform.openai.com/docs/api-reference/introduction) to build your prototype.
 
 ## What attendees will learn
 
