@@ -31,8 +31,10 @@ It showcases 3 different types of scenarios and corresponding behaviors:
 
 
 ## Do you wish to replicate the demo?
-To replicate the demo you can refer to the step-by-step tutorial provided in the [original GitHub Repo](https://github.com/Azure-Samples/azure-search-openai-demo), hosting the application code, the Contoso data and the script to deploy the required resources.
+To replicate the demo you can refer to the step-by-step tutorial provided in the [original GitHub Repo](https://github.com/Azure-Samples/azure-search-openai-demo?WT.mc_id=academic-97358-cacaste), hosting the application code, the Contoso data and the script to deploy the required resources.
 
 To get started you'll need an **Azure subscription with access enabled for the Azure OpenAI service**. You can request access [here](https://aka.ms/oaiapply). You can also visit [here](https://azure.microsoft.com/free/cognitive-search/) to get some free Azure credits. If you are a student, claim your Azure for Student trial [here](https://azure.microsoft.com/free/students/?WT.mc_id=academic-97358-cacaste).
+
+Note that if you can't get access to Azure OpenAI service, because your application doesn't match the [acceptance criteria](https://learn.microsoft.com/legal/cognitive-services/openai/limited-access?context=%2Fazure%2Fcognitive-services%2Fopenai%2Fcontext%2Fcontext&?WT.mc_id=academic-97358-cacaste), you can rely on the [OpenAI public APIs](https://platform.openai.com/docs/api-reference/introduction) to build your prototype. Instructions on how to enable a non-Azure OpenAI endpoint in your solution are included in the [original GitHub Repo](https://github.com/Azure-Samples/azure-search-openai-demo?WT.mc_id=academic-97358-cacaste).
 
 
