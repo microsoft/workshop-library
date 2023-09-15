@@ -26,7 +26,7 @@ In this workshop, we will discuss the reason behind the extraordinary media hype
 
 To replicate the demo included in the workshop on your own Azure subscription you'll need to:
 1.	Create an Azure Subscription. If you are a student claim your [Azure for Students benefit](https://azure.microsoft.com/free/students/?WT.mc_id=academic-97358-cacaste) (no credit card required), otherwise sign up for an [Azure free trial](https://azure.microsoft.com/pricing/offers/ms-azr-0044p/).
-2.  [Review the limited access policy](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/limited-access?context=%2Fazure%2Fcognitive-services%2Fopenai%2Fcontext%2Fcontext&WT.mc_id=academic-97358-cacaste) to Azure OpenAI service.
+2.  [Review the limited access policy](https://learn.microsoft.com/legal/cognitive-services/openai/limited-access?context=%2Fazure%2Fcognitive-services%2Fopenai%2Fcontext%2Fcontext&WT.mc_id=academic-97358-cacaste) to Azure OpenAI service.
 3.	[Apply for access to the Azure OpenAI Service](https://aka.ms/oai/access). Note that if your application doesn't match the [acceptance criteria](https://learn.microsoft.com/legal/cognitive-services/openai/limited-access?context=%2Fazure%2Fcognitive-services%2Fopenai%2Fcontext%2Fcontext&WT.mc_id=academic-97358-cacaste), you can rely on the [OpenAI public APIs](https://platform.openai.com/docs/api-reference/introduction) to build your prototype.
 
 ## What attendees will learn
@@ -35,7 +35,18 @@ In this workshop, attendees will learn about how AI has been infused across the 
 
 ## Milestone 1: What's behind the AI media hype
 
-In this segment, we'll start by introducing what are the main innovations that are revolutionizing the AI landscape and their impact on societies. 
+In this segment, we'll start by introducing what are the main innovations that are revolutionizing the AI landscape and their impact on societies.
+
+**Bonus: Audience Interactivity**
+
+The current AI trends are coming with a lot of acronyms. A great way to get your audience involved and active in your talk right away is to include a short quiz where they submit answers for acronyms.
+
+Acronyms we use include: AI, NLP, LLM, GPT
+
+*(you can find all speaker notes, descriptions + answers to acronym questions and delivery in the [Powerpoint](slides.pptx) and the [Video](https://www.youtube.com/watch?v=qaHNgr2CQ4o "workshop walk-through"))*
+
+We recommend creating your poll using [Microsoft Forms Poll feature](https://forms.microsoft.com/).
+Take a look at the places you could integrate the Forms Poll into your work no matter what platform you are presenting on - [4 Ways to use polls to make your meeting more engaging](https://techcommunity.microsoft.com/t5/microsoft-forms-blog/four-ways-to-use-polls-to-make-your-meetings-more-engaging/ba-p/2757267)
 
 ## Milestone 2: How a Large Language Model works
 
