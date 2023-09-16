@@ -10,7 +10,6 @@ In this workshop, we will discuss the concept of version control which is the fo
 | **What you'll need**          | *[Git](https://git-scm.com/)*, *[GitHub](https://github.com/)*                                             |
 | **Duration**                  | *1h*                                                                                                       |
 | **Microsoft Cloud Topics taught**                  | *Git*, *GitHub*                                                                       |
-| **Just want to try the app or see the solution?**  | *[Solution](./Solution/)*                                                             |
 | **Slides**                                         | *[Powerpoint](slides.pptx)*                                                           |
 
 ## Video
