@@ -41,3 +41,9 @@ Commit changes
 Push changes
 
 Create a pull request
+
+## Summary
+
+Congratulations! You have successfully created and cloned a GitHub repository. The repository you created can be shared with anyone which enables you to collaborate with others. You have also made your first contribution to another project. If you want to continue to grow your skills:
+
+- 
