@@ -100,4 +100,5 @@ Create a pull request
 
 Congratulations! You have successfully created and cloned a GitHub repository. The repository you created can be shared with anyone which enables you to collaborate with others. You have also made your first contribution to another project. If you want to continue to grow your skills:
 
-- 
+- Learn more about ]GitHub on Microsoft Learn](https://learn.microsoft.com/training/github/).
+- Finish [Introduction to version control with Git](https://learn.microsoft.com/training/paths/intro-to-vc-git/) learning path.
