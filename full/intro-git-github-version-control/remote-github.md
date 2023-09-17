@@ -32,9 +32,9 @@ While working locally may seem enough for some people sometimes we need to colla
 
 3. Inside Git Bash, execute the following command replacing the URL with the URL you copied earlier
 
-```bash
-git clone https://github.com/YOUR-USERNAME/hello-world
-```
+    ```bash
+    git clone https://github.com/YOUR-USERNAME/hello-world
+    ```
 
 This command:
 - takes the path to an existing repository
@@ -49,33 +49,33 @@ directory
 
 1. Inside Git Bash, execute the following command to change the directory to the newly cloned repository's directory
 
-```bash
-cd hello-world
-```
+    ```bash
+    cd hello-world
+    ```
 
 2. Inside Git Bash, execute the following command to make some changes
 
-```bash
-echo "My first sentence on GitHub." > new-file.txt
-```
+    ```bash
+    echo "My first sentence on GitHub." > new-file.txt
+    ```
 
 3. Inside Git Bash, execute the following command to add the changes
 
-```bash
-git add .
-```
+    ```bash
+    git add .
+    ```
 
 4. Inside Git Bash, execute the following command to add the changes
 
-```bash
-git commit -m "Initial commit"
-```
+    ```bash
+    git commit -m "Initial commit"
+    ```
 
 5. Inside Git Bash, execute the following command to push the changes to GitHub
 
-```bash
-git push
-```
+    ```bash
+    git push
+    ```
 
 
 ## Contributing on GitHub
