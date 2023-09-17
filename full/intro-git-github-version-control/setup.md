@@ -11,7 +11,7 @@ On MacOS / Windows:
 2. Download the software for Mac/Windows.
 3. Install Git choosing all of the default options.
 
-On Linux:
+On Linux, execute the following command:
 ```bash
 sudo apt-get install git
 ```
@@ -39,9 +39,9 @@ Open Git bash and execute the following Commands:
     git config --global color.ui auto
     ```
 
-3. Configure Git with your Code Editor:
+3. Configure Git with your code editor:
 
-    i. For Atom Editor, execute the following command:
+    i. For Atom editor, execute the following command:
 
     ```bash
     git config --global core.editor "atom --wait"
