@@ -53,7 +53,8 @@ git add .
 ```
 
 > [!NOTE]
-> The dot (.) here means all the changes instead of using it we can add the names of each changed file individually.
+> The dot (.) here means all the changes.
+> Instead of using it we can add the names of each changed file individually.
 
 ## Committing Changes
 
