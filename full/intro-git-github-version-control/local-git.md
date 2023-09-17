@@ -59,7 +59,7 @@ git add .
 
 ## Committing Changes
 
-The "commit" command is used to save your changes to the local repository as it captures a snapshot of the project's currently staged changes. Committed snapshots can be thought of as “safe” versions of a project. Git will never change them unless you explicitly ask it to.
+The "commit" command is used to save your changes to the local repository as it captures a snapshot of the project's currently staged changes. Committed snapshots can be thought of as "safe" versions of a project. Git will never change them unless you explicitly ask it to.
 
 Inside git bash, execute the following command to commit all the changes
 
