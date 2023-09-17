@@ -13,16 +13,11 @@ As a result of the workshop, students will have Git installed and configured wit
 
 Workshop milestones:
 - Learn about Version Control.
-- Install Git.
-- Configure Git.
+- Install and configure Git.
 - Create a Git local repository.
-- Make changes in the local repository.
-- Add and commit the changes.
+- Make changes, add, and commit them.
 - Review the repository's history.
 - Learn about remotes.
-- Create a GitHub repository.
-- Clone a GitHub repository locally.
+- Create a GitHub repository and clone it locally.
 - Make changes and push to GitHub.
-- Fork another developer's repository.
-- Make a small contribution.
-- Create a pull request.
+- Fork another developer's repository and make a pull request.
