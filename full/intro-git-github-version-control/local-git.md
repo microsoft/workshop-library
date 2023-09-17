@@ -113,6 +113,7 @@ git log
 > - the author (the email and username you configured Git with)
 > - the date (the date of the commit)
 > - the commit message (the message that you added with the commit)
+>
 > You can use `git log --oneline` to get a one-line version of the logs. 
 
 ## Summary
