@@ -43,15 +43,15 @@ Open Git bash and execute the following Commands:
 
     i. For Atom Editor, execute the following command
 
-        ```bash
-        git config --global core.editor "atom --wait"
-        ```
+    ```bash
+    git config --global core.editor "atom --wait"
+    ```
 
     ii. For VSCode, execute the following command
 
-        ```bash
-        git config --global core.editor "code --wait"
-        ```
+   ```bash
+   git config --global core.editor "code --wait"
+   ```
 
 4. Review all the configuration options.
 
