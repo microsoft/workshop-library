@@ -2,9 +2,12 @@
 
 ## Initializing a Local Git Repository
 
-```bash
-git init
-```
+1. On your local machine, create a new empty folder.
+2. Right-click inside the folder and select **Git Bash Here** from the options.
+
+    ```bash
+    git init
+    ```
 Common shell commands:
 - $ ls - used to list files and directories
 - $ mkdir - used to create a new directory
