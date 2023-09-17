@@ -80,7 +80,7 @@ directory
 
 ## Contributing on GitHub
 
-1. Visit this repository [john0isaac/git-workshop-pr](https://github.com/john0isaac/git-workshop-pr).
+1. Visit this repository [john0isaac/git-workshop-pr](https://github.com/john0isaac/git-workshop-pr/?wt.mc_id=studentamb_71460).
 2. In the top-right corner of the page, click **Fork**.
 3. Select **Create fork**.
 4. Clone the repository locally.
@@ -96,5 +96,5 @@ directory
 
 Congratulations! You have successfully created and cloned a GitHub repository. The repository you created can be shared with anyone which enables you to collaborate with others. You have also made your first contribution to another project. If you want to continue to grow your skills:
 
-- Learn more about ]GitHub on Microsoft Learn](https://learn.microsoft.com/training/github/).
-- Finish [Introduction to version control with Git](https://learn.microsoft.com/training/paths/intro-to-vc-git/) learning path.
+- Learn more about [GitHub on Microsoft Learn](https://learn.microsoft.com/training/github/?wt.mc_id=studentamb_71460).
+- Finish [Introduction to version control with Git](https://learn.microsoft.com/training/paths/intro-to-vc-git/?wt.mc_id=studentamb_71460) learning path.
