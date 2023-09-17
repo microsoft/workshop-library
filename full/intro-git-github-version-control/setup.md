@@ -1,11 +1,15 @@
 # Part 0: Install and Configure Git
 
+As with any tool, we need to install and configure it before we can use it.
+
 ## Installing Git
 
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. If you don't already have Visual Studio Code installed, you can install it by doing the following:
+
 On MacOS / Windows:
-1.go to git-scm.com/downloads
-2.download the software for Mac/Windows
-3.install Git choosing all of the default options
+1. Go to [git-scm.com/downloads](https://git-scm.com/downloads).
+2. Download the software for Mac/Windows.
+3. Install Git choosing all of the default options.
 
 On Linux:
 ```bash
@@ -14,48 +18,43 @@ sudo apt-get install git
 
 ## Configuring Git
 
-Configure your git profile:
+Open Git bash and execute the following Commands:
 
-```bash
-# sets up Git with your name
-git config --global user.name "<Your-Full-Name>"
-```
+1. Configure your Git profile.
 
-```bash
-# sets up Git with your email
-git config --global user.email "<your-email-address>"
-```
+    ```bash
+    # sets up Git with your name
+    git config --global user.name "<Your-Full-Name>"
+    ```
 
-```bash
-# makes sure that Git output is colored
-git config --global color.ui auto
-```
+    ```bash
+    # sets up Git with your email
+    git config --global user.email "<your-email-address>"
+    ```
 
-```bash
-# displays the original state in a conflict
-git config --global merge.conflictstyle diff3
-```
+2. Configure your UI output color.
 
-```bash
-git config --list
-```
+    ```bash
+    # makes sure that Git output is colored
+    git config --global color.ui auto
+    ```
 
-Configure Git with you Code Editor:
+3. Configure Git with your Code Editor:
 
-Atom Editor Setup
+    i. For Atom Editor, execute the following command
 
-```bash
-git config --global core.editor "atom --wait"
-```
+        ```bash
+        git config --global core.editor "atom --wait"
+        ```
 
-Sublime Text Setup
+    ii. For VSCode, execute the following command
 
-```bash
-git config --global core.editor "'/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl' -n -w"
-```
+        ```bash
+        git config --global core.editor "code --wait"
+        ```
 
-VSCode Setup
+4. Review all the configuration options.
 
-```bash
-git config --global core.editor "code --wait"
-```
+    ```bash
+    git config --list
+    ```
