@@ -4,8 +4,37 @@ While working locally may seem enough for some people sometimes we need to colla
 
 ## Creating a GitHub Repository
 
+1. In the upper-right corner of any page, use the ➕ drop-down menu, and select **New repository**.
+
+    ![Screenshot of a GitHub dropdown menu showing options to create new items. The menu item "New repository" is outlined in dark orange.](https://docs.github.com/assets/cb-31554/mw-1440/images/help/repository/repo-create.webp)
+
+2. Type a short, memorable name for your repository. For example, "hello-world".
+
+    ![Screenshot of the first step in creating a GitHub repository. The "Repository name" field contains the text "hello-world" and is outlined in dark orange.](https://docs.github.com/assets/cb-61138/mw-1440/images/help/repository/create-repository-name.webp)
+
+3. Optionally, add a description of your repository. For example, "My first repository on GitHub."
+
+4. Choose a repository visibility. For more information, see "[About repositories](https://docs.github.com/repositories/creating-and-managing-repositories/about-repositories#about-repository-visibility)".
+
+5. Select Initialize this repository with a README.
+
+6. Select Create repository.
+
 ## Cloning a Git Repository Locally
-$ git clone <path-to-repository-to-clone>
+
+1. Above the list of files, select **<> Code**.
+
+    ![Screenshot of the list of files on the landing page of a repository. The "Code" button is highlighted with a dark orange outline.](https://docs.github.com/assets/cb-32892/mw-1440/images/help/repository/code-button.webp)
+
+2. Copy the HTTPS URL for the repository.
+
+    ![Screenshot of the "Code" dropdown menu. To the right of the HTTPS URL for the repository, a copy icon is outlined in dark orange.](https://docs.github.com/assets/cb-45942/mw-1440/images/help/repository/https-url-clone-cli.webp)
+
+3. Inside Git Bash, execute the following command replacing the URL with the URL you copied earlier
+
+```bash
+git clone https://github.com/YOUR-USERNAME/hello-world
+```
 
 This command:
 - takes the path to an existing repository
@@ -15,15 +44,38 @@ that's being cloned
 directory
 - will create the new repository inside of the current working directory
 
+
 ## Uploading Changes to GitHub
 
-Make changes
+1. Inside Git Bash, execute the following command to change the directory to the newly cloned repository's directory
 
-Add changes
+```bash
+cd hello-world
+```
 
-Commit changes
+2. Inside Git Bash, execute the following command to make some changes
 
-Push changes
+```bash
+echo "My first sentence on GitHub." > new-file.txt
+```
+
+3. Inside Git Bash, execute the following command to add the changes
+
+```bash
+git add .
+```
+
+4. Inside Git Bash, execute the following command to add the changes
+
+```bash
+git commit -m "Initial commit"
+```
+
+5. Inside Git Bash, execute the following command to push the changes to GitHub
+
+```bash
+git push
+```
 
 
 ## Contributing on GitHub
