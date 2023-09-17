@@ -2,22 +2,22 @@
 
 ## Creating a GitHub Repository
 
-## Cloneing a Git Repository Locally
+## Cloning a Git Repository Locally
 $ git clone <path-to-repository-to-clone>
 
 This command:
-• takes the path to an existing repository
-• by default will create a directory with the same name as the repository 
+- takes the path to an existing repository
+- by default will create a directory with the same name as the repository 
 that's being cloned
-• can be given a second argument that will be used as the name of the 
+- can be given a second argument that will be used as the name of the 
 directory
-• will create the new repository inside of the current working directory
+- will create the new repository inside of the current working directory
 
 ## Uploading Changes to GitHub
 
 Make changes
 
-Add chanes
+Add changes
 
 Commit changes
 
@@ -34,7 +34,7 @@ Clone it locally
 
 Make changes
 
-Add chanes
+Add changes
 
 Commit changes
 
