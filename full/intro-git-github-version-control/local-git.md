@@ -54,28 +54,60 @@ git add .
 
 > [!NOTE]
 > The dot (.) here means all the changes.
+> 
 > Instead of using it we can add the names of each changed file individually.
 
 ## Committing Changes
 
-$ git commit
+The "commit" command is used to save your changes to the local repository as it captures a snapshot of the project's currently staged changes. Committed snapshots can be thought of as “safe” versions of a project. Git will never change them unless you explicitly ask it to.
+
+Inside git bash, execute the following command to commit all the changes
+
+```bash
+git commit -m "Imperative description of the changes"
+```
+
+> [!NOTE]
+> Write your commit message in the imperative: "Fix bug" and not "Fixed
+bug" or "Fixes bug.". Try to avoid using dots at the end of your commit message.
 
 ## Reviewing the Repository's History
 
-$ git status
+Git status displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git.
 
-On branch main
-No commits yet
-nothing to commit (create/copy files and use "git add" to track)
+Inside git bash, execute the following command to see the status of your repository
 
+```bash
+git status
+```
 
-$ git log
+The output before making any changes:
+> On branch main
+> No commits yet
+> nothing to commit (create/copy files and use "git add" to track)
 
-$ git log --oneline
-• the SHA 
-• the author 
-• the date
-• the commit message
+The output after what we have done:
+> On branch main
+> No commits yet
+> Untracked files:
+>   (use "git add <file>..." to include in what will be committed)
+>         new-text-file.txt
+> nothing added to commit but untracked files present (use "git add" to track)
+
+The status output does not show you any information regarding the committed project history and that's why we need Git log as it will show us the history of our Git repository.
+
+Inside git bash, execute the following command to get the history of your repository
+
+```bash
+git log
+```
+
+> [!NOTE]
+> You can use `git log --oneline` to get the following
+> - the SHA 
+> - the author 
+> - the date
+> - the commit message
 
 ## Summary
 
