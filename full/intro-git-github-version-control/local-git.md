@@ -35,3 +35,7 @@ $ git log --oneline
 • the author 
 • the date
 • the commit message
+
+## Summary
+
+Congratulations! You are now able to work with Git on your local machine to manage your projects. Next you'll practice [working with remotes](./remote-github.md).
