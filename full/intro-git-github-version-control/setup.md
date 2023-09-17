@@ -58,3 +58,7 @@ Open Git bash and execute the following Commands:
     ```bash
     git config --list
     ```
+
+## Summary
+
+Now, you have successfully installed and configured Git. The next step is to practice [working with a local repository](./local-git.md).
