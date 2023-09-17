@@ -108,11 +108,12 @@ git log
 ```
 
 > [!NOTE]
-> You can use `git log --oneline` to get the following
-> - the SHA 
-> - the author 
-> - the date
-> - the commit message
+> `git log` displays the following:
+> - the SHA (unique ID for each commit)
+> - the author (the email and username you configured Git with)
+> - the date (the date of the commit)
+> - the commit message (the message that you added with the commit)
+> You can use `git log --oneline` to get a one-line version of the logs. 
 
 ## Summary
 
