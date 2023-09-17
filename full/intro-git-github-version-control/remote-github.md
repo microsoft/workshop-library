@@ -80,21 +80,17 @@ directory
 
 ## Contributing on GitHub
 
-Fork another developer's repository and make a pull request
-
-Fork a repository
-
-Clone it locally
-
-Make changes
-
-Add changes
-
-Commit changes
-
-Push changes
-
-Create a pull request
+1. Visit this repository [john0isaac/git-workshop-pr](https://github.com/john0isaac/git-workshop-pr).
+2. In the top-right corner of the page, click **Fork**.
+3. Select **Create fork**.
+4. Clone the repository locally.
+5. Make changes to the repository by adding your name to the contribution list.
+6. Add, Commit, and Push your changes.
+7. Go back to the forked version of the repository on GitHub.
+8. Select **Contribute** followed by **Open a pull request** to add your changes to the original repository.
+9. Select **Create pull request**.
+10. Enter a **Title** for your pull request. For example, YOUR-NAME contribution.
+11. Select **Create pull request**.
 
 ## Summary
 
