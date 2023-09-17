@@ -1,4 +1,4 @@
-# Part 1: Working with a Local Repostiroy
+# Part 1: Working with a Local Repository
 
 ## Initializing a Local Git Repository
 
@@ -18,7 +18,7 @@ Common shell commands:
 
 $ git add
 
-## Commiting Changes
+## Committing Changes
 
 $ git commit
 
