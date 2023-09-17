@@ -7,7 +7,7 @@ As with any tool, we need to install and configure it before we can use it.
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. If you don't already have Visual Studio Code installed, you can install it by doing the following:
 
 On MacOS / Windows:
-1. Go to [git-scm.com/downloads](https://git-scm.com/downloads).
+1. Go to [git-scm.com/downloads](https://git-scm.com/downloads/?wt.mc_id=studentamb_71460).
 2. Download the software for Mac/Windows.
 3. Install Git choosing all of the default options.
 
