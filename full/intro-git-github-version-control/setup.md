@@ -56,6 +56,7 @@ Open Git bash and execute the following Commands:
 4. Review all the configuration options.
 
     ```bash
+    # lists all the configuration properties 
     git config --list
     ```
 
