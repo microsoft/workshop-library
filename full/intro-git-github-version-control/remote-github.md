@@ -1,5 +1,7 @@
 # Part 2: Working with Remotes
 
+While working locally may seem enough for some people sometimes we need to collaborate with others so, this is where a remote place to store our code comes into place, and our remote is GitHub a cloud platform used to share code with others and collaborate on projects.
+
 ## Creating a GitHub Repository
 
 ## Cloning a Git Repository Locally
