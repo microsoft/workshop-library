@@ -82,17 +82,22 @@ git status
 ```
 
 The output before making any changes:
-> On branch main
-> No commits yet
-> nothing to commit (create/copy files and use "git add" to track)
+
+```bash
+On branch main
+No commits yet
+nothing to commit (create/copy files and use "git add" to track)
+```
 
 The output after what we have done:
-> On branch main
-> No commits yet
-> Untracked files:
->   (use "git add <file>..." to include in what will be committed)
->         new-text-file.txt
-> nothing added to commit but untracked files present (use "git add" to track)
+```bash
+On branch main
+No commits yet
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        new-text-file.txt
+nothing added to commit but untracked files present (use "git add" to track)
+```
 
 The status output does not show you any information regarding the committed project history and that's why we need Git log as it will show us the history of our Git repository.
 
