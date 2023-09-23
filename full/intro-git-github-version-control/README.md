@@ -15,7 +15,7 @@ In this workshop, we will discuss the concept of version control which is the fo
 
 ## Video
 
-[![workshop walk-through](./images/promo.png)]( "workshop walk-through")
+[![workshop walk-through](./images/promo.png)](https://youtube.com/ "workshop walk-through")
 > 🎥 Click this image to watch John walk you through the workshop
 
 ## Pre-Learning
