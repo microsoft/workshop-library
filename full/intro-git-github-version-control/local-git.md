@@ -89,6 +89,8 @@ No commits yet
 nothing to commit (create/copy files and use "git add" to track)
 ```
 
+Make some changes, add, and commit them.
+
 The output after what we have done:
 ```bash
 On branch main
