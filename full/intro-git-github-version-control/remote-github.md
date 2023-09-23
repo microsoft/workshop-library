@@ -45,7 +45,7 @@ directory
 - will create the new repository inside of the current working directory
 
 
-## Uploading Changes to GitHub
+## Uploading Changes to GitHub and Downloading them
 
 1. Inside Git Bash, execute the following command to change the directory to the newly cloned repository's directory
 
@@ -77,6 +77,13 @@ directory
     git push
     ```
 
+6. Inside your GitHub repository, make any changes to anyfile you want using GitHub's UI. (For example, edit the *README.md* file)
+
+7. Inside Git Bash, execute the following command to pull the changes from GitHub.
+
+    ```bash
+    git pull
+    ```
 
 ## Contributing on GitHub
 
