@@ -16,9 +16,9 @@ While working locally may seem enough for some people sometimes we need to colla
 
 4. Choose a repository visibility. For more information, see "[About repositories](https://docs.github.com/repositories/creating-and-managing-repositories/about-repositories#about-repository-visibility)".
 
-5. Select Initialize this repository with a README.
+5. Select **Initialize this repository with a README**.
 
-6. Select Create repository.
+6. Select **Create repository**.
 
 ## Cloning a Git Repository Locally
 
