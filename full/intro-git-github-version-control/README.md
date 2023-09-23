@@ -44,7 +44,7 @@ To set up a GitHub account, follow these steps:
 
 ## The workshop
 
-- [Part 0: Install and configure tools](./setup.md)
+- [Part 0: Install and Configure Git](./setup.md)
 - [Part 1: Working with a Local Repository](./local-git.md)
 - [Part 2: Working with Remotes](./remote-github.md)
 
