@@ -11,10 +11,12 @@ In this workshop, we will discuss the concept of version control which is the fo
 | **Duration**                  | *1h*                                                                                                               |
 | **Microsoft Cloud Topics taught**                  | *Git*, *GitHub*                                                                       |
 | **Slides**                                         | *[Powerpoint](slides.pptx)*                                                           |
+| **Author**                                         | *[John Aziz](https://github.com/john0isaac)*                                          |
 
 ## Video
 
-*coming soon*
+[![workshop walk-through](./images/promo.png)]( "workshop walk-through")
+> 🎥 Click this image to watch John walk you through the workshop
 
 ## Pre-Learning
 
