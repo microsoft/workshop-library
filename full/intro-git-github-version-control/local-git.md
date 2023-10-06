@@ -75,11 +75,11 @@ bug" or "Fixes bug.". Try to avoid using dots at the end of your commit message.
 
 Git status displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git.
 
-Inside git bash, execute the following command to see the status of your repository
+1. Inside git bash, execute the following command to see the status of your repository
 
-```bash
-git status
-```
+    ```bash
+    git status
+    ```
 
 The output before making any changes:
 
@@ -88,6 +88,10 @@ On branch main
 No commits yet
 nothing to commit (create/copy files and use "git add" to track)
 ```
+
+2. Make some changes, add, and commit them.
+
+3. Inside git bash, execute the `git status` command again.
 
 The output after what we have done:
 ```bash
@@ -101,11 +105,11 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 The status output does not show you any information regarding the committed project history and that's why we need Git log as it will show us the history of our Git repository.
 
-Inside git bash, execute the following command to get the history of your repository
+4. Inside git bash, execute the following command to get the history of your repository
 
-```bash
-git log
-```
+    ```bash
+    git log
+    ```
 
 > [!NOTE]
 > `git log` displays the following:
