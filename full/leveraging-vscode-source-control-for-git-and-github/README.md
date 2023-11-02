@@ -15,8 +15,9 @@ In this workshop, you will learn how to leverage VS Code source control tab to p
 | **Slides**                                        | [Powerpoint](./slides.pptx)                                                                                             |
 
 ## Video walk-through
-> 🎥 Click this image to watch Rasheed walk you through the workshop in real life workshop
-[![workshop walk-through](./images/full/leveraging-vscode-source-control-for-git-and-github/images/Animated YouTube Channel Art Template - Made with PosterMyWall.mp4)](https://youtu.be/_6B7Qa6-8j4 "workshop walk-through")
+> 🎥 Click this image to watch Rasheed walk you through the workshop in a real-life workshop
+
+[![workshop walk-through](./images/full/leveraging-vscode-source-control-for-git-and-github/images/prom.gif)](https://youtu.be/_6B7Qa6-8j4)
 
 
 
