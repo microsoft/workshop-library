@@ -17,7 +17,8 @@ In this workshop, you will learn how to leverage VS Code source control tab to p
 ## Video walk-through
 > 🎥 Click this image to watch Rasheed walk you through the workshop in a real-life workshop
 
-[![workshop walk-through](./images/prom.gif)](https://youtu.be/_6B7Qa6-8j4)
+[![workshop walk-through](./images/prom.gif)](https://youtu.be/_6B7Qa6-8j4 "Leveraging VS Code Source Control for GIT and GitHub
+")
 
 
 
