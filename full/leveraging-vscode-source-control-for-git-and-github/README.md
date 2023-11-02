@@ -6,7 +6,7 @@ This workshop is based on the [Work with source control using Git in Visual Stud
 
 ## Goals
 
-In this workshop, you will learn how to leverage VS Code source control tab to perform all tasks that can be done using git commands. Congratulations to those who hates memorising commands ):.
+In this workshop, you will learn how to leverage VS Code source control tab to perform all tasks that can be done using git commands.
 
 | **Goal**                                          | **Description**                                                                                                       |
 | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
