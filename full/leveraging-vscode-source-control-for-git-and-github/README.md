@@ -10,7 +10,7 @@ In this workshop, you will learn how to leverage VS Code source control tab to p
 
 | **Goal**                                          | **Description**                                                                                                       |
 | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| **What will you learn**                           | Students will be skilled at creating using VS Code Source Control to create, rename, switch and merge branches, add, commit and even publish to GitHub                                                          |
+| **What will you learn**                           | Students will be skilled at creating using VS Code Source Control to create, rename, switch and merge branches, add, commit, and even publish to GitHub                                                          |
 | **What you'll need**                              | [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-56602-chrhar) and [Git](https://git-scm.com/) |                                           |
 | **Slides**                                        | [Powerpoint](./slides.pptx)                                                                                             |
 
