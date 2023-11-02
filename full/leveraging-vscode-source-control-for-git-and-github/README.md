@@ -57,7 +57,7 @@ This will create a .git folder in your working direcory which gives git to track
 
 After initializizing git, and still on the source control tab will gives access to plus button to stage the files added before and after adding it by pressing the buttons. Can be committed by adding commit message and press a mark like button to commit it and another button to publish will come up to publish to either private or public repository on GitHub
 
-## Quiz or Code Challenge
+## Knowledge Check
 
 [Knowledge check](https://docs.microsoft.com/en-us/learn/modules/work-source-control-git/12-check)
 
