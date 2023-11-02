@@ -17,7 +17,6 @@ In this workshop, you will learn how to leverage VS Code source control tab to p
 ## Video walk-through
 
 [![workshop walk-through](./images/promo.png)](https://youtu.be/_6B7Qa6-8j4 "workshop walk-through")
-> 🎥 Click this image to watch Rasheed walk you through the workshop in real life workshop
 
 
 
