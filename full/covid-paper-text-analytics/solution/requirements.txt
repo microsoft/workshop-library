@@ -1,0 +1,9 @@
+azure-ai-textanalytics==5.3.0
+holoviews==1.17.1
+ipykernel==6.26.0
+matplotlib==3.7.2
+numpy==1.24.4
+pandas==2.0.3
+plotly==5.18.0
+requests==2.31.0
+wordcloud==1.9.2
