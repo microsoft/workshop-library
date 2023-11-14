@@ -8,58 +8,51 @@ import TableHead from '@mui/material/TableHead';
 import TableRow from '@mui/material/TableRow';
 import Card from '@mui/material/Card';
 import { Button } from '@mui/material';
+import Loading from './Loading';
 
-const ItemList = () => {
-    const [items, setItems] = useState([]);
-    const [isLoading, setIsLoading] = useState(false);
-    const [error, setError] = useState(null);
-
-    const fetchData = async (disableLoadState) => {
-        if(!disableLoadState) setIsLoading(true);
-        try {
-            const response = await fetch('/data-api/rest/Item');
-            if (!response.ok) {
-                throw new Error(response.statusText);
-            }
-            const data = await response.json();
-            setItems(data.value);
-        } catch (error) {
-            setError(error);
-        }
-        setIsLoading(false);
-    };
+const ItemList = ({ fetchData, items }) => {
+    const [loading, setLoading] = useState(false);
 
     const deleteItem = async (id) => {
+        setLoading(true)   // start the loading
         try {
-            const response = await fetch(`/data-api/rest/Item/id/${id}`, {
+            const response = await fetch('/data-api/api/Item/id/${id}', {
                 method: 'DELETE',
                 headers: {
                     'Content-Type': 'application/json',
-                    'X-MS-API-ROLE' : 'admin',
+                    'X-MS-API-ROLE': 'admin',
                 }
             });
             if (!response.ok) {
                 throw new Error(response.statusText);
             }
-            await fetchData(true);
-        } catch (error) { }
+            await fetchData(true);   // refresh the list
+            setLoading(false)   // stop the loading
+        } catch (error) {
+            console.error(error);
+            setLoading(false)   // stop the loading
+        }
     }
 
     useEffect(() => {
-        fetchData();
+        setLoading(true)  // start the loading
+        fetchData();   // fetch the data once the page loads[componentDidMount]
+        setLoading(false)
     }, []);
 
     return (
         <div className='item-list'>
+            {loading && <Loading />}
             <Card>
                 <TableContainer component={Paper}>
-                    <Table  aria-label="simple table">
+                    <Table aria-label="simple table">
                         <TableHead>
                             <TableRow>
                                 <TableCell>Category</TableCell>
                                 <TableCell>Name</TableCell>
                                 <TableCell>Quantity</TableCell>
                                 <TableCell>Description</TableCell>
+                                <TableCell>Unit Price</TableCell>
                             </TableRow>
                         </TableHead>
                         <TableBody>
@@ -74,6 +67,7 @@ const ItemList = () => {
                                     <TableCell>{item.name}</TableCell>
                                     <TableCell>{item.quantity}</TableCell>
                                     <TableCell>{item.description}</TableCell>
+                                    <TableCell>${item.unitPrice}</TableCell>
                                     <TableCell>
                                         <Button variant="contained" color="error" onClick={() => deleteItem(item.id)}>Delete</Button>
                                     </TableCell>
@@ -83,7 +77,7 @@ const ItemList = () => {
                     </Table>
                 </TableContainer>
             </Card>
-    </div>
+        </div>
     );
 };
 

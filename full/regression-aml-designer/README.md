@@ -14,7 +14,7 @@ In this workshop, we will learn how to train **regression models** - machine Lea
 | **What you'll need**          | [Azure Subscription](https://azure-for-academics.github.io/getting-azure/) |
 | **Duration**                  | *1 hour*                                                                |
 | **Just want to try the app or see the solution?** |  |
-| **Slides** | [Powerpoint](RegressionAMLDesigner.pptx), [SpeakerDeck](https://speakerdeck.com/shwars/covid-paper-exploration-the-workshop) |
+| **Slides** | [Powerpoint](RegressionAMLDesigner.pptx) |
 | **Author** | [Dmitry Soshnikov](http://soshnikov.com) |
 
 
