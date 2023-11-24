@@ -65,7 +65,7 @@ After initializizing git, and still on the source control tab will gives access 
 
 ## Next steps
 
-[VS Code official documentation on source control feature](https://code.visualstudio.com/Docs/editor/versioncontrol)
+- [VS Code official documentation on source control feature](https://code.visualstudio.com/Docs/editor/versioncontrol)
 - [A quick start created for everyone](https://taiwrash.github.io/g4-workshop/beginner-intermediate/4-git-in-vscode.html)
 - [VS Code Source Control Basics Video](https://youtu.be/i_23KUAEtUM)
 
