@@ -74,4 +74,4 @@ After initializizing git, and still on the source control tab will gives access 
 
 Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)!
 
-[Code of Conduct](../../CODE_OF_CONDUCT.md)
+## [Code of Conduct](../../CODE_OF_CONDUCT.md)
