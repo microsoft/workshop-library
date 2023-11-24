@@ -10,7 +10,7 @@ Students will be skilled at creating using VS Code Source Control to create, ren
 
 ## Stage 2: Evidence
 
-By the end of the workshop, participants will be able to leverage VS Code source control tab to perform all tasks that can be done using git commands. Congratulations to those who hates memorising commands ):
+By the end of the workshop, participants will be able to leverage VS Code source control tab to perform all tasks that can be done using git commands.
 
 ## Stage 3: Learning Plan
 
