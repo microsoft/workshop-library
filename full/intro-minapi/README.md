@@ -252,7 +252,7 @@ app.MapDelete("/todos/{id}", async (TodoDb db, int id) =>
     var todo = await db.Todos.FindAsync(id);
     if (todo is null)
     {
-        return NotFound();
+        return Results.NotFound();
     }
     db.Todos.Remove(todo);
     await db.SaveChangesAsync();
