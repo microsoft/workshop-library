@@ -189,7 +189,7 @@ app.MapPost("/todos", async (TodoDb db, TodoItem todo) =>
 {
     await db.Todos.AddAsync(todo);
     await db.SaveChangesAsync();
-    return Results.Created($"/todo/{todo.Id}", todo);
+    return Results.Created($"/todos/{todo.Id}", todo);
 });
 ```
 
@@ -252,7 +252,7 @@ app.MapDelete("/todos/{id}", async (TodoDb db, int id) =>
     var todo = await db.Todos.FindAsync(id);
     if (todo is null)
     {
-        return NotFound();
+        return Results.NotFound();
     }
     db.Todos.Remove(todo);
     await db.SaveChangesAsync();
