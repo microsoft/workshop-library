@@ -25,3 +25,5 @@ By the end of the workshop, students will be able to use GitHub.dev to do basic 
 - Merge the pull request
 - Delete the branch
 
+end.
+
