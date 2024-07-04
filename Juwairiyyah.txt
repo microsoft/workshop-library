@@ -1,0 +1,6 @@
+Open a repo using GitHub.dev
+Create a branch
+Commit changes to the branch
+Create a pull request
+Merge the pull request
+Delete the branch
