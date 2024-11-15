@@ -7,3 +7,4 @@ Interested in creating a pathed experience where you can build up your audience'
 ## Web Zero to Hero
 
 ## Data Zero to Hero
+I am hosting a workshop on GitHUB as an MLSA Alpha today
