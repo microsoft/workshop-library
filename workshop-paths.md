@@ -7,3 +7,4 @@ Interested in creating a pathed experience where you can build up your audience'
 ## Web Zero to Hero
 
 ## Data Zero to Hero
+I am attending a workshop on GitHub as a student from Malla Reddy University.
