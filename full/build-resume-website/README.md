@@ -26,7 +26,7 @@ To create your resume website, you'll need to download a modern web browser like
 ## Final Project
 By the end of this workshop, you'll have created a resume web site that will look like this:
 
-![resume website](./images/radha.png)
+![resume website](./images/radha22.png)
 
 ## Outline
 In this workshop, you will: 
