@@ -2,6 +2,9 @@
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 
+Please make meaningful contributions and make sure to learn a lot!!
+
+
 Resources:
 
 - [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/)
