@@ -37,40 +37,75 @@ You're going to use these three tags (and a couple of others) to begin the creat
 	<html>
 		<head>
 			<link href="style.css" rel="stylesheet">
-			<title>Your Name resume</title>
+			<title>Johil Mehra</title>
 		</head>
 
 		<body>
 			<header id="header">
 				<!-- resume header with your name and title -->
-				<h1>YOUR NAME</h1>
+				<h1>Johil Mehra</h1>
 				<hr>
-				YOUR TITLE (EX: SOFTWARE ENGINEERING STUDENT)
+				SOFTWARE ENGINEERING STUDENT
 				<hr>
 			</header>
 			<main>
 				<article id="mainLeft">
 					<section>
-						<h2>CONTACT</h2>
+						<h2>9797313334</h2>
 						<!-- contact info including social media -->
 					</section>
 					<section>
 						<h2>SKILLS</h2>
-						<!-- your skills -->
+						<ul>
+    						<li>Java</li>
+    						<li>Python</li>
+    						<li>Data Structure and Algorithm</li>
+    						<li>MySQL</li>
+    						<li>UI</li>
+    						<li>Git and GitHub</li>
+    						<li>HTML,CSS,JavaScript,NodeJs,Express,Api's</li>
+    						<li>MongoDB</li>
+    					</ul>
 					</section>
 					<section>
 						<h2>EDUCATION</h2>
-						<!-- your education -->
+						<p>X Class-- Jawahar Navodaya Vidyalaya,Kathua</p><br>
+    					<p>XII Class-- Jawahar Navodaya Vidyalaya,Kathua</p><br>
+    					<p>BTech(CSE)--Sreenidhi Institute of Science and Technology,Hyderabad </p><br>
 					</section>            
 				</article>
 				<article id="mainRight">
 					<section>
 						<h2>ABOUT</h2>
-						<!-- about you -->
+						<p>I am a CSE sstudent in SNIST,Hyderabad and currently i am in 3rd year of my BTech degree.I am paaionate about to implement my technical skills on real world problem Solving.Now i am looking for a Good internship where i can work on projects with team and boost my sills.</p>
 					</section>
 					<section>
 						<h2>WORK EXPERIENCE</h2>
-						<!-- your work experience -->
+						  <ul>
+						    <li>
+						      <strong>Hackwave 24-Hour Hackathon</strong> – Team Leader  
+						      <ul>
+						        <li>Developed a <strong>collaborative study platform</strong> aimed at enhancing group learning and real-time resource sharing.</li>
+						        <li>Led team planning, task delegation, and project execution within a 24-hour deadline.</li>
+						      </ul>
+						    </li>
+						    
+						    <li>
+						      <strong>Srishti Hackathon</strong> – Team Leader  
+						      <ul>
+						        <li>Built a <strong>healthcare assistant app</strong> focused on improving accessibility to medical guidance and support.</li>
+						        <li>Coordinated workflow, managed UI/UX discussions, and contributed to core feature development.</li>
+						      </ul>
+						    </li>
+						    
+						    <li>
+						      <strong>UX-plosion Hackathon</strong> – Team Leader  
+						      <ul>
+						        <li>Designed an intuitive user interface for a platform similar to <strong>Internshala</strong> to help students find jobs and internships.</li>
+						        <li>Oversaw design strategy, wireframing, and UX flow to create a user-friendly job search experience.</li>
+						      </ul>
+						    </li>
+						  </ul>
 					</section>
 				</article>
 			</main>
