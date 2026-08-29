@@ -1,6 +1,5 @@
 # Workshop paths
-
-Interested in creating a pathed experience where you can build up your audience's skills progressively? Here are some suggestions, with extra resources available to make a great experience.
+Are you looking to design a structured learning journey that gradually enhances your audience's skills? Here are some recommendations, along with additional resources to create an exceptional experience.
 
 ## ML Zero to Hero
 
