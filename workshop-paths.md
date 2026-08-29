@@ -7,3 +7,4 @@ Interested in creating a pathed experience where you can build up your audience'
 ## Web Zero to Hero
 
 ## Data Zero to Hero
+I want a workshop to showcase an ML regression model
