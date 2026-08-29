@@ -2,6 +2,8 @@
 
 Here are the steps to take to host a workshop:
 
+##Learning phase
+
 ## Planning phase
 
 1.  Clone this repo and select the workshop that you will present. If you would like to translate and/or localize an existing workshop, please feel free to do so, and PR your changes, preserved in the /translations folder, back to this library for review.
