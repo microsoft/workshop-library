@@ -2,3 +2,4 @@ In this folder, you can find translations of existing workshops in their corresp
 
 - [Spanish](./es/README.md)
 - [Português](./pt-br/README.md)
+- [Français](./fr/README.md)
